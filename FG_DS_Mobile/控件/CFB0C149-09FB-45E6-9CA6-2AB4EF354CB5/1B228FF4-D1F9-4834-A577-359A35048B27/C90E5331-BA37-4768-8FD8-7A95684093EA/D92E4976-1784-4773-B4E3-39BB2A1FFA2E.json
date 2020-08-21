@@ -80,6 +80,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "BA1CAAF1-63BA-4FB4-A95E-0D75273A7469",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -180,10 +181,10 @@
         "blurRadius": 0,
         "color": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 0.8980392156862745,
-          "green": 0.8980392156862745,
-          "red": 0.8980392156862745
+          "alpha": 0.12,
+          "blue": 0.1647058823529412,
+          "green": 0.1529411764705882,
+          "red": 0.1294117647058823
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -193,26 +194,6 @@
         "isEnabled": true,
         "offsetX": 0,
         "offsetY": -1,
-        "spread": 0
-      },
-      {
-        "_class": "shadow",
-        "blurRadius": 16,
-        "color": {
-          "_class": "color",
-          "alpha": 0.04,
-          "blue": 0.1019607843137255,
-          "green": 0.09019607843137253,
-          "red": 0.07450980392156864
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": 0,
-        "offsetY": -8,
         "spread": 0
       }
     ],

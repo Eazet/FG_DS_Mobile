@@ -22,8 +22,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3128,
-    "width": 1730,
+    "height": 3271,
+    "width": 1292,
     "x": 9802,
     "y": -1734
   },
@@ -136,10 +136,6 @@
     {
       "class": "group",
       "id": "4692AAB8-E022-403B-BB4A-6A83109296E6"
-    },
-    {
-      "class": "group",
-      "id": "54D486D4-4CCC-4EB2-83CE-8CCFEC8E8CBD"
     },
     {
       "class": "symbolInstance",

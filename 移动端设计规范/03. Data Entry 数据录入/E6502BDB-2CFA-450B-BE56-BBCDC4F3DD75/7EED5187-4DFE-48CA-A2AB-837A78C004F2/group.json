@@ -1,0 +1,136 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7EED5187-4DFE-48CA-A2AB-837A78C004F2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 84,
+    "x": 972,
+    "y": 891.0000000000001
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1C9410BB-9CED-4F46-ABA7-E5D3461571A6"
+    },
+    {
+      "class": "text",
+      "id": "F93F9CAC-C914-42B8-98CB-37F9EB227D35"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9F539EBF-7075-49F0-A985-FFEE19A6A3F0"
+    }
+  ],
+  "name": "01. General 通用/Buttons按钮/D.32/03.后缀按钮/02.次按钮",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "08283829-35C0-4870-BC99-B1D260680939",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.bohemiancoding.sketchtool.detach": {
+      "symbolInstance": {
+        "do_objectID": "4ABB1823-5606-4304-845E-91A20280B736",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 32,
+          "width": 84,
+          "x": 127,
+          "y": 599
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "AD3DE91F-81E4-44B5-BABA-3F58909EFF9C",
+        "symbolID": "03AC8F5E-C808-4994-B7FE-A007D57325A3"
+      }
+    },
+    "com.sketch.detach": {
+      "symbolInstance": {
+        "do_objectID": "4ABB1823-5606-4304-845E-91A20280B736",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 32,
+          "width": 84,
+          "x": 127,
+          "y": 599
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "AD3DE91F-81E4-44B5-BABA-3F58909EFF9C",
+        "symbolID": "03AC8F5E-C808-4994-B7FE-A007D57325A3"
+      }
+    }
+  }
+}

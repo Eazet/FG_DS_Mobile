@@ -1,0 +1,172 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D0CEBA2A-C275-45E8-AF19-423F43DDD077",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 166,
+    "width": 750,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F5EE643B-2B4F-49D7-AD05-771577FF10DC"
+    },
+    {
+      "class": "rectangle",
+      "id": "E9A30DA8-D317-49B9-9047-C841C4C3154B"
+    },
+    {
+      "class": "rectangle",
+      "id": "02EDF153-46D5-4439-AF64-ABF4271B1276"
+    },
+    {
+      "class": "rectangle",
+      "id": "7E9CF9FE-FE1A-4309-ABE2-6C5BE8DEAD5E"
+    },
+    {
+      "class": "rectangle",
+      "id": "A1ABE71C-CA9C-4045-BC77-FC0AB0DDF3B1"
+    },
+    {
+      "class": "rectangle",
+      "id": "6D197FC4-7620-4D3A-8F19-87B309A180E0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5A311496-5E01-400D-AFEE-53F6D4D17980"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9188B6D5-7083-4B9E-8680-F1F34D1EFA37"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9C271D7A-2A79-4D8B-9BD1-1BF46E702631"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8790B3EC-EE49-4044-9E21-2A02016FB62A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C466A201-23DD-4855-A295-55F23F694879"
+    },
+    {
+      "class": "group",
+      "id": "AF5E37B3-9FF4-4290-826E-899B4DB2C166"
+    }
+  ],
+  "name": "tabbar",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "57EE43A7-5AE5-4FA5-B5EE-3DF747293F66",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.bohemiancoding.sketchtool.detach": {
+      "symbolInstance": {
+        "do_objectID": "26319FE2-2A55-4D91-8066-E3C05B73D457",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 83,
+          "width": 375,
+          "x": 0,
+          "y": 0
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "9D3B635C-2E8F-40C2-8062-93A054EDF0F3",
+        "symbolID": "38709BAD-4005-4AAD-8BD1-BE1E20788B39"
+      }
+    },
+    "com.sketch.detach": {
+      "symbolInstance": {
+        "do_objectID": "26319FE2-2A55-4D91-8066-E3C05B73D457",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 83,
+          "width": 375,
+          "x": 0,
+          "y": 0
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "9D3B635C-2E8F-40C2-8062-93A054EDF0F3",
+        "symbolID": "38709BAD-4005-4AAD-8BD1-BE1E20788B39"
+      }
+    }
+  }
+}

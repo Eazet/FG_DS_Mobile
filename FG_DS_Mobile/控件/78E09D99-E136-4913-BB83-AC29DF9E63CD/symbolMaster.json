@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1375,
+  "changeIdentifier": 1497,
   "clippingMaskMode": 0,
   "do_objectID": "78E09D99-E136-4913-BB83-AC29DF9E63CD",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 32,
     "width": 80,
-    "x": 2199,
-    "y": 684
+    "x": 2202,
+    "y": 680
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
@@ -37,7 +37,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -69,7 +69,7 @@
       "id": "F69A6483-0562-4EEE-8290-C8EF3EA4C994"
     }
   ],
-  "name": "01. General 通用/Buttons按钮/D.极简按钮/04.详情按钮/01.主按钮-大/右",
+  "name": "01. General 通用/Buttons按钮/D.极简按钮/04.详情按钮/01.主按钮-大",
   "nameIsFixed": true,
   "overrideProperties": [
     {

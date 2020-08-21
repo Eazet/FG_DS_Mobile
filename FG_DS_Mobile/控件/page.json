@@ -485,43 +485,11 @@
     },
     {
       "class": "symbolMaster",
-      "id": "F05B5C0D-3808-43DD-A247-43F30F574DDA"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "5A36DD1E-FEA9-47B9-AC97-EB2CE226785C"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "DC64B999-5F00-47E4-BB9B-73E7CBF78DB4"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "9E3BFB72-DAC0-4A37-8FFA-398DEAF07BB0"
-    },
-    {
-      "class": "symbolMaster",
       "id": "0E52BDE2-9B18-4026-869D-D8D9F0691993"
     },
     {
       "class": "symbolMaster",
       "id": "281BED57-1109-419A-BC00-B927AC8756F1"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "3EAA57A8-A433-4B22-B4FB-D30C21EDAF74"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "0D9CECE3-69EE-49F8-8D0C-39FDEFC8DD4B"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "182B4D7B-0DED-4226-B6B9-DF7D46DF6E21"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "CACFDBA9-0664-4E13-B27B-9FB1A64A7628"
     },
     {
       "class": "symbolMaster",
@@ -533,43 +501,11 @@
     },
     {
       "class": "symbolMaster",
-      "id": "70EBFBB8-B759-4DC6-BE0C-8DB112F9D897"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "ECD03F90-92E2-43C8-900B-A4BD324E701F"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "CEFFEB28-C384-4898-8E92-1DE49B4F8F9D"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "ADDB0DF6-823D-494F-8BFD-089BE8128FCF"
-    },
-    {
-      "class": "symbolMaster",
       "id": "D71A4737-AEB8-4D4A-88A8-8DF32C467E34"
     },
     {
       "class": "symbolMaster",
       "id": "8FC41520-4DBB-4DDD-8B20-E585A5EAE0F7"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "56017D21-5D52-41E3-A8BE-67408F74C564"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "0A71FABD-785F-4995-99E4-7C9FF39D4ED9"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "3C66BDB9-7C31-4ED4-86E6-646749EE2F81"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "135BFF1E-1A37-4AC0-8D59-4DDA5D0870CD"
     },
     {
       "class": "symbolMaster",
@@ -812,10 +748,6 @@
       "id": "42C23147-D2FC-4580-A5C5-E2F75EFBCBD4"
     },
     {
-      "class": "bitmap",
-      "id": "B4943ECE-19F3-47EE-A403-E6D27135251E"
-    },
-    {
       "class": "symbolMaster",
       "id": "985C074D-4D2C-44FE-9F05-A6AA2366F8B9"
     },
@@ -1052,32 +984,8 @@
       "id": "A3D87A25-878C-487F-9508-0006A05F83F3"
     },
     {
-      "class": "rectangle",
-      "id": "6A5FBEF8-33C2-4B02-AB8D-61BD1D395552"
-    },
-    {
-      "class": "rectangle",
-      "id": "A52F69EC-ED40-4ED8-A30F-19407D0315CB"
-    },
-    {
-      "class": "rectangle",
-      "id": "E4BF8F7D-F9BF-4554-95A0-B44278659F78"
-    },
-    {
-      "class": "rectangle",
-      "id": "C2C26C83-63C0-4167-810F-49FF2949932E"
-    },
-    {
-      "class": "rectangle",
-      "id": "E09E42B7-F256-4E26-83CA-4C089937738F"
-    },
-    {
-      "class": "rectangle",
-      "id": "E45CD45E-3271-48F8-B7EE-3CE5AE98B071"
-    },
-    {
-      "class": "rectangle",
-      "id": "1260B0D2-54C2-41CB-AD30-3E8BDB5C8015"
+      "class": "symbolMaster",
+      "id": "2A919E3F-4D8B-43D0-8AA7-26CF90A644B0"
     }
   ],
   "name": "控件",
