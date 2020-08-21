@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 989,
+  "changeIdentifier": 1081,
   "clippingMaskMode": 0,
   "do_objectID": "67209CD1-9504-41B4-90C1-C570FB65E89B",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 80,
     "width": 80,
-    "x": 614,
-    "y": 456
+    "x": 822,
+    "y": 332
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -61,7 +61,7 @@
       "id": "D5F892DD-5CEC-4191-A9E9-D418ABC8DC71"
     }
   ],
-  "name": "01. General 通用/Icon图标/80/013.经纪人之家",
+  "name": "01. General 通用/Icon图标/80/007.经纪人之家",
   "nameIsFixed": true,
   "overrideProperties": [
   ],

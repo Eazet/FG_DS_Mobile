@@ -9,7 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1129,
+  "changeIdentifier": 1230,
   "clippingMaskMode": 0,
   "do_objectID": "D2B765B4-1288-4CDB-A023-95EA131DE19D",
   "exportOptions": {
@@ -26,13 +26,13 @@
     "constrainProportions": false,
     "height": 80,
     "width": 80,
-    "x": 806,
-    "y": 456
+    "x": 1014,
+    "y": 332
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": true,
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -57,7 +57,7 @@
       "id": "904C1CD9-13F1-4747-9E5F-8D8244578BF6"
     }
   ],
-  "name": "01. General 通用/Icon图标/80/015.成功",
+  "name": "01. General 通用/Icon图标/80/009.成功",
   "nameIsFixed": true,
   "overrideProperties": [
     {

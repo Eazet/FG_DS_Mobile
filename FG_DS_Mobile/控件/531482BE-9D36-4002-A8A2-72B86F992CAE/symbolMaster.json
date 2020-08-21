@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1588,
+  "changeIdentifier": 1669,
   "clippingMaskMode": 0,
   "do_objectID": "531482BE-9D36-4002-A8A2-72B86F992CAE",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 32,
     "width": 84,
-    "x": 2140,
-    "y": 1837
+    "x": 2305,
+    "y": 1461
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",

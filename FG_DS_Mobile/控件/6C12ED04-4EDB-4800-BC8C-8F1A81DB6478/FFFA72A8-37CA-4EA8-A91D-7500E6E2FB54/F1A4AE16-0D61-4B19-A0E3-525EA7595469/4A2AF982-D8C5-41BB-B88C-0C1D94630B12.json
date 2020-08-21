@@ -13,13 +13,13 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 10,
+  "fixedRadius": 20,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 10,
-    "width": 343,
-    "x": 16,
+    "height": 20,
+    "width": 686,
+    "x": 32,
     "y": 0
   },
   "hasClippingMask": false,
@@ -38,7 +38,7 @@
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 10,
+      "cornerRadius": 20,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -48,7 +48,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 10,
+      "cornerRadius": 20,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -88,7 +88,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 20,
       "saturation": 1,
       "type": 0
     },
@@ -149,7 +149,7 @@
         },
         "isEnabled": false,
         "position": 1,
-        "thickness": 1
+        "thickness": 2
       }
     ],
     "colorControls": {

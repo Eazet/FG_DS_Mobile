@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1247,
+  "changeIdentifier": 1248,
   "clippingMaskMode": 0,
   "do_objectID": "CA42D167-EAA6-4376-9F9A-A3747DAAA7CD",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -65,7 +65,7 @@
       "id": "EF473FE3-D5AB-4854-96B7-5223B52A5B0E"
     }
   ],
-  "name": "01. General 通用/Buttons按钮/E.80/02.次按钮",
+  "name": "01. General 通用/Buttons按钮/E.底栏按钮/02.次按钮",
   "nameIsFixed": true,
   "overrideProperties": [
     {

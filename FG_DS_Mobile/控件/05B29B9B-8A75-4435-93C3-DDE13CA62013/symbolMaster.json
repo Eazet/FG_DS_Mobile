@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 534,
+  "changeIdentifier": 638,
   "clippingMaskMode": 0,
   "do_objectID": "05B29B9B-8A75-4435-93C3-DDE13CA62013",
   "exportOptions": {
@@ -26,7 +26,7 @@
     "constrainProportions": false,
     "height": 80,
     "width": 80,
-    "x": 801,
+    "x": 216,
     "y": 332
   },
   "groupLayout": {
@@ -61,7 +61,7 @@
       "id": "3C919EA1-05DB-48AD-9DE2-2BC36A37FF5A"
     }
   ],
-  "name": "01. General 通用/Icon图标/80/007.签到",
+  "name": "01. General 通用/Icon图标/80/001.签到",
   "nameIsFixed": true,
   "overrideProperties": [
     {

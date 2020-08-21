@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 798,
+  "changeIdentifier": 812,
   "clippingMaskMode": 0,
   "do_objectID": "60EBAF27-664C-4451-B6B9-CA4E229D1132",
   "exportOptions": {
@@ -65,9 +65,19 @@
       "id": "67E38B71-6459-4586-9D78-5C98EB76926B"
     }
   ],
-  "name": "01. General 通用/Buttons按钮/D.32/01.操作按钮/01.主按钮",
+  "name": "01. General 通用/Buttons按钮/D.极简按钮/01.操作按钮/01.主按钮",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "B6FA3027-2055-4E89-94C2-2861AC5A6EE9_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "67E38B71-6459-4586-9D78-5C98EB76926B/840FD651-99FC-49C3-BBD7-5AFF2BDCCF7D_layerStyle"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
@@ -77,11 +87,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "B6FA3027-2055-4E89-94C2-2861AC5A6EE9_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "B6FA3027-2055-4E89-94C2-2861AC5A6EE9_textStyle"
     }
   ],
   "presetDictionary": {

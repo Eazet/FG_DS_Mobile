@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 877,
+  "changeIdentifier": 967,
   "clippingMaskMode": 0,
   "do_objectID": "2E936F28-85C8-486E-BFEF-4549148571D8",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 80,
     "width": 80,
-    "x": 415,
-    "y": 456
+    "x": 623,
+    "y": 332
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -61,7 +61,7 @@
       "id": "5F3C40CE-4F48-465C-B322-701D58796AB1"
     }
   ],
-  "name": "01. General 通用/Icon图标/80/011.视频库",
+  "name": "01. General 通用/Icon图标/80/005.视频库",
   "nameIsFixed": true,
   "overrideProperties": [
     {

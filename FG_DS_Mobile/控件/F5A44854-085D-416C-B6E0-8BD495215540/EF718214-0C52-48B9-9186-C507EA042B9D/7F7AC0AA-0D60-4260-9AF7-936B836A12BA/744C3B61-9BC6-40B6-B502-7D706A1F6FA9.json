@@ -16,10 +16,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 10.4443359375,
-    "width": 3.87451171875,
-    "x": 20.8529296875,
-    "y": 0.0732421875
+    "height": 20.888671875,
+    "width": 7.7490234375,
+    "x": 41.705859375,
+    "y": 0.146484375
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -135,7 +135,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 20,
       "saturation": 1,
       "type": 0
     },

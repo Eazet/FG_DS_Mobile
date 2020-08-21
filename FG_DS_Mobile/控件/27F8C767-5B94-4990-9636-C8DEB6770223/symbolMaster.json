@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 438,
+  "changeIdentifier": 439,
   "clippingMaskMode": 0,
   "do_objectID": "27F8C767-5B94-4990-9636-C8DEB6770223",
   "exportOptions": {
@@ -57,7 +57,7 @@
       "id": "E5390AAA-4600-4746-BCC2-945349F6465E"
     }
   ],
-  "name": "01. General 通用/Buttons按钮/F.120/01.主按钮",
+  "name": "01. General 通用/Buttons按钮/F.悬浮按钮/01.主按钮",
   "nameIsFixed": true,
   "overrideProperties": [
     {

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 336,
+  "changeIdentifier": 337,
   "clippingMaskMode": 0,
   "do_objectID": "985C074D-4D2C-44FE-9F05-A6AA2366F8B9",
   "exportOptions": {
@@ -72,6 +72,21 @@
   "name": "02. Navigation 导航/导航栏/二级导航",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "886CAF25-6EE0-4B93-AB20-F7B501C2AAE5_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A75B209A-B858-4162-B2B6-88637393B89C_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1E599BF5-F0F0-4AE4-B974-8146FE0D7CEF_symbolID"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

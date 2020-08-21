@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 977,
+  "changeIdentifier": 979,
   "clippingMaskMode": 0,
   "do_objectID": "23418B9E-4382-4AE9-B452-E2B3FA78C1C5",
   "exportOptions": {
@@ -65,9 +65,14 @@
       "id": "FA3292AF-16D9-434D-9EC6-54B4D247ADCF"
     }
   ],
-  "name": "01. General 通用/Buttons按钮/D.32/01.操作按钮/03.详情按钮",
+  "name": "01. General 通用/Buttons按钮/D.极简按钮/01.操作按钮/03.详情按钮",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FA3292AF-16D9-434D-9EC6-54B4D247ADCF_fillColor"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

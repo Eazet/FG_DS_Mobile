@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 594,
+  "changeIdentifier": 663,
   "clippingMaskMode": 0,
   "do_objectID": "C608E33E-0A7E-4E05-8E98-C065ACE19E12",
   "exportOptions": {
@@ -26,7 +26,7 @@
     "constrainProportions": false,
     "height": 80,
     "width": 80,
-    "x": 902,
+    "x": 317,
     "y": 332
   },
   "groupLayout": {
@@ -61,7 +61,7 @@
       "id": "30C32DDB-37A6-4408-8F2B-ED543890F4C9"
     }
   ],
-  "name": "01. General 通用/Icon图标/80/008.公告",
+  "name": "01. General 通用/Icon图标/80/002.公告",
   "nameIsFixed": true,
   "overrideProperties": [
     {
