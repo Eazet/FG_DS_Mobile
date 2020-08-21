@@ -1,0 +1,123 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C8967680-0840-463A-8667-946872052221",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 166,
+    "width": 750,
+    "x": 0,
+    "y": 1458
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "02. Navigation 导航/标签栏-五个",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "05262E25-8E3B-4AB0-A770-E105446840BB_symbolID",
+      "value": "5B5BDA77-A838-4D6A-8B63-29C68BA5708E"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "05262E25-8E3B-4AB0-A770-E105446840BB/9ECF3449-9623-49C0-81CF-4DE716B8FBFF_symbolID",
+      "value": "6A4B3E52-3169-47FE-9C15-AD149C9C3429"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "52CBEDE9-2001-48A4-8B5B-58C52016D501/E042E298-F3CF-4066-A729-846ECC3CD644_stringValue",
+      "value": "房源"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "05262E25-8E3B-4AB0-A770-E105446840BB/E042E298-F3CF-4066-A729-846ECC3CD644_stringValue",
+      "value": "工作台"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B81B4B20-2728-40C1-BB76-1C03B7B1C7A3_symbolID",
+      "value": "6251488C-37CB-4278-A9EA-CA4E5EF4932B"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B81B4B20-2728-40C1-BB76-1C03B7B1C7A3/EDBB8491-BE5C-4CE5-B33A-02DDE7BC6FE8_symbolID",
+      "value": "30EB9B13-70AC-4F9E-BA3A-9E7A52140E57"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B81B4B20-2728-40C1-BB76-1C03B7B1C7A3/37B49F2B-C199-46F8-BAE9-C4B8A9F5088D_stringValue",
+      "value": "消息"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "4B08F4C5-7194-4136-8EBB-0446D004ADF9",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3D012E63-B489-4875-A133-6E395EBF6DF6",
+  "verticalSpacing": 0
+}
