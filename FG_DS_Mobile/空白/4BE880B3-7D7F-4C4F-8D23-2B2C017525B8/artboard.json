@@ -1,8 +1,15 @@
 {
-  "_class": "page",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F867C94A-4439-4EC2-AC75-036797E84383",
+  "do_objectID": "4BE880B3-7D7F-4C4F-8D23-2B2C017525B8",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,41 +22,47 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 323,
+    "width": 396,
+    "x": 189,
+    "y": 235
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -800,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "4BE880B3-7D7F-4C4F-8D23-2B2C017525B8"
+      "class": "oval",
+      "id": "B5CEB730-42A1-40DE-A137-AC88A77AB213"
     }
   ],
-  "name": "空白",
-  "nameIsFixed": true,
+  "name": "画板",
+  "nameIsFixed": false,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -84,7 +97,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "18461CC2-B23B-493F-8D76-90D878FF1F17",
+    "do_objectID": "6D9F3E3A-AF6D-4E33-AD45-0C2DB07F10D8",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -96,14 +109,9 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "com.animaapp.uses.anima": 1
-    }
-  },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -607,
+    "base": 0,
     "guides": [
     ]
   }
