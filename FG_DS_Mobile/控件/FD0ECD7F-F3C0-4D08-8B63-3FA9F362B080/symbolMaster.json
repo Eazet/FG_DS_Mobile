@@ -1,8 +1,17 @@
 {
-  "_class": "symbolInstance",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
+  "changeIdentifier": 764,
   "clippingMaskMode": 0,
-  "do_objectID": "86C51AD0-7AC2-42AE-870B-0029F9006702",
+  "do_objectID": "FD0ECD7F-F3C0-4D08-8B63-3FA9F362B080",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,28 +24,55 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 72,
-    "width": 152,
-    "x": 912,
-    "y": 16
+    "height": 17,
+    "width": 240,
+    "x": 4657,
+    "y": 3414
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Button 7",
-  "nameIsFixed": true,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "group",
+      "id": "F5332F6B-A528-4075-937A-73290D221B96"
+    }
   ],
-  "resizingConstraint": 11,
+  "name": "04. Data Display 数据展示/Menu菜单/分割线",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5C4797FE-41C8-4BE6-890B-366069334564_layerStyle"
+    }
+  ],
+  "presetDictionary": {
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -63,7 +99,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": true,
+      "isEnabled": false,
       "saturation": 1
     },
     "contextSettings": {
@@ -71,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "976029BD-34F2-41E9-B1A1-2009753909C9",
+    "do_objectID": "F7AA681F-9065-4BD4-8D90-D5B2E32BA7FC",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -83,6 +119,11 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "65EDB079-E70F-4FF1-B1D6-C52F76B71D64",
-  "verticalSpacing": 0
+  "symbolID": "A37C0D96-5C50-4597-8ADB-87C47429E421",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
 }

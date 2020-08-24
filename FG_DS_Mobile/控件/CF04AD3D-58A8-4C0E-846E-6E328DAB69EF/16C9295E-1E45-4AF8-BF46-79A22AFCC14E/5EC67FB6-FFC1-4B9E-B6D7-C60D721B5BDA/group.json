@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C08E54B4-D9AD-49DC-A13D-1D62156C15FE",
+  "do_objectID": "5EC67FB6-FFC1-4B9E-B6D7-C60D721B5BDA",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,27 +15,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 72,
-    "width": 152,
-    "x": 608,
-    "y": 16
+    "height": 32,
+    "width": 96,
+    "x": 32,
+    "y": 28
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Button 5",
-  "nameIsFixed": true,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "text",
+      "id": "CE07607C-5CC9-4D97-BDCA-D0E44E392A4D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D58283E9-8D6D-4AE0-8D94-BABC6987646A"
+    }
   ],
-  "resizingConstraint": 11,
+  "name": "编组",
+  "nameIsFixed": false,
+  "resizingConstraint": 41,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -63,7 +73,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": true,
+      "isEnabled": false,
       "saturation": 1
     },
     "contextSettings": {
@@ -71,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "EB9401C8-46B1-4FB7-8D5B-6150A95452CF",
+    "do_objectID": "05270349-744B-4403-90A6-A54E26D1C4A3",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -82,7 +92,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "65EDB079-E70F-4FF1-B1D6-C52F76B71D64",
-  "verticalSpacing": 0
+  }
 }

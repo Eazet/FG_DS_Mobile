@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5476FD79-98D4-4045-BB8F-EEFD9D762168",
+  "do_objectID": "C0790490-4809-440B-8964-94DADE7697BE",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 72,
-    "width": 152,
-    "x": 760,
-    "y": 16
+    "height": 32,
+    "width": 32,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,11 +28,11 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Button 6",
-  "nameIsFixed": true,
+  "name": "01. General 通用/Icon图标/32/026.提示",
+  "nameIsFixed": false,
   "overrideValues": [
   ],
-  "resizingConstraint": 11,
+  "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -63,7 +63,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": true,
+      "isEnabled": false,
       "saturation": 1
     },
     "contextSettings": {
@@ -71,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "B78B2005-C260-4A3D-AA27-1628E61F7315",
+    "do_objectID": "4C42A471-C0F5-4EA2-87C0-ADB8D1658B83",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -83,6 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "65EDB079-E70F-4FF1-B1D6-C52F76B71D64",
+  "symbolID": "3477669A-7DA7-4293-8FAB-C8E3A70E675C",
   "verticalSpacing": 0
 }

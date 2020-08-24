@@ -35,6 +35,11 @@
       "_class": "overrideValue",
       "overrideName": "0D16E2BA-6044-4AE6-BB42-B7F7CB2D8EBE_stringValue",
       "value": "蔚蓝海岸一期"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8E48A285-FA3B-42D2-97BE-E95F85B32629_layerStyle",
+      "value": "A7201FE2-F96B-409A-A8D8-BA87EAED09CB"
     }
   ],
   "resizingConstraint": 63,

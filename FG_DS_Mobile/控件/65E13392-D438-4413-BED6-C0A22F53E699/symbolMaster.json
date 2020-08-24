@@ -4,14 +4,14 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0,
+    "green": 0,
+    "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 950,
+  "changeIdentifier": 152,
   "clippingMaskMode": 0,
-  "do_objectID": "A3D87A25-878C-487F-9508-0006A05F83F3",
+  "do_objectID": "65E13392-D438-4413-BED6-C0A22F53E699",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,20 +24,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 55.99999999999997,
-    "width": 88,
-    "x": 9705,
-    "y": -399
+    "height": 116,
+    "width": 240,
+    "x": 4657,
+    "y": 3531
   },
   "groupLayout": {
-    "_class": "MSImmutableInferredGroupLayout",
-    "axis": 0,
-    "layoutAnchor": 2,
-    "maxSize": 0,
-    "minSize": 0
+    "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -45,7 +41,7 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInExport": false,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
@@ -54,35 +50,16 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "4A724C26-BF94-4995-8768-CD1B380347C3"
-    },
-    {
-      "class": "text",
-      "id": "64F06ABB-FAB1-4BAF-A2F5-13951170E3EB"
+      "class": "shapeGroup",
+      "id": "F259E113-434E-4009-A9A8-FF683323569F"
     }
   ],
-  "name": "01. General 通用/Buttons按钮/A.56/02.行为按钮/05.次按钮-浅色",
+  "name": "04. Data Display 数据展示/Menu菜单/气泡/右",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "64F06ABB-FAB1-4BAF-A2F5-13951170E3EB_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "64F06ABB-FAB1-4BAF-A2F5-13951170E3EB_textStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "4A724C26-BF94-4995-8768-CD1B380347C3_layerStyle"
-    }
   ],
   "presetDictionary": {
   },
@@ -125,7 +102,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "B3EF54C4-6573-4CDE-8A3C-691327D37E15",
+    "do_objectID": "D1E4B12E-F87E-4823-83A9-D0382C418251",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -137,7 +114,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "F69A6627-F7CC-4DDE-BB34-2D5FBF8801C7",
+  "symbolID": "BB1654FD-58B9-4A67-AF2C-2137044B4DA4",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
