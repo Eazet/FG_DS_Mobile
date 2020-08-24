@@ -1,5 +1,6 @@
 {
   "_class": "document",
+  "agreedToFontEmbedding": false,
   "assets": {
     "_class": "assetCollection",
     "colorAssets": [
@@ -21,6 +22,7 @@
     "images": [
     ]
   },
+  "autoEmbedFonts": false,
   "colorSpace": 1,
   "do_objectID": "A072E488-6E15-46CC-BFDF-F0AEB00D4538",
   "fontReferences": [
@@ -2673,9 +2675,9 @@
     ]
   },
   "meta": {
-    "appVersion": "68",
-    "build": 102490,
-    "version": 131
+    "appVersion": "67.2",
+    "build": 100443,
+    "version": 130
   },
   "pages": [
     "COVER",
