@@ -39,6 +39,18 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "text",
+      "id": "ECBD1A3D-F164-4CFA-B082-7847DF4044B0"
+    },
+    {
+      "class": "text",
+      "id": "A3D69402-A449-47CB-BB74-DF80A71093C0"
+    },
+    {
+      "class": "text",
+      "id": "A24A4E94-C652-47ED-8437-0ABBEBE78A45"
+    }
   ],
   "name": "空白",
   "nameIsFixed": true,
