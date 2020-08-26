@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1362,
+  "changeIdentifier": 2475,
   "clippingMaskMode": 0,
   "do_objectID": "CECBFD76-CAC8-4095-8AFB-67465CFF2FF0",
   "exportOptions": {
@@ -24,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 80,
+    "height": 72,
     "width": 686,
     "x": 3951,
-    "y": -190
+    "y": -490
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -57,13 +57,28 @@
       "id": "7BFC0E03-6E11-4AB3-8794-365C3BB95E47"
     }
   ],
-  "name": "03. Data Entry 数据录入/搜索栏/输入中-标签",
+  "name": "03. Data Entry 数据录入/搜索栏/输入中-多标签",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "246BBEB1-4B69-4567-B592-B4D366ADF6E0_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "90AE433A-1818-4FEA-9D4D-829EF53A8A54_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "246BBEB1-4B69-4567-B592-B4D366ADF6E0_fillColor"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5BFCAAEE-D0FC-4AFC-83E3-2E49AEC83DE7_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -99,11 +114,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "8C30C2B9-D367-4724-B278-2A6FCAA0FF88_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "8142E495-01CB-4154-A048-2378BA03E499_symbolID"
     }
   ],
   "presetDictionary": {

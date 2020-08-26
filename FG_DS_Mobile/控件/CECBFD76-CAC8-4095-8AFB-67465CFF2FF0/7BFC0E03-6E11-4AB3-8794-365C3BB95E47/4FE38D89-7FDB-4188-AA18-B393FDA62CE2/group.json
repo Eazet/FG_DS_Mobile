@@ -15,15 +15,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
-    "width": 387,
-    "x": 80,
+    "height": 48,
+    "width": 436,
+    "x": 53,
     "y": 12
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0,
+    "layoutAnchor": 2,
     "maxSize": 0,
     "minSize": 0
   },
@@ -38,16 +38,28 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "8142E495-01CB-4154-A048-2378BA03E499"
+      "id": "5BFCAAEE-D0FC-4AFC-83E3-2E49AEC83DE7"
     },
     {
-      "class": "group",
-      "id": "0A4DE25C-846B-4575-B201-D35B2E3C7A78"
+      "class": "symbolInstance",
+      "id": "8C30C2B9-D367-4724-B278-2A6FCAA0FF88"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D0C983EB-3DC6-48D1-A75D-E4340AE0A276"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "72E6FAE4-F519-4DD4-BC15-5FEC3856B7A5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "90AE433A-1818-4FEA-9D4D-829EF53A8A54"
     }
   ],
   "name": "编组",
   "nameIsFixed": false,
-  "resizingConstraint": 41,
+  "resizingConstraint": 44,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

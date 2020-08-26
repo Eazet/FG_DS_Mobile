@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D474E1BD-F7C2-4F53-8705-9285B48D1986",
+  "do_objectID": "28DD21D5-A187-4280-937F-1E1E76D13673",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,32 +15,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
-    "width": 128,
-    "x": 256,
+    "height": 72,
+    "width": 72,
+    "x": 614,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "03. Data Entry 数据录入/搜索栏/元素/标签备份 2",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "A177B7A5-79BC-4926-8096-53680F3DBB3C/0D16E2BA-6044-4AE6-BB42-B7F7CB2D8EBE_stringValue",
-      "value": "标签三"
+      "class": "rectangle",
+      "id": "070B7BE6-2AF8-430E-80FF-A0727488F2DB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3D827B22-8466-414F-9441-B20E16EAE1C4"
     }
   ],
-  "resizingConstraint": 63,
+  "name": "编组 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 44,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -76,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "C38B2F07-C304-403E-BD7C-7F967FAE545D",
+    "do_objectID": "2B505288-70CF-4F5A-B2DA-8D2BF1EEEAB0",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -87,7 +92,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "CA38FE29-EFE8-4C33-913C-ABF3340FA310",
-  "verticalSpacing": 0
+  }
 }

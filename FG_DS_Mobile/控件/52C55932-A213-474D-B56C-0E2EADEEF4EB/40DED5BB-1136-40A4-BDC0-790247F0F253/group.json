@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E8B712E6-3C14-4517-813E-C20CC08BE6E8",
+  "do_objectID": "40DED5BB-1136-40A4-BDC0-790247F0F253",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,32 +15,45 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
-    "width": 128,
+    "height": 72,
+    "width": 686,
     "x": 0,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "03. Data Entry 数据录入/搜索栏/元素/标签",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "A177B7A5-79BC-4926-8096-53680F3DBB3C/0D16E2BA-6044-4AE6-BB42-B7F7CB2D8EBE_stringValue",
-      "value": "标签一"
+      "class": "rectangle",
+      "id": "53BC3CCB-75AD-4C1B-9D2F-834F1B357F87"
+    },
+    {
+      "class": "group",
+      "id": "A278E5D9-2DB6-43BD-A642-0C4134F247A3"
+    },
+    {
+      "class": "group",
+      "id": "87E40951-08CF-4D6D-8C78-771DD6127C8D"
+    },
+    {
+      "class": "group",
+      "id": "44926FDA-CBEC-4D6E-AB5C-6B1A24535BCE"
     }
   ],
+  "name": "编组 4",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -76,7 +89,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "9E156795-BF8F-4B5C-AE47-3191D59433F5",
+    "do_objectID": "EDA40208-EB91-4194-A719-84D6C2DF919F",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -87,7 +100,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "CA38FE29-EFE8-4C33-913C-ABF3340FA310",
-  "verticalSpacing": 0
+  }
 }

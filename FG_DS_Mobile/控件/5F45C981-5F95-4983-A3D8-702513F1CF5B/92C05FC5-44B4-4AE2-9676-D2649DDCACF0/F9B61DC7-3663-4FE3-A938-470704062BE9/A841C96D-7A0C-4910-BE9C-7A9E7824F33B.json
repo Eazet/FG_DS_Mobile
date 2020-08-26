@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "PingFangSC-Regular",
-              "size": 30
+              "size": 28
             }
           },
           "kerning": 0,
@@ -25,8 +25,8 @@
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 30,
-            "minimumLineHeight": 30
+            "maximumLineHeight": 28,
+            "minimumLineHeight": 28
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -53,12 +53,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 30,
-    "width": 90,
+    "height": 28,
+    "width": 84,
     "x": 0,
-    "y": 2
+    "y": 3
   },
-  "glyphBounds": "{{1, 1}, {88, 29}}",
+  "glyphBounds": "{{1, 1}, {82, 26}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -72,7 +72,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "E99D7703-14B7-448B-ADBB-D910C051A1D4",
+  "sharedStyleID": "D0FD6BBA-21A8-4FB1-83EB-6076F4FE2EAC",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -132,7 +132,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "PingFangSC-Regular",
-            "size": 30
+            "size": 28
           }
         },
         "kerning": 0,
@@ -140,8 +140,8 @@
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 30,
-          "minimumLineHeight": 30
+          "maximumLineHeight": 28,
+          "minimumLineHeight": 28
         },
         "textStyleVerticalAlignmentKey": 0
       },

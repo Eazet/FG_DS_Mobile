@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0A4DE25C-846B-4575-B201-D35B2E3C7A78",
+  "do_objectID": "25A66448-1373-4586-A5EC-0447E684FE38",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
-    "width": 384,
+    "height": 72,
+    "width": 686,
     "x": 0,
     "y": 0
   },
@@ -33,19 +33,23 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "8C30C2B9-D367-4724-B278-2A6FCAA0FF88"
+      "class": "rectangle",
+      "id": "5CF34EF3-E0BE-48B4-92CC-7E95A0D81FFD"
     },
     {
-      "class": "symbolInstance",
-      "id": "D0C983EB-3DC6-48D1-A75D-E4340AE0A276"
+      "class": "group",
+      "id": "BBBAAA74-DAD2-4C3A-AC19-3230706421FD"
     },
     {
-      "class": "symbolInstance",
-      "id": "72E6FAE4-F519-4DD4-BC15-5FEC3856B7A5"
+      "class": "group",
+      "id": "35D66108-56DE-4A9C-924C-047DD6D2F807"
+    },
+    {
+      "class": "group",
+      "id": "28DD21D5-A187-4280-937F-1E1E76D13673"
     }
   ],
-  "name": "编组 2",
+  "name": "编组 4",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -85,7 +89,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "B891B389-06CA-43F1-BC27-CB91F86AB3EE",
+    "do_objectID": "73EA327B-C888-4600-961B-B8E552C1E599",
     "endMarkerType": 0,
     "fills": [
     ],

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3442,
+  "changeIdentifier": 3510,
   "clippingMaskMode": 0,
   "do_objectID": "0CF4E5A4-4D01-4987-A9CF-24C57A9BFC4B",
   "exportOptions": {
@@ -27,7 +27,7 @@
     "height": 32,
     "width": 32,
     "x": 1613,
-    "y": -1.77635683940025e-15
+    "y": -893
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -60,6 +60,11 @@
   "name": "01. General 通用/Icon图标/32/028.涨",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "08C3B77F-1C87-48D1-9FDF-4166A5CD5E13_layerStyle"
+    }
   ],
   "presetDictionary": {
   },

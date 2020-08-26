@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 198,
+  "changeIdentifier": 266,
   "clippingMaskMode": 0,
   "do_objectID": "E6936A3C-8E39-47FB-AF31-E4E872C2C948",
   "exportOptions": {
@@ -27,7 +27,7 @@
     "height": 64,
     "width": 64,
     "x": 301,
-    "y": 157
+    "y": -736
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -68,11 +68,6 @@
   "name": "01. General 通用/Icon图标/64/002.公交",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "2EE29144-9F40-498A-9395-18B15787ACD4_layerStyle"
-    }
   ],
   "presetDictionary": {
   },

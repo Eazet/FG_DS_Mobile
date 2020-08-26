@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "72E6FAE4-F519-4DD4-BC15-5FEC3856B7A5",
+  "do_objectID": "A278E5D9-2DB6-43BD-A642-0C4134F247A3",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,32 +15,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
-    "width": 128,
-    "x": 0,
-    "y": 0
+    "height": 28,
+    "width": 84,
+    "x": 72,
+    "y": 22
   },
+  "groupLayout": {
+    "_class": "MSImmutableInferredGroupLayout",
+    "axis": 0,
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "标签一",
-  "nameIsFixed": true,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "A177B7A5-79BC-4926-8096-53680F3DBB3C/0D16E2BA-6044-4AE6-BB42-B7F7CB2D8EBE_stringValue",
-      "value": "标签一"
+      "class": "text",
+      "id": "168A373A-9101-482A-B1E8-69425F4EF94A"
     }
   ],
-  "resizingConstraint": 63,
+  "name": "编组",
+  "nameIsFixed": false,
+  "resizingConstraint": 41,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -76,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "361390AA-B02C-4D8D-9FA4-510B891BF16F",
+    "do_objectID": "03A08A73-ED35-4D28-AAE2-CE372EA3E8EE",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -87,7 +92,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "CA38FE29-EFE8-4C33-913C-ABF3340FA310",
-  "verticalSpacing": 0
+  }
 }
