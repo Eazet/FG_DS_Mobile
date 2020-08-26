@@ -17,8 +17,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
-    "width": 88,
+    "height": 48,
+    "width": 72,
     "x": 0,
     "y": 0
   },
@@ -39,42 +39,42 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 4,
-      "curveFrom": "{1.6148540837868097e-14, 0}",
+      "curveFrom": "{1.9737105468505451e-14, 0}",
       "curveMode": 1,
-      "curveTo": "{1.6148540837868097e-14, 0}",
+      "curveTo": "{1.9737105468505451e-14, 0}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1.6148540837868097e-14, 0}"
+      "point": "{1.9737105468505451e-14, 0}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 4,
-      "curveFrom": "{1.0000000000000187, 0}",
+      "curveFrom": "{1.0000000000000442, 0}",
       "curveMode": 1,
-      "curveTo": "{1.0000000000000187, 0}",
+      "curveTo": "{1.0000000000000442, 0}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1.0000000000000187, 0}"
+      "point": "{1.0000000000000442, 0}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 4,
-      "curveFrom": "{1.0000000000000187, 0.99999999999999933}",
+      "curveFrom": "{1.0000000000000442, 1}",
       "curveMode": 1,
-      "curveTo": "{1.0000000000000187, 0.99999999999999933}",
+      "curveTo": "{1.0000000000000442, 1}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1.0000000000000187, 0.99999999999999933}"
+      "point": "{1.0000000000000442, 1}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 4,
-      "curveFrom": "{1.6148540837868097e-14, 0.99999999999999867}",
+      "curveFrom": "{1.9737105468505451e-14, 0.99999999999999867}",
       "curveMode": 1,
-      "curveTo": "{1.6148540837868097e-14, 0.99999999999999867}",
+      "curveTo": "{1.9737105468505451e-14, 0.99999999999999867}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1.6148540837868097e-14, 0.99999999999999867}"
+      "point": "{1.9737105468505451e-14, 0.99999999999999867}"
     }
   ],
   "resizingConstraint": 63,

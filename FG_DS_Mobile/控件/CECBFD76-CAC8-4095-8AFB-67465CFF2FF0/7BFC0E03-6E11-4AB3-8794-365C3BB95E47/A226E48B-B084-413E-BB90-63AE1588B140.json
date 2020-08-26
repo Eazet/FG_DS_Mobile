@@ -13,11 +13,11 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 6,
+  "fixedRadius": 12,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 80,
+    "height": 72,
     "width": 686,
     "x": 0,
     "y": 0
@@ -38,7 +38,7 @@
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 6,
+      "cornerRadius": 12,
       "curveFrom": "{1.8813101384482697e-15, 7.1054273576010019e-15}",
       "curveMode": 1,
       "curveTo": "{1.8813101384482697e-15, 7.1054273576010019e-15}",
@@ -48,7 +48,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 6,
+      "cornerRadius": 12,
       "curveFrom": "{0.99999999999999778, 7.1054273576010019e-15}",
       "curveMode": 1,
       "curveTo": "{0.99999999999999778, 7.1054273576010019e-15}",
@@ -58,7 +58,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 6,
+      "cornerRadius": 12,
       "curveFrom": "{0.99999999999999778, 1}",
       "curveMode": 1,
       "curveTo": "{0.99999999999999778, 1}",
@@ -68,7 +68,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 6,
+      "cornerRadius": 12,
       "curveFrom": "{1.8813101384482697e-15, 1}",
       "curveMode": 1,
       "curveTo": "{1.8813101384482697e-15, 1}",
@@ -80,7 +80,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "382768B5-75AB-467A-BACE-93513EA9CA8D",
+  "sharedStyleID": "708C24FC-F6C3-4873-B745-20E85AA8631C",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -124,9 +124,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9686274509803922,
-          "green": 0.9607843137254902,
-          "red": 0.9490196078431372
+          "blue": 0.96,
+          "green": 0.95296,
+          "red": 0.9503999999999999
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
