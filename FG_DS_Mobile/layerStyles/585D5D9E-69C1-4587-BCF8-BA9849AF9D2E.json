@@ -1,7 +1,7 @@
 {
   "_class": "sharedStyle",
-  "do_objectID": "83D53198-B963-4F52-9BC5-800815878C23",
-  "name": "01背景/00.空",
+  "do_objectID": "585D5D9E-69C1-4587-BCF8-BA9849AF9D2E",
+  "name": "03.标椎彩色/00.空",
   "value": {
     "_class": "style",
     "blur": {
@@ -36,7 +36,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "32DE7FEB-7AEF-4173-8754-DF31538BE76C",
+    "do_objectID": "7489C2AD-F19D-4CFB-AE33-B7CF0F8B6DD0",
     "endMarkerType": 0,
     "fills": [
       {

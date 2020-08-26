@@ -1,7 +1,7 @@
 {
   "_class": "sharedStyle",
-  "do_objectID": "83D53198-B963-4F52-9BC5-800815878C23",
-  "name": "01背景/00.空",
+  "do_objectID": "0E311A30-56D2-41B8-8EFE-4339C9F770FF",
+  "name": "06.按钮/浅色/00.空",
   "value": {
     "_class": "style",
     "blur": {
@@ -36,7 +36,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "32DE7FEB-7AEF-4173-8754-DF31538BE76C",
+    "do_objectID": "29A4695A-B5E2-4B07-917D-32424FA4D883",
     "endMarkerType": 0,
     "fills": [
       {
