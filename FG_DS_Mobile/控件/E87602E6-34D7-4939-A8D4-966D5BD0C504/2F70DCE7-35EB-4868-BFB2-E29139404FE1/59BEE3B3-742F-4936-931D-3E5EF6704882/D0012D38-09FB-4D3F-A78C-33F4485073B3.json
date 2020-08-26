@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "181D8616-47B8-41DA-BE33-0AD50E73260A",
+  "do_objectID": "D0012D38-09FB-4D3F-A78C-33F4485073B3",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,41 +15,32 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
-    "width": 384,
-    "x": 0,
+    "height": 48,
+    "width": 108,
+    "x": 216,
     "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "标签三",
+  "nameIsFixed": true,
+  "overrideValues": [
     {
-      "class": "symbolInstance",
-      "id": "E8B712E6-3C14-4517-813E-C20CC08BE6E8"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "1BDC7EBF-7151-457E-A5AF-35879E5684D8"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D474E1BD-F7C2-4F53-8705-9285B48D1986"
+      "_class": "overrideValue",
+      "overrideName": "A177B7A5-79BC-4926-8096-53680F3DBB3C/0D16E2BA-6044-4AE6-BB42-B7F7CB2D8EBE_stringValue",
+      "value": "标签三"
     }
   ],
-  "name": "编组 2",
-  "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -85,7 +76,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "FC846D04-96D9-4819-8AE4-FD24D411EF00",
+    "do_objectID": "54D9F635-ED18-41D0-84F2-321A84BA8F08",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -96,5 +87,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "CA38FE29-EFE8-4C33-913C-ABF3340FA310",
+  "verticalSpacing": 0
 }

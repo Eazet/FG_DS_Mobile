@@ -17,8 +17,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 80,
-    "width": 80,
+    "height": 72,
+    "width": 72,
     "x": 0,
     "y": 0
   },
@@ -80,7 +80,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "382768B5-75AB-467A-BACE-93513EA9CA8D",
+  "sharedStyleID": "708C24FC-F6C3-4873-B745-20E85AA8631C",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -124,9 +124,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9686274509803922,
-          "green": 0.9607843137254902,
-          "red": 0.9490196078431372
+          "blue": 0.96,
+          "green": 0.95296,
+          "red": 0.9503999999999999
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

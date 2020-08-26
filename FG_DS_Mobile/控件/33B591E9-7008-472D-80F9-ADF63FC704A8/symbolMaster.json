@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 2663,
+  "changeIdentifier": 2731,
   "clippingMaskMode": 0,
   "do_objectID": "33B591E9-7008-472D-80F9-ADF63FC704A8",
   "exportOptions": {
@@ -27,7 +27,7 @@
     "height": 48,
     "width": 48,
     "x": 1125,
-    "y": 68
+    "y": -825
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -60,6 +60,11 @@
   "name": "01. General 通用/Icon图标/48/010.前进",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "474C725D-A202-40B6-B8EE-08F88F515A4C_layerStyle"
+    }
   ],
   "presetDictionary": {
   },

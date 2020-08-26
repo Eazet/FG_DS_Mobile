@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 381,
+  "changeIdentifier": 449,
   "clippingMaskMode": 0,
   "do_objectID": "F8DD044A-E92F-4DFE-95F4-F93D36A665B4",
   "exportOptions": {
@@ -27,7 +27,7 @@
     "height": 64,
     "width": 64,
     "x": 471,
-    "y": 157
+    "y": -736
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -68,11 +68,6 @@
   "name": "01. General 通用/Icon图标/64/004.超市",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "46817099-235D-44D8-95C7-6FC1D0FA34FC_layerStyle"
-    }
   ],
   "presetDictionary": {
   },

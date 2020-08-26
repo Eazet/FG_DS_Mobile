@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 496,
+  "changeIdentifier": 662,
   "clippingMaskMode": 0,
   "do_objectID": "5F45C981-5F95-4983-A3D8-702513F1CF5B",
   "exportOptions": {
@@ -24,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 80,
+    "height": 72,
     "width": 686,
     "x": 3951,
-    "y": -482
+    "y": -782
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -60,6 +60,11 @@
   "name": "03. Data Entry 数据录入/搜索栏/激活",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2F786863-FDB3-4418-A179-5BCDD1AFD66F_fillColor"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

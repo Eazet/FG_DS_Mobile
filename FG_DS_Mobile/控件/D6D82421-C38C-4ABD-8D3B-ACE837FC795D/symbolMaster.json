@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3345,
+  "changeIdentifier": 3413,
   "clippingMaskMode": 0,
   "do_objectID": "D6D82421-C38C-4ABD-8D3B-ACE837FC795D",
   "exportOptions": {
@@ -27,7 +27,7 @@
     "height": 32,
     "width": 32,
     "x": 1556,
-    "y": -1.77635683940025e-15
+    "y": -893
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -60,6 +60,11 @@
   "name": "01. General 通用/Icon图标/32/027.跌",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0372E8D8-A964-465F-B425-6338AF40B271_layerStyle"
+    }
   ],
   "presetDictionary": {
   },

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 299,
+  "changeIdentifier": 367,
   "clippingMaskMode": 0,
   "do_objectID": "F82E8A8C-5F2A-4D4F-B4B2-70D129843F60",
   "exportOptions": {
@@ -27,7 +27,7 @@
     "height": 64,
     "width": 64,
     "x": 386,
-    "y": 157
+    "y": -736
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -68,16 +68,6 @@
   "name": "01. General 通用/Icon图标/64/003.学校",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "D56E6FF2-1514-4254-B43A-38E3C412EA01_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "6706AC0E-8A38-423D-A9F3-84C11B54D234_layerStyle"
-    }
   ],
   "presetDictionary": {
   },

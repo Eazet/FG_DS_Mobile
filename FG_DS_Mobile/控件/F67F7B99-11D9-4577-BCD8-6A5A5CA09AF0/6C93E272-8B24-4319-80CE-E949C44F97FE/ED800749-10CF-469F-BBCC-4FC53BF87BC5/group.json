@@ -15,9 +15,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
-    "width": 477,
-    "x": 80,
+    "height": 48,
+    "width": 196,
+    "x": 72,
     "y": 12
   },
   "groupLayout": {
@@ -38,15 +38,15 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "50AB5395-B133-47F6-A1DB-9497625B1AD0"
+      "id": "CE7CF43E-8E5E-49BF-94E2-BC8C94719495"
     },
     {
       "class": "text",
-      "id": "D3AB99AB-B4A8-499B-9903-2CD84ECCAEB3"
+      "id": "E915B60D-0EEA-4607-BF86-56460E33D554"
     },
     {
-      "class": "group",
-      "id": "181D8616-47B8-41DA-BE33-0AD50E73260A"
+      "class": "symbolInstance",
+      "id": "E8B712E6-3C14-4517-813E-C20CC08BE6E8"
     }
   ],
   "name": "编组",

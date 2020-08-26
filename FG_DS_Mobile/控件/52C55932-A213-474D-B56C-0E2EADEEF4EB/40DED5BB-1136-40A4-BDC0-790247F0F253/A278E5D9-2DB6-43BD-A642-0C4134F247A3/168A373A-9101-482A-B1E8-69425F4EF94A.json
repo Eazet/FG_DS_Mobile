@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "PingFangSC-Regular",
-              "size": 30
+              "size": 28
             }
           },
           "kerning": 0,
@@ -25,8 +25,8 @@
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 30,
-            "minimumLineHeight": 30
+            "maximumLineHeight": 28,
+            "minimumLineHeight": 28
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -39,7 +39,7 @@
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D3AB99AB-B4A8-499B-9903-2CD84ECCAEB3",
+  "do_objectID": "168A373A-9101-482A-B1E8-69425F4EF94A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,12 +53,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 30,
-    "width": 90,
-    "x": 384,
-    "y": 13
+    "height": 28,
+    "width": 84,
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{1, 1}, {87, 28}}",
+  "glyphBounds": "{{1, 0}, {81, 27}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -72,7 +72,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "950161E4-FA1A-42AC-A996-0A585E26AAEC",
+  "sharedStyleID": "F6C5103C-278B-4FF8-ADF7-8DC814BC8C94",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -108,7 +108,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "58ED977B-FE6A-4937-84D5-E6549B5B52D7",
+    "do_objectID": "88C11B88-883B-4EA0-8632-40DACE023DDE",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -132,7 +132,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "PingFangSC-Regular",
-            "size": 30
+            "size": 28
           }
         },
         "kerning": 0,
@@ -140,8 +140,8 @@
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 30,
-          "minimumLineHeight": 30
+          "maximumLineHeight": 28,
+          "minimumLineHeight": 28
         },
         "textStyleVerticalAlignmentKey": 0
       },

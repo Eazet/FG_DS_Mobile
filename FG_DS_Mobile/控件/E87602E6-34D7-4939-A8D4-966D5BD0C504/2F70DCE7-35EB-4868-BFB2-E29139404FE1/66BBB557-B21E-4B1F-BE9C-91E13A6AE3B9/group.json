@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D0C983EB-3DC6-48D1-A75D-E4340AE0A276",
+  "do_objectID": "66BBB557-B21E-4B1F-BE9C-91E13A6AE3B9",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,32 +15,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
-    "width": 128,
-    "x": 128,
+    "height": 72,
+    "width": 72,
+    "x": 0,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "标签二",
-  "nameIsFixed": true,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "A177B7A5-79BC-4926-8096-53680F3DBB3C/0D16E2BA-6044-4AE6-BB42-B7F7CB2D8EBE_stringValue",
-      "value": "标签二"
+      "class": "rectangle",
+      "id": "33D483B2-087F-47AD-9CCC-5EA3837967E0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BA104826-6EE6-4196-964A-76B27D5BB5CB"
     }
   ],
-  "resizingConstraint": 63,
+  "name": "编组 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 41,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -76,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "957D90B9-8EF8-4389-B234-636AC9FE23A9",
+    "do_objectID": "42D2CB87-00F7-430B-A54A-8AB827CAA280",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -87,7 +92,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "CA38FE29-EFE8-4C33-913C-ABF3340FA310",
-  "verticalSpacing": 0
+  }
 }

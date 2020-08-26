@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8C30C2B9-D367-4724-B278-2A6FCAA0FF88",
+  "do_objectID": "AA7F9F3C-BAAF-4D79-A69F-A2FC698C3A1A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
-    "width": 128,
-    "x": 256,
-    "y": 0
+    "height": 32,
+    "width": 32,
+    "x": 20,
+    "y": 20
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,16 +28,16 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "标签三",
-  "nameIsFixed": true,
+  "name": "清空按钮",
+  "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "A177B7A5-79BC-4926-8096-53680F3DBB3C/0D16E2BA-6044-4AE6-BB42-B7F7CB2D8EBE_stringValue",
-      "value": "标签三"
+      "overrideName": "24E9F9CA-F26A-4D04-ABDB-BE27C91B6CB8_layerStyle",
+      "value": "E15451D6-AA72-4828-9E4C-7C081965C132"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 44,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -76,7 +76,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "0C1584D5-E6FC-4D71-A29A-709B34517EAA",
+    "do_objectID": "B744E711-59C2-45ED-9C4B-11AE55683ECC",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -88,6 +88,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "CA38FE29-EFE8-4C33-913C-ABF3340FA310",
+  "symbolID": "8528B17A-3DA1-453D-AA4E-D1D1E119FA98",
   "verticalSpacing": 0
 }
