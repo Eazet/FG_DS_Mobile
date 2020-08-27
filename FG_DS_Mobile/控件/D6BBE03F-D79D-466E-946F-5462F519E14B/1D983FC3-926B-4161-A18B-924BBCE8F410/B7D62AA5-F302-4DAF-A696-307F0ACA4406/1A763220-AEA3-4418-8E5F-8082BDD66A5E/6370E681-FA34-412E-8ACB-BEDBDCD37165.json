@@ -1,8 +1,8 @@
 {
-  "_class": "oval",
-  "booleanOperation": -1,
+  "_class": "shapePath",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "46817099-235D-44D8-95C7-6FC1D0FA34FC",
+  "do_objectID": "6370E681-FA34-412E-8ACB-BEDBDCD37165",
   "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
@@ -15,11 +15,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 52,
-    "width": 44,
-    "x": 10,
-    "y": 6
+    "constrainProportions": false,
+    "height": 56,
+    "width": 8,
+    "x": 44,
+    "y": 0
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -29,16 +29,36 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Oval",
+  "name": "路径",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.75, 0.76923076923077005}",
+      "curveFrom": "{1, 0}",
+      "curveMode": 1,
+      "curveTo": "{1, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 0.96802033927362807}",
       "curveMode": 4,
-      "curveTo": "{0.25, 0.76923076923077005}",
+      "curveTo": "{1, 0.9285714285714286}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{1, 0.9285714285714286}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.22385762508460338, 1}",
+      "curveMode": 2,
+      "curveTo": "{0.77614237491539662, 1}",
       "hasCurveFrom": true,
       "hasCurveTo": true,
       "point": "{0.5, 1}"
@@ -46,32 +66,22 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.99999999999999967, 0.18941799046923069}",
-      "curveMode": 3,
-      "curveTo": "{0.99999999999999967, 0.69230769230769706}",
-      "hasCurveFrom": true,
+      "curveFrom": "{0, 0.9285714285714286}",
+      "curveMode": 4,
+      "curveTo": "{0, 0.96802033927362807}",
+      "hasCurveFrom": false,
       "hasCurveTo": true,
-      "point": "{0.99999999999999967, 0.42307692307692296}"
+      "point": "{0, 0.9285714285714286}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.22385762510000004, 0}",
-      "curveMode": 2,
-      "curveTo": "{0.77614237490000015, 0}",
-      "hasCurveFrom": true,
-      "hasCurveTo": true,
-      "point": "{0.49999999999999983, 0}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0, 0.69230769230769706}",
-      "curveMode": 3,
-      "curveTo": "{1.3777576410490987e-17, 0.18941799046923069}",
-      "hasCurveFrom": true,
-      "hasCurveTo": true,
-      "point": "{0, 0.42307692307692296}"
+      "curveFrom": "{0, 0}",
+      "curveMode": 1,
+      "curveTo": "{0, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0}"
     }
   ],
   "resizingConstraint": 63,
@@ -85,7 +95,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 20,
+      "radius": 10,
       "saturation": 1,
       "type": 0
     },
@@ -98,56 +108,6 @@
       "lineJoinStyle": 0
     },
     "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "fillType": 0,
-        "gradient": {
-          "_class": "gradient",
-          "elipseLength": 0,
-          "from": "{0.5, 0}",
-          "gradientType": 0,
-          "stops": [
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 1,
-                "green": 1,
-                "red": 1
-              },
-              "position": 0
-            },
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0,
-                "green": 0,
-                "red": 0
-              },
-              "position": 1
-            }
-          ],
-          "to": "{0.5, 1}"
-        },
-        "isEnabled": false,
-        "position": 0,
-        "thickness": 2
-      }
     ],
     "colorControls": {
       "_class": "colorControls",
@@ -162,7 +122,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "2EB72C51-E7BC-4BD1-A504-5932A7FEC6CB",
+    "do_objectID": "0D1268E1-4346-4423-BE2F-12D2DD4F1534",
     "endMarkerType": 0,
     "fills": [
       {
@@ -170,9 +130,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3803921568627451,
-          "green": 0.3803921568627451,
-          "red": 0.9607843137254902
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -224,27 +184,6 @@
     "shadows": [
     ],
     "startMarkerType": 0,
-    "windingRule": 1
-  },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "constraints": {
-          "aspectRatio": {
-            "constant": 52,
-            "enabled": 1,
-            "modelID": "constraint_d3f4ab05-1c81-47cd-804b-2c13c52df906",
-            "model_class": "ADModelConstraint",
-            "model_version": 0,
-            "multiplier": 44
-          },
-          "automatic": 1,
-          "modelID": "viewConstraints_20461a7c-84a7-4e83-a0c0-e383e216c2cc",
-          "model_class": "ADModelViewConstraints",
-          "model_version": 0,
-          "scaleFactor": 1
-        }
-      }
-    }
+    "windingRule": 0
   }
 }

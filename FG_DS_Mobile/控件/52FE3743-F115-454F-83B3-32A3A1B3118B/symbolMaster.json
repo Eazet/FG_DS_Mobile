@@ -9,9 +9,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 450,
+  "changeIdentifier": 33,
   "clippingMaskMode": 0,
-  "do_objectID": "F8DD044A-E92F-4DFE-95F4-F93D36A665B4",
+  "do_objectID": "52FE3743-F115-454F-83B3-32A3A1B3118B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -26,7 +26,7 @@
     "constrainProportions": false,
     "height": 64,
     "width": 64,
-    "x": 471,
+    "x": 555,
     "y": -736
   },
   "groupLayout": {
@@ -50,23 +50,43 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "oval",
-      "id": "46817099-235D-44D8-95C7-6FC1D0FA34FC"
+      "class": "shapePath",
+      "id": "B038BB69-4F95-47BA-AED1-76AE7729F861"
     },
     {
-      "class": "shapeGroup",
-      "id": "7444043B-F2C6-4B6D-B77C-15A5CE0E8D97"
+      "class": "shapePath",
+      "id": "62569E2A-CF9E-4DD6-BADC-070FF12F7E98"
     },
     {
-      "class": "shapeGroup",
-      "id": "DE4F69F5-ECFE-4159-BAB2-FD1B1EC1A2B4"
+      "class": "shapePath",
+      "id": "792DF0F6-6066-4786-8B8B-D4ACD81FD808"
+    },
+    {
+      "class": "shapePath",
+      "id": "6B4D66C2-246A-401B-AF1C-25EFAAD8AC76"
+    },
+    {
+      "class": "shapePath",
+      "id": "64767CA4-41F9-409F-A8C7-CADFE08030FB"
+    },
+    {
+      "class": "shapePath",
+      "id": "C46DFF99-3F1B-4D3A-9E59-A6659B30AC45"
+    },
+    {
+      "class": "shapePath",
+      "id": "2B4ECD1F-3CF3-433D-9DBC-AC6EC391749C"
+    },
+    {
+      "class": "shapePath",
+      "id": "40D04B4E-1784-4CB6-AB91-DC7B407DD9A3"
     }
   ],
-  "name": "01. General 通用/Icon图标/64/004.超市",
-  "nameIsFixed": true,
+  "name": "01. General 通用/Icon图标/64/005.分享朋友圈",
+  "nameIsFixed": false,
   "overrideProperties": [
   ],
   "presetDictionary": {
@@ -110,7 +130,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "C0E5EBAA-63FA-443E-AB62-57DC0F5FDB7B",
+    "do_objectID": "99813EB0-E74C-4492-9C11-A07B87D82A43",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -122,7 +142,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "68865FF8-5544-433A-AE3F-3D8EA0A28A7B",
+  "symbolID": "3062402B-2A39-47C3-BA9F-7DBC680769AA",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
