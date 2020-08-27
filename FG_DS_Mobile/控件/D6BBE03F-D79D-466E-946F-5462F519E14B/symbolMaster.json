@@ -9,9 +9,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 450,
+  "changeIdentifier": 52,
   "clippingMaskMode": 0,
-  "do_objectID": "F8DD044A-E92F-4DFE-95F4-F93D36A665B4",
+  "do_objectID": "D6BBE03F-D79D-466E-946F-5462F519E14B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -26,7 +26,7 @@
     "constrainProportions": false,
     "height": 64,
     "width": 64,
-    "x": 471,
+    "x": 723,
     "y": -736
   },
   "groupLayout": {
@@ -53,21 +53,18 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "oval",
-      "id": "46817099-235D-44D8-95C7-6FC1D0FA34FC"
-    },
-    {
       "class": "shapeGroup",
-      "id": "7444043B-F2C6-4B6D-B77C-15A5CE0E8D97"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "DE4F69F5-ECFE-4159-BAB2-FD1B1EC1A2B4"
+      "id": "1D983FC3-926B-4161-A18B-924BBCE8F410"
     }
   ],
-  "name": "01. General 通用/Icon图标/64/004.超市",
+  "name": "01. General 通用/Icon图标/64/007.海报分享",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1D983FC3-926B-4161-A18B-924BBCE8F410_layerStyle"
+    }
   ],
   "presetDictionary": {
   },
@@ -110,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "C0E5EBAA-63FA-443E-AB62-57DC0F5FDB7B",
+    "do_objectID": "CC48DB0A-83B6-48CD-B566-562352CFE0CB",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -122,7 +119,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "68865FF8-5544-433A-AE3F-3D8EA0A28A7B",
+  "symbolID": "2DB5B060-7867-4455-BAB6-474D87E2BA87",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

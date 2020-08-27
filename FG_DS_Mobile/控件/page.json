@@ -1046,6 +1046,18 @@
     {
       "class": "symbolMaster",
       "id": "67FB2865-DB81-4105-AD77-C4F935AAC932"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "52FE3743-F115-454F-83B3-32A3A1B3118B"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A47C394B-E5A6-4EEE-A201-FB379622021A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "D6BBE03F-D79D-466E-946F-5462F519E14B"
     }
   ],
   "name": "控件",
@@ -1099,6 +1111,11 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",
