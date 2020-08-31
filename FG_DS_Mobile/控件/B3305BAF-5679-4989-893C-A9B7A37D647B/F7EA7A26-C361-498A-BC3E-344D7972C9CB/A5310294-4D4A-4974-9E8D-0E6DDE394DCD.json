@@ -2,7 +2,7 @@
   "_class": "rectangle",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "6198D2CB-EED4-4928-9242-BAAD645EC79A",
+  "do_objectID": "A5310294-4D4A-4974-9E8D-0E6DDE394DCD",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -17,10 +17,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 3,
-    "x": 12.5,
-    "y": 2
+    "height": 3,
+    "width": 14,
+    "x": 7,
+    "y": 12.5
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -79,7 +79,7 @@
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 45,
+  "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -165,7 +165,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "AE1D21FF-76F5-48A9-913B-F719797BB48D",
+    "do_objectID": "378DBEFE-401E-42A9-9C0D-CF206A5D8AB4",
     "endMarkerType": 0,
     "fills": [
       {

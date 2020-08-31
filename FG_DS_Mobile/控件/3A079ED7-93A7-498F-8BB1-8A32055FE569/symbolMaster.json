@@ -9,9 +9,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 5553,
+  "changeIdentifier": 10492,
   "clippingMaskMode": 0,
-  "do_objectID": "C3AC552E-7236-4AA2-9956-8AC6A6215053",
+  "do_objectID": "3A079ED7-93A7-498F-8BB1-8A32055FE569",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -26,7 +26,7 @@
     "constrainProportions": false,
     "height": 32,
     "width": 32,
-    "x": 2035,
+    "x": 2166,
     "y": -893
   },
   "groupLayout": {
@@ -54,16 +54,20 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "47D894EA-7355-4F05-B5C7-2EE73948250F"
+      "id": "71B0CFE2-454A-438A-9457-FF739E93E232"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9542C039-B636-4EC3-B7E3-C177B0F20E41"
     }
   ],
-  "name": "01. General 通用/Icon图标/32/036.拉黑",
+  "name": "01. General 通用/Icon图标/32/038.移除备份",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "47D894EA-7355-4F05-B5C7-2EE73948250F_layerStyle"
+      "overrideName": "9542C039-B636-4EC3-B7E3-C177B0F20E41_layerStyle"
     }
   ],
   "presetDictionary": {
@@ -107,7 +111,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "F47AE5F1-8CA5-4D81-A466-1772C46C89E1",
+    "do_objectID": "8C46DA2B-7561-449A-9CAE-73F84D952B96",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -119,7 +123,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "7846DFD0-DA3A-4507-88D1-C2CF2774BE79",
+  "symbolID": "142006EC-8C11-4C68-83B2-9C9DFE31844C",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

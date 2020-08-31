@@ -1,8 +1,8 @@
 {
   "_class": "shapeGroup",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9234F92C-6BBF-4C82-A5D7-AFF3990C3522",
+  "do_objectID": "F7EA7A26-C361-498A-BC3E-344D7972C9CB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 28,
     "width": 28,
-    "x": 0,
-    "y": 0
+    "x": 2,
+    "y": 2
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -33,19 +33,20 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "9330296D-02A4-4102-B354-9A6274D3AAAA"
+      "class": "shapeGroup",
+      "id": "90B4ACF0-6A45-46AF-986D-18A4C8B6001F"
     },
     {
-      "class": "shapePath",
-      "id": "7C3DFE30-6AB4-4968-9350-1B83B11D9CF7"
+      "class": "rectangle",
+      "id": "A5310294-4D4A-4974-9E8D-0E6DDE394DCD"
     }
   ],
-  "name": "椭圆形",
+  "name": "形状结合",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "72AD9A78-8B69-4E9A-AEF8-70F8D799C19E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -73,7 +74,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": false,
+      "isEnabled": true,
       "saturation": 1
     },
     "contextSettings": {
@@ -81,7 +82,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "9B774121-E05E-4D07-875E-05F730497FB3",
+    "do_objectID": "050D9DC4-0551-41A2-A9A8-E75904F04717",
     "endMarkerType": 0,
     "fills": [
       {
@@ -89,9 +90,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
+          "blue": 0.1647058823529412,
+          "green": 0.1529411764705882,
+          "red": 0.1294117647058823
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -143,7 +144,7 @@
     "shadows": [
     ],
     "startMarkerType": 0,
-    "windingRule": 0
+    "windingRule": 1
   },
-  "windingRule": 0
+  "windingRule": 1
 }

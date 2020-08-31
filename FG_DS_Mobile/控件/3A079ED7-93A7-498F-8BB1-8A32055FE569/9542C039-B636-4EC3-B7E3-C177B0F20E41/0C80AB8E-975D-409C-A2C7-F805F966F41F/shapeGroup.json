@@ -2,7 +2,7 @@
   "_class": "shapeGroup",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "9234F92C-6BBF-4C82-A5D7-AFF3990C3522",
+  "do_objectID": "0C80AB8E-975D-409C-A2C7-F805F966F41F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -30,22 +30,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "9330296D-02A4-4102-B354-9A6274D3AAAA"
-    },
-    {
-      "class": "shapePath",
-      "id": "7C3DFE30-6AB4-4968-9350-1B83B11D9CF7"
+      "class": "shapeGroup",
+      "id": "E460C96B-6FAD-4E23-BA49-62F79B0E2BDA"
     }
   ],
-  "name": "椭圆形",
+  "name": "形状结合",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "72AD9A78-8B69-4E9A-AEF8-70F8D799C19E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -73,7 +70,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": false,
+      "isEnabled": true,
       "saturation": 1
     },
     "contextSettings": {
@@ -81,7 +78,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "9B774121-E05E-4D07-875E-05F730497FB3",
+    "do_objectID": "E5BA125B-C0ED-48E2-9E12-C379444C6A50",
     "endMarkerType": 0,
     "fills": [
       {
@@ -89,9 +86,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
+          "blue": 0.1647058823529412,
+          "green": 0.1529411764705882,
+          "red": 0.1294117647058823
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -143,7 +140,7 @@
     "shadows": [
     ],
     "startMarkerType": 0,
-    "windingRule": 0
+    "windingRule": 1
   },
-  "windingRule": 0
+  "windingRule": 1
 }

@@ -2,7 +2,7 @@
   "_class": "shapeGroup",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "9234F92C-6BBF-4C82-A5D7-AFF3990C3522",
+  "do_objectID": "16EC7DE3-644F-4C0D-B62F-9C8C3E72C075",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 28,
-    "width": 28,
+    "height": 27,
+    "width": 26,
     "x": 0,
     "y": 0
   },
@@ -30,18 +30,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "9330296D-02A4-4102-B354-9A6274D3AAAA"
-    },
-    {
-      "class": "shapePath",
-      "id": "7C3DFE30-6AB4-4968-9350-1B83B11D9CF7"
+      "class": "shapeGroup",
+      "id": "5CABF81E-E6E0-432B-8B7C-40F1440D32FC"
     }
   ],
-  "name": "椭圆形",
+  "name": "形状结合",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -81,7 +77,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "9B774121-E05E-4D07-875E-05F730497FB3",
+    "do_objectID": "9CD2DDAC-4C77-492E-A665-210B98BC1F1E",
     "endMarkerType": 0,
     "fills": [
       {
