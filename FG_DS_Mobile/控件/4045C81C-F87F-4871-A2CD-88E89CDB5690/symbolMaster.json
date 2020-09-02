@@ -9,9 +9,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 12956,
+  "changeIdentifier": 561,
   "clippingMaskMode": 0,
-  "do_objectID": "70DB0AAC-3B59-4375-92FD-1D8E0D832BB4",
+  "do_objectID": "4045C81C-F87F-4871-A2CD-88E89CDB5690",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,16 +24,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 32,
-    "x": 2208,
-    "y": -893
+    "height": 24,
+    "width": 24,
+    "x": 633,
+    "y": -961
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -53,21 +53,21 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "013365D4-7BA8-43D6-9629-41014A1412A9"
+      "class": "group",
+      "id": "C5A0AD68-B554-4A87-A0B4-DB23C1EB2AB0"
     },
     {
       "class": "shapeGroup",
-      "id": "733CED8B-AAD4-4CE6-9D04-D1460B8A7556"
+      "id": "05F50B58-B715-4B7F-88B3-3C0A6E85CB1D"
     }
   ],
-  "name": "01. General 通用/Icon图标/32/038.移除备份 2",
+  "name": "01. General 通用/Icon图标/24/006.图片备份",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "733CED8B-AAD4-4CE6-9D04-D1460B8A7556_layerStyle"
+      "overrideName": "C6881582-FD71-4B3F-93E8-CDE9F86A6702_layerStyle"
     }
   ],
   "presetDictionary": {
@@ -111,7 +111,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "98BDE725-7175-4125-ADC3-1A6C91BA3EE9",
+    "do_objectID": "1A952AF6-3853-4CC2-82DD-4803D6334E2C",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -123,7 +123,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "7C7F8821-4854-42EE-AF4A-CD6BCC169FEF",
+  "symbolID": "FBE14320-47A6-411D-B025-A1F88632246A",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
