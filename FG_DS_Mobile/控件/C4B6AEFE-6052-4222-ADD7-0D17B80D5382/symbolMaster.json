@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1935,
+  "changeIdentifier": 2037,
   "clippingMaskMode": 0,
   "do_objectID": "C4B6AEFE-6052-4222-ADD7-0D17B80D5382",
   "exportOptions": {
@@ -54,17 +54,12 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "AD3B2B2A-47A7-4D5F-8508-932B95DC025E"
+      "id": "4518E5D0-B03C-479B-9113-7F9956BA0EFC"
     }
   ],
   "name": "01. General 通用/Icon图标/32/014.隐藏",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "AD3B2B2A-47A7-4D5F-8508-932B95DC025E_layerStyle"
-    }
   ],
   "presetDictionary": {
   },

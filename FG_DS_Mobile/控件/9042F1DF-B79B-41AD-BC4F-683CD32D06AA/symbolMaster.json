@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1863,
+  "changeIdentifier": 1971,
   "clippingMaskMode": 0,
   "do_objectID": "9042F1DF-B79B-41AD-BC4F-683CD32D06AA",
   "exportOptions": {
@@ -53,8 +53,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "07A40CE8-3484-48B4-BCD6-DD1775A1911F"
+      "class": "group",
+      "id": "FEAABC03-E2F4-4403-BD7D-298145297866"
     }
   ],
   "name": "01. General 通用/Icon图标/32/013.显示",
