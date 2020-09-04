@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 691,
+  "changeIdentifier": 719,
   "clippingMaskMode": 0,
   "do_objectID": "49FC2F18-2E2D-4B32-8EA2-5BC2B5B7244F",
   "exportOptions": {
@@ -27,7 +27,7 @@
     "height": 56,
     "width": 124,
     "x": 548,
-    "y": 684
+    "y": -132
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
@@ -68,6 +68,11 @@
   "name": "01. General 通用/Buttons按钮/A.56/03.后缀按钮/01.主按钮",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0E098CAB-55BC-4DD2-A4C2-4121FE726788_fillColor"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

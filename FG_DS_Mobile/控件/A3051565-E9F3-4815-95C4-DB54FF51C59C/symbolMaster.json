@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 2506,
+  "changeIdentifier": 2574,
   "clippingMaskMode": 0,
   "do_objectID": "A3051565-E9F3-4815-95C4-DB54FF51C59C",
   "exportOptions": {
@@ -27,7 +27,7 @@
     "height": 48,
     "width": 48,
     "x": 1066,
-    "y": 68
+    "y": -825
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -60,6 +60,11 @@
   "name": "01. General 通用/Icon图标/48/009.后退",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2280381E-6C40-42C2-81D2-960EF87C74B2_layerStyle"
+    }
   ],
   "presetDictionary": {
   },

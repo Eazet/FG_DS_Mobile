@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 30,
-    "width": 90,
-    "x": 80,
-    "y": 25
+    "height": 28,
+    "width": 84,
+    "x": 72,
+    "y": 22
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",

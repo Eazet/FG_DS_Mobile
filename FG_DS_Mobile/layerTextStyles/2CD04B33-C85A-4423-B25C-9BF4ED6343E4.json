@@ -1,7 +1,7 @@
 {
   "_class": "sharedStyle",
   "do_objectID": "2CD04B33-C85A-4423-B25C-9BF4ED6343E4",
-  "name": "Center/30-Link-B",
+  "name": "30/Center/30-Link-B",
   "value": {
     "_class": "style",
     "blur": {
@@ -36,7 +36,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "26B3C4C7-BBEF-428D-B998-298FC5FA2485",
+    "do_objectID": "28B246D4-5CD5-4CFB-BE3E-3B77872A5708",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -52,9 +52,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.6588235294117647,
-          "green": 0.4862745098039216,
-          "red": 0.407843137254902
+          "blue": 0.5843137254901961,
+          "green": 0.4196078431372549,
+          "red": 0.3411764705882352
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
