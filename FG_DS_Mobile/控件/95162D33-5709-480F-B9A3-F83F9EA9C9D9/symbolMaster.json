@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 7459,
+  "changeIdentifier": 7483,
   "clippingMaskMode": 0,
   "do_objectID": "95162D33-5709-480F-B9A3-F83F9EA9C9D9",
   "exportOptions": {
@@ -26,14 +26,14 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 730,
+    "x": 688,
     "y": -961
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,7 +61,7 @@
       "id": "40D794FF-B0D4-499A-BADA-60D056B34474"
     }
   ],
-  "name": "01. General 通用/Icon图标/24/006.图片备份 4",
+  "name": "01. General 通用/Icon图标/24/012.钥匙",
   "nameIsFixed": true,
   "overrideProperties": [
     {

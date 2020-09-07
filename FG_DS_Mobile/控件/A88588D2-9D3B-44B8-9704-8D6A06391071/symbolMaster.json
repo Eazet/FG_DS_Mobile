@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1065,
+  "changeIdentifier": 4168,
   "clippingMaskMode": 0,
   "do_objectID": "A88588D2-9D3B-44B8-9704-8D6A06391071",
   "exportOptions": {
@@ -54,12 +54,17 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "38682EFD-639C-4B58-85BA-DE293EC2EA3A"
+      "id": "32FFB933-C1BC-4F46-8942-260433DF723C"
     }
   ],
-  "name": "01. General 通用/Icon图标/64/007.海报分享备份 4",
+  "name": "01. General 通用/Icon图标/64/011.加入房单",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "32FFB933-C1BC-4F46-8942-260433DF723C_layerStyle"
+    }
   ],
   "presetDictionary": {
   },

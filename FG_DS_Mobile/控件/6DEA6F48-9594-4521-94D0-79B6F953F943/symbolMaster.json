@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 5783,
+  "changeIdentifier": 5845,
   "clippingMaskMode": 0,
   "do_objectID": "6DEA6F48-9594-4521-94D0-79B6F953F943",
   "exportOptions": {
@@ -26,7 +26,7 @@
     "constrainProportions": false,
     "height": 48,
     "width": 48,
-    "x": 2198,
+    "x": 2129,
     "y": -825
   },
   "groupLayout": {
@@ -54,14 +54,10 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "E4D4769B-C8E3-4F8D-A1CB-4CEC27B92388"
-    },
-    {
-      "class": "shapeGroup",
       "id": "30DEA36F-FCB8-44EC-AB0E-E3FC0F8E7202"
     }
   ],
-  "name": "01. General 通用/Icon图标/48/021.编辑备份 5",
+  "name": "01. General 通用/Icon图标/48/026.修改角色人",
   "nameIsFixed": true,
   "overrideProperties": [
     {

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1137,
+  "changeIdentifier": 1383,
   "clippingMaskMode": 0,
   "do_objectID": "E05D3E9B-0BA5-4A9F-B10A-0A51BA565FBE",
   "exportOptions": {
@@ -26,14 +26,14 @@
     "constrainProportions": false,
     "height": 64,
     "width": 64,
-    "x": 1325,
+    "x": 1300,
     "y": -736
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -54,16 +54,16 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "6D4DF38B-FC30-4A82-AB04-4524C3AAD9D0"
+      "id": "62DC970B-48FD-49D6-AA02-6EE36120D257"
     }
   ],
-  "name": "01. General 通用/Icon图标/64/007.海报分享备份 7",
+  "name": "01. General 通用/Icon图标/64/014.取消聚焦",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "6D4DF38B-FC30-4A82-AB04-4524C3AAD9D0_layerStyle"
+      "overrideName": "62DC970B-48FD-49D6-AA02-6EE36120D257_layerStyle"
     }
   ],
   "presetDictionary": {

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 414,
+  "changeIdentifier": 415,
   "clippingMaskMode": 0,
   "do_objectID": "B0C0AD31-2DEA-46D0-8249-16CBC6882B37",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,7 +57,7 @@
       "id": "E9741A9A-8786-4D86-BB92-7093B63197A2"
     }
   ],
-  "name": "01. General 通用/Icon图标/64/007.海报分享备份 2",
+  "name": "01. General 通用/Icon图标/64/009.链接分享",
   "nameIsFixed": true,
   "overrideProperties": [
     {

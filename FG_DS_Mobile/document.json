@@ -2784,13 +2784,8 @@
     ]
   },
   "meta": {
-<<<<<<< HEAD
-    "appVersion": "68",
-    "build": 102490,
-=======
     "appVersion": "68.1",
     "build": 102560,
->>>>>>> e0a6cdb5c311389ac368e9aa37a564f07ff64fa4
     "version": 131
   },
   "pages": [

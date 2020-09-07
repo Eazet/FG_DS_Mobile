@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 29,
+    "height": 26,
     "width": 24,
     "x": 4,
     "y": 1
@@ -30,15 +30,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "526BBC7E-8600-4336-8A20-A33A513C8FA9"
-    },
-    {
-      "class": "oval",
-      "id": "13A569DE-195E-4FE2-AB4E-357EAD75EFD7"
     },
     {
       "class": "rectangle",

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 562,
+  "changeIdentifier": 586,
   "clippingMaskMode": 0,
   "do_objectID": "4045C81C-F87F-4871-A2CD-88E89CDB5690",
   "exportOptions": {
@@ -26,14 +26,14 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 633,
+    "x": 591,
     "y": -961
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,7 +61,7 @@
       "id": "05F50B58-B715-4B7F-88B3-3C0A6E85CB1D"
     }
   ],
-  "name": "01. General 通用/Icon图标/24/006.图片备份",
+  "name": "01. General 通用/Icon图标/24/009.看房确认书",
   "nameIsFixed": true,
   "overrideProperties": [
     {

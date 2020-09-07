@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 33,
+  "changeIdentifier": 63,
   "clippingMaskMode": 0,
   "do_objectID": "5EC1F18F-15AC-4B80-90B1-62CC40C803EF",
   "exportOptions": {
@@ -64,6 +64,11 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "1FD79ABA-FA39-49C6-B966-CB144AB6A16C_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D5946D5C-BA18-409A-940C-FA205BFDD8D3_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",

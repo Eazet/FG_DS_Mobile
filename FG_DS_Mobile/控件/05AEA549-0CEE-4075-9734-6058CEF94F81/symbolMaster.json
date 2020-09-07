@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 5891,
+  "changeIdentifier": 6145,
   "clippingMaskMode": 0,
   "do_objectID": "05AEA549-0CEE-4075-9734-6058CEF94F81",
   "exportOptions": {
@@ -26,7 +26,7 @@
     "constrainProportions": false,
     "height": 48,
     "width": 48,
-    "x": 2461,
+    "x": 2392,
     "y": -825
   },
   "groupLayout": {
@@ -54,16 +54,17 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "88C40F83-CF97-4BB8-9D23-C312BC23356F"
-    },
-    {
-      "class": "shapePath",
-      "id": "D5C72578-6AD4-4C7E-BB61-7F87789181B9"
+      "id": "99C7BB5E-13A6-492C-9BFE-6B438956B046"
     }
   ],
-  "name": "01. General 通用/Icon图标/48/021.编辑备份 9",
+  "name": "01. General 通用/Icon图标/48/030.重新放盘",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D5C72578-6AD4-4C7E-BB61-7F87789181B9_layerStyle"
+    }
   ],
   "presetDictionary": {
   },

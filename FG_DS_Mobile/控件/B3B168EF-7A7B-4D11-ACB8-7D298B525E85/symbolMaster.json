@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 440,
+  "changeIdentifier": 918,
   "clippingMaskMode": 0,
   "do_objectID": "B3B168EF-7A7B-4D11-ACB8-7D298B525E85",
   "exportOptions": {
@@ -57,9 +57,14 @@
       "id": "EBDD37E0-7183-4734-91F8-A7CC3C49AA3F"
     }
   ],
-  "name": "01. General 通用/Icon图标/64/007.海报分享备份",
+  "name": "01. General 通用/Icon图标/64/008.多图分享",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "EBDD37E0-7183-4734-91F8-A7CC3C49AA3F_layerStyle"
+    }
   ],
   "presetDictionary": {
   },

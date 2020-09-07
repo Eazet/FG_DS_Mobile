@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 4781,
+  "changeIdentifier": 4810,
   "clippingMaskMode": 0,
   "do_objectID": "A1C14094-EFB0-44DB-93FD-391C5078C8E6",
   "exportOptions": {
@@ -55,6 +55,10 @@
     {
       "class": "shapeGroup",
       "id": "BC02C3E2-D4CC-402C-8197-98FA4EAE23B4"
+    },
+    {
+      "class": "rectangle",
+      "id": "1EA100AD-9EB5-4C99-A4D1-021AE3554C7B"
     }
   ],
   "name": "01. General 通用/Icon图标/32/034.通知",
