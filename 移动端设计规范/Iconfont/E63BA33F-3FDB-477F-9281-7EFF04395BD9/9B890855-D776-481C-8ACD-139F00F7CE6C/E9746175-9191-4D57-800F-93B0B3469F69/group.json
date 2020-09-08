@@ -33,12 +33,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "slice",
-      "id": "6C56C564-F055-4848-B6CD-9F2CD7D51F19"
-    },
-    {
       "class": "symbolInstance",
       "id": "D92CA5AD-4AEF-4566-AE68-5AE5505BC8AF"
+    },
+    {
+      "class": "slice",
+      "id": "6C56C564-F055-4848-B6CD-9F2CD7D51F19"
     }
   ],
   "name": "编组 3",

@@ -17,7 +17,7 @@
     "constrainProportions": false,
     "height": 26,
     "width": 26.43502884254432,
-    "x": 3.000000000000039,
+    "x": 3.000000000000002,
     "y": 3
   },
   "groupLayout": {
@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",

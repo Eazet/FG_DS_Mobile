@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -38,7 +38,7 @@
     },
     {
       "class": "shapeGroup",
-      "id": "1D9A63F7-7FD6-47C9-B499-B3A85606DDB2"
+      "id": "DA8AD1DF-A053-44B8-A1EC-A23F5B359381"
     }
   ],
   "name": "编组",
