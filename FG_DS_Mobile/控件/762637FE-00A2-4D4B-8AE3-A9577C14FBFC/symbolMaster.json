@@ -9,9 +9,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 6390,
+  "changeIdentifier": 8631,
   "clippingMaskMode": 0,
-  "do_objectID": "B245ABB8-BC69-47A4-B3C5-86E5AE14ABBA",
+  "do_objectID": "762637FE-00A2-4D4B-8AE3-A9577C14FBFC",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -26,14 +26,14 @@
     "constrainProportions": false,
     "height": 32,
     "width": 32,
-    "x": 1988,
+    "x": 2035,
     "y": -893
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -53,17 +53,17 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "8C717F06-069B-4BC2-8245-FE0960D67213"
+      "class": "shapeGroup",
+      "id": "C8BCDF79-A1B2-4A7B-9B1E-AF82067027F7"
     }
   ],
-  "name": "01. General 通用/Icon图标/32/035.对勾",
+  "name": "01. General 通用/Icon图标/32/036.客服",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "8C717F06-069B-4BC2-8245-FE0960D67213_layerStyle"
+      "overrideName": "C8BCDF79-A1B2-4A7B-9B1E-AF82067027F7_layerStyle"
     }
   ],
   "presetDictionary": {
@@ -107,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "29F03528-BE7D-43C9-AD2D-F4BE1D1941E1",
+    "do_objectID": "6C3D4EBC-30D3-4A5B-92AE-FB6066A8292A",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -119,7 +119,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "61D68F7E-5DA6-4930-8E93-2A1CC37A834B",
+  "symbolID": "2869808B-8C3D-42FF-AE12-7174E633E147",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

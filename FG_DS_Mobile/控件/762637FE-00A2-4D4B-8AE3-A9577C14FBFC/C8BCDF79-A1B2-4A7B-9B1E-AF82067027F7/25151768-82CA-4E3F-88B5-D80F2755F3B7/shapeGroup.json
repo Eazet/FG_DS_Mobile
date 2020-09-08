@@ -1,8 +1,8 @@
 {
   "_class": "shapeGroup",
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "C63D9555-A839-4BA7-86D5-58DA7CAA459D",
+  "do_objectID": "25151768-82CA-4E3F-88B5-D80F2755F3B7",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20,
-    "width": 20,
-    "x": 2,
-    "y": 2
+    "height": 10,
+    "width": 9,
+    "x": 18,
+    "y": 10.5
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -33,20 +33,19 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "oval",
-      "id": "53D9EC34-5313-4DEC-9300-7EB4512CF9AC"
+      "class": "shapePath",
+      "id": "A3329145-2D49-432F-83AD-4C89D898B0C5"
     },
     {
-      "class": "rectangle",
-      "id": "2A5F7D6C-B575-4B07-89F0-F92AFFF4B5FB"
+      "class": "shapePath",
+      "id": "F2DB7B73-47A6-4D02-8FEB-E1B4FE66701C"
     }
   ],
-  "name": "形状结合",
+  "name": "Oval Copy",
   "nameIsFixed": false,
-  "resizingConstraint": 41,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "72AD9A78-8B69-4E9A-AEF8-70F8D799C19E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -74,7 +73,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": true,
+      "isEnabled": false,
       "saturation": 1
     },
     "contextSettings": {
@@ -82,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "503F4A38-B218-474A-8E48-69A847B7C867",
+    "do_objectID": "35A847EE-AFF0-470B-93EE-66A5F91EE8E4",
     "endMarkerType": 0,
     "fills": [
       {
@@ -90,9 +89,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1647058823529412,
-          "green": 0.1529411764705882,
-          "red": 0.1294117647058823
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -144,7 +143,7 @@
     "shadows": [
     ],
     "startMarkerType": 0,
-    "windingRule": 1
+    "windingRule": 0
   },
-  "windingRule": 1
+  "windingRule": 0
 }
