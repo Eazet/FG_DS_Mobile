@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 10493,
+  "changeIdentifier": 10494,
   "clippingMaskMode": 0,
   "do_objectID": "3A079ED7-93A7-498F-8BB1-8A32055FE569",
   "exportOptions": {
@@ -52,10 +52,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "71B0CFE2-454A-438A-9457-FF739E93E232"
-    },
     {
       "class": "shapeGroup",
       "id": "9542C039-B636-4EC3-B7E3-C177B0F20E41"

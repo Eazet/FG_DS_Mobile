@@ -30,15 +30,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "oval",
       "id": "323037D3-F6A3-4AF5-B063-ECA51D615F9C"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "2357749E-FDA5-4B82-81E1-5412D1779D30"
     }
   ],
   "name": "编组",
