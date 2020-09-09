@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 6260,
+  "changeIdentifier": 6263,
   "clippingMaskMode": 0,
   "do_objectID": "670D56BE-E045-4A06-AED9-8D108895A1AC",
   "exportOptions": {
@@ -55,6 +55,10 @@
     {
       "class": "shapeGroup",
       "id": "3BE55DA8-82FF-44B0-B56A-D9B29936A415"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6EDFEFDE-6DF8-4628-AA94-9ED9E6734A0D"
     }
   ],
   "name": "01. General 通用/Icon图标/48/024.资料房",
