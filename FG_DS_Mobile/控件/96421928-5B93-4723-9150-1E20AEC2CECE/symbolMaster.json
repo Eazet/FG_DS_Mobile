@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 13077,
+  "changeIdentifier": 13079,
   "clippingMaskMode": 0,
   "do_objectID": "96421928-5B93-4723-9150-1E20AEC2CECE",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,13 +61,13 @@
       "id": "851434A5-0DD7-4FB8-A4B9-52D49A6BEFB6"
     }
   ],
-  "name": "01. General 通用/Icon图标/32/052.C",
+  "name": "01. General 通用/Icon图标/32/044.C",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "82A9178D-F3DD-4D07-B6E4-CC4C471620FE_layerStyle"
+      "overrideName": "E3305B66-9AF1-48F9-89FA-F4EF674DBCA7_layerStyle"
     }
   ],
   "presetDictionary": {
