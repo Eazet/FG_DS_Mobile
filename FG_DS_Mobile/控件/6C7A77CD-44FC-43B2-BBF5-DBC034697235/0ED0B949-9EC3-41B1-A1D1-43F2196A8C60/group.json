@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 40,
-    "x": 0,
-    "y": 0
+    "height": 38,
+    "width": 38,
+    "x": 1,
+    "y": 1
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -35,6 +35,10 @@
     {
       "class": "rectangle",
       "id": "8667BA59-5908-4D51-993E-E0693BB4ECBC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6718CBBC-F686-44B3-AF0D-E351FBCB9B46"
     }
   ],
   "name": "编组 5",

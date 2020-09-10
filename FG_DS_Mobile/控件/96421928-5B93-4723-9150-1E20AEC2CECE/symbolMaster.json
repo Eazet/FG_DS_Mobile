@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 13178,
+  "changeIdentifier": 13188,
   "clippingMaskMode": 0,
   "do_objectID": "96421928-5B93-4723-9150-1E20AEC2CECE",
   "exportOptions": {
@@ -53,8 +53,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "E3305B66-9AF1-48F9-89FA-F4EF674DBCA7"
+      "class": "oval",
+      "id": "8C1445E0-4929-42BE-BB80-5E3AE1805843"
     },
     {
       "class": "shapePath",
@@ -67,7 +67,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "E3305B66-9AF1-48F9-89FA-F4EF674DBCA7_layerStyle"
+      "overrideName": "8C1445E0-4929-42BE-BB80-5E3AE1805843_layerStyle"
     }
   ],
   "presetDictionary": {

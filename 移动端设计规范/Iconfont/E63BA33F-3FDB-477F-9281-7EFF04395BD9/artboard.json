@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 4497,
+    "height": 4946,
     "width": 1898,
     "x": 6778,
     "y": 20
@@ -546,6 +546,10 @@
       "id": "B798409D-B4AE-4BAD-A8FC-7CDE30D16859"
     },
     {
+      "class": "text",
+      "id": "BD87309E-745C-41D1-AA0C-3D1248A11869"
+    },
+    {
       "class": "group",
       "id": "EB5915DD-CE9F-4277-B488-8FF62123976F"
     },
@@ -572,6 +576,26 @@
     {
       "class": "group",
       "id": "9C586FFE-4139-4A4F-A65E-C7A67BE90652"
+    },
+    {
+      "class": "group",
+      "id": "0E051AB8-9736-4D65-B598-E3E7FC30E62C"
+    },
+    {
+      "class": "group",
+      "id": "27C532B9-FA68-4D60-BFF1-77CE0F31C946"
+    },
+    {
+      "class": "group",
+      "id": "0602D0AA-E650-4CC6-98CD-661E33759FF9"
+    },
+    {
+      "class": "group",
+      "id": "4AAF75A5-7A41-44A3-B2E0-F915C0DE635C"
+    },
+    {
+      "class": "group",
+      "id": "56232BD7-C7E1-45CA-840C-6F39E269D51D"
     },
     {
       "class": "group",
@@ -1012,6 +1036,26 @@
     {
       "class": "symbolInstance",
       "id": "80A21F25-411E-4282-8E8F-59613D76D024"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F78823B6-652D-4C72-96DD-92B94D8BE948"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "49057E25-E139-4A7A-B1EF-52AFE5FDF384"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0C18ECF0-BC4B-4F9F-8755-D1BAEF021F2C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8FACF0E7-280A-447C-973C-F62893C5DA2E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3FB45896-DFE8-4A5A-8626-762B956048EF"
     }
   ],
   "name": "Iconfont",
