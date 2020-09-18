@@ -9,9 +9,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 471,
+  "changeIdentifier": 8178,
   "clippingMaskMode": 0,
-  "do_objectID": "77E64F42-2499-42AC-8FF3-7A364F60B6B8",
+  "do_objectID": "14900D53-4D37-4A69-8417-C7F075488A9F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,17 +24,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 28,
-    "width": 48,
-    "x": 9812,
-    "y": -427
+    "height": 24,
+    "width": 24,
+    "x": 754,
+    "y": -961
   },
   "groupLayout": {
-    "_class": "MSImmutableInferredGroupLayout",
-    "axis": 0,
-    "layoutAnchor": 0,
-    "maxSize": 0,
-    "minSize": 0
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -54,25 +50,20 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
-      "id": "9A64B40B-A24D-4C20-9744-6166162C9AD2"
+      "id": "01DF88E0-5565-4911-8632-D790161180EA"
     }
   ],
-  "name": "04. Data Display 数据展示/Tag 标签/28/文字-主",
+  "name": "01. General 通用/Icon图标/24/013.小鹿选房备份",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "BF314757-CFFC-424C-A273-526E4BE33D36_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "A373E839-A058-45D7-8078-FA5EBC185ADB_layerStyle"
+      "overrideName": "F2065EBE-63BA-4DC0-BD21-C7D41A86AE67_layerStyle"
     }
   ],
   "presetDictionary": {
@@ -89,7 +80,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 20,
+      "radius": 10,
       "saturation": 1,
       "type": 0
     },
@@ -116,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "1FBECB81-106B-4E58-924D-B37227919B9A",
+    "do_objectID": "C9FC2ABE-6988-4DFC-8AED-F7B5D6EB3A3C",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -128,7 +119,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C9B065F3-0195-4FF9-8242-0F9D0ECBF66B",
+  "symbolID": "D200A786-68C1-4EBE-9AA9-84BB9361CF8C",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

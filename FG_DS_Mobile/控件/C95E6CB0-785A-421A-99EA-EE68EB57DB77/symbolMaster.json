@@ -9,9 +9,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 471,
+  "changeIdentifier": 838,
   "clippingMaskMode": 0,
-  "do_objectID": "77E64F42-2499-42AC-8FF3-7A364F60B6B8",
+  "do_objectID": "C95E6CB0-785A-421A-99EA-EE68EB57DB77",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 28,
-    "width": 48,
-    "x": 9812,
-    "y": -427
+    "height": 32,
+    "width": 67,
+    "x": 9705,
+    "y": -305
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
@@ -54,25 +54,43 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "955CA976-3334-4A12-B48A-714669BAF016"
+    },
+    {
       "class": "group",
-      "id": "9A64B40B-A24D-4C20-9744-6166162C9AD2"
+      "id": "33C942F4-CC24-42D5-8635-C25B1C393560"
+    },
+    {
+      "class": "text",
+      "id": "D28D10EA-49F4-4F59-94B4-A81483DBB44C"
     }
   ],
-  "name": "04. Data Display 数据展示/Tag 标签/28/文字-主",
+  "name": "04. Data Display 数据展示/Tag 标签/32/高意向",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "BF314757-CFFC-424C-A273-526E4BE33D36_stringValue"
+      "overrideName": "D28D10EA-49F4-4F59-94B4-A81483DBB44C_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "A373E839-A058-45D7-8078-FA5EBC185ADB_layerStyle"
+      "overrideName": "27A363A4-E27C-438B-8E2E-DA68A8F13D87_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "27A363A4-E27C-438B-8E2E-DA68A8F13D87_fillColor"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "955CA976-3334-4A12-B48A-714669BAF016_layerStyle"
     }
   ],
   "presetDictionary": {
@@ -116,7 +134,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "1FBECB81-106B-4E58-924D-B37227919B9A",
+    "do_objectID": "8B00E61A-DDDF-439E-A5E1-66EF5898FEC7",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -128,7 +146,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C9B065F3-0195-4FF9-8242-0F9D0ECBF66B",
+  "symbolID": "CDBF1D69-3121-4C5C-9DBB-2D1344A98608",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
