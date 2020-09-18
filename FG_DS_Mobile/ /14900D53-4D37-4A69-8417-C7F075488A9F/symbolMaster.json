@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 8178,
+  "changeIdentifier": 8179,
   "clippingMaskMode": 0,
   "do_objectID": "14900D53-4D37-4A69-8417-C7F075488A9F",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,7 +57,7 @@
       "id": "01DF88E0-5565-4911-8632-D790161180EA"
     }
   ],
-  "name": "01. General 通用/Icon图标/24/013.小鹿选房备份",
+  "name": "01. General 通用/Icon图标/24/014.购房意向度",
   "nameIsFixed": true,
   "overrideProperties": [
     {
