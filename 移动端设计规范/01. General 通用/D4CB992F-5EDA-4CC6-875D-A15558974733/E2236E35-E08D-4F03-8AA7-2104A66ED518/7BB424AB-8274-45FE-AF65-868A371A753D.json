@@ -31,11 +31,6 @@
   "name": "01. General 通用/Buttons按钮/D.32/01.操作按钮/01.主按钮备份 3",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "1B308A82-38F5-44E5-A9AB-9FC29D84E8C5/840FD651-99FC-49C3-BBD7-5AFF2BDCCF7D_layerStyle",
-      "value": "666573B5-E854-4AFF-8FE2-E8507599DC1B"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
