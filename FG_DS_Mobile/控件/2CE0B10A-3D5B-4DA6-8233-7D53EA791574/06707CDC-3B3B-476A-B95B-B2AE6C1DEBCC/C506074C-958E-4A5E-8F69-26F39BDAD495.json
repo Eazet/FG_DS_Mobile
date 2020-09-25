@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.5215686274509804,
-            "green": 0.4941176470588236,
-            "red": 0.4627450980392157
+            "blue": 0.9568627450980393,
+            "green": 0.4823529411764707,
+            "red": 0.1450980392156863
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "PingFangSC-Regular",
-              "size": 24
+              "size": 30
             }
           },
           "kerning": 0,
@@ -25,21 +25,21 @@
             "_class": "paragraphStyle",
             "alignment": 1,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 24,
-            "minimumLineHeight": 24
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 2,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "文案"
+    "string": "右侧文字"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FEE01C8F-2701-449D-91D4-DE7C9A970BE5",
+  "do_objectID": "C506074C-958E-4A5E-8F69-26F39BDAD495",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,12 +53,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 48,
-    "x": 0,
-    "y": 4
+    "height": 30,
+    "width": 120,
+    "x": 598,
+    "y": 117
   },
-  "glyphBounds": "{{1, 1}, {46, 23}}",
+  "glyphBounds": "{{1, 1}, {118, 29}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,12 +67,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "文案",
+  "name": "右侧文字",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "40C93EDA-757F-4F50-B1F6-E5D9E286EC00",
+  "sharedStyleID": "9EFACA27-D6E8-47AB-AC5E-AF8C5E896EB3",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -108,7 +108,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "5D4A1F29-80FC-43C8-BC7D-A450BC5BE1DB",
+    "do_objectID": "964C2038-0D86-4A25-A009-00317E00006E",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -124,15 +124,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5215686274509804,
-          "green": 0.4941176470588236,
-          "red": 0.4627450980392157
+          "blue": 0.9568627450980393,
+          "green": 0.4823529411764707,
+          "red": 0.1450980392156863
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "PingFangSC-Regular",
-            "size": 24
+            "size": 30
           }
         },
         "kerning": 0,
@@ -140,8 +140,8 @@
           "_class": "paragraphStyle",
           "alignment": 1,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24
+          "maximumLineHeight": 30,
+          "minimumLineHeight": 30
         },
         "textStyleVerticalAlignmentKey": 0
       },
