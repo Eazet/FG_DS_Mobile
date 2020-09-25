@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 84,
+  "changeIdentifier": 155,
   "clippingMaskMode": 0,
   "do_objectID": "51C3BD5E-FAA8-4B75-BD2B-E4AF49E65837",
   "exportOptions": {
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "oval",
@@ -58,11 +58,11 @@
     },
     {
       "class": "shapeGroup",
-      "id": "6BDD9237-0C13-4009-AC93-8C6F87982D58"
+      "id": "6E1AE5F1-4774-4846-BD27-BC3E7C27EDF1"
     },
     {
       "class": "shapeGroup",
-      "id": "A2F99373-871E-4A32-AC5A-F60C64F2A655"
+      "id": "6BDD9237-0C13-4009-AC93-8C6F87982D58"
     }
   ],
   "name": "01. General 通用/Icon图标/64/001.地铁",
