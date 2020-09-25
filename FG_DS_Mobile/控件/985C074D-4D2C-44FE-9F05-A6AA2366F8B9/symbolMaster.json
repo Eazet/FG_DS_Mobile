@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 337,
+  "changeIdentifier": 348,
   "clippingMaskMode": 0,
   "do_objectID": "985C074D-4D2C-44FE-9F05-A6AA2366F8B9",
   "exportOptions": {
@@ -57,16 +57,8 @@
       "id": "CDD19DB4-2B93-4247-AACC-5167F3925C83"
     },
     {
-      "class": "symbolInstance",
-      "id": "886CAF25-6EE0-4B93-AB20-F7B501C2AAE5"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A75B209A-B858-4162-B2B6-88637393B89C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "1E599BF5-F0F0-4AE4-B974-8146FE0D7CEF"
+      "class": "group",
+      "id": "B036BE3C-4CC6-4B77-AD1F-D520A0891482"
     }
   ],
   "name": "02. Navigation 导航/导航栏/二级导航",
