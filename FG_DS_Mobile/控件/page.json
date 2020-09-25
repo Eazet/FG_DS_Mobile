@@ -329,6 +329,30 @@
     },
     {
       "class": "symbolMaster",
+      "id": "0632C8AE-38E2-42E3-B1E2-A5E08A4E8D42"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "710E4D70-DDEA-4E65-BB02-CC2A282FCE55"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "3943BD93-D78B-49F6-8408-41DD67459A19"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "19FAE44A-7E31-4F9A-9062-885A6967742D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "17EFB91D-CE6C-4031-A6C1-38D83EB03C74"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "53AFC490-AA52-4C49-BEEC-92C9E3CF873F"
+    },
+    {
+      "class": "symbolMaster",
       "id": "5625F3A5-D476-4FCF-8F91-510D9E0872E3"
     },
     {
@@ -1330,6 +1354,10 @@
     {
       "class": "symbolMaster",
       "id": "0798009D-2497-494C-A14E-022B406DCE73"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "578C0678-8CD8-40BD-A820-5771FBAB634B"
     }
   ],
   "name": "控件",

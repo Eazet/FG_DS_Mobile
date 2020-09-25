@@ -9,21 +9,12 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 13328,
+  "changeIdentifier": 8002,
   "clippingMaskMode": 0,
-  "do_objectID": "085F9F2B-BEE6-4DAB-B114-A3A4ECB407E5",
+  "do_objectID": "0632C8AE-38E2-42E3-B1E2-A5E08A4E8D42",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "svg",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -33,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 32,
-    "x": 2448,
-    "y": -893
+    "height": 48,
+    "width": 48,
+    "x": 2818,
+    "y": -825
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -62,18 +53,17 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "8855888B-14C8-45E8-8B11-78A7E09F07C2"
+      "class": "group",
+      "id": "6CB2DA5E-2206-443D-9EE8-10314F779FFE"
+    },
+    {
+      "class": "group",
+      "id": "F38CD42A-BA10-4643-8EA0-82E7CE06396B"
     }
   ],
-  "name": "01. General 通用/Icon图标/32/046.朋友圈",
+  "name": "01. General 通用/Icon图标/48/Loadding",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "8855888B-14C8-45E8-8B11-78A7E09F07C2_layerStyle"
-    }
   ],
   "presetDictionary": {
   },
@@ -116,7 +106,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "0BA21A02-D6AA-4F9E-899F-B91F954585C8",
+    "do_objectID": "019A2DB3-E427-4D66-B57B-C2F5DF160143",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -128,7 +118,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "77B68C62-8446-4CA5-ADC8-BCD528585642",
+  "symbolID": "AE3D9FDB-8299-4903-B02F-6F566D19A30D",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

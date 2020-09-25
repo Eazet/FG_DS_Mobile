@@ -9,21 +9,12 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 13328,
+  "changeIdentifier": 7299,
   "clippingMaskMode": 0,
-  "do_objectID": "085F9F2B-BEE6-4DAB-B114-A3A4ECB407E5",
+  "do_objectID": "17EFB91D-CE6C-4031-A6C1-38D83EB03C74",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "svg",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -33,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 32,
-    "x": 2448,
-    "y": -893
+    "height": 48,
+    "width": 48,
+    "x": 3088,
+    "y": -825
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -62,17 +53,21 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "oval",
+      "id": "C08102B6-012A-4607-8BAC-D789650453FA"
+    },
+    {
       "class": "shapeGroup",
-      "id": "8855888B-14C8-45E8-8B11-78A7E09F07C2"
+      "id": "2B93AA19-E972-4342-A1B3-8DE30BE49B6F"
     }
   ],
-  "name": "01. General 通用/Icon图标/32/046.朋友圈",
+  "name": "01. General 通用/Icon图标/48/039.信息",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "8855888B-14C8-45E8-8B11-78A7E09F07C2_layerStyle"
+      "overrideName": "C08102B6-012A-4607-8BAC-D789650453FA_layerStyle"
     }
   ],
   "presetDictionary": {
@@ -116,7 +111,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "0BA21A02-D6AA-4F9E-899F-B91F954585C8",
+    "do_objectID": "71B78246-2187-467B-BF3B-45820D16786D",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -128,7 +123,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "77B68C62-8446-4CA5-ADC8-BCD528585642",
+  "symbolID": "65759844-AB3A-4CA0-A693-A500ADE6524E",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

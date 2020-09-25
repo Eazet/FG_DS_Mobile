@@ -9,21 +9,12 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 13328,
+  "changeIdentifier": 7443,
   "clippingMaskMode": 0,
-  "do_objectID": "085F9F2B-BEE6-4DAB-B114-A3A4ECB407E5",
+  "do_objectID": "3943BD93-D78B-49F6-8408-41DD67459A19",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "svg",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -33,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 32,
-    "x": 2448,
-    "y": -893
+    "height": 48,
+    "width": 48,
+    "x": 2966,
+    "y": -825
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -63,16 +54,25 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "8855888B-14C8-45E8-8B11-78A7E09F07C2"
+      "id": "276FA83F-74B1-4FF9-B813-A7C8DD36E7EF"
+    },
+    {
+      "class": "shapePath",
+      "id": "7F0BD3A9-E87C-4258-AFBC-C78D77E15278"
     }
   ],
-  "name": "01. General 通用/Icon图标/32/046.朋友圈",
+  "name": "01. General 通用/Icon图标/48/037.成功",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "8855888B-14C8-45E8-8B11-78A7E09F07C2_layerStyle"
+      "overrideName": "7F0BD3A9-E87C-4258-AFBC-C78D77E15278_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "276FA83F-74B1-4FF9-B813-A7C8DD36E7EF_layerStyle"
     }
   ],
   "presetDictionary": {
@@ -116,7 +116,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "0BA21A02-D6AA-4F9E-899F-B91F954585C8",
+    "do_objectID": "39639B09-A9C8-40F6-B716-DDF4D90494CF",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -128,7 +128,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "77B68C62-8446-4CA5-ADC8-BCD528585642",
+  "symbolID": "FB8879E2-20B1-403B-9B20-1CFA2D2EA7A9",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

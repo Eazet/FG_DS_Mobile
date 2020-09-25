@@ -9,21 +9,12 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 13328,
+  "changeIdentifier": 6971,
   "clippingMaskMode": 0,
-  "do_objectID": "085F9F2B-BEE6-4DAB-B114-A3A4ECB407E5",
+  "do_objectID": "710E4D70-DDEA-4E65-BB02-CC2A282FCE55",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "svg",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -33,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 32,
-    "x": 2448,
-    "y": -893
+    "height": 48,
+    "width": 48,
+    "x": 2894,
+    "y": -825
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -63,16 +54,16 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "8855888B-14C8-45E8-8B11-78A7E09F07C2"
+      "id": "5A34A6D1-4106-4676-8EEC-3ABBA38C06DB"
     }
   ],
-  "name": "01. General 通用/Icon图标/32/046.朋友圈",
+  "name": "01. General 通用/Icon图标/48/036.小组",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "8855888B-14C8-45E8-8B11-78A7E09F07C2_layerStyle"
+      "overrideName": "5A34A6D1-4106-4676-8EEC-3ABBA38C06DB_layerStyle"
     }
   ],
   "presetDictionary": {
@@ -116,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "0BA21A02-D6AA-4F9E-899F-B91F954585C8",
+    "do_objectID": "998C0025-3862-41A1-8BD8-86628C1B5AEA",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -128,7 +119,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "77B68C62-8446-4CA5-ADC8-BCD528585642",
+  "symbolID": "D5288CE9-CE37-4939-851E-3B746D8E942B",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
