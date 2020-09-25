@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "99FE2E93-FCEA-414E-AF04-D6EA7B519FA9",
+  "do_objectID": "5BF58D2B-C2BE-4C67-BD07-41B0C16EE56E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
+    "height": 80,
     "width": 264,
     "x": 0,
-    "y": 0
+    "y": 56
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,20 +30,20 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
-      "id": "8F4696B4-E548-40FF-B831-29CD199F7028"
+      "id": "DF971D3B-4913-415A-97E9-9EBAF5B8D037"
     },
     {
-      "class": "group",
-      "id": "0A75FF4F-719C-4DBD-B8C6-1F2B4385FA97"
+      "class": "symbolInstance",
+      "id": "BA76CE70-CED7-43C0-80BE-19E2327DF509"
     }
   ],
-  "name": "05. Feedback 反馈/Toast弱提示/可操作",
-  "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "name": "编组 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 58,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -54,7 +54,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 20,
+      "radius": 10,
       "saturation": 1,
       "type": 0
     },
@@ -81,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "3903E907-FC8A-48FF-9184-DC647CA881AE",
+    "do_objectID": "8E84AAFE-1AB4-47AE-9808-AC8FB1244319",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -92,41 +92,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "userInfo": {
-    "com.bohemiancoding.sketchtool.detach": {
-      "symbolInstance": {
-        "do_objectID": "2AE124A5-F473-4055-958D-356BC570202B",
-        "frame": {
-          "_class": "rect",
-          "constrainProportions": false,
-          "height": 240,
-          "width": 240,
-          "x": 255,
-          "y": 374
-        }
-      },
-      "symbolMaster": {
-        "do_objectID": "B25B0E19-AF81-4091-9B5D-CB49C78A4CF0",
-        "symbolID": "AAA0D3A0-382E-4AD0-B9A1-20502FD28892"
-      }
-    },
-    "com.sketch.detach": {
-      "symbolInstance": {
-        "do_objectID": "2AE124A5-F473-4055-958D-356BC570202B",
-        "frame": {
-          "_class": "rect",
-          "constrainProportions": false,
-          "height": 240,
-          "width": 240,
-          "x": 255,
-          "y": 374
-        }
-      },
-      "symbolMaster": {
-        "do_objectID": "B25B0E19-AF81-4091-9B5D-CB49C78A4CF0",
-        "symbolID": "AAA0D3A0-382E-4AD0-B9A1-20502FD28892"
-      }
-    }
   }
 }
