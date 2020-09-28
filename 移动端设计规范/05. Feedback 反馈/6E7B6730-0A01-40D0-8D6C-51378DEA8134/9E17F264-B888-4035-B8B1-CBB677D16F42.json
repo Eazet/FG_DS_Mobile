@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 252,
     "width": 264,
-    "x": 122,
-    "y": 939
+    "x": 730,
+    "y": 953
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -35,6 +35,22 @@
       "_class": "overrideValue",
       "overrideName": "BA76CE70-CED7-43C0-80BE-19E2327DF509_symbolID",
       "value": "AD957D32-DE8A-46FA-86F1-8350F249F32C"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BA76CE70-CED7-43C0-80BE-19E2327DF509/B82FF8A9-6227-436D-8C1D-97C1E1E801A1_layerStyle",
+      "value": "449A2309-1F70-4C24-B8BA-B1358937AB53"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BA76CE70-CED7-43C0-80BE-19E2327DF509_fillColor",
+      "value": {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      }
     }
   ],
   "resizingConstraint": 63,
