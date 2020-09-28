@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 737,
+  "changeIdentifier": 745,
   "clippingMaskMode": 0,
   "do_objectID": "05B29B9B-8A75-4435-93C3-DDE13CA62013",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -53,26 +53,22 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "83D18A9C-7E3B-4178-9C71-3B78657588FA"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "3C919EA1-05DB-48AD-9DE2-2BC36A37FF5A"
+      "class": "group",
+      "id": "8B7C974A-F4B3-4B79-9F1B-8EA30E0D39A3"
     }
   ],
-  "name": "01. General 通用/Icon图标/80/001.签到",
+  "name": "01. General 通用/Icon图标/80/001.房单",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "83D18A9C-7E3B-4178-9C71-3B78657588FA_layerStyle"
+      "overrideName": "B1A41F44-06EE-4DDD-ACC2-0F099BB308BD_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "3C919EA1-05DB-48AD-9DE2-2BC36A37FF5A_layerStyle"
+      "overrideName": "34247D40-C974-4E78-8958-6F0ED89A2175_symbolID"
     }
   ],
   "presetDictionary": {

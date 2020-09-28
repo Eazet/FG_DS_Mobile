@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 77714,
+  "changeIdentifier": 77798,
   "clippingMaskMode": 0,
   "do_objectID": "F1CF4531-9C72-4FA8-82A7-E9B1C2D584BA",
   "exportOptions": {
@@ -42,7 +42,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,48 +62,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "85270B84-6078-4D56-8236-EDCC9FA8C425"
-    },
-    {
-      "class": "oval",
-      "id": "212465E1-6937-41BD-9480-C9C75AC330ED"
-    },
-    {
-      "class": "rectangle",
-      "id": "5EE32A99-0A7D-4DB5-AEF4-B3E39A247F30"
-    },
-    {
-      "class": "rectangle",
-      "id": "A47DB126-03B0-4C47-978E-9EC4931C90B1"
-    },
-    {
-      "class": "rectangle",
-      "id": "3BAA5B86-70F6-4CB0-95AD-8D5FD549B1BE"
-    },
-    {
-      "class": "rectangle",
-      "id": "6F7CBC8C-8612-41F6-9266-7D736ADEF9DB"
-    },
-    {
-      "class": "rectangle",
-      "id": "E3AF44F6-CD8F-4053-9C73-8E3EE944960D"
-    },
-    {
       "class": "shapeGroup",
-      "id": "85623CC4-7E9E-4A7D-9253-90A8EED97AD7"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "8E34E0A6-997F-407B-8D5C-36A196A1A624"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "6C5D8684-9FF5-49FB-8DE5-4B1D466664BD"
-    },
-    {
-      "class": "oval",
-      "id": "FC85A675-5F74-42E7-BC9D-266DC3B02168"
+      "id": "04FBBEDE-2BA3-4A47-9CF7-D01CE6DC11DA"
     }
   ],
   "name": "01. General 通用/Icon图标/64/018.面对面分享",
