@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 12170,
+  "changeIdentifier": 12194,
   "clippingMaskMode": 0,
   "do_objectID": "7A4476DD-DC10-4C56-B766-27DD5EE94BDF",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -54,11 +54,7 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "7B70B861-DD0B-49F3-ACA0-A69294A39D5B"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "1E060D1A-D0CE-4173-B18D-A37ADC6823DA"
+      "id": "136E7FFE-67BC-4A9E-94D1-E99D914CBA55"
     }
   ],
   "name": "01. General 通用/Icon图标/48/035.匹配客户",

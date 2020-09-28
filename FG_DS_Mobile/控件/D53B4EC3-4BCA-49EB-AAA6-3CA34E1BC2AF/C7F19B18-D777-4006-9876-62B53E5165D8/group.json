@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 22,
-    "width": 4,
-    "x": 21.62828610404176,
-    "y": 13
+    "height": 39,
+    "width": 40,
+    "x": 3.628286104041763,
+    "y": 5
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -34,7 +34,7 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "AB7515CB-DE90-4C2E-B4BE-A2F86393FDCC"
+      "id": "7CD52798-D822-4C66-91CA-DE5E24F9550B"
     }
   ],
   "name": "icons8-warning_shield",

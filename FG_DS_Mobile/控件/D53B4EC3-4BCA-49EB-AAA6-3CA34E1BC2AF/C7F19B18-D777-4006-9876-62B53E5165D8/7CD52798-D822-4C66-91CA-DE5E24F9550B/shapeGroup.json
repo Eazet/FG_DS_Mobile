@@ -2,7 +2,7 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7B70B861-DD0B-49F3-ACA0-A69294A39D5B",
+  "do_objectID": "7CD52798-D822-4C66-91CA-DE5E24F9550B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 29,
-    "width": 21.96811616745696,
-    "x": 4.000000000000064,
-    "y": 9
+    "height": 37.96149106035841,
+    "width": 38.67762643126652,
+    "x": 0.5888728808081327,
+    "y": 0.4811671612204682
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,31 +30,23 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapePath",
-      "id": "BBFBFD7E-4F09-4824-B5D0-52DFD7F5C3FD"
+      "id": "1F38347D-4172-4151-B315-613F5907A3FB"
     },
     {
       "class": "shapePath",
-      "id": "4C1D3406-BD17-41C7-9B50-5A0C65BFE7F5"
+      "id": "A8D75BD0-36AA-4C76-BE88-C7003A0FCE0E"
     },
     {
       "class": "shapePath",
-      "id": "76A485AB-0076-43DD-B019-D54E88092A27"
+      "id": "8A2ED9C8-6B54-41DF-A609-9CE380E907EB"
     },
     {
       "class": "shapePath",
-      "id": "42E35180-C4A0-4959-B23E-6475B45202F9"
-    },
-    {
-      "class": "shapePath",
-      "id": "B8777C63-F658-44D2-BEFD-94BDEF071C3C"
-    },
-    {
-      "class": "shapePath",
-      "id": "C7277A49-EFF6-4898-B092-3B021E6D2C9D"
+      "id": "B8D4774B-7B57-4266-8868-4AE363B1CEE2"
     }
   ],
   "name": "形状",
@@ -62,7 +54,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "8A2C072A-F9C5-4255-85E1-4D3972396DAA",
+  "sharedStyleID": "72AD9A78-8B69-4E9A-AEF8-70F8D799C19E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -98,7 +90,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "D8612511-60CC-485A-8B8C-E91E583F2554",
+    "do_objectID": "A941787C-8AE9-4F16-90A0-7F0B57DF9282",
     "endMarkerType": 0,
     "fills": [
       {
