@@ -189,7 +189,7 @@
       "do_objectID": "4FC30A5D-613E-4A08-8BE3-D04B74999D8A",
       "fontFamilyName": "FANGGEEK-Numbers",
       "fontFileName": "FANGGEEK-Numbers.ttf",
-      "options": 2,
+      "options": 0,
       "postscriptNames": [
         "FANGGEEK-Numbers-Bold"
       ]
@@ -3872,8 +3872,8 @@
     ]
   },
   "meta": {
-    "appVersion": "68.2",
-    "build": 102594,
+    "appVersion": "68",
+    "build": 102490,
     "version": 131
   },
   "pages": [

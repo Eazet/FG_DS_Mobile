@@ -2,7 +2,7 @@
   "_class": "shapePath",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A8D75BD0-36AA-4C76-BE88-C7003A0FCE0E",
+  "do_objectID": "762ABF5E-2699-49C4-BB80-0110D628D154",
   "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
@@ -16,10 +16,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 4,
-    "width": 4,
-    "x": 17.41112711919027,
-    "y": 25.51883283877936
+    "height": 41,
+    "width": 27,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -36,22 +36,82 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{1, 0}",
+      "curveFrom": "{0.77777777777777779, 0}",
       "curveMode": 1,
-      "curveTo": "{1, 0}",
+      "curveTo": "{0.77777777777777779, 0}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1, 0}"
+      "point": "{0.77777777777777779, 0}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{1, 1}",
+      "curveFrom": "{0.77777777777777779, 0.26829268292682928}",
       "curveMode": 1,
-      "curveTo": "{1, 1}",
+      "curveTo": "{0.77777777777777779, 0.26829268292682928}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1, 1}"
+      "point": "{0.77777777777777779, 0.26829268292682928}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 0.26829268292682928}",
+      "curveMode": 1,
+      "curveTo": "{1, 0.26829268292682928}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 0.26829268292682928}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 0.36585365853658536}",
+      "curveMode": 1,
+      "curveTo": "{1, 0.36585365853658536}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 0.36585365853658536}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.62962962962962965, 0.36585365853658536}",
+      "curveMode": 1,
+      "curveTo": "{0.62962962962962965, 0.36585365853658536}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.62962962962962965, 0.36585365853658536}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.62962962962962965, 0.097560975609756101}",
+      "curveMode": 1,
+      "curveTo": "{0.62962962962962965, 0.097560975609756101}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.62962962962962965, 0.097560975609756101}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.14814814814814814, 0.097560975609756101}",
+      "curveMode": 1,
+      "curveTo": "{0.14814814814814814, 0.097560975609756101}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.14814814814814814, 0.097560975609756101}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.14814814814814814, 1}",
+      "curveMode": 1,
+      "curveTo": "{0.14814814814814814, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.14814814814814814, 1}"
     },
     {
       "_class": "curvePoint",
@@ -85,7 +145,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 20,
+      "radius": 10,
       "saturation": 1,
       "type": 0
     },
@@ -112,7 +172,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "E4A1B664-3144-4121-84EF-FA593094135D",
+    "do_objectID": "A6BE7051-D62D-416A-AEA8-FE8176536488",
     "endMarkerType": 0,
     "fills": [
       {
@@ -120,9 +180,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.1647058823529412,
+          "green": 0.1529411764705882,
+          "red": 0.1294117647058824
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
