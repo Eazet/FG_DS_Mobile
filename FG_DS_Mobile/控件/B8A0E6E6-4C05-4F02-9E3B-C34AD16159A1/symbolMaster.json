@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 32117,
   "clippingMaskMode": 0,
   "do_objectID": "B8A0E6E6-4C05-4F02-9E3B-C34AD16159A1",
   "exportOptions": {
@@ -32,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,11 +60,6 @@
   "name": "01. General 通用/Icon图标/48/047.小区",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "5ED4278F-A387-4847-A61F-AFC82FE2938C_layerStyle"
-    }
   ],
   "presetDictionary": {
   },
