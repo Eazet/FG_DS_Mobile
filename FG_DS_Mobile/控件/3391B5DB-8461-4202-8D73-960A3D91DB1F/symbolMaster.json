@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 32732,
   "clippingMaskMode": 0,
   "do_objectID": "3391B5DB-8461-4202-8D73-960A3D91DB1F",
   "exportOptions": {
@@ -64,6 +63,11 @@
   "name": "01. General 通用/Icon图标/48/048.链接",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F50DFFD3-DA6C-4923-BD9B-EDC893621CF6_layerStyle"
+    }
   ],
   "presetDictionary": {
   },
