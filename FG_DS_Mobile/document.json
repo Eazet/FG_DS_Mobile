@@ -23,9 +23,6 @@
   },
   "colorSpace": 1,
   "do_objectID": "A072E488-6E15-46CC-BFDF-F0AEB00D4538",
-  "documentState": {
-    "_class": "documentState"
-  },
   "fontReferences": [
     {
       "_class": "fontReference",
@@ -2956,6 +2953,7 @@
           "red": 1
         },
         "booleanOperation": -1,
+        "changeIdentifier": 0,
         "clippingMaskMode": 0,
         "do_objectID": "DA42F9E2-55B7-4261-803F-A0113868FD39",
         "exportOptions": {
@@ -3371,6 +3369,7 @@
           "red": 1
         },
         "booleanOperation": -1,
+        "changeIdentifier": 0,
         "clippingMaskMode": 0,
         "do_objectID": "DA42F9E2-55B7-4261-803F-A0113868FD39",
         "exportOptions": {
@@ -3869,14 +3868,13 @@
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
-    "do_objectID": "8F4EC1A6-6C0E-46CC-BFDF-FBACB02C3C55",
     "objects": [
     ]
   },
   "meta": {
-    "appVersion": "69",
-    "build": 107357,
-    "version": 134
+    "appVersion": "68.2",
+    "build": 102594,
+    "version": 131
   },
   "pages": [
     "COVER",
@@ -3886,7 +3884,6 @@
   ],
   "sharedSwatches": {
     "_class": "swatchContainer",
-    "do_objectID": "9942C5A6-6C0E-46CC-BFDF-FBACB02C3259",
     "objects": [
     ]
   }

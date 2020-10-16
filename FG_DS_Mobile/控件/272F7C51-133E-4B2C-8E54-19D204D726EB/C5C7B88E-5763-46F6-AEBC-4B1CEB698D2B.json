@@ -23,7 +23,7 @@
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
             "maximumLineHeight": 24,
             "minimumLineHeight": 24
@@ -69,10 +69,10 @@
   "lineSpacingBehaviour": 3,
   "name": "文案",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "A82B118E-63F5-4B86-8C61-B4871590F445",
+  "sharedStyleID": "79629157-665B-4D7E-8F7A-1C1C6602ECBD",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -138,7 +138,7 @@
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
           "maximumLineHeight": 24,
           "minimumLineHeight": 24

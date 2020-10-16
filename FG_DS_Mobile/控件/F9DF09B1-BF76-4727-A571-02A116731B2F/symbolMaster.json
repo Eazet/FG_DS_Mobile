@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 62,
   "clippingMaskMode": 0,
   "do_objectID": "F9DF09B1-BF76-4727-A571-02A116731B2F",
   "exportOptions": {
@@ -36,7 +37,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -71,6 +72,11 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "37B49F2B-C199-46F8-BAE9-C4B8A9F5088D_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6EF81944-2900-40AE-8C52-7D5170591493_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
