@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -54,26 +54,16 @@
   "layers": [
     {
       "class": "group",
-      "id": "C7F19B18-D777-4006-9876-62B53E5165D8"
+      "id": "B9E25934-9B8D-4D5B-B941-6A5F367E9DB8"
     }
   ],
-  "name": "01. General 通用/Icon图标/48/042.更新",
+  "name": "01. General 通用/Icon图标/48/042.更新小区",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "7CD52798-D822-4C66-91CA-DE5E24F9550B_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "C7F19B18-D777-4006-9876-62B53E5165D8_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "C7F19B18-D777-4006-9876-62B53E5165D8_fillColor"
+      "overrideName": "B9E25934-9B8D-4D5B-B941-6A5F367E9DB8_fillColor"
     }
   ],
   "presetDictionary": {

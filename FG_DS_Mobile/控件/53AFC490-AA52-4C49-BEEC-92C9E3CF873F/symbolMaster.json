@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -53,12 +53,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "oval",
-      "id": "F8753E20-BF76-4E00-8F9F-DDC3788F9795"
-    },
-    {
       "class": "shapeGroup",
-      "id": "3F45F518-6CDF-444F-A055-913E61F364F3"
+      "id": "D5858F7B-F54B-4AF8-B4D2-B24E47A3C601"
     }
   ],
   "name": "01. General 通用/Icon图标/48/040.错误",
