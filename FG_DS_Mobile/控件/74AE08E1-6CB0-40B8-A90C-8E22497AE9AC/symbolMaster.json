@@ -9,21 +9,11 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "74AE08E1-6CB0-40B8-A90C-8E22497AE9AC",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "svg",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -42,7 +32,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -72,7 +62,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "60B283E5-3CB5-4FBD-B2C7-476F9D4892C9_layerStyle"
+      "overrideName": "294CD33E-B591-4C76-B778-D4289B1503D9_layerStyle"
     }
   ],
   "presetDictionary": {

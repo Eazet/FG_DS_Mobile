@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "EEC36E54-96B3-40AB-BC30-8CE6D1663B12",
   "exportOptions": {
@@ -60,11 +59,6 @@
   "name": "01. General 通用/Icon图标/48/046.微信海报",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "4E31F160-AE85-402F-90BC-6AEE15C17315_layerStyle"
-    }
   ],
   "presetDictionary": {
   },
