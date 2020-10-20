@@ -1,0 +1,108 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "03AF846C-8CC1-454A-A5E5-7ADF1D5E6993",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 92,
+    "x": 274,
+    "y": 375
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "01. General 通用/Buttons按钮/04.虚线/03.下拉按钮/默认备份",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C8D48847-1A8E-4E39-8FA4-7DB12080DFC9_layerStyle",
+      "value": "CC4F21F7-F9C6-4041-89B1-0A9DE99CAF81"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DBEEAAC6-10F9-4659-9401-0A6FDA24CA6F_stringValue",
+      "value": "虚线按钮"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FA7D31ED-A67E-42D7-B332-37A72C168349_layerStyle",
+      "value": "C67BAB24-4EB3-43F5-9F86-DAF5D4FBD822"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DBEEAAC6-10F9-4659-9401-0A6FDA24CA6F_textStyle",
+      "value": "BD454252-3918-42CD-AC5E-844DC5985A91"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "8F45D0F8-7D1F-47A1-B262-3DE54F14C7EE",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F31937C2-658B-4173-A845-F8BD24FA0133",
+  "verticalSpacing": 0
+}
