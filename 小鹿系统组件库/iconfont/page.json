@@ -45,6 +45,10 @@
     },
     {
       "class": "symbolInstance",
+      "id": "A42CAA9F-55F2-4130-9716-BA2ED22CD116"
+    },
+    {
+      "class": "symbolInstance",
       "id": "77B7A221-50DB-4B91-8642-0B5FC9FB48BC"
     },
     {
@@ -1669,6 +1673,10 @@
     },
     {
       "class": "artboard",
+      "id": "8CF9C603-C924-4A6D-8DA2-8DE140D9AD04"
+    },
+    {
+      "class": "artboard",
       "id": "BBEEE4F3-0393-4288-AD43-284344F024F1"
     },
     {
@@ -2550,6 +2558,10 @@
     {
       "class": "group",
       "id": "9C54E066-19E5-45B9-99F2-8D92BBA5C821"
+    },
+    {
+      "class": "group",
+      "id": "655C4DD2-3DE1-4A92-942E-AB5ADBF9A413"
     },
     {
       "class": "group",
