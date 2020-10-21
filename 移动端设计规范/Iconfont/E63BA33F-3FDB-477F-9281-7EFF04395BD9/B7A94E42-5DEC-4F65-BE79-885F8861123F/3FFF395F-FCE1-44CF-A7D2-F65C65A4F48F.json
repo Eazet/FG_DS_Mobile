@@ -34,7 +34,7 @@
         "location": 0
       }
     ],
-    "string": "C-036-L"
+    "string": "C-041-L"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 26,
-    "width": 105,
+    "width": 100,
     "x": 31,
     "y": 150
   },
-  "glyphBounds": "{{0, 4}, {104, 19}}",
+  "glyphBounds": "{{0, 4}, {99, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "C-036-L",
+  "name": "C-041-L",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
