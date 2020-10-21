@@ -905,6 +905,10 @@
     },
     {
       "class": "symbolMaster",
+      "id": "311F3168-92A0-4658-A9E7-F454F1EFD676"
+    },
+    {
+      "class": "symbolMaster",
       "id": "2AA14829-FEF0-4CD9-AC73-6D853767F484"
     },
     {
@@ -3882,10 +3886,6 @@
     {
       "class": "symbolMaster",
       "id": "BC9C1FA2-8F65-48EC-8F58-3F6579F2C814"
-    },
-    {
-      "class": "bitmap",
-      "id": "29009B58-F5B0-482B-B745-F292DEE0F1FE"
     }
   ],
   "name": "组件",

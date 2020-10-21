@@ -1,9 +1,8 @@
 {
-  "_class": "bitmap",
+  "_class": "page",
   "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "29009B58-F5B0-482B-B745-F292DEE0F1FE",
+  "do_objectID": "6C38A13C-089D-4107-9DAC-9C2D04DCB7D8",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,31 +12,37 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 314,
-    "width": 181,
-    "x": -3417,
-    "y": 2054
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
   "hasClippingMask": false,
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/8eed0b719f99def5439bd92fbaced386da9d7110.png",
-    "_ref_class": "MSImageData"
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -964,
+    "guides": [
+    ]
   },
-  "intendedDPI": 144,
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "截屏2020-10-19 下午4.39.47",
+  "layers": [
+  ],
+  "name": "——",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 0,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -75,7 +80,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "68A9A11E-07FA-4E74-AFF1-6F2F08A27E8D",
+    "do_objectID": "616CF94D-9E3B-46A9-9215-9A03347B2FC8",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -86,5 +91,11 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -565,
+    "guides": [
+    ]
   }
 }

@@ -1,8 +1,8 @@
 {
-  "_class": "page",
-  "booleanOperation": -1,
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "DE1CCA2C-9E21-4BAA-A6E6-1D816E2BA24A",
+  "do_objectID": "5BFB586C-A0A0-4046-96FE-6A4C926F4A82",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,36 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
+    "height": 32,
+    "width": 32,
     "x": 0,
     "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -462,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-  ],
-  "name": "——",
+  "name": "Cursors / Resize (Single) / South-East",
   "nameIsFixed": false,
-  "resizingConstraint": 0,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -80,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "ADA420F0-EE4D-4216-A456-427D9EABC261",
+    "do_objectID": "F8BD172D-2F24-4020-BCF9-C2E3CD622A20",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -92,10 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -356,
-    "guides": [
-    ]
-  }
+  "symbolID": "9CFAE4AE-A21B-4769-850E-095D1B10207E",
+  "verticalSpacing": 0
 }
