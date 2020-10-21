@@ -1,0 +1,140 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "16B43DCF-4300-4005-BB88-4858E3DB40C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 92,
+    "x": 40,
+    "y": 20
+  },
+  "groupLayout": {
+    "_class": "MSImmutableInferredGroupLayout",
+    "axis": 0,
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "D9A2A48B-0489-4DDD-8AC3-EEC264C4F98E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "80BD4E46-7528-4071-8889-4EF2A36D12D1"
+    },
+    {
+      "class": "text",
+      "id": "5601B8F9-30BF-4F54-A5EB-AA40C9CC7084"
+    }
+  ],
+  "name": "面包屑",
+  "nameIsFixed": false,
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "99A4145A-A945-4160-8685-462B72C84093",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.bohemiancoding.sketchtool.detach": {
+      "symbolInstance": {
+        "do_objectID": "72428CE7-CB19-4A6E-B6DD-8C0CCB37B822",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 24,
+          "width": 206,
+          "x": 40,
+          "y": 20
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "CF5D8C77-3812-44E1-A9DB-9C1DF5A8AC6F",
+        "symbolID": "371B479B-743C-49FE-B5CF-C167BCC81BA8"
+      }
+    },
+    "com.sketch.detach": {
+      "symbolInstance": {
+        "do_objectID": "72428CE7-CB19-4A6E-B6DD-8C0CCB37B822",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 24,
+          "width": 206,
+          "x": 40,
+          "y": 20
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "CF5D8C77-3812-44E1-A9DB-9C1DF5A8AC6F",
+        "symbolID": "371B479B-743C-49FE-B5CF-C167BCC81BA8"
+      }
+    }
+  }
+}

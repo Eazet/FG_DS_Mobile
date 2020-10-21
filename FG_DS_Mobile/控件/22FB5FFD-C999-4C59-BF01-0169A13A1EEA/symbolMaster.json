@@ -59,11 +59,6 @@
   "name": "01. General 通用/Icon图标/48/043.房单",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "1F9A0F48-8B23-4C9E-95F9-510129FA9381_layerStyle"
-    }
   ],
   "presetDictionary": {
   },

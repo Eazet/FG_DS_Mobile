@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2400,
+    "height": 2757,
     "width": 1459,
     "x": 1411,
     "y": -546
@@ -92,6 +92,14 @@
     {
       "class": "symbolInstance",
       "id": "DE16D76B-976B-4B78-9333-048B5A4656D2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "22C837E2-1940-44DA-9088-0FDE00F0D7A0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "632F0F11-426F-45DD-BCBE-6F6C4CE1CF86"
     }
   ],
   "name": "Dialog",
