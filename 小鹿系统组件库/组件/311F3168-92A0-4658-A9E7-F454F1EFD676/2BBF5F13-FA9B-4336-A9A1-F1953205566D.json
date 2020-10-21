@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "5BFB586C-A0A0-4046-96FE-6A4C926F4A82",
+  "do_objectID": "2BBF5F13-FA9B-4336-A9A1-F1953205566D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Cursors / Resize (Single) / South-East",
+  "name": "Cursors / Resize (Double) / North-West South-East",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -71,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "F8BD172D-2F24-4020-BCF9-C2E3CD622A20",
+    "do_objectID": "1643964C-5150-4FE4-B084-E0E84954FB7D",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -83,6 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "9CFAE4AE-A21B-4769-850E-095D1B10207E",
+  "symbolID": "ABC017FE-3E65-4E8A-B2E1-69894D4ED631",
   "verticalSpacing": 0
 }
