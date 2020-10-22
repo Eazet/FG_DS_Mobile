@@ -70,6 +70,11 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
+      "overrideName": "C9CEBD6C-BC90-4D4C-ACD2-3626F3739D4D_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
       "overrideName": "377C2252-2C51-4008-9D7D-D79D57FD5978_layerStyle"
     },
     {

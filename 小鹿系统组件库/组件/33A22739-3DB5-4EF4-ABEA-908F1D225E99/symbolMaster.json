@@ -10,7 +10,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "13F9717C-D36B-4A29-AA34-2AEF3FFA2AFE",
+  "do_objectID": "33A22739-3DB5-4EF4-ABEA-908F1D225E99",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 32,
     "width": 152,
-    "x": 60,
-    "y": 3223
+    "x": -142,
+    "y": 4371
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -49,39 +49,39 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
-      "id": "E1DBED1F-1D00-4DCA-9CFD-F0568CAC1BF9"
+      "id": "F2DBEABC-3B45-47A0-B0E3-F9915B1CC99D"
     },
     {
       "class": "group",
-      "id": "3B81043E-8ECC-43D6-B422-E8CF586489FA"
+      "id": "9C747E13-EBBD-4BBB-9309-3C9CC0238082"
     }
   ],
-  "name": "03. Data Entry 数据录入/Selection 选项/勾选类/勾选项-不可用-已选",
+  "name": "03. Data Entry 数据录入/Selection 选项/带头像/已选",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "E1DBED1F-1D00-4DCA-9CFD-F0568CAC1BF9_layerStyle"
+      "overrideName": "F2DBEABC-3B45-47A0-B0E3-F9915B1CC99D_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "226683AA-B39E-47C3-805A-7061949927AD_symbolID"
+      "overrideName": "6D7EBA96-CE84-45BE-A05F-3D23794612EC_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "C4BF1551-A986-4D68-8779-107EF2B9FB1A_stringValue"
+      "overrideName": "6D7EBA96-CE84-45BE-A05F-3D23794612EC_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "C4BF1551-A986-4D68-8779-107EF2B9FB1A_textStyle"
+      "overrideName": "5AD963E2-E46E-4094-A370-E5289054B76F_image"
     }
   ],
   "presetDictionary": {
@@ -125,7 +125,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "822CD883-6260-46A2-88B8-6A80BD252FFC",
+    "do_objectID": "38DEF7EE-7E2B-415B-86CB-39101454B697",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -137,7 +137,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4C7A5613-613E-4561-8297-CDF44E5B94AE",
+  "symbolID": "F912505E-710D-4129-8BA5-B7AC35A61164",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
