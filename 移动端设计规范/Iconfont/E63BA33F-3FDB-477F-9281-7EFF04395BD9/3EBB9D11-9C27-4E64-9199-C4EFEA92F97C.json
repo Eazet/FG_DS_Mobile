@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6C38A13C-089D-4107-9DAC-9C2D04DCB7D8",
+  "do_objectID": "3EBB9D11-9C27-4E64-9199-C4EFEA92F97C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,37 +14,28 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "constrainProportions": true,
+    "height": 24,
+    "width": 24,
+    "x": 1242,
+    "y": 1790
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -964,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-  ],
-  "name": "——",
+  "name": "04. Data Display 数据展示/Checkbox 多选框/已选择备份 121",
   "nameIsFixed": false,
-  "resizingConstraint": 0,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0.6,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -53,7 +44,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 6,
       "saturation": 1,
       "type": 0
     },
@@ -80,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "616CF94D-9E3B-46A9-9215-9A03347B2FC8",
+    "do_objectID": "5520D01D-ED85-4625-9A9B-C5BE586E05D3",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -92,10 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -565,
-    "guides": [
-    ]
-  }
+  "symbolID": "783A35B3-BB49-4461-815A-402E789C4559",
+  "verticalSpacing": 0
 }
