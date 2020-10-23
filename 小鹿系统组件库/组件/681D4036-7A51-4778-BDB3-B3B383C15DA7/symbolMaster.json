@@ -24,7 +24,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 400,
-    "width": 8,
+    "width": 10,
     "x": -2994,
     "y": 2445
   },
@@ -49,7 +49,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",

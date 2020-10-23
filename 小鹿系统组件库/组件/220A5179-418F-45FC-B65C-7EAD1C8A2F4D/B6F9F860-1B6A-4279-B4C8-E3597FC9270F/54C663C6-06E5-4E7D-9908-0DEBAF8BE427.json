@@ -13,13 +13,13 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 2,
+  "fixedRadius": 3,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
     "height": 200,
-    "width": 8,
-    "x": 0,
+    "width": 6,
+    "x": 2,
     "y": 97
   },
   "hasClippingMask": false,
@@ -38,7 +38,7 @@
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
+      "cornerRadius": 3,
       "curveFrom": "{3.5527136788004997e-15, 0}",
       "curveMode": 1,
       "curveTo": "{3.5527136788004997e-15, 0}",
@@ -48,7 +48,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
+      "cornerRadius": 3,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -58,7 +58,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
+      "cornerRadius": 3,
       "curveFrom": "{0.99999999999999989, 1.0000000000000033}",
       "curveMode": 1,
       "curveTo": "{0.99999999999999989, 1.0000000000000033}",
@@ -68,7 +68,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
+      "cornerRadius": 3,
       "curveFrom": "{0, 1.0000000000000062}",
       "curveMode": 1,
       "curveTo": "{0, 1.0000000000000062}",
@@ -80,7 +80,7 @@
   "resizingConstraint": 26,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "B9FBE60A-2B3D-4F9A-AF58-E32A4A37976E",
+  "sharedStyleID": "C8224DF0-8CBA-4E78-95E5-08E8CBC64748",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -108,7 +108,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": true,
+      "isEnabled": false,
       "saturation": 1
     },
     "contextSettings": {
@@ -124,9 +124,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.803921568627451,
-          "green": 0.7803921568627451,
-          "red": 0.7568627450980392
+          "blue": 0.6784313725490196,
+          "green": 0.6470588235294118,
+          "red": 0.6235294117647059
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -178,6 +178,6 @@
     "shadows": [
     ],
     "startMarkerType": 0,
-    "windingRule": 1
+    "windingRule": 0
   }
 }

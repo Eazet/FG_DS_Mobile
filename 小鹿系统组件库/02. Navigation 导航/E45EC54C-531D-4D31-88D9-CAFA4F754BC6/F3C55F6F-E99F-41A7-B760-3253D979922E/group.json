@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 94,
-    "width": 552,
+    "height": 92,
+    "width": 286,
     "x": 100,
     "y": 1829
   },
@@ -39,14 +39,6 @@
     {
       "class": "group",
       "id": "B6EC760A-681B-416D-BAE4-3E95A454CB6C"
-    },
-    {
-      "class": "group",
-      "id": "DCD79B3E-36DB-41ED-996D-6DC020B3D8D6"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "97F3D513-60EE-4231-AE12-74747548A2AC"
     }
   ],
   "name": "编组 2备份 5",

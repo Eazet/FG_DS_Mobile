@@ -21,11 +21,11 @@
             }
           }
         },
-        "length": 12,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "#EBEDF0 100%"
+    "string": "#F4F6F9"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -45,11 +45,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 87,
+    "width": 48,
     "x": 8,
     "y": 4
   },
-  "glyphBounds": "{{0, 2}, {86, 10}}",
+  "glyphBounds": "{{0, 2}, {47, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -57,8 +57,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
-  "name": "#EBEDF0 100%",
+  "lineSpacingBehaviour": 3,
+  "name": "#F4F6F9",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

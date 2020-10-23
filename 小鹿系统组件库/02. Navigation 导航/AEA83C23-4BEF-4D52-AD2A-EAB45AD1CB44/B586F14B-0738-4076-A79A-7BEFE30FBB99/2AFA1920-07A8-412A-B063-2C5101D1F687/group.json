@@ -38,11 +38,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "DB2D7E0C-2081-431C-9DAF-75693F283F50"
+      "id": "D3EC1271-739D-437A-8FCE-2EA006CFCB35"
     },
     {
-      "class": "group",
-      "id": "65E861F6-AD7F-44DC-8582-5300BEC3D4ED"
+      "class": "rectangle",
+      "id": "D3644721-7577-4507-A20F-1E9EA2C58207"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "14925AF7-605D-4626-95C8-B6693665C124"
     }
   ],
   "name": "编组备份 3",

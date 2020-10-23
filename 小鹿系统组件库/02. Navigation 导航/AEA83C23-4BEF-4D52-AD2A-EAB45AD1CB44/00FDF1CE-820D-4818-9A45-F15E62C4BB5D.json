@@ -54,8 +54,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 718,
-    "x": 101,
-    "y": 1273
+    "x": 108,
+    "y": 1293
   },
   "glyphBounds": "{{0, 4}, {707, 17}}",
   "hasClippingMask": false,
@@ -65,7 +65,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
+  "lineSpacingBehaviour": 3,
   "name": "4.点住浮标时即可沿着滚动路径拖动滚动条",
   "nameIsFixed": false,
   "resizingConstraint": 47,

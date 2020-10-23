@@ -80,7 +80,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "B9FBE60A-2B3D-4F9A-AF58-E32A4A37976E",
+  "sharedStyleID": "C8224DF0-8CBA-4E78-95E5-08E8CBC64748",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -108,7 +108,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": true,
+      "isEnabled": false,
       "saturation": 1
     },
     "contextSettings": {
@@ -124,9 +124,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.803921568627451,
-          "green": 0.7803921568627451,
-          "red": 0.7568627450980392
+          "blue": 0.6784313725490196,
+          "green": 0.6470588235294118,
+          "red": 0.6235294117647059
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -178,6 +178,6 @@
     "shadows": [
     ],
     "startMarkerType": 0,
-    "windingRule": 1
+    "windingRule": 0
   }
 }

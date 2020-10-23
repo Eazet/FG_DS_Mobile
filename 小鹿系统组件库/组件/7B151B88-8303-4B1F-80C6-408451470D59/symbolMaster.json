@@ -24,15 +24,15 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 400,
-    "width": 12,
-    "x": -2888,
+    "width": 10,
+    "x": -2884,
     "y": 2445
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,6 +59,11 @@
   "name": "02. Navigation 导航/Scrollbar滚动条/暗色/Hover",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "72840AA6-5E06-40C4-833D-81989EA0218D_layerStyle"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
