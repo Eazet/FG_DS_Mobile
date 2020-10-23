@@ -24,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 14,
-    "width": 14,
-    "x": 125,
-    "y": 254
+    "height": 24,
+    "width": 24,
+    "x": 120,
+    "y": 249
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,

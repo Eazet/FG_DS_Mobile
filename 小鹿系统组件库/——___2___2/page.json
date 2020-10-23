@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "82F3A874-150A-4335-A6DF-ACC54AB17A4C",
+  "do_objectID": "BC6A98E5-CC59-44A4-8D2A-59838265BFED",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,35 +15,34 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 12,
-    "width": 12,
+    "height": 300,
+    "width": 300,
     "x": 0,
     "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -964,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
-    {
-      "class": "rectangle",
-      "id": "D8CEEB10-459D-4CE5-B422-5E383EB212DF"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "56C60BFB-9D75-44EF-A6E2-73533B8B9C8F"
-    }
   ],
-  "name": "编组",
+  "name": "——",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 0,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -54,7 +53,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 6,
+      "radius": 10,
       "saturation": 1,
       "type": 0
     },
@@ -81,7 +80,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "FF8B30BC-F9B1-41E8-A5E5-55C975E6041F",
+    "do_objectID": "F7761DF1-7A76-4C17-829F-0D2D7CA5CFCC",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -92,5 +91,11 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -565,
+    "guides": [
+    ]
   }
 }

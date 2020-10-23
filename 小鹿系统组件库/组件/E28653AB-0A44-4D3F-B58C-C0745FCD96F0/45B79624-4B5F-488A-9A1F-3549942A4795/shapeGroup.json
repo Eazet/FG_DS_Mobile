@@ -1,8 +1,8 @@
 {
   "_class": "shapeGroup",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E40AB290-0590-44D8-8B73-4DD769A97C75",
+  "do_objectID": "45B79624-4B5F-488A-9A1F-3549942A4795",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 9.6,
-    "width": 10.97142857142857,
-    "x": 1.056932319443149e-11,
-    "y": 0
+    "height": 2,
+    "width": 10,
+    "x": 1,
+    "y": 5
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -33,20 +33,24 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "33A59063-827C-4301-9116-07B6D6DA99CB"
+      "class": "shapePath",
+      "id": "CA10B1B7-B7BE-44BB-8C63-E1701C6766C6"
     },
     {
       "class": "shapePath",
-      "id": "86C186E9-FA5C-4455-AED9-5CB4DBBA2082"
+      "id": "FA3CA281-05F6-40DF-B27F-E1CF2981B9C2"
+    },
+    {
+      "class": "shapePath",
+      "id": "D6497927-6486-40A6-A9F5-D3FF42E277DB"
     }
   ],
-  "name": "形状结合",
+  "name": "图标",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "93B3AFB4-3941-4570-8C63-51369061F557",
+  "sharedStyleID": "8564EA08-CB9E-4242-A93A-FF597915F9D0",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -55,7 +59,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 6,
+      "radius": 10,
       "saturation": 1,
       "type": 0
     },
@@ -74,7 +78,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": true,
+      "isEnabled": false,
       "saturation": 1
     },
     "contextSettings": {
@@ -82,7 +86,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "0A4DD09B-7838-4042-80B5-F67522AF26A7",
+    "do_objectID": "97441382-8BDE-43A4-B6DC-843946301936",
     "endMarkerType": 0,
     "fills": [
       {
@@ -90,9 +94,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1647058823529412,
-          "green": 0.1529411764705882,
-          "red": 0.1294117647058823
+          "blue": 0.4666666666666667,
+          "green": 0.4392156862745098,
+          "red": 0.4117647058823529
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -144,7 +148,7 @@
     "shadows": [
     ],
     "startMarkerType": 0,
-    "windingRule": 1
+    "windingRule": 0
   },
-  "windingRule": 1
+  "windingRule": 0
 }

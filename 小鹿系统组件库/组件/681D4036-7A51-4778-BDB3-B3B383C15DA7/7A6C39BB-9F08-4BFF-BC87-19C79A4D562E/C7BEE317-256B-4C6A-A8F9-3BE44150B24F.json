@@ -18,7 +18,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 400,
-    "width": 12,
+    "width": 8,
     "x": 0,
     "y": 0
   },
@@ -182,7 +182,7 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "fillType": 1,
+        "fillType": 0,
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
@@ -214,7 +214,7 @@
           ],
           "to": "{0.5, 0.44621934763197224}"
         },
-        "isEnabled": false,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,
