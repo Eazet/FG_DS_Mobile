@@ -25,14 +25,14 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": -3649,
+    "x": -3677,
     "y": 2194
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,11 +59,6 @@
   "name": "01. General 通用/Icon图标/16/095.医疗-F",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "23ADBC93-BFFF-4F38-BB34-9BD9A0D636AC_layerStyle"
-    }
   ],
   "presetDictionary": {
   },

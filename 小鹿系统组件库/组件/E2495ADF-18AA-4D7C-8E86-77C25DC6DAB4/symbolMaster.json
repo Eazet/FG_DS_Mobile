@@ -25,14 +25,14 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": -3593,
+    "x": -3621,
     "y": 2222
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,11 +59,6 @@
   "name": "01. General 通用/Icon图标/16/107.关联访客",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "EAE90700-F0A3-4C79-BB5E-7B0F37DAA8EC_layerStyle"
-    }
   ],
   "presetDictionary": {
   },

@@ -25,14 +25,14 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": -3565,
+    "x": -3593,
     "y": 2194
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,11 +59,6 @@
   "name": "01. General 通用/Icon图标/16/098.左对齐-F",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "FDF759F4-464B-4712-8C4E-E3FADA06636C_layerStyle"
-    }
   ],
   "presetDictionary": {
   },
