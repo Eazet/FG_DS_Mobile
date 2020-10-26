@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 252,
-    "width": 320,
-    "x": 16,
-    "y": 69
+    "height": 225,
+    "width": 517,
+    "x": 17,
+    "y": 73
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -35,6 +35,18 @@
     {
       "class": "rectangle",
       "id": "BCBEEC98-125D-4225-97EE-D73E5F9D51AC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C3F6FA7C-24FC-4EBA-AEAF-4C2AB4192890"
+    },
+    {
+      "class": "rectangle",
+      "id": "0578A89C-E2A6-4840-947F-8C87DD079B5B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6E46A5F9-521A-40C8-8F00-B5D35DD61A4E"
     }
   ],
   "name": "编组",

@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 22,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "1.滚动条不占用内容的空间，悬浮在内容之上。"
+    "string": "1.滚动条展示规则"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 334,
+    "width": 126,
     "x": 101,
     "y": 262
   },
-  "glyphBounds": "{{1, 4}, {322, 17}}",
+  "glyphBounds": "{{1, 4}, {124, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,8 +65,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
-  "name": "1.滚动条不占用内容的空间，悬浮在内容之",
+  "lineSpacingBehaviour": 3,
+  "name": "1.滚动条展示规则",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

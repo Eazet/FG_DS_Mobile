@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.4666666666666667,
-            "green": 0.4392156862745098,
-            "red": 0.4117647058823529
+            "blue": 0.6784313725490196,
+            "green": 0.6470588235294118,
+            "red": 0.6235294117647059
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -31,11 +31,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 3,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "激活态"
+    "string": "Hover"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,11 +55,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 19,
-    "width": 39,
-    "x": 417,
+    "width": 38,
+    "x": 417.5,
     "y": 10
   },
-  "glyphBounds": "{{0, 4}, {39, 13}}",
+  "glyphBounds": "{{1, 5}, {37, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,13 +67,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
-  "name": "激活态",
+  "lineSpacingBehaviour": 3,
+  "name": "Hover",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "096AA64A-F137-404B-8A7E-6F0CF873C5DA",
+  "sharedStyleID": "59787E90-550D-4082-BE69-C2F16C69D4AC",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -125,9 +125,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4666666666666667,
-          "green": 0.4392156862745098,
-          "red": 0.4117647058823529
+          "blue": 0.6784313725490196,
+          "green": 0.6470588235294118,
+          "red": 0.6235294117647059
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

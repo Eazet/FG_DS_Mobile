@@ -52,17 +52,17 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "82F3A874-150A-4335-A6DF-ACC54AB17A4C"
+      "class": "shapeGroup",
+      "id": "45B79624-4B5F-488A-9A1F-3549942A4795"
     }
   ],
-  "name": "01. General 通用/Icon图标/12/030.意向度",
+  "name": "01. General 通用/Icon图标/12/028.更多备份",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "56C60BFB-9D75-44EF-A6E2-73533B8B9C8F_layerStyle"
+      "overrideName": "45B79624-4B5F-488A-9A1F-3549942A4795_layerStyle"
     }
   ],
   "presetDictionary": {

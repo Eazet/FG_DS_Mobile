@@ -24,14 +24,14 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 400,
-    "width": 12,
-    "x": -2998,
+    "width": 10,
+    "x": -2994,
     "y": 2445
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -49,7 +49,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
