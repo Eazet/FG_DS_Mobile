@@ -25,14 +25,14 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": -3537,
+    "x": -3509,
     "y": 2166
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,16 +59,6 @@
   "name": "01. General 通用/Icon图标/16/091.考勤",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "47470A6E-7DB9-40B7-9058-41BCBF15EAC5_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "5094902A-3A8B-4527-81BC-9B8FD9CF5F0A_layerStyle"
-    }
   ],
   "presetDictionary": {
   },

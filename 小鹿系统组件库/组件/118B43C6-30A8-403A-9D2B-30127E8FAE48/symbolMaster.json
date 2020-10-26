@@ -25,14 +25,14 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": -3593,
+    "x": -3565,
     "y": 2138
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,11 +59,6 @@
   "name": "01. General 通用/Icon图标/16/079.放大",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "63D57CB7-7803-4B33-B1A7-48F821ACB193_layerStyle"
-    }
   ],
   "presetDictionary": {
   },
