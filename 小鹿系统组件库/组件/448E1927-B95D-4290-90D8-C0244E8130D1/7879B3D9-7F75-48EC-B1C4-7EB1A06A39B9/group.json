@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0A747C1A-7787-4E04-9C66-83B3825C3FD0",
+  "do_objectID": "7879B3D9-7F75-48EC-B1C4-7EB1A06A39B9",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,32 +15,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 56,
-    "x": 560,
-    "y": 19
+    "height": 16,
+    "width": 16,
+    "x": 4,
+    "y": 4
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "01. General 通用/Buttons按钮/07.极简按钮/02.功能按钮/高亮",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "D7860156-C1CE-4F61-8FD4-4E1BCCC4C767_stringValue",
-      "value": "设置"
+      "class": "symbolInstance",
+      "id": "251005CA-4FF8-4D68-A4B2-33AC51C73BA0"
+    },
+    {
+      "class": "rectangle",
+      "id": "AE77304D-6974-4355-809C-D2FE78611F8A"
     }
   ],
-  "resizingConstraint": 44,
+  "name": "图标颜色",
+  "nameIsFixed": false,
+  "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -76,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "52F81FBE-8E2D-4B8E-AE12-5D746B557AB1",
+    "do_objectID": "FECDB691-5A82-4C63-9FEE-6E4B7584ACB9",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -87,7 +92,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "ACEBE312-C340-47FF-93F6-596391CD308E",
-  "verticalSpacing": 0
+  }
 }

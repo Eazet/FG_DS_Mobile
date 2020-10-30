@@ -10,7 +10,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F2DC18C1-C27C-4D18-84E2-BC78ACCFCE31",
+  "do_objectID": "448E1927-B95D-4290-90D8-C0244E8130D1",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -25,13 +25,13 @@
     "constrainProportions": false,
     "height": 24,
     "width": 69,
-    "x": -3489,
+    "x": -3412,
     "y": 660
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0,
+    "layoutAnchor": 2,
     "maxSize": 0,
     "minSize": 0
   },
@@ -57,44 +57,44 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "15461253-27C2-46DD-AB08-42C9EF25BC1C"
+      "id": "D2CE6B38-6676-4FB4-9E2E-99B067061BCA"
     },
     {
       "class": "text",
-      "id": "0A6C6B93-BBC9-43D8-9F20-A68F15A82ED4"
+      "id": "D7860156-C1CE-4F61-8FD4-4E1BCCC4C767"
     },
     {
       "class": "group",
-      "id": "7999A2D9-8137-417F-AF7A-70DEE720F8A6"
+      "id": "7879B3D9-7F75-48EC-B1C4-7EB1A06A39B9"
     }
   ],
-  "name": "01. General 通用/Buttons按钮/07.极简按钮/02.功能按钮/高亮-左",
+  "name": "01. General 通用/Buttons按钮/07.极简按钮/02.功能按钮/高亮-右",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "0A6C6B93-BBC9-43D8-9F20-A68F15A82ED4_stringValue"
+      "overrideName": "D7860156-C1CE-4F61-8FD4-4E1BCCC4C767_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "6FEADF24-56F1-40C9-87DD-EC5F6AAFB093_symbolID"
+      "overrideName": "D2CE6B38-6676-4FB4-9E2E-99B067061BCA_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "4CB278D8-6D90-4015-845A-2EF832990DC4_layerStyle"
+      "overrideName": "251005CA-4FF8-4D68-A4B2-33AC51C73BA0_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "15461253-27C2-46DD-AB08-42C9EF25BC1C_layerStyle"
+      "overrideName": "D7860156-C1CE-4F61-8FD4-4E1BCCC4C767_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "0A6C6B93-BBC9-43D8-9F20-A68F15A82ED4_textStyle"
+      "overrideName": "AE77304D-6974-4355-809C-D2FE78611F8A_layerStyle"
     }
   ],
   "presetDictionary": {
@@ -138,7 +138,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "BC29839F-9DA9-44E9-9748-4752AD955A68",
+    "do_objectID": "C99878ED-FF91-4170-8DBE-32A48F06DDB3",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -150,7 +150,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "74A9D5D2-08D1-47F6-819D-979DEBD148D4",
+  "symbolID": "ACEBE312-C340-47FF-93F6-596391CD308E",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
