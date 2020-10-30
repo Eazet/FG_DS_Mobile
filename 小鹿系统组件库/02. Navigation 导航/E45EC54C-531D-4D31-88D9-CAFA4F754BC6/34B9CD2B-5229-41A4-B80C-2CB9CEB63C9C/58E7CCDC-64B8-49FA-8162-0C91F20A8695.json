@@ -19,13 +19,16 @@
               "name": "HelveticaNeue",
               "size": 12
             }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle"
           }
         },
-        "length": 4,
+        "length": 3,
         "location": 0
       }
     ],
-    "string": "10px"
+    "string": "8px"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -45,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 27,
+    "width": 21,
     "x": 4,
     "y": 4
   },
-  "glyphBounds": "{{1, 2}, {26, 12}}",
+  "glyphBounds": "{{0, 2}, {20, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -58,7 +61,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "10px",
+  "name": "8px",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -124,6 +127,9 @@
             "name": "HelveticaNeue",
             "size": 12
           }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle"
         }
       },
       "verticalAlignment": 0

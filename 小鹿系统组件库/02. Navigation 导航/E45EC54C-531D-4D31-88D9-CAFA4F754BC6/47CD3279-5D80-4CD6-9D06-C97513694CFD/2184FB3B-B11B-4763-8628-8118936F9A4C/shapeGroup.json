@@ -2,7 +2,7 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A12D59F1-7320-400A-A262-AA36985C2B63",
+  "do_objectID": "2184FB3B-B11B-4763-8628-8118936F9A4C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1,
-    "width": 5,
-    "x": 0,
-    "y": 11
+    "height": 6,
+    "width": 6,
+    "x": 15,
+    "y": 18
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -34,14 +34,14 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "D7DA336B-90D0-4BD4-9BAF-0F5E3B958746"
+      "id": "05BC239F-6F94-408D-80E7-D728B96A9A68"
     }
   ],
-  "name": "end",
+  "name": "arrow",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 0,
+  "rotation": 45,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -77,7 +77,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "AFD0E006-0C7A-463B-9588-2CFEC8D612FF",
+    "do_objectID": "10712798-2784-4381-AA1B-30FC7CEB0EA2",
     "endMarkerType": 0,
     "fills": [
       {
@@ -85,9 +85,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.6518613681648042,
-          "green": 0.7836843297101449,
-          "red": 0.1964736037727968
+          "blue": 0,
+          "green": 0.333333,
+          "red": 1
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

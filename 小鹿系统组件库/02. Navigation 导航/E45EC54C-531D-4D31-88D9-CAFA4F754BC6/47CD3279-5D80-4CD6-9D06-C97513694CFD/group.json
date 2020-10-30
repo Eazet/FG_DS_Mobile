@@ -1,9 +1,8 @@
 {
-  "_class": "rectangle",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2673E500-0634-4444-870C-0325D587E6C1",
-  "edited": false,
+  "do_objectID": "47CD3279-5D80-4CD6-9D06-C97513694CFD",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,70 +12,41 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 2,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 22,
-    "width": 29,
-    "x": 0,
-    "y": 0
+    "height": 26,
+    "width": 53,
+    "x": 84,
+    "y": 1822
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "hasConvertedToNewRoundCorners": true,
-  "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "矩形",
-  "nameIsFixed": false,
-  "needsConvertionToNewRoundCorners": false,
-  "pointRadiusBehaviour": 1,
-  "points": [
+  "layerListExpandedType": 2,
+  "layers": [
     {
-      "_class": "curvePoint",
-      "cornerRadius": 2,
-      "curveFrom": "{0, 0}",
-      "curveMode": 1,
-      "curveTo": "{0, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 0}"
+      "class": "shapeGroup",
+      "id": "2763CB56-75F0-4FD8-B532-2F93D4ABF374"
     },
     {
-      "_class": "curvePoint",
-      "cornerRadius": 2,
-      "curveFrom": "{1, 0}",
-      "curveMode": 1,
-      "curveTo": "{1, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 0}"
+      "class": "shapeGroup",
+      "id": "2184FB3B-B11B-4763-8628-8118936F9A4C"
     },
     {
-      "_class": "curvePoint",
-      "cornerRadius": 2,
-      "curveFrom": "{1, 1}",
-      "curveMode": 1,
-      "curveTo": "{1, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 1}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 2,
-      "curveFrom": "{0, 1}",
-      "curveMode": 1,
-      "curveTo": "{0, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 1}"
+      "class": "text",
+      "id": "9E932C03-1769-42D9-A7B3-6B1EC26CB64C"
     }
   ],
+  "name": "#width-top-DAF35A8B-689F-40E9-B07D-8A2C38CADC13",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -115,7 +85,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "B320D6F8-ED5D-4A38-B850-BB9A51B60357",
+    "do_objectID": "5AC69C45-E7C0-4BFA-85B8-12E7D03181E0",
     "endMarkerType": 0,
     "fills": [
     ],
