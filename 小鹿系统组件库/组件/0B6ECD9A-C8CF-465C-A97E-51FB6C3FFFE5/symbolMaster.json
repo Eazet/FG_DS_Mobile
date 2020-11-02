@@ -24,7 +24,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 400,
-    "width": 10,
+    "width": 8,
     "x": -2933,
     "y": 2445
   },
@@ -32,7 +32,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,6 +59,11 @@
   "name": "02. Navigation 导航/Scrollbar滚动条/暗色/占位",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3F9DB894-EE9A-4F82-B734-A194DF604E29_layerStyle"
+    }
   ],
   "presetDictionary": {
   },

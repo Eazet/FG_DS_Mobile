@@ -36,7 +36,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -68,7 +68,7 @@
       "id": "7999A2D9-8137-417F-AF7A-70DEE720F8A6"
     }
   ],
-  "name": "01. General 通用/Buttons按钮/07.极简按钮/02.功能按钮/高亮",
+  "name": "01. General 通用/Buttons按钮/07.极简按钮/02.功能按钮/高亮-左",
   "nameIsFixed": true,
   "overrideProperties": [
     {

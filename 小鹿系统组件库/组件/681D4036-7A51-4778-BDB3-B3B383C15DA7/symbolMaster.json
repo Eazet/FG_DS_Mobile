@@ -24,8 +24,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 400,
-    "width": 10,
-    "x": -2994,
+    "width": 8,
+    "x": -2992,
     "y": 2445
   },
   "groupLayout": {
@@ -59,6 +59,11 @@
   "name": "02. Navigation 导航/Scrollbar滚动条/亮色/默认",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C7BEE317-256B-4C6A-A8F9-3BE44150B24F_layerStyle"
+    }
   ],
   "presetDictionary": {
   },

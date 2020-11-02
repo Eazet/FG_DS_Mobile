@@ -36,7 +36,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -56,10 +56,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "5D22DE24-106E-485D-97F0-F542F4AF28A6"
-    },
-    {
       "class": "text",
       "id": "FEE01C8F-2701-449D-91D4-DE7C9A970BE5"
     },
@@ -71,11 +67,6 @@
   "name": "01. General 通用/Buttons按钮/D.极简按钮/04.详情按钮/02.次按钮-小",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "5D22DE24-106E-485D-97F0-F542F4AF28A6_layerStyle"
-    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
@@ -99,7 +90,7 @@
   ],
   "presetDictionary": {
   },
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

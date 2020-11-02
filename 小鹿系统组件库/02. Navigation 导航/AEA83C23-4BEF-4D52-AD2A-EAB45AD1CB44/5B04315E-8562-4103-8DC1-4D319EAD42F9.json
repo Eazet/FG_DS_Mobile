@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 145,
+        "length": 107,
         "location": 0
       }
     ],
-    "string": "2.鼠标滚轮规则：\n\n1) 鼠标滚轮控制纵向滚动，按住Shift即可控制横向滚动。\n\n2) 当鼠标处在内部容器时，滚轮控制内层容器。\n\n3) 模态会阻挡住鼠标滚轮的生效区域。当有模态时，滚轮无法控制模态下面的内容。\n\n4) 当某个滚动条出于激活状态时，滚轮只对它生效。按住shift没有效果"
+    "string": "2.鼠标滚轮规则：\n\n1) 鼠标滚轮控制纵向滚动，按住Shift即可控制横向滚动。\n\n2) 当鼠标处在内部容器时，滚轮控制内层容器。\n\n3) 模态会阻挡住鼠标滚轮的生效区域。当有模态时，滚轮无法控制模态下面的内容。"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 216,
+    "height": 168,
     "width": 596,
     "x": 107,
     "y": 673
   },
-  "glyphBounds": "{{0, 4}, {585, 209}}",
+  "glyphBounds": "{{0, 4}, {585, 161}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
+  "lineSpacingBehaviour": 3,
   "name": "2.鼠标滚轮规则： 1) 鼠标滚轮控制纵",
   "nameIsFixed": false,
   "resizingConstraint": 47,
