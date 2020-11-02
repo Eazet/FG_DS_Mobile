@@ -24,7 +24,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 32,
-    "width": 71,
+    "width": 72,
     "x": 412,
     "y": 810
   },
@@ -36,7 +36,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -55,10 +55,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "rectangle",
-      "id": "64559EFF-1237-4EB4-BB2E-33AC5236B1F0"
-    },
     {
       "class": "text",
       "id": "7997F5B9-7F28-4AF2-82C9-107B47FDB47B"
@@ -85,11 +81,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "7997F5B9-7F28-4AF2-82C9-107B47FDB47B_textStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "64559EFF-1237-4EB4-BB2E-33AC5236B1F0_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
