@@ -278,6 +278,16 @@
     },
     {
       "_class": "fontReference",
+      "do_objectID": "2344FC11-7939-4260-9608-DC9554E6585C",
+      "fontFamilyName": "Gotham",
+      "fontFileName": "Gotham-Light.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Gotham-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "29C3766E-F2C7-4621-87AF-CA0AF6D4F333",
       "fontFamilyName": "Gotham",
       "fontFileName": "Gotham-BoldItalic.otf",
@@ -18814,8 +18824,8 @@
     ]
   },
   "meta": {
-    "appVersion": "69",
-    "build": 107357,
+    "appVersion": "69.1",
+    "build": 107496,
     "version": 134
   },
   "pages": [
