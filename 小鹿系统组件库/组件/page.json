@@ -317,6 +317,10 @@
     },
     {
       "class": "symbolMaster",
+      "id": "448E1927-B95D-4290-90D8-C0244E8130D1"
+    },
+    {
+      "class": "symbolMaster",
       "id": "6E5519A0-B4FD-4C63-B0B6-8D86A5B5BCB2"
     },
     {
@@ -745,7 +749,15 @@
     },
     {
       "class": "symbolMaster",
+      "id": "E87AB073-2A6B-4D8A-9EDE-2497311633BD"
+    },
+    {
+      "class": "symbolMaster",
       "id": "A4F6B51D-5F6A-4655-BB9D-12526EF9DABB"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "0B6ECD9A-C8CF-465C-A97E-51FB6C3FFFE5"
     },
     {
       "class": "symbolMaster",
@@ -902,6 +914,10 @@
     {
       "class": "symbolMaster",
       "id": "BFE8DE23-DED0-42ED-9ED9-4C2BA2847883"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "311F3168-92A0-4658-A9E7-F454F1EFD676"
     },
     {
       "class": "symbolMaster",
@@ -2425,6 +2441,10 @@
     },
     {
       "class": "symbolMaster",
+      "id": "FE5441EF-40F0-4534-9763-1C1B9330A464"
+    },
+    {
+      "class": "symbolMaster",
       "id": "93C7CF4E-E0E2-42B7-B380-57EBD135D469"
     },
     {
@@ -2682,6 +2702,10 @@
     {
       "class": "symbolMaster",
       "id": "831F0EEA-1654-4737-B5B0-B1BE7242F9C7"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "93EE7A98-D29B-4834-ACF8-CF4451C9ED2D"
     },
     {
       "class": "symbolMaster",
@@ -3880,8 +3904,28 @@
       "id": "BC9C1FA2-8F65-48EC-8F58-3F6579F2C814"
     },
     {
-      "class": "bitmap",
-      "id": "29009B58-F5B0-482B-B745-F292DEE0F1FE"
+      "class": "symbolMaster",
+      "id": "782D3181-C65A-4698-8C2C-9DE56FDA4D68"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A7C31AB8-7432-4132-A11C-8C50D48D592F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "2D6E87DC-EF96-44EA-B337-BF22537D9870"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "40036CFA-6E50-41C1-9F41-093C04B1F91A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "6B54A14C-0F10-4F81-A394-394018236A89"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "87CA84FA-FAE6-4932-8AE5-7FCD19BFB67F"
     }
   ],
   "name": "组件",

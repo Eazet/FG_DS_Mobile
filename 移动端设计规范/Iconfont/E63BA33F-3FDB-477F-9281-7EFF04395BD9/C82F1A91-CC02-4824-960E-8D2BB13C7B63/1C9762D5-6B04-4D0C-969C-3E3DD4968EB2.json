@@ -34,7 +34,7 @@
         "location": 0
       }
     ],
-    "string": "C-049-F"
+    "string": "C-049-L"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,7 +54,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 26,
-    "width": 104,
+    "width": 105,
     "x": 31,
     "y": 150
   },
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "C-049-F",
+  "name": "C-049-L",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

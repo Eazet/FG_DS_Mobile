@@ -25,7 +25,7 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": -3537,
+    "x": -3509,
     "y": 2250
   },
   "groupLayout": {
@@ -59,6 +59,11 @@
   "name": "01. General 通用/Icon图标/16/120.下划线",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "52C0EB4E-4D40-4A4B-B371-786879F00C3F_layerStyle"
+    }
   ],
   "presetDictionary": {
   },

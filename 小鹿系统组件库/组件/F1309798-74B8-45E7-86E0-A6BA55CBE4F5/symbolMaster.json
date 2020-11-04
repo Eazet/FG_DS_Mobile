@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": -3453,
-    "y": 2194
+    "x": -3705,
+    "y": 2222
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -59,6 +59,11 @@
   "name": "01. General 通用/Icon图标/16/103.视频-F",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3F09EE79-0338-44A2-8C09-DF8671008B0A_layerStyle"
+    }
   ],
   "presetDictionary": {
   },

@@ -59,6 +59,11 @@
   "name": "01. General 通用/Icon图标/24/017.隐藏",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "556F5B20-8290-43B1-8A26-B6B847AFB142_layerStyle"
+    }
   ],
   "presetDictionary": {
   },

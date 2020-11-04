@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1970,
+    "height": 2401,
     "width": 1809,
     "x": 1528,
     "y": -2620
@@ -80,6 +80,14 @@
     {
       "class": "symbolInstance",
       "id": "65301221-F9F8-4DF8-9C78-4E085A3432FE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F22A348F-3FA7-4F38-AE35-58CC6388D927"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BC5822BC-D2C6-4EF2-9123-7A2788FA7895"
     }
   ],
   "name": "导航栏",

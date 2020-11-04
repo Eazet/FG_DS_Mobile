@@ -25,7 +25,7 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": -3565,
+    "x": -3537,
     "y": 2194
   },
   "groupLayout": {
@@ -62,7 +62,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "DCCCBAC1-063B-4D48-B562-5DAE515C66F6_layerStyle"
+      "overrideName": "97959AE6-9E62-4181-BAAB-0E4796A60C66_layerStyle"
     }
   ],
   "presetDictionary": {

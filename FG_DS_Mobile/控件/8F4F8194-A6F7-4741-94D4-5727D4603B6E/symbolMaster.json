@@ -52,12 +52,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "oval",
-      "id": "2501BFBB-B9BD-4B82-BBDF-F24034B484B1"
-    },
-    {
       "class": "shapeGroup",
-      "id": "02578BCE-215E-4CA8-B6BD-CCBBF5F0A6EF"
+      "id": "86BD7C15-8C2A-4914-8CDB-6FA5A097E087"
     }
   ],
   "name": "01. General 通用/Icon图标/48/017.警示",
@@ -66,7 +62,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "2501BFBB-B9BD-4B82-BBDF-F24034B484B1_layerStyle"
+      "overrideName": "86BD7C15-8C2A-4914-8CDB-6FA5A097E087_layerStyle"
     }
   ],
   "presetDictionary": {

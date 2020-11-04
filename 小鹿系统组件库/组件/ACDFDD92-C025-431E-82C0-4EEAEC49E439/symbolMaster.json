@@ -25,7 +25,7 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": -3481,
+    "x": -3453,
     "y": 2166
   },
   "groupLayout": {
@@ -59,6 +59,11 @@
   "name": "01. General 通用/Icon图标/16/092.地铁-F",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E33DB077-21FC-401A-B8C2-31CE69D95D6D_layerStyle"
+    }
   ],
   "presetDictionary": {
   },

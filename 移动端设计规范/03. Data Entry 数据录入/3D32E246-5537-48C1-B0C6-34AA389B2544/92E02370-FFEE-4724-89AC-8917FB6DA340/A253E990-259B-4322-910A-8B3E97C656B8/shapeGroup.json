@@ -55,8 +55,8 @@
       "center": "{0.5, 0.5}",
       "isEnabled": true,
       "motionAngle": 0,
-      "radius": 40,
-      "saturation": 2.8,
+      "radius": 30,
+      "saturation": 1.7,
       "type": 3
     },
     "borderOptions": {
@@ -89,10 +89,10 @@
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 0.92,
-          "blue": 0.1254901960784314,
-          "green": 0.1254901960784314,
-          "red": 0.1254901960784314
+          "alpha": 0.85,
+          "blue": 0.08235294117647059,
+          "green": 0.08235294117647059,
+          "red": 0.08235294117647059
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

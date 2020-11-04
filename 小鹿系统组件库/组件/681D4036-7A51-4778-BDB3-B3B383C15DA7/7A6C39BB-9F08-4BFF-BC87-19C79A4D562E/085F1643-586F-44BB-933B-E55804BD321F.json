@@ -13,14 +13,14 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 2,
+  "fixedRadius": 4,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 203,
-    "width": 4,
-    "x": 5,
-    "y": 3
+    "height": 205,
+    "width": 8,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -38,7 +38,7 @@
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
+      "cornerRadius": 4,
       "curveFrom": "{0, 8.7516799363029918e-16}",
       "curveMode": 1,
       "curveTo": "{0, 8.7516799363029918e-16}",
@@ -48,7 +48,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
+      "cornerRadius": 4,
       "curveFrom": "{0.99999999999999989, 8.7516799363029918e-16}",
       "curveMode": 1,
       "curveTo": "{0.99999999999999989, 8.7516799363029918e-16}",
@@ -58,7 +58,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
+      "cornerRadius": 4,
       "curveFrom": "{0.99999999999999967, 1.0000000000000031}",
       "curveMode": 1,
       "curveTo": "{0.99999999999999967, 1.0000000000000031}",
@@ -68,7 +68,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
+      "cornerRadius": 4,
       "curveFrom": "{0, 1.000000000000006}",
       "curveMode": 1,
       "curveTo": "{0, 1.000000000000006}",
@@ -172,10 +172,10 @@
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 0.12,
-          "blue": 0.2392156862745098,
-          "green": 0.09019607843137253,
-          "red": 0.01960784313725491
+          "alpha": 1,
+          "blue": 0.9019607843137255,
+          "green": 0.8823529411764706,
+          "red": 0.8666666666666667
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -228,5 +228,13 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.sketch.detach": {
+      "sharedStyle": {
+        "sharedStyleId": "3C015304-F706-4E92-87FE-30FF31CCDD5E",
+        "sharedStyleName": "02.冷灰/Grey-20"
+      }
+    }
   }
 }

@@ -24,14 +24,14 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 400,
-    "width": 12,
-    "x": -2998,
+    "width": 8,
+    "x": -2992,
     "y": 2445
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -49,7 +49,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -59,6 +59,11 @@
   "name": "02. Navigation 导航/Scrollbar滚动条/亮色/默认",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C7BEE317-256B-4C6A-A8F9-3BE44150B24F_layerStyle"
+    }
   ],
   "presetDictionary": {
   },
