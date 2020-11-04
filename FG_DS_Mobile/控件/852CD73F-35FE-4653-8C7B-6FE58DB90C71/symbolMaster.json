@@ -25,14 +25,14 @@
     "constrainProportions": false,
     "height": 48,
     "width": 48,
-    "x": 3710,
+    "x": 3700,
     "y": -825
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,16 +59,6 @@
   "name": "01. General 通用/Icon图标/48/049.小区纠错",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "F6B6C409-99AF-4FFA-B05C-D09DF9B4F25C_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "748BC2A5-F9C8-4530-8EE1-1C74E13F410A_layerStyle"
-    }
   ],
   "presetDictionary": {
   },
