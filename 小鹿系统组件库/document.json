@@ -267,6 +267,8 @@
     },
     {
       "_class": "fontReference",
+<<<<<<< HEAD
+=======
       "do_objectID": "1568743B-57AE-4308-BAA6-51015F958934",
       "fontFamilyName": "Gotham",
       "fontFileName": "Gotham-XLightIta.otf",
@@ -287,6 +289,7 @@
     },
     {
       "_class": "fontReference",
+>>>>>>> 0854b96e7f87f4f0b970ad56a03a85e1921de944
       "do_objectID": "20942E09-6FAD-442B-AFF9-E622C53A6A48",
       "fontFamilyName": "Microsoft YaHei",
       "fontFileName": "MSYH.TTC",
@@ -298,12 +301,21 @@
     },
     {
       "_class": "fontReference",
+<<<<<<< HEAD
+      "do_objectID": "2344FC11-7939-4260-9608-DC9554E6585C",
+      "fontFamilyName": "Gotham",
+      "fontFileName": "Gotham-Light.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Gotham-Light"
+=======
       "do_objectID": "22E3D189-1EA8-4F10-B24D-00108DE6487E",
       "fontFamilyName": "Gotham",
       "fontFileName": "Gotham-Ultra.otf",
       "options": 0,
       "postscriptNames": [
         "Gotham-Ultra"
+>>>>>>> 0854b96e7f87f4f0b970ad56a03a85e1921de944
       ]
     },
     {
@@ -318,6 +330,8 @@
     },
     {
       "_class": "fontReference",
+<<<<<<< HEAD
+=======
       "do_objectID": "326B66D9-9A5B-4F97-9C13-E38B40F39085",
       "fontFamilyName": "Gotham",
       "fontFileName": "Gotham-Book.otf",
@@ -328,6 +342,7 @@
     },
     {
       "_class": "fontReference",
+>>>>>>> 0854b96e7f87f4f0b970ad56a03a85e1921de944
       "do_objectID": "45F4F872-5784-4EAC-B799-DA6D12DABB05",
       "fontFamilyName": "Microsoft YaHei",
       "fontFileName": "MSYHL.TTC",
@@ -370,6 +385,8 @@
     },
     {
       "_class": "fontReference",
+<<<<<<< HEAD
+=======
       "do_objectID": "7A1BE10A-8C58-45C6-AA50-B40B3892C60B",
       "fontFamilyName": "Gotham",
       "fontFileName": "Gotham-Black.otf",
@@ -390,6 +407,7 @@
     },
     {
       "_class": "fontReference",
+>>>>>>> 0854b96e7f87f4f0b970ad56a03a85e1921de944
       "do_objectID": "AA4C9EDC-F142-408B-8811-C0333AA01B3F",
       "fontFamilyName": "Gotham",
       "fontFileName": "Gotham-Bold.otf",
@@ -397,6 +415,8 @@
       "postscriptNames": [
         "Gotham-Bold"
       ]
+<<<<<<< HEAD
+=======
     },
     {
       "_class": "fontReference",
@@ -407,6 +427,7 @@
       "postscriptNames": [
         "Gotham-Light"
       ]
+>>>>>>> 0854b96e7f87f4f0b970ad56a03a85e1921de944
     }
   ],
   "foreignLayerStyles": [
@@ -1669,6 +1690,8 @@
       "remoteStyleID": "8564EA08-CB9E-4242-A93A-FF597915F9D0",
       "sourceLibraryName": "小鹿系统组件库",
       "symbolPrivate": false
+<<<<<<< HEAD
+=======
     },
     {
       "_class": "MSImmutableForeignLayerStyle",
@@ -1780,6 +1803,7 @@
       "remoteStyleID": "0FDB2ACB-C807-4109-B6CC-DC22AD46CF3F",
       "sourceLibraryName": "FG_DS_Mobile",
       "symbolPrivate": false
+>>>>>>> 0854b96e7f87f4f0b970ad56a03a85e1921de944
     }
   ],
   "foreignSwatches": [
