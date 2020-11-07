@@ -32,7 +32,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,7 +62,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "C08102B6-012A-4607-8BAC-D789650453FA_layerStyle"
+      "overrideName": "F75A6182-3D83-45A8-9191-73DD638E02D3_layerStyle"
     }
   ],
   "presetDictionary": {

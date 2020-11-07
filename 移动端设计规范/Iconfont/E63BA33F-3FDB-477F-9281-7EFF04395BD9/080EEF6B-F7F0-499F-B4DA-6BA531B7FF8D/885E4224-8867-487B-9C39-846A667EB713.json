@@ -8,10 +8,10 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 0.9,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "alpha": 1,
+            "blue": 0.7019607843137254,
+            "green": 0.6705882352941176,
+            "red": 0.6352941176470588
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -25,20 +25,21 @@
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "tighteningFactorForTruncation": 0.05
+            "maximumLineHeight": 26,
+            "minimumLineHeight": 26
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 8,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "Dropdown"
+    "string": "B-019-S"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FC9ED21D-E3D9-4DEF-8E67-EFDAF0DA2F90",
+  "do_objectID": "885E4224-8867-487B-9C39-846A667EB713",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,12 +53,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 33,
-    "width": 117,
-    "x": -1429,
-    "y": 3041
+    "height": 26,
+    "width": 100,
+    "x": 31,
+    "y": 150
   },
-  "glyphBounds": "{{1, 7}, {115, 23}}",
+  "glyphBounds": "{{1, 4}, {99, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,8 +66,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
-  "name": "Dropdown",
+  "lineSpacingBehaviour": 3,
+  "name": "B-019-S",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -106,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "795C5C1F-4955-4C78-B6DA-499280125EB8",
+    "do_objectID": "A4F7E91E-715A-4677-8AA2-6687809568E0",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -121,10 +122,10 @@
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0.9,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "alpha": 1,
+          "blue": 0.7019607843137254,
+          "green": 0.6705882352941176,
+          "red": 0.6352941176470588
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -138,7 +139,8 @@
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "tighteningFactorForTruncation": 0.05
+          "maximumLineHeight": 26,
+          "minimumLineHeight": 26
         },
         "textStyleVerticalAlignmentKey": 0
       },

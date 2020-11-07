@@ -25,14 +25,14 @@
     "constrainProportions": false,
     "height": 32,
     "width": 32,
-    "x": 1841,
+    "x": 1888,
     "y": -893
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,7 +62,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "D7E4B49C-52BA-4DC6-BB47-132FE0D3BB24_layerStyle"
+      "overrideName": "0AB487E1-CD52-46E3-8ADE-B660848B209D_layerStyle"
     }
   ],
   "presetDictionary": {
