@@ -1,16 +1,8 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "681D4036-7A51-4778-BDB3-B3B383C15DA7",
+  "do_objectID": "F76BFB3E-D9DC-418A-BACD-DDD068946A70",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,55 +15,38 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 400,
-    "width": 8,
-    "x": -2992,
-    "y": 2712
+    "height": 20,
+    "width": 78,
+    "x": 74,
+    "y": 6
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": true,
   "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
-      "id": "7A6C39BB-9F08-4BFF-BC87-19C79A4D562E"
-    }
-  ],
-  "name": "02. Navigation 导航/Scrollbar滚动条/亮色/默认",
-  "nameIsFixed": true,
-  "overrideProperties": [
+      "id": "AA22A1E3-392B-4768-8B35-02CC8A03AF84"
+    },
     {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "C7BEE317-256B-4C6A-A8F9-3BE44150B24F_layerStyle"
+      "class": "text",
+      "id": "239E10C0-7457-49C8-8ABD-CA8F8584E2DD"
     }
   ],
-  "presetDictionary": {
-  },
-  "resizesContent": false,
-  "resizingConstraint": 63,
+  "name": "Menu/Dropdown/Regular备份 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 44,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -106,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "9730B1CB-A47A-4AE8-9C03-7E16929B85F3",
+    "do_objectID": "B28F75AD-3813-43C8-8225-66C062D00CE5",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -118,11 +93,40 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "207C1C47-1D02-4B4F-A0DD-33F2DCF16890",
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
+  "userInfo": {
+    "com.bohemiancoding.sketchtool.detach": {
+      "symbolInstance": {
+        "do_objectID": "535744E8-D5C6-4B1A-87ED-CE9586A990B2",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 12,
+          "width": 74,
+          "x": 84,
+          "y": 10
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "04A0EF5D-7883-4222-9203-72750A1B6D1B",
+        "symbolID": "800D06F1-4BB4-4F43-A15B-3B262AA4E083"
+      }
+    },
+    "com.sketch.detach": {
+      "symbolInstance": {
+        "do_objectID": "535744E8-D5C6-4B1A-87ED-CE9586A990B2",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 12,
+          "width": 74,
+          "x": 84,
+          "y": 10
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "04A0EF5D-7883-4222-9203-72750A1B6D1B",
+        "symbolID": "800D06F1-4BB4-4F43-A15B-3B262AA4E083"
+      }
+    }
   }
 }

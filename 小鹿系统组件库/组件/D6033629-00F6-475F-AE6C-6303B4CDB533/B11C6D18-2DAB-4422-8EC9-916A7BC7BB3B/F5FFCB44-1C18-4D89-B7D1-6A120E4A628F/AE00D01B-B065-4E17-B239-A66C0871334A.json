@@ -1,16 +1,8 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "681D4036-7A51-4778-BDB3-B3B383C15DA7",
+  "do_objectID": "AE00D01B-B065-4E17-B239-A66C0871334A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,55 +15,43 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 400,
-    "width": 8,
-    "x": -2992,
-    "y": 2712
+    "height": 32,
+    "width": 32,
+    "x": 0,
+    "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasBackgroundColor": true,
-  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "Page/Elements/Number备份 7",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "group",
-      "id": "7A6C39BB-9F08-4BFF-BC87-19C79A4D562E"
+      "_class": "overrideValue",
+      "overrideName": "BACA75B7-4B81-4F24-A8AE-24301B1A40FD_symbolID",
+      "value": "1A3EFABE-CB11-4105-AAFE-A3623029FF67"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BACA75B7-4B81-4F24-A8AE-24301B1A40FD/484620D4-E4C4-4B69-8E1D-EB17F84C1004_layerStyle",
+      "value": "3C015304-F706-4E92-87FE-30FF31CCDD5E"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7DFE535A-4FEF-462A-8650-151A9AA9CDF8_layerStyle",
+      "value": "5EBB5D54-4633-4ED7-9386-B39EC5248E17"
     }
   ],
-  "name": "02. Navigation 导航/Scrollbar滚动条/亮色/默认",
-  "nameIsFixed": true,
-  "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "C7BEE317-256B-4C6A-A8F9-3BE44150B24F_layerStyle"
-    }
-  ],
-  "presetDictionary": {
-  },
-  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -106,7 +86,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "9730B1CB-A47A-4AE8-9C03-7E16929B85F3",
+    "do_objectID": "F5B31A2B-9511-4FBB-9EF6-841049638371",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -118,11 +98,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "207C1C47-1D02-4B4F-A0DD-33F2DCF16890",
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  }
+  "symbolID": "70011FB7-F28F-4EFA-B064-DD7A77DBFA9F",
+  "verticalSpacing": 0
 }

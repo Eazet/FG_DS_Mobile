@@ -1,16 +1,8 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "681D4036-7A51-4778-BDB3-B3B383C15DA7",
+  "do_objectID": "B11C6D18-2DAB-4422-8EC9-916A7BC7BB3B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,55 +15,34 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 400,
-    "width": 8,
-    "x": -2992,
-    "y": 2712
+    "height": 32,
+    "width": 284,
+    "x": 182,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": true,
   "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
-      "id": "7A6C39BB-9F08-4BFF-BC87-19C79A4D562E"
+      "id": "F5FFCB44-1C18-4D89-B7D1-6A120E4A628F"
     }
   ],
-  "name": "02. Navigation 导航/Scrollbar滚动条/亮色/默认",
-  "nameIsFixed": true,
-  "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "C7BEE317-256B-4C6A-A8F9-3BE44150B24F_layerStyle"
-    }
-  ],
-  "presetDictionary": {
-  },
-  "resizesContent": false,
-  "resizingConstraint": 63,
+  "name": "编组 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 60,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -106,7 +77,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "9730B1CB-A47A-4AE8-9C03-7E16929B85F3",
+    "do_objectID": "9242396A-409E-4987-A38A-2B12AACF415C",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -117,12 +88,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "207C1C47-1D02-4B4F-A0DD-33F2DCF16890",
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }
