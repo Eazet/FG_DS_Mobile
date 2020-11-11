@@ -1,27 +1,11 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "43B1BB7F-117D-49C4-82DB-AEBAEC789850",
+  "do_objectID": "35C2DA13-AD3F-4A0E-A018-6825440CABA2",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "svg",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -31,47 +15,33 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 16,
-    "x": 3152,
-    "y": 2541
+    "height": 102,
+    "width": 78,
+    "x": 400,
+    "y": 2615
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "图标编码表单元备份 305",
+  "nameIsFixed": true,
+  "overrideValues": [
     {
-      "class": "symbolInstance",
-      "id": "F2664F5F-84FD-499D-9486-3136EF745D86"
+      "_class": "overrideValue",
+      "overrideName": "D6D37947-7C80-4B70-AC0E-E5B92C4F78B8_stringValue",
+      "value": "B-137-F"
     }
   ],
-  "name": "B-136-L",
-  "nameIsFixed": true,
-  "presetDictionary": {
-  },
-  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -106,7 +76,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "7917ABDC-21BE-4357-B58A-80BB8410452C",
+    "do_objectID": "74AF97A0-0A6B-4701-B71F-460F04376EF8",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -118,10 +88,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  }
+  "symbolID": "E599ECC0-34B9-490F-97ED-BDFD21E9E655",
+  "verticalSpacing": 0
 }
