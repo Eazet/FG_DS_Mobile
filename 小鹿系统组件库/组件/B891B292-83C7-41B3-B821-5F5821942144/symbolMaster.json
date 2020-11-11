@@ -24,7 +24,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 41,
-    "width": 153,
+    "width": 137,
     "x": 745,
     "y": 4812
   },
@@ -53,11 +53,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "648D8AAE-4E5E-49F5-AA88-9A51965BA629"
+    },
+    {
+      "class": "bitmap",
+      "id": "574B302F-9F0C-4B87-8285-43F515E2975B"
     },
     {
       "class": "symbolInstance",
@@ -65,16 +69,17 @@
     },
     {
       "class": "text",
-      "id": "CBA0BE58-6E82-4876-803B-515680DD31CB"
-    },
-    {
-      "class": "text",
       "id": "42710EA0-8010-46EF-B15B-BA55F3ED42A2"
     }
   ],
-  "name": "05. Feedback 反馈/Guide 功能引导/弱引导/主动关闭/上-单行",
+  "name": "05. Feedback 反馈/Guide 功能引导/弱引导/上-单行",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "574B302F-9F0C-4B87-8285-43F515E2975B_image"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
@@ -89,11 +94,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "648D8AAE-4E5E-49F5-AA88-9A51965BA629_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "CBA0BE58-6E82-4876-803B-515680DD31CB_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",

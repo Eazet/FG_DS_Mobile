@@ -16,8 +16,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 19,
-    "width": 52,
-    "x": 89,
+    "width": 39,
+    "x": 86,
     "y": 13
   },
   "hasClippingMask": false,
@@ -34,7 +34,7 @@
     {
       "_class": "overrideValue",
       "overrideName": "27BB6F18-567B-47E6-A216-A160F913E86E_stringValue",
-      "value": "我知道了"
+      "value": "知道了"
     }
   ],
   "resizingConstraint": 63,

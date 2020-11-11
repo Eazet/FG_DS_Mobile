@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -22,7 +31,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1197,
+    "height": 896,
     "width": 1379,
     "x": 7788,
     "y": 686
@@ -30,7 +39,7 @@
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -80,46 +89,6 @@
     {
       "class": "text",
       "id": "DF3A2A0B-65D3-4704-A498-C278225329E4"
-    },
-    {
-      "class": "text",
-      "id": "35A5BC25-9EE0-472F-A1D8-3B35DD014D5D"
-    },
-    {
-      "class": "text",
-      "id": "6D19FA75-2234-424C-AAE4-764257791D6B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E681B43A-BF01-4274-97D3-A23901DF1B99"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "7A15310B-7D91-4863-999C-68FAA96F1779"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "777C52DA-25B2-436C-8ECD-4A4B0448B76E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "AF7B70C5-B9F4-476B-852D-7AC140671F42"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "8B910A4B-C0B1-42AF-B307-265E4DC33B3D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A63FA727-A04C-4074-9108-45E050A808FC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4B8570AE-1C36-4E09-B535-AEDA2C498FFC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "99674BA8-8B09-4D4C-8D11-694392B7B512"
     },
     {
       "class": "symbolInstance",

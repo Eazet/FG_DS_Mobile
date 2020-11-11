@@ -23,14 +23,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 75,
-    "width": 244,
+    "height": 55,
+    "width": 233,
     "x": 389,
     "y": 4922
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
-    "axis": 1,
+    "axis": 0,
     "layoutAnchor": 0,
     "maxSize": 0,
     "minSize": 0
@@ -60,21 +60,22 @@
       "id": "62B4EBE7-DA2A-4502-8867-51C0FF278681"
     },
     {
-      "class": "symbolInstance",
-      "id": "180E1FA5-01CB-45FA-AEB1-65A046737A74"
+      "class": "bitmap",
+      "id": "7F467E2C-C499-4962-9818-6531EE737F9D"
     },
     {
-      "class": "text",
-      "id": "0F19D454-9F29-44AC-A452-B16D973AE922"
-    },
-    {
-      "class": "text",
-      "id": "B19E6DAD-1FC6-4645-9A4A-5E52C3F7D5BF"
+      "class": "group",
+      "id": "8E09D766-396D-4CCE-8DDD-80DF7A768E39"
     }
   ],
-  "name": "05. Feedback 反馈/Guide 功能引导/弱引导/主动关闭/左-双行",
+  "name": "05. Feedback 反馈/Guide 功能引导/弱引导/左-双行",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7F467E2C-C499-4962-9818-6531EE737F9D_image"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
@@ -83,7 +84,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "B19E6DAD-1FC6-4645-9A4A-5E52C3F7D5BF_stringValue"
+      "overrideName": "C76D914A-BF70-4203-A4A9-DDC439AE85F0_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C76D914A-BF70-4203-A4A9-DDC439AE85F0_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -103,7 +109,7 @@
   ],
   "presetDictionary": {
   },
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -6,6 +6,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -16,9 +25,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 36,
-    "width": 184,
+    "width": 168,
     "x": 317,
-    "y": 568
+    "y": 538
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,8 +37,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "05. Feedback 反馈/Guide 功能引导/弱引导/主动关闭/下-图标+描述",
-  "nameIsFixed": false,
+  "name": "05. Feedback 反馈/Guide 功能引导/弱引导/主动关闭/下-图标+描",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",

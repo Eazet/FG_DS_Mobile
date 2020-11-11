@@ -23,14 +23,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 80,
-    "width": 239,
-    "x": 1188,
+    "height": 60,
+    "width": 228,
+    "x": 1155,
     "y": 4922
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
-    "axis": 1,
+    "axis": 0,
     "layoutAnchor": 0,
     "maxSize": 0,
     "minSize": 0
@@ -60,45 +60,51 @@
       "id": "0386BE40-D4A7-441A-B8EE-3BD406913F3E"
     },
     {
-      "class": "symbolInstance",
-      "id": "B6076D25-82D6-4130-8CA9-162BD9CB7969"
+      "class": "bitmap",
+      "id": "25E8363E-3D3E-4B88-9AEC-D432346EA952"
     },
     {
-      "class": "text",
-      "id": "5054861C-D586-49B2-A10E-3F021911561B"
-    },
-    {
-      "class": "text",
-      "id": "42C001B6-B55E-4F87-8704-D5C8BC2AA14D"
+      "class": "group",
+      "id": "1B0AD59C-B22B-4C36-9B6F-1528FEF2356B"
     }
   ],
-  "name": "05. Feedback 反馈/Guide 功能引导/弱引导/主动关闭/下-双行",
+  "name": "05. Feedback 反馈/Guide 功能引导/弱引导/下-双行",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "5054861C-D586-49B2-A10E-3F021911561B_stringValue"
+      "overrideName": "23E63D79-B779-42CE-89FB-B6704C6F439D_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "B6076D25-82D6-4130-8CA9-162BD9CB7969_symbolID"
+      "overrideName": "23E63D79-B779-42CE-89FB-B6704C6F439D_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1F623B73-A74A-4E86-9A03-BC691BDF886C_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1F623B73-A74A-4E86-9A03-BC691BDF886C_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "25E8363E-3D3E-4B88-9AEC-D432346EA952_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C5A079DC-E44C-46D7-BD4B-A2089C1F388D_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "0386BE40-D4A7-441A-B8EE-3BD406913F3E_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "42C001B6-B55E-4F87-8704-D5C8BC2AA14D_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "5054861C-D586-49B2-A10E-3F021911561B_textStyle"
     }
   ],
   "presetDictionary": {
