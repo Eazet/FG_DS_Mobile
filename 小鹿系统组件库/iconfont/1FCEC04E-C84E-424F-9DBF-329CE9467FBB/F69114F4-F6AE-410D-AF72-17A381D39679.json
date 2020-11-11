@@ -1,27 +1,11 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "43B1BB7F-117D-49C4-82DB-AEBAEC789850",
+  "do_objectID": "F69114F4-F6AE-410D-AF72-17A381D39679",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "svg",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -33,45 +17,26 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 3152,
-    "y": 2541
+    "x": 0,
+    "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "F2664F5F-84FD-499D-9486-3136EF745D86"
-    }
+  "layerListExpandedType": 0,
+  "name": "01. General 通用/Icon图标/16/097.加粗-F",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "B-136-L",
-  "nameIsFixed": true,
-  "presetDictionary": {
-  },
-  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -106,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "7917ABDC-21BE-4357-B58A-80BB8410452C",
+    "do_objectID": "7B186E9D-C69E-49E7-845A-41597CF5DE76",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -118,10 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  }
+  "symbolID": "34B53EC5-3FD2-4E3F-9491-A3AB5CEF4FEE",
+  "verticalSpacing": 0
 }
