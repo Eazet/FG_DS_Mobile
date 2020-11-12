@@ -18,7 +18,7 @@
     "height": 250,
     "width": 1173,
     "x": 100,
-    "y": 3287
+    "y": 3620
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -113,12 +113,12 @@
       "id": "14831ACE-6CB9-4015-885F-FC19ED39176C"
     },
     {
-      "class": "symbolInstance",
-      "id": "94FFF7D4-95B3-4F2C-A93C-01E464EFB658"
+      "class": "group",
+      "id": "236B9DC2-8BD2-413B-8E4A-FCF0CB18599E"
     },
     {
-      "class": "symbolInstance",
-      "id": "1AAFF187-8EF6-4E39-850B-C4B1EBB5B7FF"
+      "class": "group",
+      "id": "A5479A06-4AD6-4D5F-8A59-D65383F0FC4B"
     }
   ],
   "name": "Group 19",

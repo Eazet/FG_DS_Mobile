@@ -18,7 +18,7 @@
     "height": 104,
     "width": 152,
     "x": 100,
-    "y": 3786
+    "y": 4119
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -45,8 +45,8 @@
       "id": "CF3FB765-CC4E-42E6-AD16-69CBF6CBBA2D"
     },
     {
-      "class": "symbolInstance",
-      "id": "70E7F861-02B9-4349-87EE-26712456A56E"
+      "class": "group",
+      "id": "D49578E0-F6C0-484D-9DFA-F81821E53C46"
     }
   ],
   "name": "编组 2",

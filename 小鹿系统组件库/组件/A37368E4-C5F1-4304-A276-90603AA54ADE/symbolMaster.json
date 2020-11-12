@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 32,
     "width": 152,
-    "x": -142,
-    "y": 3287
+    "x": 60,
+    "y": 3095
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -60,7 +60,7 @@
       "id": "7B6D6AB2-A15E-47C1-8D71-3A319D0D154C"
     }
   ],
-  "name": "03. Data Entry 数据录入/Selection 选项/图标类/图标+文字-未选择",
+  "name": "03. Data Entry 数据录入/Selection 选项/图标类/默认",
   "nameIsFixed": true,
   "overrideProperties": [
     {
