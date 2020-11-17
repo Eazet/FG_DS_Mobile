@@ -1,6 +1,6 @@
 {
   "_class": "rectangle",
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
   "do_objectID": "8E45ED56-3BB0-4A07-8ECE-051B8F108A13",
   "edited": true,
@@ -19,8 +19,8 @@
     "constrainProportions": true,
     "height": 6,
     "width": 6,
-    "x": 15.5,
-    "y": 21
+    "x": 11.5,
+    "y": 17
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,

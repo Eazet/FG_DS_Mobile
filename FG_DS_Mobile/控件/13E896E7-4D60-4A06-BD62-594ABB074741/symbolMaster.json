@@ -10,7 +10,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E6FB17D7-728D-4A80-95A4-B43C5A6397AE",
+  "do_objectID": "13E896E7-4D60-4A06-BD62-594ABB074741",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -25,7 +25,7 @@
     "constrainProportions": false,
     "height": 64,
     "width": 64,
-    "x": 2210,
+    "x": 2530,
     "y": -738
   },
   "groupLayout": {
@@ -53,16 +53,16 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "CC38AF80-2B26-4AEC-A4C7-4AFC9D91000A"
+      "id": "78A551D2-F194-4612-A8A7-1ED461C6E413"
     }
   ],
-  "name": "01. General 通用/Icon图标/64/026.小鹿社区",
+  "name": "01. General 通用/Icon图标/64/030.快捷回复",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "CC38AF80-2B26-4AEC-A4C7-4AFC9D91000A_layerStyle"
+      "overrideName": "78A551D2-F194-4612-A8A7-1ED461C6E413_layerStyle"
     }
   ],
   "presetDictionary": {
@@ -106,7 +106,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "05878C24-DF55-4EA2-9C1F-BE3F4AEF48E3",
+    "do_objectID": "A81B80D6-E3B9-4C4F-AB21-E1FB3E0FC57B",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -118,7 +118,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D1CAA3C7-2368-4941-A6E0-406790DDB9B7",
+  "symbolID": "B5003016-3F72-49BC-8E7D-9FA1BA98BF9B",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

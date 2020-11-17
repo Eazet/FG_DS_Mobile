@@ -10,7 +10,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E6FB17D7-728D-4A80-95A4-B43C5A6397AE",
+  "do_objectID": "2E9764C8-5706-4D0E-8902-9589AE6FE679",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -25,7 +25,7 @@
     "constrainProportions": false,
     "height": 64,
     "width": 64,
-    "x": 2210,
+    "x": 2690,
     "y": -738
   },
   "groupLayout": {
@@ -53,17 +53,12 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "CC38AF80-2B26-4AEC-A4C7-4AFC9D91000A"
+      "id": "3FC7FF35-E17A-4BA0-B2CA-F7ADE60CAD6A"
     }
   ],
-  "name": "01. General 通用/Icon图标/64/026.小鹿社区",
+  "name": "01. General 通用/Icon图标/64/032.FAQ",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "CC38AF80-2B26-4AEC-A4C7-4AFC9D91000A_layerStyle"
-    }
   ],
   "presetDictionary": {
   },
@@ -106,7 +101,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "05878C24-DF55-4EA2-9C1F-BE3F4AEF48E3",
+    "do_objectID": "1CCDF827-0E46-4BDA-A73E-C1A029F69D22",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -118,7 +113,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D1CAA3C7-2368-4941-A6E0-406790DDB9B7",
+  "symbolID": "84BD8C92-8200-4F26-9B18-F8AB8839041C",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

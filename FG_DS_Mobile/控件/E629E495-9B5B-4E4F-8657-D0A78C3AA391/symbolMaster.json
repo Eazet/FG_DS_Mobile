@@ -25,7 +25,7 @@
     "constrainProportions": false,
     "height": 64,
     "width": 64,
-    "x": 2466,
+    "x": 2450,
     "y": -738
   },
   "groupLayout": {
@@ -53,43 +53,7 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "159726E6-9194-4655-950D-0FF3D6BFE50A"
-    },
-    {
-      "class": "rectangle",
-      "id": "8E45ED56-3BB0-4A07-8ECE-051B8F108A13"
-    },
-    {
-      "class": "rectangle",
-      "id": "21A7AACA-5BEC-497C-81F7-6AE35B541691"
-    },
-    {
-      "class": "rectangle",
-      "id": "A0EC971B-5517-406B-AD0F-57779A8B2409"
-    },
-    {
-      "class": "rectangle",
-      "id": "CEB50E49-83D0-45AB-ADAC-94A67A6729FF"
-    },
-    {
-      "class": "rectangle",
-      "id": "955B6B12-6D66-4F14-9DEF-0DA12986D4EE"
-    },
-    {
-      "class": "rectangle",
-      "id": "734415A3-1834-4FBB-B3A3-895665CE7851"
-    },
-    {
-      "class": "rectangle",
-      "id": "A3DBE1D6-F737-4C6C-91BA-D3608C612D8B"
-    },
-    {
-      "class": "rectangle",
-      "id": "4685867A-DA31-4971-9EDD-01E032897C98"
-    },
-    {
-      "class": "rectangle",
-      "id": "FA1C73E0-9AA8-4B46-9F18-148E261F0B5B"
+      "id": "DD838B37-C4F8-4DF0-8F12-F4C285A0BE48"
     }
   ],
   "name": "01. General 通用/Icon图标/64/029.键盘",
@@ -98,7 +62,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "159726E6-9194-4655-950D-0FF3D6BFE50A_layerStyle"
+      "overrideName": "DD838B37-C4F8-4DF0-8F12-F4C285A0BE48_layerStyle"
     }
   ],
   "presetDictionary": {

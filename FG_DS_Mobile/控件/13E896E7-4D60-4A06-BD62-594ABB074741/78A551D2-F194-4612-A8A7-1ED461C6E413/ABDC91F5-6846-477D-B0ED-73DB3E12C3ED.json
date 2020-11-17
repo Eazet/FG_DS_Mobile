@@ -1,8 +1,8 @@
 {
   "_class": "rectangle",
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "4685867A-DA31-4971-9EDD-01E032897C98",
+  "do_objectID": "ABDC91F5-6846-477D-B0ED-73DB3E12C3ED",
   "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
@@ -16,11 +16,11 @@
   "fixedRadius": 0,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 6,
-    "width": 6,
-    "x": 42.5,
-    "y": 21
+    "constrainProportions": false,
+    "height": 4,
+    "width": 28,
+    "x": 14,
+    "y": 17
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -59,22 +59,22 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{1, 1}",
+      "curveFrom": "{1, 1.0000000000000002}",
       "curveMode": 1,
-      "curveTo": "{1, 1}",
+      "curveTo": "{1, 1.0000000000000002}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1, 1}"
+      "point": "{1, 1.0000000000000002}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0, 1}",
+      "curveFrom": "{0, 1.0000000000000002}",
       "curveMode": 1,
-      "curveTo": "{0, 1}",
+      "curveTo": "{0, 1.0000000000000002}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0, 1}"
+      "point": "{0, 1.0000000000000002}"
     }
   ],
   "resizingConstraint": 63,
@@ -165,7 +165,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "E2306DFE-CD45-421A-B9A7-11C214A97A6C",
+    "do_objectID": "FBF94FEE-E50A-4603-BB58-817B99CA89C8",
     "endMarkerType": 0,
     "fills": [
       {
