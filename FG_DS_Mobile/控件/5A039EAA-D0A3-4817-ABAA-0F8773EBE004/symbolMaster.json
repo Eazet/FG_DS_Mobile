@@ -26,13 +26,13 @@
     "height": 92,
     "width": 750,
     "x": 5110,
-    "y": 2752
+    "y": 3287
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -58,10 +58,6 @@
     {
       "class": "text",
       "id": "72FD014B-8855-4D9F-8CAA-7565645B2DD2"
-    },
-    {
-      "class": "group",
-      "id": "69C7473F-1EA7-4208-B8AC-3662E5170AED"
     }
   ],
   "name": "04. Data Display 数据展示/标题栏/默认",
@@ -70,22 +66,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "71FE1EF5-AB0A-46CB-A873-F0AD1412E2FF_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "ACE682E6-25D2-4B1A-BC0D-A72E83B3114E_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "71FE1EF5-AB0A-46CB-A873-F0AD1412E2FF_textStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "91500ACE-FCC1-4FCB-85CD-FC8D4BAA2731_layerStyle"
+      "overrideName": "EA758ECC-4F0F-4E64-8B29-A1E258AE6A06_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",

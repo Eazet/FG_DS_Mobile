@@ -52,11 +52,19 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "0EFFCEBC-9155-462B-97EE-E7F4D583D892"
+      "class": "rectangle",
+      "id": "D5946D5C-BA18-409A-940C-FA205BFDD8D3"
+    },
+    {
+      "class": "text",
+      "id": "1FD79ABA-FA39-49C6-B966-CB144AB6A16C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "671E283A-5E63-48C7-8556-70832E23D506"
     }
   ],
-  "name": "04. Data Display 数据展示/菜单/操作项-列表",
+  "name": "04. Data Display 数据展示/菜单/操作项/列表-图标+文字",
   "nameIsFixed": true,
   "overrideProperties": [
     {

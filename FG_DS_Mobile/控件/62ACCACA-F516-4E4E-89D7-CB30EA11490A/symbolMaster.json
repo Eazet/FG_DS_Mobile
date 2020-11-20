@@ -26,7 +26,7 @@
     "height": 160,
     "width": 120,
     "x": 5471,
-    "y": -59
+    "y": 351
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -64,7 +64,7 @@
       "id": "96F0C3E4-F1D5-4B05-99D5-D86AC52B5F74"
     }
   ],
-  "name": "04. Data Display 数据展示/菜单/操作项-图标",
+  "name": "04. Data Display 数据展示/菜单/操作项/图标/常规",
   "nameIsFixed": true,
   "overrideProperties": [
     {
