@@ -280,7 +280,7 @@
       "do_objectID": "1EDD6AC2-FBA9-4E68-A26E-B1A366F4282E",
       "fontFamilyName": "Gotham",
       "fontFileName": "Gotham-Medium.otf",
-      "options": 2,
+      "options": 0,
       "postscriptNames": [
         "Gotham-Medium"
       ]
@@ -58251,8 +58251,8 @@
     ]
   },
   "meta": {
-    "appVersion": "69",
-    "build": 107357,
+    "appVersion": "69.1",
+    "build": 107496,
     "version": 134
   },
   "pages": [
