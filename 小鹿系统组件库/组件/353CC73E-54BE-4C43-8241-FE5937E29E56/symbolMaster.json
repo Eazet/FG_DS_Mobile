@@ -1,5 +1,6 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -9,19 +10,10 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E2940AB9-AD97-4A88-9404-B133D73E7BF8",
+  "do_objectID": "353CC73E-54BE-4C43-8241-FE5937E29E56",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 2,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -31,16 +23,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 906,
-    "width": 1379,
-    "x": 7788,
-    "y": 686
+    "height": 18,
+    "width": 18,
+    "x": -791,
+    "y": 312
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -49,6 +41,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -60,79 +53,32 @@
   "layers": [
     {
       "class": "group",
-      "id": "EBD14B98-2D5A-492C-8624-5A8D60EC42ED"
-    },
-    {
-      "class": "text",
-      "id": "92732AB5-2A86-4D33-B2BE-243F2F277C25"
-    },
-    {
-      "class": "text",
-      "id": "94B4EDB3-680C-42A4-A6EA-CB764E339114"
+      "id": "2D0A13DD-8621-428F-A523-10945FCF6301"
     },
     {
       "class": "symbolInstance",
-      "id": "CD0A69FC-5558-474D-A432-CF57F5E4DC20"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0920A53A-D8CB-41DC-A671-8094988FE1A4"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "8B540130-0D67-498E-BB3C-7E71C09EA4EA"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "DDF883DD-9746-49DD-B4BC-36A6C6A4C3A2"
-    },
-    {
-      "class": "text",
-      "id": "DF3A2A0B-65D3-4704-A498-C278225329E4"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A1A8E7AE-0894-4858-BF1F-729BF8A88DCB"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0231797D-9E9D-45B7-930A-F719D22BDB2E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5B679CA5-E558-4149-9990-B4191118C315"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "1E63EDEF-0254-468F-86FD-8CFC3F1A37D6"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CFEA91B7-528A-4BB7-B7D9-88E32542215B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "ED7C15AD-A17A-4DFC-BB58-2A24FC490C1D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D8B03621-BB65-4FB8-813B-BC9D8292E1B2"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A3EA8694-2CBA-4A16-A563-0AFB37074126"
-    },
-    {
-      "class": "text",
-      "id": "B4770398-FB64-4ED8-BCA9-C326836786D3"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "3A9E2FF1-EA40-4604-9841-8CE878AB4DD3"
+      "id": "69AB5243-A8D2-4AB8-87B4-FC5FEF9F4547"
     }
   ],
-  "name": "功能引导",
+  "name": "04. Data Display 数据展示/Tag标签/图标-重盘",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "69AB5243-A8D2-4AB8-87B4-FC5FEF9F4547_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7E43C49D-2159-44B1-928E-5AE9C529B7BB_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "69AB5243-A8D2-4AB8-87B4-FC5FEF9F4547_fillColor"
+    }
+  ],
   "presetDictionary": {
   },
   "resizesContent": false,
@@ -174,7 +120,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "C3ECC5A5-DFE8-4C22-B39A-935C4C2EAA71",
+    "do_objectID": "452A3A88-C564-4005-957C-78D18C829C26",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -186,6 +132,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "B992F406-710D-4E41-863E-8876BF496499",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

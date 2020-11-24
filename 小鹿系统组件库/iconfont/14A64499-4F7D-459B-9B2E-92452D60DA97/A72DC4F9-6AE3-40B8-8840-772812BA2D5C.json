@@ -1,9 +1,8 @@
 {
-  "_class": "bitmap",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "29471455-44FD-4F24-809B-F4BE565D1C02",
+  "do_objectID": "A72DC4F9-6AE3-40B8-8840-772812BA2D5C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,33 +12,30 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 18,
-    "width": 18,
-    "x": 8,
-    "y": 14
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/328c7f971c46c0c39d0a88b8f0bf9975f2a02c61.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 72,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "light-bulb_1f4a1",
+  "name": "01. General 通用/Icon图标/16/097.加粗-F",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -48,7 +44,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 0,
+      "radius": 10,
       "saturation": 1,
       "type": 0
     },
@@ -66,16 +62,16 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
-      "hue": -0.117933214786881,
-      "isEnabled": true,
-      "saturation": 1.083677279874214
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
     },
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "B0524709-95F2-4018-930B-330983756CE8",
+    "do_objectID": "A3510D8A-1D68-445B-938E-F4D553A3FFB1",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -86,5 +82,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "1C6A48F5-B3E0-481E-A888-444D049EF68A",
+  "verticalSpacing": 0
 }
