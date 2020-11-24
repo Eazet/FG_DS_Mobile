@@ -53,12 +53,21 @@
   "layers": [
     {
       "class": "rectangle",
+      "id": "68987CBF-BE0E-42DD-A697-8517EE96AC76"
+    },
+    {
+      "class": "rectangle",
       "id": "E09F0E92-B70A-4508-A752-AA0C9C31035F"
     }
   ],
   "name": "06. Others 其他/系统/桌面指示器-浅色",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "68987CBF-BE0E-42DD-A697-8517EE96AC76_layerStyle"
+    }
   ],
   "presetDictionary": {
   },

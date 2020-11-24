@@ -26,7 +26,7 @@
     "height": 80,
     "width": 750,
     "x": 5110,
-    "y": 3078
+    "y": 3613
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -60,8 +60,8 @@
       "id": "D78F407A-3CD5-4176-947B-6DCE4AD49D24"
     },
     {
-      "class": "group",
-      "id": "D96C544F-2047-4EE5-9085-5741CD8E291D"
+      "class": "symbolInstance",
+      "id": "51B16CAB-B326-4135-8341-31249C484878"
     }
   ],
   "name": "04. Data Display 数据展示/标题栏/小",
@@ -70,22 +70,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "602C6AB6-E6E9-496D-A429-43B4E8C8DC5E_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "7B4A54C1-29F2-4077-AF81-973A1A8A5917_textStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "7B4A54C1-29F2-4077-AF81-973A1A8A5917_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "13C2B40F-8DB5-437F-8D8F-37B3C1096F9F_symbolID"
+      "overrideName": "51B16CAB-B326-4135-8341-31249C484878_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",

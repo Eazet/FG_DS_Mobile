@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 579,
+    "height": 697,
     "width": 803,
     "x": 2801,
     "y": 3623
@@ -431,6 +431,46 @@
     {
       "class": "symbolInstance",
       "id": "59216019-41FD-4297-822A-C03A3B0B120A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "361CB128-EEA0-450E-B4DF-88F5204F639A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "083C8815-6708-4670-8358-71082A2BE0C1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0443348E-413B-431B-B100-8F61ABF4C57B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FF23723F-9EDF-4E6C-9A77-3B124C1EB7F1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5543FE41-9678-417B-9DB5-66B77D2DB2B9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E37891D5-235B-4E8F-AC65-FD1B1A689F79"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "97DB14EA-89E7-49C2-BA13-600CACB04000"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "757C07CF-310A-4052-BCA0-BF8E40BBE44B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E39F1B7E-9ACE-4E5F-986A-E35B16388348"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "20061406-CFC8-4F3A-90AF-3378C11607A3"
     }
   ],
   "name": "编组 7",

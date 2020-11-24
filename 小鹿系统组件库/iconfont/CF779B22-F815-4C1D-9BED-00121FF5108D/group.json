@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 456,
+    "height": 2717,
     "width": 799,
     "x": 2801,
     "y": -105
@@ -102,6 +102,10 @@
     },
     {
       "class": "symbolInstance",
+      "id": "35C2DA13-AD3F-4A0E-A018-6825440CABA2"
+    },
+    {
+      "class": "symbolInstance",
       "id": "7B34B20F-05A0-463F-BA29-18EBEBE0EF34"
     },
     {
@@ -163,6 +167,10 @@
     {
       "class": "symbolInstance",
       "id": "6DA5A5EB-FDEA-413C-84EC-71742E422ADC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4E4FB046-BE4D-4B63-BB22-2595024AF25A"
     }
   ],
   "name": "编组 4",
