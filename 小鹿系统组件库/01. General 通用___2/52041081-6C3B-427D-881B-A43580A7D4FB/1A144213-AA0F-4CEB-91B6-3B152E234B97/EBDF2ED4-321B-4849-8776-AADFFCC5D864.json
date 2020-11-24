@@ -1,0 +1,113 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EBDF2ED4-321B-4849-8776-AADFFCC5D864",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 84,
+    "x": 416,
+    "y": 175
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "01. General 通用/Buttons按钮/主按钮/默认备份 29",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A7CFAD76-09A7-4526-9C52-29FB08883DA2_stringValue",
+      "value": "次按钮"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8B8D48A9-2D5A-4425-87BB-077BFE99B4A5_symbolID",
+      "value": "51DA81D7-E50C-4412-A92C-5CBD534AB10A"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FD888198-25CB-44CC-8DA4-3E296D9B6DCF_layerStyle",
+      "value": "E39EFB35-41CF-4461-98CB-2B11CB818540"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8B8D48A9-2D5A-4425-87BB-077BFE99B4A5/2BBC7D6F-99E1-4091-BDE3-B65B53B2E54E_layerStyle",
+      "value": "C67BAB24-4EB3-43F5-9F86-DAF5D4FBD822"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A7CFAD76-09A7-4526-9C52-29FB08883DA2_textStyle",
+      "value": "83A8FC3D-3431-4F06-9B26-CA34C0654FC3"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "FDB17B99-939A-4C70-81A3-9A4A195B5979",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "174DB2F0-2FFD-483F-A744-8D27BF80FEB2",
+  "verticalSpacing": 0
+}
