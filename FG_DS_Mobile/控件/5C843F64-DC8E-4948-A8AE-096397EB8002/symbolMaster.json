@@ -52,17 +52,26 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "66A5B419-0192-40EF-B0B3-802A09928ADD"
+      "class": "oval",
+      "id": "2FA0A517-0CEA-4EB4-9EC8-442ADC55A4C6"
+    },
+    {
+      "class": "shapePath",
+      "id": "6D383695-E9D7-4923-8D84-8D5958C8B3EA"
     }
   ],
-  "name": "01. General 通用/Icon图标/48/050.播放",
+  "name": "01. General 通用/Icon图标/48/050.播放-黑",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "66A5B419-0192-40EF-B0B3-802A09928ADD_layerStyle"
+      "overrideName": "6D383695-E9D7-4923-8D84-8D5958C8B3EA_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2FA0A517-0CEA-4EB4-9EC8-442ADC55A4C6_layerStyle"
     }
   ],
   "presetDictionary": {
