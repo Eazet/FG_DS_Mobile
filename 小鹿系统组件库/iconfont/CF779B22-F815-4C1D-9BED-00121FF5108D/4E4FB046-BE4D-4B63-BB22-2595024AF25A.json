@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "422F6C35-D45C-4495-8A4A-AD25FD77541B",
+  "do_objectID": "4E4FB046-BE4D-4B63-BB22-2595024AF25A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 56,
-    "x": 100,
-    "y": 427
+    "height": 102,
+    "width": 78,
+    "x": 480,
+    "y": 2615
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -27,19 +27,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "name": "01. General 通用/Buttons按钮/主按钮/默认备份 19",
-  "nameIsFixed": false,
+  "layerListExpandedType": 0,
+  "name": "图标编码表单元备份 306",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "0958FB3F-A9DE-4DEB-8D1C-E6029E9A6769_layerStyle",
-      "value": "EFC954AD-8A88-48E0-864F-B72740CFABEC"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "94E36938-A580-46E1-A64C-4A04359287CB_stringValue",
-      "value": "小按钮"
+      "overrideName": "D6D37947-7C80-4B70-AC0E-E5B92C4F78B8_stringValue",
+      "value": "B-138-F"
     }
   ],
   "resizingConstraint": 63,
@@ -81,7 +76,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "42FBFF54-F8F8-4B2C-B918-D0A3551127DB",
+    "do_objectID": "63535365-3831-4A08-8ACD-79B4CB35E620",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -89,30 +84,10 @@
     ],
     "miterLimit": 10,
     "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 4,
-        "color": {
-          "_class": "color",
-          "alpha": 0.5,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": false,
-        "offsetX": 0,
-        "offsetY": 2,
-        "spread": 0
-      }
     ],
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "3799A47E-2D6B-4F23-A020-4F42F60B089B",
+  "symbolID": "E599ECC0-34B9-490F-97ED-BDFD21E9E655",
   "verticalSpacing": 0
 }

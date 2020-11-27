@@ -52,8 +52,17 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+<<<<<<< HEAD:小鹿系统组件库/组件/7310FC15-7283-4651-BCB8-B62B680BE40F/symbolMaster.json
       "class": "group",
       "id": "D095A543-98C1-4BE8-B5D6-7BF3410232F8"
+=======
+      "class": "shapeGroup",
+      "id": "20DDFCBE-2DA9-4848-9FBF-9CA9CC3A676F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BC16EECD-5144-4B4F-9BB2-3C78F36D716C"
+>>>>>>> 28070e9de040b9c9a218ced3472a52962e66a70c:小鹿系统组件库/组件/8B2CDF9D-60E9-4E3B-9A0D-ED01F7AB768C/symbolMaster.json
     }
   ],
   "name": "06. Others 其他/鼠标/06.抓取",

@@ -32,7 +32,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -66,6 +66,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
+<<<<<<< HEAD:小鹿系统组件库/组件/66E6AF4E-E8A6-4890-9E3F-C770903350FB/symbolMaster.json
       "overrideName": "9D4E0364-0311-43D3-843B-DBB626C3E02F_layerStyle"
     },
     {
@@ -82,6 +83,9 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "2A6787AC-8AC7-4F67-A871-A9533A7BD8AC_symbolID"
+=======
+      "overrideName": "EE2FE790-E2B7-49F6-8BD4-01A7C3847723_layerStyle"
+>>>>>>> 28070e9de040b9c9a218ced3472a52962e66a70c:小鹿系统组件库/组件/E98EFE3D-F853-40D9-8236-D10A367CE589/symbolMaster.json
     }
   ],
   "presetDictionary": {

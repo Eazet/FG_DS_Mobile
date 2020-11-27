@@ -62,6 +62,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
+<<<<<<< HEAD:小鹿系统组件库/组件/87CA84FA-FAE6-4932-8AE5-7FCD19BFB67F/symbolMaster.json
       "overrideName": "B68F426F-7277-4FA1-B0AE-E658903D394D_textStyle"
     },
     {
@@ -73,6 +74,9 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "B68F426F-7277-4FA1-B0AE-E658903D394D_stringValue"
+=======
+      "overrideName": "233A4438-3AF9-498A-8F05-55E03B1A1DC7_layerStyle"
+>>>>>>> 28070e9de040b9c9a218ced3472a52962e66a70c:小鹿系统组件库/组件/4E4D4637-1C7B-4DE1-BACB-D3D4D9A5688B/symbolMaster.json
     }
   ],
   "presetDictionary": {

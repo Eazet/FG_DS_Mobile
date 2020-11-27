@@ -1,6 +1,5 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
+  "_class": "artboard",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -10,10 +9,19 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C1AD666F-92AB-429A-BFB0-0BBAD0F8B820",
+  "do_objectID": "14A64499-4F7D-459B-9B2E-92452D60DA97",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -23,16 +31,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 152,
-    "x": -142,
-    "y": 3159
+    "height": 16,
+    "width": 16,
+    "x": 3312,
+    "y": 2541
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -41,7 +49,6 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -52,40 +59,15 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "C10AC515-90D8-4DB7-9E17-1E83AD45A948"
-    },
-    {
-      "class": "text",
-      "id": "069182E1-FC10-4852-A804-F3DD2426DF75"
+      "class": "symbolInstance",
+      "id": "A72DC4F9-6AE3-40B8-8840-772812BA2D5C"
     }
   ],
-  "name": "03. Data Entry 数据录入/Select 选择器/选项-文字类/文字选项-不可用",
+  "name": "B-138-F",
   "nameIsFixed": true,
-  "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-<<<<<<< HEAD:小鹿系统组件库/组件/C1AD666F-92AB-429A-BFB0-0BBAD0F8B820/symbolMaster.json
-      "overrideName": "C10AC515-90D8-4DB7-9E17-1E83AD45A948_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "069182E1-FC10-4852-A804-F3DD2426DF75_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "069182E1-FC10-4852-A804-F3DD2426DF75_textStyle"
-=======
-      "overrideName": "A4071762-63D6-4CE5-8B24-05B306BFD64D_layerStyle"
->>>>>>> 28070e9de040b9c9a218ced3472a52962e66a70c:小鹿系统组件库/组件/3F41CB55-BBA0-4EB4-BEA8-AD10C7C80BE8/symbolMaster.json
-    }
-  ],
   "presetDictionary": {
   },
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -124,7 +106,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "33311C79-B828-4684-93FE-007FC815F7D2",
+    "do_objectID": "8791FA8E-5F54-4E18-9A85-0F01009F00F2",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -136,7 +118,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "5ADB3C73-6EA1-42B6-8870-C7C4330D978A",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

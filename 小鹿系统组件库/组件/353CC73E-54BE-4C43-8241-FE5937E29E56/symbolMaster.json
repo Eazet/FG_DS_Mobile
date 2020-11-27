@@ -10,7 +10,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C1AD666F-92AB-429A-BFB0-0BBAD0F8B820",
+  "do_objectID": "353CC73E-54BE-4C43-8241-FE5937E29E56",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,16 +23,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 152,
-    "x": -142,
-    "y": 3159
+    "height": 18,
+    "width": 18,
+    "x": -791,
+    "y": 312
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -49,43 +49,35 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "C10AC515-90D8-4DB7-9E17-1E83AD45A948"
-    },
-    {
-      "class": "text",
-      "id": "069182E1-FC10-4852-A804-F3DD2426DF75"
+      "class": "symbolInstance",
+      "id": "69AB5243-A8D2-4AB8-87B4-FC5FEF9F4547"
     }
   ],
-  "name": "03. Data Entry 数据录入/Select 选择器/选项-文字类/文字选项-不可用",
+  "name": "04. Data Display 数据展示/Tag标签/图标-重盘",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-<<<<<<< HEAD:小鹿系统组件库/组件/C1AD666F-92AB-429A-BFB0-0BBAD0F8B820/symbolMaster.json
-      "overrideName": "C10AC515-90D8-4DB7-9E17-1E83AD45A948_layerStyle"
+      "canOverride": false,
+      "overrideName": "69AB5243-A8D2-4AB8-87B4-FC5FEF9F4547_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "069182E1-FC10-4852-A804-F3DD2426DF75_stringValue"
+      "overrideName": "7E43C49D-2159-44B1-928E-5AE9C529B7BB_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "069182E1-FC10-4852-A804-F3DD2426DF75_textStyle"
-=======
-      "overrideName": "A4071762-63D6-4CE5-8B24-05B306BFD64D_layerStyle"
->>>>>>> 28070e9de040b9c9a218ced3472a52962e66a70c:小鹿系统组件库/组件/3F41CB55-BBA0-4EB4-BEA8-AD10C7C80BE8/symbolMaster.json
+      "overrideName": "69AB5243-A8D2-4AB8-87B4-FC5FEF9F4547_fillColor"
     }
   ],
   "presetDictionary": {
   },
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -124,7 +116,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "33311C79-B828-4684-93FE-007FC815F7D2",
+    "do_objectID": "452A3A88-C564-4005-957C-78D18C829C26",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -136,7 +128,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "5ADB3C73-6EA1-42B6-8870-C7C4330D978A",
+  "symbolID": "B992F406-710D-4E41-863E-8876BF496499",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
