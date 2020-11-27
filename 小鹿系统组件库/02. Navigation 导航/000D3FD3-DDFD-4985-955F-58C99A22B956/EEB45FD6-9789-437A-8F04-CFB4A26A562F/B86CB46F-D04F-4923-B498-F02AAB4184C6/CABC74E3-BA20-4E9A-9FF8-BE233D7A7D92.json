@@ -31,6 +31,11 @@
   "name": "Tree 树 / 文字 / 一级 / 子节点 / 默认",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "830B50B4-58E4-448B-9B12-29C5F0C5D48A_layerStyle",
+      "value": "6445E30E-8EE3-4AFA-A2DC-F7F08881B964"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

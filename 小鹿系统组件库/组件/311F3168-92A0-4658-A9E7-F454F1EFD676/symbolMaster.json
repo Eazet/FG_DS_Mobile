@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 32,
     "width": 32,
-    "x": 1754,
-    "y": 568
+    "x": 1942,
+    "y": 506
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -56,9 +56,14 @@
       "id": "2BBF5F13-FA9B-4336-A9A1-F1953205566D"
     }
   ],
-  "name": "06. Others 其他/鼠标/等比缩放",
+  "name": "06. Others 其他/鼠标/08.等比缩放",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2BBF5F13-FA9B-4336-A9A1-F1953205566D_symbolID"
+    }
   ],
   "presetDictionary": {
   },
