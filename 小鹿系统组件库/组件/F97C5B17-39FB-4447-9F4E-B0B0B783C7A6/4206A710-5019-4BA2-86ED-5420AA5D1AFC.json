@@ -18,9 +18,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 32,
-    "width": 304,
-    "x": 0,
-    "y": 2.842170943040401e-14
+    "width": 284,
+    "x": 20,
+    "y": 0
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -80,6 +80,7 @@
   "resizingConstraint": 58,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "6445E30E-8EE3-4AFA-A2DC-F7F08881B964",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

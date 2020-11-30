@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 32,
     "width": 32,
-    "x": 1693,
-    "y": 568
+    "x": 1880,
+    "y": 506
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -56,7 +56,7 @@
       "id": "1DB1710C-22E2-4B11-96B1-8D2F79790E50"
     }
   ],
-  "name": "06. Others 其他/鼠标/缩放高度",
+  "name": "06. Others 其他/鼠标/09.缩放高度",
   "nameIsFixed": true,
   "overrideProperties": [
   ],

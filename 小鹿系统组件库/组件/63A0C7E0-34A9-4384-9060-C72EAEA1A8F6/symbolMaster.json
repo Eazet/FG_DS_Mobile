@@ -49,14 +49,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
       "id": "4B38451C-BC30-45B7-AF25-8116F6698DBB"
     }
   ],
-  "name": "06. Others 其他/鼠标/单击",
+  "name": "06. Others 其他/鼠标/03.单击",
   "nameIsFixed": true,
   "overrideProperties": [
   ],

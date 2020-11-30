@@ -26,7 +26,7 @@
     "height": 32,
     "width": 152,
     "x": -142,
-    "y": 3159
+    "y": 3223
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -64,7 +64,7 @@
       "id": "A8F8678B-ADB2-459A-8368-AA280768CD3A"
     }
   ],
-  "name": "03. Data Entry 数据录入/Selection 选项/文字类/仅文字-当前选择",
+  "name": "03. Data Entry 数据录入/Select 选择器/选项-文字类/文字选项-当前选择",
   "nameIsFixed": true,
   "overrideProperties": [
     {

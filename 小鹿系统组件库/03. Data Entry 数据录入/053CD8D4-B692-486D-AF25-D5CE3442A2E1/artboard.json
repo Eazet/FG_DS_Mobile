@@ -33,14 +33,14 @@
     "constrainProportions": false,
     "height": 713,
     "width": 689,
-    "x": 7649,
+    "x": 5689,
     "y": 1102
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",

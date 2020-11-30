@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 32,
     "width": 32,
-    "x": 1632,
-    "y": 568
+    "x": 1818,
+    "y": 506
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -49,14 +49,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
       "id": "A6FAC2DB-4E43-4291-82B0-50E034FF20D0"
     }
   ],
-  "name": "06. Others 其他/鼠标/文本",
+  "name": "06. Others 其他/鼠标/10.文本",
   "nameIsFixed": true,
   "overrideProperties": [
   ],

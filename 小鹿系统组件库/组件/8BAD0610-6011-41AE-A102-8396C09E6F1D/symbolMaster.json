@@ -63,16 +63,6 @@
   "name": "01. General 通用/Icon图标/40/地图标识-休闲-未选中",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "B2134688-E81E-49EC-BC32-0A683309FB35_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "1F13225A-2966-4E3D-A757-CC05BDA4ABD2_layerStyle"
-    }
   ],
   "presetDictionary": {
   },
