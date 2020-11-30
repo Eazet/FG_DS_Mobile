@@ -62,7 +62,17 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
+      "overrideName": "938A2029-F612-4241-ABC2-09CC0B87DCBB_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
       "overrideName": "61BF2D5A-27FA-4ECE-8E25-E3F41082A08C_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A1280D10-E25E-477F-BE80-2237623BD9B2_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",

@@ -30,15 +30,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "4DC1FEAF-3AE8-4E37-8937-C6509EF330CA"
-    },
-    {
-      "class": "rectangle",
-      "id": "BA38F0D1-9641-420C-94BE-A471ED7719A1"
     }
   ],
   "name": "矩形",
