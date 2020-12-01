@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "2A598E86-AB0D-429F-852C-7DE7DEDB50AD",
   "exportOptions": {
@@ -68,6 +69,7 @@
       "id": "57A63092-F396-4961-82C2-630B0901D593"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Table表格/房源/回收站",
   "nameIsFixed": true,
   "overrideProperties": [

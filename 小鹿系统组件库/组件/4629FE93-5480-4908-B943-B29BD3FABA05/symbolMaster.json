@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "4629FE93-5480-4908-B943-B29BD3FABA05",
   "exportOptions": {
@@ -60,6 +61,7 @@
       "id": "1CDE60B4-36FE-4D03-8EB4-67205FF78E28"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/40/审批-上传图片",
   "nameIsFixed": true,
   "overrideProperties": [

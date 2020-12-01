@@ -54,7 +54,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 18,
-    "width": 49,
+    "width": 51,
     "x": 0,
     "y": 0
   },
@@ -67,6 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "点 评",
   "nameIsFixed": false,
   "resizingConstraint": 47,

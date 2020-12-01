@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "B83B931E-A475-4567-B59C-DBE3FA106B6F",
   "exportOptions": {
@@ -60,6 +61,7 @@
       "id": "428871B1-3860-493F-A1D3-C31720B4782B"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/40/地图标识-学校-未选中",
   "nameIsFixed": true,
   "overrideProperties": [

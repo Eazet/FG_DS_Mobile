@@ -41,6 +41,7 @@
       "id": "E65FE572-4EEF-46F7-B24A-F697C00B1829"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Title Bar",
   "nameIsFixed": true,
   "resizingConstraint": 11,

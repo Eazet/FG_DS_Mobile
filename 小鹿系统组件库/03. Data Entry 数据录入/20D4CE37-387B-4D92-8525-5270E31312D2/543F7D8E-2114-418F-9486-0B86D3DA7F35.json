@@ -66,6 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "注：定位态指的是对上次操作位置的一个定位",
   "nameIsFixed": false,
   "resizingConstraint": 47,

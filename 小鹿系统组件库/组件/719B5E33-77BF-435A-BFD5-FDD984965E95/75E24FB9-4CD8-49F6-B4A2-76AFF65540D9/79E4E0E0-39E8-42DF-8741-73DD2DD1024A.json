@@ -68,6 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "每页200条",
   "nameIsFixed": false,
   "resizingConstraint": 44,

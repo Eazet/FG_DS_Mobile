@@ -66,6 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "应用到 (7至15层、20至24层)",
   "nameIsFixed": false,
   "resizingConstraint": 47,

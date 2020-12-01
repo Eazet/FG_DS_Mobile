@@ -98,6 +98,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1170
   },
+  "maintainScrollPosition": false,
   "name": "超高对话框",
   "nameIsFixed": true,
   "presetDictionary": {

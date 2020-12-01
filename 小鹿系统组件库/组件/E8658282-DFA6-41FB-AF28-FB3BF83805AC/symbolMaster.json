@@ -9,6 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "E8658282-DFA6-41FB-AF28-FB3BF83805AC",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "11BF66CC-6049-4179-B37A-2FA509A13ED6"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/16/015.移除-F",
   "nameIsFixed": true,
   "overrideProperties": [

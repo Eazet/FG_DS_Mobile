@@ -65,6 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
+  "maintainScrollPosition": false,
   "name": "标签一",
   "nameIsFixed": false,
   "resizingConstraint": 41,

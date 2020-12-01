@@ -66,6 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
+  "maintainScrollPosition": false,
   "name": "搜索列表中的部门展开后为正常树状结构，不",
   "nameIsFixed": false,
   "resizingConstraint": 63,

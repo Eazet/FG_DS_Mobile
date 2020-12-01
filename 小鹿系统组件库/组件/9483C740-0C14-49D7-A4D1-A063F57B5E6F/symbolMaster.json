@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "9483C740-0C14-49D7-A4D1-A063F57B5E6F",
   "exportOptions": {
@@ -31,9 +32,7 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0,
-    "maxSize": 0,
-    "minSize": 0
+    "layoutAnchor": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -72,6 +71,7 @@
       "id": "C7EFB1DD-CE3F-4E5D-897E-C0A8442F1260"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "02. Navigation 导航/Tabs标签页/内容标签/左-选中",
   "nameIsFixed": true,
   "overrideProperties": [

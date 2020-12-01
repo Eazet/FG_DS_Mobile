@@ -9,6 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "85FBC439-2E95-4D1A-8D04-96B721F79C2D",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "C5CB48E4-8A61-422D-9CAC-91FA0034F315"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/16/051.下载中心",
   "nameIsFixed": true,
   "overrideProperties": [

@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "8EAF60B0-DFC4-486C-83BC-987120862DBF",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "A9B4D65B-8077-4550-A4B5-A331A3E04C87"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "03. Data Entry 数据录入/Input输入框/带图标/中/不可用",
   "nameIsFixed": true,
   "overrideProperties": [

@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "CC3CF8ED-2088-469D-9712-9CE4C5409019",
   "exportOptions": {
@@ -60,6 +61,7 @@
       "id": "7042A983-2234-4603-AA0D-AEF427C627B4"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "03. Data Entry 数据录入/Selection 选项/勾选类/带头像",
   "nameIsFixed": true,
   "overrideProperties": [

@@ -41,6 +41,7 @@
       "id": "A8A1B85F-9D3E-46ED-87D6-B4AEA9CF6ACF"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Cursors / Resize (Double) / North-South",
   "nameIsFixed": true,
   "resizingConstraint": 45,

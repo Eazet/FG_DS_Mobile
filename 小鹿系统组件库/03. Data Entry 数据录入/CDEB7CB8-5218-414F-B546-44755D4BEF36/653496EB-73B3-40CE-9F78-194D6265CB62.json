@@ -66,6 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
+  "maintainScrollPosition": false,
   "name": "已选状态点开之后展开已选项的父级，并高亮",
   "nameIsFixed": false,
   "resizingConstraint": 63,

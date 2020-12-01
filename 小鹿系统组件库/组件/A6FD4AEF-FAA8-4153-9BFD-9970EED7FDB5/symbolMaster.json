@@ -9,6 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "A6FD4AEF-FAA8-4153-9BFD-9970EED7FDB5",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "94413212-AEEE-49CA-B887-E208393EB52C"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/16/034.访客",
   "nameIsFixed": true,
   "overrideProperties": [

@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "8210AE32-2BD0-479D-81C8-700F8A4EF403",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "53F931F3-C075-4D94-91D8-86A4692BF4D2"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Table表格/单元格/标签/优推",
   "nameIsFixed": true,
   "overrideProperties": [

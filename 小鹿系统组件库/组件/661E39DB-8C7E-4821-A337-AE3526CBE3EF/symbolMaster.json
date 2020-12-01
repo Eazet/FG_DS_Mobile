@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "661E39DB-8C7E-4821-A337-AE3526CBE3EF",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "1B84BCD6-63C4-4DDD-BFFD-5D22F412542C"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "03. Data Entry 数据录入/Input输入框/带单位/中/已输入/图标占位",
   "nameIsFixed": false,
   "overrideProperties": [

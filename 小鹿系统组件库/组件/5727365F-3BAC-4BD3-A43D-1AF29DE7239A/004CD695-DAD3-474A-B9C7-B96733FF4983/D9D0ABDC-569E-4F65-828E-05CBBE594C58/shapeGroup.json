@@ -41,6 +41,7 @@
       "id": "7EE6528D-6B38-4B56-89E7-F1402B77CF72"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Rectangle",
   "nameIsFixed": false,
   "resizingConstraint": 63,

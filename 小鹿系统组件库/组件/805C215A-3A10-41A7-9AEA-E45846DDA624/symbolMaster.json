@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "805C215A-3A10-41A7-9AEA-E45846DDA624",
   "exportOptions": {
@@ -31,9 +32,7 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0,
-    "maxSize": 0,
-    "minSize": 0
+    "layoutAnchor": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -64,6 +63,7 @@
       "id": "793D1904-4991-44AA-BC1A-C5D421F5070A"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "03. Data Entry 数据录入/Radio 单选框/按钮样式/图标+文字-右选中",
   "nameIsFixed": true,
   "overrideProperties": [

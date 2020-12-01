@@ -66,6 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "这是一条询问消息，会主动消失。",
   "nameIsFixed": false,
   "resizingConstraint": 43,

@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "D42E3DC0-4315-416F-8514-14D987516E16",
   "exportOptions": {
@@ -60,6 +61,7 @@
       "id": "A008741A-5C73-4F97-90B5-9194A7AD2387"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/40/审批-上传视频",
   "nameIsFixed": true,
   "overrideProperties": [

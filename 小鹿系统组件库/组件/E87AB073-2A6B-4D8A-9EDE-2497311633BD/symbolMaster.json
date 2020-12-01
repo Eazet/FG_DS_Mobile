@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "E87AB073-2A6B-4D8A-9EDE-2497311633BD",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "679F0DA7-3503-420D-9D84-B7C82D956568"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "02. Navigation 导航/Scrollbar滚动条/亮色/占位",
   "nameIsFixed": true,
   "overrideProperties": [

@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "D4C58294-6F60-4B25-B76E-2C8CBF43F9B1",
   "exportOptions": {
@@ -68,6 +69,7 @@
       "id": "B964DEFC-7847-48EE-927F-F655D3FC4E4E"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "06. Others 其他/框架/Task bar",
   "nameIsFixed": true,
   "overrideProperties": [

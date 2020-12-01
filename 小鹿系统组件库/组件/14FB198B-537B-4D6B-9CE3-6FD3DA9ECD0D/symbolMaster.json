@@ -9,6 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "14FB198B-537B-4D6B-9CE3-6FD3DA9ECD0D",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "40A4963C-943E-472F-BF61-201BE508EE2F"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/16/048.粉丝",
   "nameIsFixed": true,
   "overrideProperties": [

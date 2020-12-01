@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "46CC5AF5-0807-4F9B-8D7C-09D71234329C",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "B109E1F8-8B61-4B45-93B3-6E5B344503AF"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/24/029.委托",
   "nameIsFixed": true,
   "overrideProperties": [

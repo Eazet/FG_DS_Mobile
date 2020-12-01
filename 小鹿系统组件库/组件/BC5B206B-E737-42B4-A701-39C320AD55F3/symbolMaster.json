@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "BC5B206B-E737-42B4-A701-39C320AD55F3",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "2FE0CDA4-B523-4836-B7B6-63427F4DAD39"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/40/027.播放",
   "nameIsFixed": true,
   "overrideProperties": [

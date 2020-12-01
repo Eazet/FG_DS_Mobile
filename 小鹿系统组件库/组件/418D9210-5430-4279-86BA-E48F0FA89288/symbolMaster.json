@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "418D9210-5430-4279-86BA-E48F0FA89288",
   "exportOptions": {
@@ -60,6 +61,7 @@
       "id": "79551104-F01F-4D8F-AD8E-BF8FDBAF49FC"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/40/最新房源",
   "nameIsFixed": true,
   "overrideProperties": [

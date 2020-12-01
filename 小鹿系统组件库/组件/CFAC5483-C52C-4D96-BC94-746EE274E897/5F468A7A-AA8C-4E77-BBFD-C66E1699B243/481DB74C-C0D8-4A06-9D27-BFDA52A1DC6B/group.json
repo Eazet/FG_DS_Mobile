@@ -41,6 +41,7 @@
       "id": "523E7BF1-214E-4AB2-BC28-BC724DA736ED"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Cursors / Move",
   "nameIsFixed": true,
   "resizingConstraint": 45,

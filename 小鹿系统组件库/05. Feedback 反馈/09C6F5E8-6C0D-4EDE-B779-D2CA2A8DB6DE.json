@@ -68,6 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "7.若对话框内存在高度自适应的容器，容器",
   "nameIsFixed": false,
   "resizingConstraint": 47,

@@ -66,6 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
+  "maintainScrollPosition": false,
   "name": "改动: 边框颜色和图标颜色更改",
   "nameIsFixed": false,
   "resizingConstraint": 47,

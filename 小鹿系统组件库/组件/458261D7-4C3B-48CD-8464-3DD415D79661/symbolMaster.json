@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "458261D7-4C3B-48CD-8464-3DD415D79661",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "F691CC03-7B80-48E9-9B39-D7C086A126CA"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/24/016.合作",
   "nameIsFixed": true,
   "overrideProperties": [

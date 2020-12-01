@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "B21FB468-AAFF-40D8-AB63-C8AB319A2795",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "B52606F0-6473-428C-B5F3-8F344852E3EA"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Tag标签/图标-下降",
   "nameIsFixed": true,
   "overrideProperties": [

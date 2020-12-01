@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "7B5A702A-C930-494A-8747-7447858E05F9",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "2575A6B1-B7B5-4DF6-B607-26CB73B10C14"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/24/011.客户",
   "nameIsFixed": true,
   "overrideProperties": [

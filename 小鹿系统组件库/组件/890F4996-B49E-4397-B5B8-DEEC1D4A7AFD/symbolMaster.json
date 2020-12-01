@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "890F4996-B49E-4397-B5B8-DEEC1D4A7AFD",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "8E2690AE-B58E-43FD-9231-4510719A68B2"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/16/122.字体颜色",
   "nameIsFixed": true,
   "overrideProperties": [

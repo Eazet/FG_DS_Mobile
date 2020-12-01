@@ -9,6 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "93C7CF4E-E0E2-42B7-B380-57EBD135D469",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "070D9D61-537F-470E-9A95-180BEBE7EF86"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/16/045.新房",
   "nameIsFixed": true,
   "overrideProperties": [

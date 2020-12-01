@@ -37,6 +37,7 @@
       "id": "E1320600-1CE2-4206-B90E-CF246282E77A"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "line",
   "nameIsFixed": false,
   "resizingConstraint": 63,

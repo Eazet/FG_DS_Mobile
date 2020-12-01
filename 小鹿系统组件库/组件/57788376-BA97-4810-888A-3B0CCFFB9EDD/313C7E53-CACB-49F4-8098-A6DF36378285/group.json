@@ -37,6 +37,7 @@
       "id": "BE60A77A-845D-47C6-9103-20343169567D"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "dropdown/down",
   "nameIsFixed": true,
   "resizingConstraint": 44,

@@ -68,6 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "4.若对话框内容由多个并列Tab组成，则",
   "nameIsFixed": false,
   "resizingConstraint": 47,

@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "148D2F44-9B66-4DA0-BCDF-155F3C929450",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "7003E9CF-C294-4742-B406-DFA504BBC5CE"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/16/129.字间距",
   "nameIsFixed": true,
   "overrideProperties": [

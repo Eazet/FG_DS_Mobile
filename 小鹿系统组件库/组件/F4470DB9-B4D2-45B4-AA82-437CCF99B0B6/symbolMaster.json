@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "F4470DB9-B4D2-45B4-AA82-437CCF99B0B6",
   "exportOptions": {
@@ -31,9 +32,7 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 2,
-    "maxSize": 0,
-    "minSize": 0
+    "layoutAnchor": 2
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -72,6 +71,7 @@
       "id": "63D52EB3-9DB3-4DAC-AC50-9352B417DDE3"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "03. Data Entry 数据录入/Form 表单/标题-问号",
   "nameIsFixed": true,
   "overrideProperties": [

@@ -66,6 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
+  "maintainScrollPosition": false,
   "name": "搜索时，二级及以下部门描述文案为从一级部",
   "nameIsFixed": false,
   "resizingConstraint": 63,

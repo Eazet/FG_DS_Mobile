@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "EFDBF47E-5180-46C9-8C0F-382A4B88E19D",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "6F56F9FB-D76A-4190-A8CE-20AC399DB7A1"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/12/023.持平-大",
   "nameIsFixed": true,
   "overrideProperties": [

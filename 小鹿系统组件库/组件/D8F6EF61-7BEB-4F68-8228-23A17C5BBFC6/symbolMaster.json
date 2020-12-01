@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "D8F6EF61-7BEB-4F68-8228-23A17C5BBFC6",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "0D3B4FAF-D99A-4913-8F26-159F692B1239"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Table表格/单元格/日期时间",
   "nameIsFixed": false,
   "overrideProperties": [

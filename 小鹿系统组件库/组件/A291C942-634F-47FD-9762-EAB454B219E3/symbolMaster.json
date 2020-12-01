@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "A291C942-634F-47FD-9762-EAB454B219E3",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "EDAD2D0C-92D1-4BBE-B2B8-995C90C4F738"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/16/121.删除线",
   "nameIsFixed": true,
   "overrideProperties": [

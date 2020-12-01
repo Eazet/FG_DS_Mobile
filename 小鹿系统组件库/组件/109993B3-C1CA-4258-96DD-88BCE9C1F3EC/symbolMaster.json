@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "109993B3-C1CA-4258-96DD-88BCE9C1F3EC",
   "exportOptions": {
@@ -31,9 +32,7 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 2,
-    "maxSize": 0,
-    "minSize": 0
+    "layoutAnchor": 2
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -68,6 +67,7 @@
       "id": "FE297FFC-96FE-4B81-9A1B-01D570170513"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "03. Data Entry 数据录入/Select 选择器/文字/已选择",
   "nameIsFixed": true,
   "overrideProperties": [

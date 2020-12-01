@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "A2DD158C-DA2E-4E8E-B111-27864DF8D2DA",
   "exportOptions": {
@@ -68,6 +69,7 @@
       "id": "2B20AD77-60D9-40E5-A3E4-6795976AEF17"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Table表格/房源/我的收藏",
   "nameIsFixed": true,
   "overrideProperties": [

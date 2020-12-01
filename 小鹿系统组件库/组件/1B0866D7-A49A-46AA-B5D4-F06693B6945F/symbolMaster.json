@@ -9,6 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "1B0866D7-A49A-46AA-B5D4-F06693B6945F",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "E5D33901-BC2F-4136-A3AA-03EECBDAB336"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/16/082.音量",
   "nameIsFixed": true,
   "overrideProperties": [

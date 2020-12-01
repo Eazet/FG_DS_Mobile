@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "B7645E02-A0EB-4DA8-94CA-CC8FDAA2FC7A",
   "exportOptions": {
@@ -60,6 +61,7 @@
       "id": "A8B5CF0F-C732-4463-9F44-7E6D9CE197A2"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/40/030.通知",
   "nameIsFixed": true,
   "overrideProperties": [

@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "A0FD9BAD-5926-408D-B5F7-37A89D5F4C19",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "93D6CAE5-8B85-4DE8-8C7A-BDD3765F9AE6"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/12/001.加号",
   "nameIsFixed": true,
   "overrideProperties": [

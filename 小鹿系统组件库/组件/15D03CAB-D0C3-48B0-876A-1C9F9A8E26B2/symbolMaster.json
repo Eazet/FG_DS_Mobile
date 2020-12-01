@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "15D03CAB-D0C3-48B0-876A-1C9F9A8E26B2",
   "exportOptions": {
@@ -64,6 +65,7 @@
       "id": "5C1AF815-2BD0-4B5D-B944-7A01C7D50DDC"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "03. Data Entry 数据录入/Select 选择器/从数据库选择/中-已输入",
   "nameIsFixed": true,
   "overrideProperties": [

@@ -41,6 +41,7 @@
       "id": "6B365F20-51E9-4C60-B82F-1E12FFDCD857"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Tooltip文字提示/右-双行备份",
   "nameIsFixed": false,
   "resizingConstraint": 63,

@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "2E73CA8D-8711-427E-83DA-EED19EB72151",
   "exportOptions": {
@@ -60,6 +61,7 @@
       "id": "8E2E7743-292A-489D-9478-903166CFE91F"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Table表格/表头/房源/在租",
   "nameIsFixed": true,
   "overrideProperties": [

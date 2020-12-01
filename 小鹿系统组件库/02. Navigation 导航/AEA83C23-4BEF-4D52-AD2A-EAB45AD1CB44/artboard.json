@@ -150,6 +150,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1170
   },
+  "maintainScrollPosition": false,
   "name": "交互说明",
   "nameIsFixed": true,
   "presetDictionary": {

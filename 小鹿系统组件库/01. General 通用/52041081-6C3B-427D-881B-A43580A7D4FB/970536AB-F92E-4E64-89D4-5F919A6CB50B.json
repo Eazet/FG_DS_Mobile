@@ -66,6 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "部分按钮是开关性质的，例如收藏，会区分已",
   "nameIsFixed": false,
   "resizingConstraint": 47,

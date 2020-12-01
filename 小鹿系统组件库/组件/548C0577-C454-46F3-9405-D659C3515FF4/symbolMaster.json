@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "548C0577-C454-46F3-9405-D659C3515FF4",
   "exportOptions": {
@@ -60,6 +61,7 @@
       "id": "1333F3D4-A24C-4EC6-A59D-93FC8E0E20D4"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "02. Navigation 导航/Dropdown下拉菜单/图标文字列表-不可用",
   "nameIsFixed": true,
   "overrideProperties": [

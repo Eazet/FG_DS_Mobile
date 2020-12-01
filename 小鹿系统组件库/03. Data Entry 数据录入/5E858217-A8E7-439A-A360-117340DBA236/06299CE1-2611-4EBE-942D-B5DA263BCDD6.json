@@ -66,6 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
+  "maintainScrollPosition": false,
   "name": "允许只选择父项时的光标区别",
   "nameIsFixed": false,
   "resizingConstraint": 47,

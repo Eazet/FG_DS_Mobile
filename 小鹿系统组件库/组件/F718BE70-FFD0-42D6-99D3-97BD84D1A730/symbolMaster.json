@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "F718BE70-FFD0-42D6-99D3-97BD84D1A730",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "C9EEE2BC-31B5-495A-9174-A601704846DA"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/16/052.电话",
   "nameIsFixed": true,
   "overrideProperties": [

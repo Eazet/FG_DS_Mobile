@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "687A4C02-2291-4640-A2A1-9030D6A6E05B",
   "exportOptions": {
@@ -60,6 +61,7 @@
       "id": "CD3320C2-965D-45F1-A71B-064342A9CEE9"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Empty 空状态/页面-大-无按钮",
   "nameIsFixed": true,
   "overrideProperties": [

@@ -9,6 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "984BC2BB-5B0D-4848-BBA4-B359A9EE9795",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "98D45E50-52B6-4E99-9F30-ECA74AF34051"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/16/042.钥匙-F",
   "nameIsFixed": true,
   "overrideProperties": [

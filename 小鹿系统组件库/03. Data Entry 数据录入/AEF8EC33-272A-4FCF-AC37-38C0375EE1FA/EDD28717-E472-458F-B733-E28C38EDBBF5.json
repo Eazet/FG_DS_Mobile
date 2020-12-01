@@ -64,6 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
+  "maintainScrollPosition": false,
   "name": "Editor 编辑器",
   "nameIsFixed": false,
   "resizingConstraint": 47,

@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "A2A28CA2-4B75-4AD1-9CE3-3F6709BE2D57",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "E84CFB53-8DCA-4EC7-A64D-5937EA8A5668"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "06. Others 其他/框架/Chrome",
   "nameIsFixed": false,
   "overrideProperties": [

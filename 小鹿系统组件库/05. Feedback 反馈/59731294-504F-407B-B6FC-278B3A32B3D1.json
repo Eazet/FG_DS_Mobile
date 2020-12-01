@@ -68,6 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "标签一内容展开且对话框高度到达屏幕极限",
   "nameIsFixed": false,
   "resizingConstraint": 47,

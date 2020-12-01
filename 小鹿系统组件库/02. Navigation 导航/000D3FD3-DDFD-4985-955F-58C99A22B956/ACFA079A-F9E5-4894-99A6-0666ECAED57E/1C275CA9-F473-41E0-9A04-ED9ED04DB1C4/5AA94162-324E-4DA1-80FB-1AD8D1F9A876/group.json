@@ -41,6 +41,7 @@
       "id": "C6A0440B-8695-4E13-9F9C-E8AFE26E3F32"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "标注表格-单元格 copy",
   "nameIsFixed": true,
   "resizingConstraint": 63,

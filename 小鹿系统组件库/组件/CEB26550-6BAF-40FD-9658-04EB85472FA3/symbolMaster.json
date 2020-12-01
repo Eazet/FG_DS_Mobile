@@ -9,6 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "CEB26550-6BAF-40FD-9658-04EB85472FA3",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "D5C0D310-9159-44E8-91CD-9C829AF8B733"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "06. Others 其他/框架/Logo_mini_blue",
   "nameIsFixed": true,
   "overrideProperties": [

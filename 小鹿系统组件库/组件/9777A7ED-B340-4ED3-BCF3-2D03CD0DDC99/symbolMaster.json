@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "9777A7ED-B340-4ED3-BCF3-2D03CD0DDC99",
   "exportOptions": {
@@ -31,9 +32,7 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 2,
-    "maxSize": 0,
-    "minSize": 0
+    "layoutAnchor": 2
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -68,6 +67,7 @@
       "id": "A766DADF-E589-49D6-A206-5ED1AFFEEB25"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "02. Navigation 导航/Pagination分页/默认/2页",
   "nameIsFixed": true,
   "overrideProperties": [

@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "30D1E8A7-4E5E-4BEF-B8C2-92F7B55F2255",
   "exportOptions": {
@@ -64,6 +65,7 @@
       "id": "D93D6761-B5AB-49E6-8C33-0D35D42B4389"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "02. Navigation 导航 / Tree 树 / 带操作 / 一级 / 父节点-选中",
   "nameIsFixed": true,
   "overrideProperties": [

@@ -64,6 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "Pagination 分页",
   "nameIsFixed": false,
   "resizingConstraint": 47,

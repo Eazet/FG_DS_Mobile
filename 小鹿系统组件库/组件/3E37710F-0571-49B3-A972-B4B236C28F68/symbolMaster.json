@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "3E37710F-0571-49B3-A972-B4B236C28F68",
   "exportOptions": {
@@ -31,9 +32,7 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0,
-    "maxSize": 0,
-    "minSize": 0
+    "layoutAnchor": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -68,6 +67,7 @@
       "id": "448641BD-3757-4446-8E07-B13C46B96760"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "02. Navigation 导航/Tabs标签页/三级导航/右-选中",
   "nameIsFixed": true,
   "overrideProperties": [

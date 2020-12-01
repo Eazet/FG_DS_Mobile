@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "E2495ADF-18AA-4D7C-8E86-77C25DC6DAB4",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "EAE90700-F0A3-4C79-BB5E-7B0F37DAA8EC"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/16/107.关联访客",
   "nameIsFixed": true,
   "overrideProperties": [

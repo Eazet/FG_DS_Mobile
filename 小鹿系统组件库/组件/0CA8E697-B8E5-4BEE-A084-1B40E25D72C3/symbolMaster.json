@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "0CA8E697-B8E5-4BEE-A084-1B40E25D72C3",
   "exportOptions": {
@@ -64,6 +65,7 @@
       "id": "18590247-C3B5-4F8B-BBC9-6D9AF0BD2021"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "02. Navigation 导航/Dropdown下拉菜单/连级图标文字列表-选中",
   "nameIsFixed": true,
   "overrideProperties": [

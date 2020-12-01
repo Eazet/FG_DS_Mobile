@@ -66,6 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
+  "maintainScrollPosition": false,
   "name": "选择器与页面底部或弹窗底栏的距离小于菜单",
   "nameIsFixed": false,
   "resizingConstraint": 47,

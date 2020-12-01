@@ -9,6 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "AF4074AF-8789-42C6-B56E-37B783CCD55E",
   "exportOptions": {
@@ -60,6 +61,7 @@
       "id": "035B177F-CB1B-467E-B820-B11B3DBBE6E0"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "06. Others 其他/框架/小鹿系统",
   "nameIsFixed": true,
   "overrideProperties": [

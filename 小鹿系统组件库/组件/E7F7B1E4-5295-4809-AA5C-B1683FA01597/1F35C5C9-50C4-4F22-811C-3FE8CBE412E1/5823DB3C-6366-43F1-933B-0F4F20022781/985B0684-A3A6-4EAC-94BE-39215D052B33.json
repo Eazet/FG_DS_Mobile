@@ -54,7 +54,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 18,
-    "width": 123,
+    "width": 127,
     "x": 8,
     "y": 3
   },
@@ -67,6 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "跟进",
   "nameIsFixed": true,
   "resizingConstraint": 41,

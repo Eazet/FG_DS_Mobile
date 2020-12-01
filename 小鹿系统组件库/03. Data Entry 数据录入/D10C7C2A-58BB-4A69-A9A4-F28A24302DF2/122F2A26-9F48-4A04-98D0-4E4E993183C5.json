@@ -66,6 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "清除按钮为可选项，可以有也可以没有。且只",
   "nameIsFixed": false,
   "resizingConstraint": 47,

@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "A7F0B5C3-9980-45CE-AD2B-6529898A0F4B",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "7E192F71-46E6-4C03-9A7E-F2B34A89F736"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "03. Data Entry 数据录入/Select 选择器/小/未选择",
   "nameIsFixed": true,
   "overrideProperties": [

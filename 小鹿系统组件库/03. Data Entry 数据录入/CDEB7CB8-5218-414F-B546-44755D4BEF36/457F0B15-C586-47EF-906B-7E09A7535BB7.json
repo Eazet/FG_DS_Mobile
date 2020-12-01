@@ -66,6 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
+  "maintainScrollPosition": false,
   "name": "搜索时，一级部门描述文案为企业名称",
   "nameIsFixed": false,
   "resizingConstraint": 63,

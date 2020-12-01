@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "0A2FFCD8-E81D-4175-B3D9-A4A69B09BDE7",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "44476E9E-611E-41B3-92BE-31542C1B8A49"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/24/049.发起人",
   "nameIsFixed": true,
   "overrideProperties": [

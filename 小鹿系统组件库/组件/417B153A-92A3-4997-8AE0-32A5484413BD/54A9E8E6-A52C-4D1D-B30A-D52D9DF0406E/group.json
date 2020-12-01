@@ -23,9 +23,7 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0,
-    "maxSize": 0,
-    "minSize": 0
+    "layoutAnchor": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -45,6 +43,7 @@
       "id": "EEBFF28B-53C1-431D-BDFA-ABD8EF25C3B2"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "编组 9",
   "nameIsFixed": false,
   "resizingConstraint": 63,

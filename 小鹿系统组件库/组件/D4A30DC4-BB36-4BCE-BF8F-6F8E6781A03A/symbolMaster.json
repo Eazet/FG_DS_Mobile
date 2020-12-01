@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "D4A30DC4-BB36-4BCE-BF8F-6F8E6781A03A",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "905359D8-330C-4369-9210-4CC8A0A2909F"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "03. Data Entry 数据录入/Input输入框/搜索框/大-未输入",
   "nameIsFixed": true,
   "overrideProperties": [

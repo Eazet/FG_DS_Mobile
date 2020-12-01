@@ -66,6 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
+  "maintainScrollPosition": false,
   "name": "Hover子项时父级高亮",
   "nameIsFixed": false,
   "resizingConstraint": 47,

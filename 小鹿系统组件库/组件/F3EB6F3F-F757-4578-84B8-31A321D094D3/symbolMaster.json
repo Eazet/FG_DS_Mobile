@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "F3EB6F3F-F757-4578-84B8-31A321D094D3",
   "exportOptions": {
@@ -60,6 +61,7 @@
       "id": "FE755269-51CD-47AA-B560-CC795692E594"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/40/050.解约意向",
   "nameIsFixed": true,
   "overrideProperties": [

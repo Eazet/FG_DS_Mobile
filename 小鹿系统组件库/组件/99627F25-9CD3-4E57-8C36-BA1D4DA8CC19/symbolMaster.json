@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "99627F25-9CD3-4E57-8C36-BA1D4DA8CC19",
   "exportOptions": {
@@ -60,6 +61,7 @@
       "id": "6CE87304-D8DC-40EB-9C6A-5CD27F4B8AB8"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Tag标签/图标-无图",
   "nameIsFixed": true,
   "overrideProperties": [

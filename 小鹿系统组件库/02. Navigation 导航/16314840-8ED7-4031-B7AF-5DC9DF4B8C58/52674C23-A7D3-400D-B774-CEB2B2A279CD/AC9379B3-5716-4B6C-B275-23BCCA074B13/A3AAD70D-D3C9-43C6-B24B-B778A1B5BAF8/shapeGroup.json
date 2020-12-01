@@ -93,6 +93,7 @@
       "id": "0001B5A0-10A3-44B9-BE82-DA3C091F6A9F"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "形状",
   "nameIsFixed": false,
   "resizingConstraint": 63,

@@ -314,6 +314,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1170
   },
+  "maintainScrollPosition": false,
   "name": "基本对话框结构",
   "nameIsFixed": true,
   "presetDictionary": {

@@ -66,6 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "3.当鼠标点击滚动条两侧/上下的路径部分",
   "nameIsFixed": false,
   "resizingConstraint": 47,

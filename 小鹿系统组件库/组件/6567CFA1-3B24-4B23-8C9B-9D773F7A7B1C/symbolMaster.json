@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "6567CFA1-3B24-4B23-8C9B-9D773F7A7B1C",
   "exportOptions": {
@@ -31,9 +32,7 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0,
-    "maxSize": 0,
-    "minSize": 0
+    "layoutAnchor": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -72,6 +71,7 @@
       "id": "3671AE12-2875-49E4-AA00-257F1469B58B"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "05. Feedback 反馈/Popconfirm 气泡确认框",
   "nameIsFixed": false,
   "overrideProperties": [

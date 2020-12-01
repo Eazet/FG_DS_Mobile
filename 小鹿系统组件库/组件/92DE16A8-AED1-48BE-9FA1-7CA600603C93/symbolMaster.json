@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "92DE16A8-AED1-48BE-9FA1-7CA600603C93",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "C7725A24-D0DE-4D50-BB99-8F5DEB9B813B"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/12/012.清空",
   "nameIsFixed": true,
   "overrideProperties": [

@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "311F3168-92A0-4658-A9E7-F454F1EFD676",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "2BBF5F13-FA9B-4336-A9A1-F1953205566D"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "06. Others 其他/鼠标/等比缩放",
   "nameIsFixed": true,
   "overrideProperties": [

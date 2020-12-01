@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "690E4CFE-D1A1-4789-A76F-FF3C57E2C18E",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "09093577-28CC-4542-AA36-29DD9177F9D1"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/16/117.企业数据",
   "nameIsFixed": true,
   "overrideProperties": [

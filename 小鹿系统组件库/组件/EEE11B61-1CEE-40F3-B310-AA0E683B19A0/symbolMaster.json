@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "EEE11B61-1CEE-40F3-B310-AA0E683B19A0",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "23990E2F-0222-40BF-B3EA-81BD9B529CCD"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/12/021.上涨-大",
   "nameIsFixed": true,
   "overrideProperties": [

@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "2B64F156-C401-4F07-A6E7-E17E7A666602",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "5E3CD07A-1EB3-4987-A641-5476AD2AB67A"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Table表格/Element/表头单元带单位-右对齐",
   "nameIsFixed": true,
   "overrideProperties": [

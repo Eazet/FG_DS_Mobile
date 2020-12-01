@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "A188702E-AAAC-4BC7-B0E5-5C9A80669446",
   "exportOptions": {
@@ -60,6 +61,7 @@
       "id": "8868532C-6A16-4D1A-B00D-BF89E2B59E6F"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "02. Navigation 导航/Dropdown下拉菜单/主次文字列表-高亮-普通",
   "nameIsFixed": true,
   "overrideProperties": [

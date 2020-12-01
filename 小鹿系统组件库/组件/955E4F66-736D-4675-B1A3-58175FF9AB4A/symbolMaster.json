@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "955E4F66-736D-4675-B1A3-58175FF9AB4A",
   "exportOptions": {
@@ -60,6 +61,7 @@
       "id": "A837DC94-98BA-4330-8700-11522261C503"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/40/046.收款确认",
   "nameIsFixed": true,
   "overrideProperties": [

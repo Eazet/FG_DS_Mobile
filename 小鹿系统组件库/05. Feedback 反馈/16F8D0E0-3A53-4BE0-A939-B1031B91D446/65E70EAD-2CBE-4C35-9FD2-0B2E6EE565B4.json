@@ -68,6 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "当标题省略时，鼠标Hover到标题上时会",
   "nameIsFixed": false,
   "resizingConstraint": 47,

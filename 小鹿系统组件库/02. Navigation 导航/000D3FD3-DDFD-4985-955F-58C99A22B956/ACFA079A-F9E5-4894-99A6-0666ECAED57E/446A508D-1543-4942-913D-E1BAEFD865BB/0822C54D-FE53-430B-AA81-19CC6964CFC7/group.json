@@ -41,6 +41,7 @@
       "id": "97E2E984-CB5D-43D4-B5A2-C30F979A5D00"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "标注表格-表头",
   "nameIsFixed": true,
   "resizingConstraint": 63,

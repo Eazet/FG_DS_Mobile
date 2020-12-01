@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "47C32CC9-176C-44FF-BE38-DA3EB7269DA3",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "A73FEFA2-7136-4515-8069-B23ECFFE8185"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/16/026.成功-F",
   "nameIsFixed": true,
   "overrideProperties": [

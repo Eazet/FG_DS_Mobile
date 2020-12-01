@@ -9,6 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "F1309798-74B8-45E7-86E0-A6BA55CBE4F5",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "3F09EE79-0338-44A2-8C09-DF8671008B0A"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/16/103.视频-F",
   "nameIsFixed": true,
   "overrideProperties": [

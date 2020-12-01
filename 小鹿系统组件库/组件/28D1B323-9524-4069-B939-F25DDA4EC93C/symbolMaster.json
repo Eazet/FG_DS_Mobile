@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "28D1B323-9524-4069-B939-F25DDA4EC93C",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "A1992DA7-D03E-42EA-8AB6-C399024EA31A"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/16/101.两端对齐-F",
   "nameIsFixed": true,
   "overrideProperties": [

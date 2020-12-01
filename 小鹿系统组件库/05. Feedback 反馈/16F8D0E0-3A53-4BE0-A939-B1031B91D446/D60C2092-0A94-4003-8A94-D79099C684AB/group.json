@@ -49,6 +49,7 @@
       "id": "CECEE1F5-C2B8-43A7-830F-3005DE5E837A"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Header",
   "nameIsFixed": true,
   "resizingConstraint": 63,

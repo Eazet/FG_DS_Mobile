@@ -45,6 +45,7 @@
       "id": "FC44AF75-229F-4C0E-89A0-9854B62CD620"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Tab/Primary/Add",
   "nameIsFixed": true,
   "resizingConstraint": 63,

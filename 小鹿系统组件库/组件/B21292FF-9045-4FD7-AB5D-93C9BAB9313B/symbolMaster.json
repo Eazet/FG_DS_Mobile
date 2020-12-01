@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "B21292FF-9045-4FD7-AB5D-93C9BAB9313B",
   "exportOptions": {
@@ -60,6 +61,7 @@
       "id": "DD1DC592-A0BB-4B7B-B0E5-0A96C7BAB8A5"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Table表格/表头/房源/我的",
   "nameIsFixed": true,
   "overrideProperties": [

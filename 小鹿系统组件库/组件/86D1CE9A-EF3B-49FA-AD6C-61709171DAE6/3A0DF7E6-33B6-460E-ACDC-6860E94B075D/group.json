@@ -23,9 +23,7 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 2,
-    "maxSize": 0,
-    "minSize": 0
+    "layoutAnchor": 2
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -49,6 +47,7 @@
       "id": "D7497D06-5DEB-4CDE-8B3B-0CBBD281BEDD"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Group",
   "nameIsFixed": false,
   "resizingConstraint": 44,

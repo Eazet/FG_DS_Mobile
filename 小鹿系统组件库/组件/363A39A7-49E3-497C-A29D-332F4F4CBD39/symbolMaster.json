@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "363A39A7-49E3-497C-A29D-332F4F4CBD39",
   "exportOptions": {
@@ -60,6 +61,7 @@
       "id": "CA7AEC75-3B32-428C-9C7D-6AED5C869E38"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/40/地图标识-购物-未选中",
   "nameIsFixed": true,
   "overrideProperties": [

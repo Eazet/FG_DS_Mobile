@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "D9E4EB29-5129-46CC-BBCB-B513D86AD3E1",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "087885EF-0EFD-42E1-8FD7-91ACF7288CC4"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/32/格式刷鼠标",
   "nameIsFixed": true,
   "overrideProperties": [

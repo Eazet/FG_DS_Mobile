@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "0EA0D646-B4AB-4C09-A083-FBCF3A390FB9",
   "exportOptions": {
@@ -31,9 +32,7 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0,
-    "maxSize": 0,
-    "minSize": 0
+    "layoutAnchor": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -64,6 +63,7 @@
       "id": "DE47EA94-3E12-4AC0-A0C9-AC34F1DDE70E"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Checkbox多选框/带文字",
   "nameIsFixed": true,
   "overrideProperties": [

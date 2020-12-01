@@ -9,6 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "3AADB733-52DE-48C5-B3C4-4109CCBE701D",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "15F7FBF4-1A31-4B3B-8E02-E623F8F84D58"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/16/064.转移的客户",
   "nameIsFixed": true,
   "overrideProperties": [

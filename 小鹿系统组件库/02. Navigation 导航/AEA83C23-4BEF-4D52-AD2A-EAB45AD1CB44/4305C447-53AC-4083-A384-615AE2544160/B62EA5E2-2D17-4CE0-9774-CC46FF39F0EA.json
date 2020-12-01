@@ -68,6 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
+  "maintainScrollPosition": false,
   "name": "凡是可能出现滚动条的场景，即便还不需要滚",
   "nameIsFixed": false,
   "resizingConstraint": 47,

@@ -69,6 +69,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "操作",
   "nameIsFixed": false,
   "resizingConstraint": 47,

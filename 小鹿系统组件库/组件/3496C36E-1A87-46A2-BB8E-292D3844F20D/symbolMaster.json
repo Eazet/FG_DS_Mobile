@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "3496C36E-1A87-46A2-BB8E-292D3844F20D",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "27BC72AA-5247-4C23-82C7-B50F14287722"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/24/030.成交",
   "nameIsFixed": true,
   "overrideProperties": [

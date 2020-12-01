@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "4F9ED276-737E-4F48-B6E0-FB55D3FB1AE0",
   "exportOptions": {
@@ -60,6 +61,7 @@
       "id": "4052CFE3-23B9-4CA6-A055-42FAE2EA9DAE"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/24/037.报表-考核",
   "nameIsFixed": true,
   "overrideProperties": [

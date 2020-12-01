@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "0D1ED009-2F2E-4C5E-B0D3-B36CCE3A08FB",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "1E587B8E-53DF-494E-9751-55FF2D2C34F7"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/24/020.财务",
   "nameIsFixed": true,
   "overrideProperties": [

@@ -66,6 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
+  "maintainScrollPosition": false,
   "name": "已选态（父子级），留意破折号左右有空格",
   "nameIsFixed": false,
   "resizingConstraint": 47,

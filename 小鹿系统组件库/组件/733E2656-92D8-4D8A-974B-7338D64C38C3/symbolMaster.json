@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "733E2656-92D8-4D8A-974B-7338D64C38C3",
   "exportOptions": {
@@ -60,6 +61,7 @@
       "id": "0B2E0544-7FF5-42CB-889F-5BD91E18B1A9"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/40/审批-添加楼栋门牌",
   "nameIsFixed": true,
   "overrideProperties": [

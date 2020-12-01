@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "535A7E0B-F488-42FE-9E37-ED136047BEDF",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "BF82BEF9-CB27-4ABF-9F7C-4051477A186E"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/16/111.查看历史",
   "nameIsFixed": true,
   "overrideProperties": [

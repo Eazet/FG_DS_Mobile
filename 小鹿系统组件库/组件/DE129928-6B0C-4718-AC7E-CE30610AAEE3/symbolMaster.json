@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "DE129928-6B0C-4718-AC7E-CE30610AAEE3",
   "exportOptions": {
@@ -68,6 +69,7 @@
       "id": "E3D20EE5-3AA5-441B-801B-0F6AC97AD883"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Table表格/表头/房源/未完善",
   "nameIsFixed": true,
   "overrideProperties": [

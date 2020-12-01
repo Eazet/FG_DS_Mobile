@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "7099B79F-9DBE-457D-973F-7D9E719ECC5B",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "91578CFB-94AC-48A2-8715-C4CD5C1C64CC"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/24/017.操作记录",
   "nameIsFixed": true,
   "overrideProperties": [

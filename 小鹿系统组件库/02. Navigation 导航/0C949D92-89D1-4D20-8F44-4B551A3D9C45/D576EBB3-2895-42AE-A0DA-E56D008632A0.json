@@ -66,6 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "核心Tab需要放到Grey10(#F2F",
   "nameIsFixed": false,
   "resizingConstraint": 47,

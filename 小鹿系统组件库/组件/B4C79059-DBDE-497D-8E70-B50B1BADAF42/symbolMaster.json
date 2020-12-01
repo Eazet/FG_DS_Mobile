@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "B4C79059-DBDE-497D-8E70-B50B1BADAF42",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "313E9479-A10D-4BBE-955C-DDC4AFC0034A"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/40/003.奖杯",
   "nameIsFixed": true,
   "overrideProperties": [

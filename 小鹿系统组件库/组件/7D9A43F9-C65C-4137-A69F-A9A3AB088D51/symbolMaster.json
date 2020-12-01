@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "7D9A43F9-C65C-4137-A69F-A9A3AB088D51",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "730970FF-2F27-4D66-90E7-6DE03CF3BFDC"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/24/012.入职",
   "nameIsFixed": true,
   "overrideProperties": [

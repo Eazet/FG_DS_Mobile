@@ -9,6 +9,7 @@
     "red": 0.07450980392156865
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "D8AE2CED-9F67-43C2-BFDF-CE1178C4BAD8",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "5DE5C381-FFDA-4AA4-8FE6-303DB49893C2"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "02. Navigation 导航/Menu导航菜单/二级菜单-未选中",
   "nameIsFixed": true,
   "overrideProperties": [

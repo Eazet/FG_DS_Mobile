@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "59CD5D1E-7CDC-4B5B-B68B-C5F88530382F",
   "exportOptions": {
@@ -60,6 +61,7 @@
       "id": "FAB04EFC-4102-445C-AE3C-E34EA4C13D9A"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/40/审批-转正",
   "nameIsFixed": true,
   "overrideProperties": [

@@ -66,6 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
+  "maintainScrollPosition": false,
   "name": "2.鼠标滚轮规则： 1) 鼠标滚轮控制纵",
   "nameIsFixed": false,
   "resizingConstraint": 47,

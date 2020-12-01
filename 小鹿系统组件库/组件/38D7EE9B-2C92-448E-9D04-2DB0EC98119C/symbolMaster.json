@@ -9,6 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "38D7EE9B-2C92-448E-9D04-2DB0EC98119C",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "59797500-C398-4CFE-974C-25ADCD16087A"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/16/036.审批-F",
   "nameIsFixed": true,
   "overrideProperties": [

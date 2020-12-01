@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "CB6CFF5F-920F-460F-A59F-ABA92228D251",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "371E812A-064A-4006-97A4-7BB432C36AB6"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Table表格/单元格/楼栋单元",
   "nameIsFixed": false,
   "overrideProperties": [

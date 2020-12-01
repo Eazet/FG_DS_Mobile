@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "930CC165-022E-48EF-96A8-2F2AF5AC90C9",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "C45639EC-8F2E-4B45-806C-8F27F80D08B8"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "06. Others 其他/组件库/标注-图标",
   "nameIsFixed": true,
   "overrideProperties": [

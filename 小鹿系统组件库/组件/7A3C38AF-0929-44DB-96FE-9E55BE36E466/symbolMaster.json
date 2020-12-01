@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "7A3C38AF-0929-44DB-96FE-9E55BE36E466",
   "exportOptions": {
@@ -60,6 +61,7 @@
       "id": "D1579D13-F873-42C7-B6AD-7010635E6750"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/40/审批-签到",
   "nameIsFixed": true,
   "overrideProperties": [

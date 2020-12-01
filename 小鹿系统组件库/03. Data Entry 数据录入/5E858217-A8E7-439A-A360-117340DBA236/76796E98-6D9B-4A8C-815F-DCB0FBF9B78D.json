@@ -66,6 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
+  "maintainScrollPosition": false,
   "name": "Hover在checkbox时光标变化",
   "nameIsFixed": false,
   "resizingConstraint": 47,

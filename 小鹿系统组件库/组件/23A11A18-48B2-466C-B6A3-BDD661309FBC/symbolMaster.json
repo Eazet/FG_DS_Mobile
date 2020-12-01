@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "23A11A18-48B2-466C-B6A3-BDD661309FBC",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "0FA7E4D4-F69A-4BF0-80BF-62020344D785"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "03. Data Entry 数据录入/Upload 上传/上传完成",
   "nameIsFixed": true,
   "overrideProperties": [

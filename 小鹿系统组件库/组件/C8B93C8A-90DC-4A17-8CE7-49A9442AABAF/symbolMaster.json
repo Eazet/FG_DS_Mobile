@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "C8B93C8A-90DC-4A17-8CE7-49A9442AABAF",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "D02406AC-4432-4342-9BA5-0E59F645A409"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/24/050.审批人",
   "nameIsFixed": true,
   "overrideProperties": [

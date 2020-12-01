@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "44FB541B-E9E9-4E7D-A6BC-6053FD437406",
   "exportOptions": {
@@ -60,6 +61,7 @@
       "id": "DBCF69E0-033F-455E-9447-A97647FCDE7A"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "03. Data Entry 数据录入/Editor 编辑器/2级标题",
   "nameIsFixed": true,
   "overrideProperties": [

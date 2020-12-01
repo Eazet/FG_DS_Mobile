@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "72B58011-2605-406E-9019-A98D69DA7445",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "A6FAC2DB-4E43-4291-82B0-50E034FF20D0"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "06. Others 其他/鼠标/文本",
   "nameIsFixed": true,
   "overrideProperties": [

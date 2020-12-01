@@ -9,6 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "3FACB0B4-24D7-4D04-8A50-F43766F684D4",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "E14BF576-625C-44C1-9FD0-4570527FF3E3"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/16/032.日记-F",
   "nameIsFixed": true,
   "overrideProperties": [

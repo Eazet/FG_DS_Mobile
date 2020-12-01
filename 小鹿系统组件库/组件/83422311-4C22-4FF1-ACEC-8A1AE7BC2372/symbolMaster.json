@@ -9,6 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "83422311-4C22-4FF1-ACEC-8A1AE7BC2372",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "966334F9-A9F5-4215-9BD4-EC89914466EE"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "06. Others 其他/框架/Logo_origin-2",
   "nameIsFixed": true,
   "overrideProperties": [

@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "D0FAD0AB-4543-40C3-928A-24A428604686",
   "exportOptions": {
@@ -60,6 +61,7 @@
       "id": "689814D8-7FEC-4106-8542-FF564EA2551F"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "06. Others 其他/框架/标题栏(筛选态)-40",
   "nameIsFixed": true,
   "overrideProperties": [

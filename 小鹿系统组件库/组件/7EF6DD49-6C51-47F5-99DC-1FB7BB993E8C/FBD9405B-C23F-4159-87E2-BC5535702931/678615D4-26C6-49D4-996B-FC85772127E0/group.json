@@ -37,6 +37,7 @@
       "id": "14F7824A-DF96-46AF-B319-724989C4C034"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Element/Tab/Primary/Selected",
   "nameIsFixed": false,
   "resizingConstraint": 63,

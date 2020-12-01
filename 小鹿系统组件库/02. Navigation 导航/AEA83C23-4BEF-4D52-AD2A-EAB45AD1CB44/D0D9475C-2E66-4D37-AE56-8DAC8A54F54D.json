@@ -66,6 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
+  "maintainScrollPosition": false,
   "name": "5.当滚动区域没有明显的边界是，滚动条会",
   "nameIsFixed": false,
   "resizingConstraint": 47,

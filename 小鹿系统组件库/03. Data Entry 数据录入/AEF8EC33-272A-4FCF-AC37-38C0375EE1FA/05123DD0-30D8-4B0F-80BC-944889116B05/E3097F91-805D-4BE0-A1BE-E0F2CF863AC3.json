@@ -65,6 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
+  "maintainScrollPosition": false,
   "name": "Hover状态",
   "nameIsFixed": false,
   "resizingConstraint": 47,

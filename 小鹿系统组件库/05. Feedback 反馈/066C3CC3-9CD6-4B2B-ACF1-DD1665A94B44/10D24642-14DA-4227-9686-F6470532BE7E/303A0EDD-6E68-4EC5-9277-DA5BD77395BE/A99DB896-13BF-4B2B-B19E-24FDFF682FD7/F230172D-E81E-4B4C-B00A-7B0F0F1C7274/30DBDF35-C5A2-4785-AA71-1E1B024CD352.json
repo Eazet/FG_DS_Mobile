@@ -163,8 +163,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 219,
+    "height": 18,
+    "width": 220,
     "x": 18,
     "y": 8
   },
@@ -177,6 +177,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "上水 𝄅 下水 𝄅 随时可看",
   "nameIsFixed": false,
   "resizingConstraint": 47,

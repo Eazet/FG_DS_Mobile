@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "487EC65F-CAA9-4067-BB85-3905B80B947B",
   "exportOptions": {
@@ -68,6 +69,7 @@
       "id": "F7CF186D-4C39-4F63-B13A-D5A38963D324"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "05. Feedback 反馈/Modal 对话框/基本",
   "nameIsFixed": true,
   "overrideProperties": [

@@ -9,6 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "8B89A6C2-4576-4511-A872-29B71F43C4D3",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "16DBF01A-6E89-4BCD-ABCB-DEC5B8B0972D"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/16/088.退出登录",
   "nameIsFixed": true,
   "overrideProperties": [

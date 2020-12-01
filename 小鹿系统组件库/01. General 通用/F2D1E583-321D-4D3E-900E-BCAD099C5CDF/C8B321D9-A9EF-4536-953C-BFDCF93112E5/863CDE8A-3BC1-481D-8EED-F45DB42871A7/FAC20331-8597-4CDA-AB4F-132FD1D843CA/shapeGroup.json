@@ -37,6 +37,7 @@
       "id": "3907D033-C918-4ECD-9199-5435805A6131"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "overlay",
   "nameIsFixed": false,
   "resizingConstraint": 63,

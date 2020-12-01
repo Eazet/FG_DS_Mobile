@@ -41,6 +41,7 @@
       "id": "1D9B7CEF-1F86-442A-AF87-284F8D64D748"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Cells/日期",
   "nameIsFixed": true,
   "resizingConstraint": 63,

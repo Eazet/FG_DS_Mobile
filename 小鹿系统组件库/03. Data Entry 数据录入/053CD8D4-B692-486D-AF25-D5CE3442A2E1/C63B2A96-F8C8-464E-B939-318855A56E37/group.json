@@ -49,6 +49,7 @@
       "id": "0029379C-C13C-4291-A2C3-C87259970FC7"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Header",
   "nameIsFixed": true,
   "resizingConstraint": 63,

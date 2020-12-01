@@ -41,6 +41,7 @@
       "id": "1A36FE65-F7EB-4A71-873A-1DEF3B332D2D"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "dropdown/down",
   "nameIsFixed": true,
   "resizingConstraint": 63,

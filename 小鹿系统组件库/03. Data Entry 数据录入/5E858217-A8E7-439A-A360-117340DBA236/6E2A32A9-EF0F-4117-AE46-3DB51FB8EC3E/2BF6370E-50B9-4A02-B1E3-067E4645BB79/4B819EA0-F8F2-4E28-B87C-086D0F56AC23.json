@@ -65,6 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
+  "maintainScrollPosition": false,
   "name": "选项一/选项A",
   "nameIsFixed": false,
   "resizingConstraint": 41,

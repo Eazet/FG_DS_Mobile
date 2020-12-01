@@ -9,6 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "F4FE7CF3-4271-4411-81AF-7BB37C10F2CF",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "5AE96E1C-3ECB-4C96-AEA7-80BBA588A1FF"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/16/042.钥匙",
   "nameIsFixed": true,
   "overrideProperties": [

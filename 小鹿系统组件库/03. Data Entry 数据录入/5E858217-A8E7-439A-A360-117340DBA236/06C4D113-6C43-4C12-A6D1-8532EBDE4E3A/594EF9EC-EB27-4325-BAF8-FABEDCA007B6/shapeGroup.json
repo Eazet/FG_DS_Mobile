@@ -37,6 +37,7 @@
       "id": "94C02B6D-4AC2-4E80-B20B-D74755F31A76"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "overlay",
   "nameIsFixed": false,
   "resizingConstraint": 63,

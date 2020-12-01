@@ -37,6 +37,7 @@
       "id": "4C1C8407-ECE1-4E95-87C1-070C0EF1B2B1"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "line",
   "nameIsFixed": false,
   "resizingConstraint": 63,

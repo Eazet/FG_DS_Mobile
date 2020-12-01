@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "241F1493-4ED7-4AD0-A880-1B67EF7E6F21",
   "exportOptions": {
@@ -64,6 +65,7 @@
       "id": "906CBCF6-10B2-4814-8432-567924103FC9"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Table表格/房源/在售",
   "nameIsFixed": true,
   "overrideProperties": [

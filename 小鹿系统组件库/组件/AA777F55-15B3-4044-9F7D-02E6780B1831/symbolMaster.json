@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "AA777F55-15B3-4044-9F7D-02E6780B1831",
   "exportOptions": {
@@ -60,6 +61,7 @@
       "id": "9EFA22C4-A773-4D12-BA3B-61017BC0A9D5"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/40/047.付款申请",
   "nameIsFixed": true,
   "overrideProperties": [

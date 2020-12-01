@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "9392643A-F678-4738-A23B-7B78CEDCD32B",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "B7D219EB-B48D-4E32-98B6-630EA866FBD3"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "03. Data Entry 数据录入/Editor 编辑器/竖分割线",
   "nameIsFixed": true,
   "overrideProperties": [

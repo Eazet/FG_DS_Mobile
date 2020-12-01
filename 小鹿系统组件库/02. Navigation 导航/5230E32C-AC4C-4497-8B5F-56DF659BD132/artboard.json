@@ -118,6 +118,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1170
   },
+  "maintainScrollPosition": false,
   "name": "Breadcrumb 面包屑",
   "nameIsFixed": true,
   "presetDictionary": {

@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "1991DAC7-EED6-4405-8252-B46A49C86693",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "BB5592EB-FDFC-41CF-86D1-9EE18120F260"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Table表格/Element/表头单元-右对齐",
   "nameIsFixed": true,
   "overrideProperties": [

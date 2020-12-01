@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "4FA4FE82-8C3D-4F8B-B5AF-47C259CB1245",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "C8EDF5EC-5D09-4F54-BC24-DC592285BEF0"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Table表格/单元格/装修情况",
   "nameIsFixed": false,
   "overrideProperties": [

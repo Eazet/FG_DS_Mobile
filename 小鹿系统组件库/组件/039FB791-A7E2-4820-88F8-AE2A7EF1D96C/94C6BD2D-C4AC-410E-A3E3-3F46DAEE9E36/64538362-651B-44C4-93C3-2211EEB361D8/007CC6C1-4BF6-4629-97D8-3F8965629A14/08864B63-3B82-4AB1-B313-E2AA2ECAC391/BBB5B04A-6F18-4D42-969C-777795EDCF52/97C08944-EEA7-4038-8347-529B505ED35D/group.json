@@ -37,6 +37,7 @@
       "id": "AC916F03-0CAD-433A-A2E9-145893F3861C"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "dropdown/down",
   "nameIsFixed": true,
   "resizingConstraint": 63,

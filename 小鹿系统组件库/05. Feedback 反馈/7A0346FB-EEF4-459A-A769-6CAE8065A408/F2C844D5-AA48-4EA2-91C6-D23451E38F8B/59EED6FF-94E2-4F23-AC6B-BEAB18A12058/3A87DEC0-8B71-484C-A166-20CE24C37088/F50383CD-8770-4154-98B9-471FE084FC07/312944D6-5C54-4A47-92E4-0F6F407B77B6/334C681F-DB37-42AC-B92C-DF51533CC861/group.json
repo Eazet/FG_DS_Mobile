@@ -41,6 +41,7 @@
       "id": "F44555CF-AF1C-47DF-9FE2-AF2A5B3E31BF"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "radiobox/uncheck",
   "nameIsFixed": false,
   "resizingConstraint": 63,

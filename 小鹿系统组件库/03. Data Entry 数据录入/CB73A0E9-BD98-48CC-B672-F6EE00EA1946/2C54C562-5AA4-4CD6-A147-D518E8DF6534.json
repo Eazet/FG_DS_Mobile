@@ -66,6 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
+  "maintainScrollPosition": false,
   "name": "不可扩展的输入框 光标与清除按钮距离达到",
   "nameIsFixed": false,
   "resizingConstraint": 47,

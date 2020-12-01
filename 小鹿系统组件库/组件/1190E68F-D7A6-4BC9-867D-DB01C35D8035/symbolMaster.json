@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "1190E68F-D7A6-4BC9-867D-DB01C35D8035",
   "exportOptions": {
@@ -60,6 +61,7 @@
       "id": "3EF6BE04-CFB3-4336-A4A3-1575275E4479"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/40/地图标识-地铁-未选中",
   "nameIsFixed": true,
   "overrideProperties": [

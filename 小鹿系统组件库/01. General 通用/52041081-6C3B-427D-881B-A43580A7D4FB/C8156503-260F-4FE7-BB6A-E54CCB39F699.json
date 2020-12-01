@@ -66,6 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "部分按钮会触发菜单，触发菜单的时候会变为",
   "nameIsFixed": false,
   "resizingConstraint": 47,

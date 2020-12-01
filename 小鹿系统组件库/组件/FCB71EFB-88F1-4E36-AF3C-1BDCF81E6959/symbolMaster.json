@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "FCB71EFB-88F1-4E36-AF3C-1BDCF81E6959",
   "exportOptions": {
@@ -60,6 +61,7 @@
       "id": "6362272E-A10E-4B13-8AA2-3D6FA220AE1F"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "06. Others 其他/框架/导航菜单",
   "nameIsFixed": true,
   "overrideProperties": [

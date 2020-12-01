@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "C552D84F-B850-4191-9657-826C7644AA16",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "64DE4EA5-5344-4BA0-85F8-5AB370427637"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "02. Navigation 导航/Tabs标签页/框架Tab/可选",
   "nameIsFixed": true,
   "overrideProperties": [

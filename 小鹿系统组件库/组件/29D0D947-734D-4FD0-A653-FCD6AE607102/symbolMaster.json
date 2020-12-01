@@ -9,6 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "29D0D947-734D-4FD0-A653-FCD6AE607102",
   "exportOptions": {
@@ -68,6 +69,7 @@
       "id": "0C055A1E-FBEB-4F63-95CB-C0C680CAD99B"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "02. Navigation 导航/Menu导航菜单/一级菜单/折叠带箭头-未选中",
   "nameIsFixed": true,
   "overrideProperties": [

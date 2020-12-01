@@ -146,6 +146,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1170
   },
+  "maintainScrollPosition": false,
   "name": "Others",
   "nameIsFixed": true,
   "presetDictionary": {

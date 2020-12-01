@@ -41,6 +41,7 @@
       "id": "1EA1E093-8FA2-40D2-A63C-F83811736AD9"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Checkbox多选框/checked备份",
   "nameIsFixed": false,
   "resizingConstraint": 63,

@@ -67,6 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "如果有特殊楼层户数不同，可在下一步单独编",
   "nameIsFixed": false,
   "resizingConstraint": 47,

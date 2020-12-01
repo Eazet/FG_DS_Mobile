@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "C49EA1E9-3F7A-415C-BAF0-3F8356D1641B",
   "exportOptions": {
@@ -64,6 +65,7 @@
       "id": "30861491-656A-4FCF-8A56-93DA2E5E740C"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "02. Navigation 导航/Dropdown下拉菜单/连级文字列表-默认",
   "nameIsFixed": true,
   "overrideProperties": [

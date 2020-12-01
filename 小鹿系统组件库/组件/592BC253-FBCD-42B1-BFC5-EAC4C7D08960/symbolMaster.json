@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "592BC253-FBCD-42B1-BFC5-EAC4C7D08960",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "79B8A25B-8621-4F6F-A17C-13089F4E68DC"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Table表格/单元格/家私电器",
   "nameIsFixed": false,
   "overrideProperties": [

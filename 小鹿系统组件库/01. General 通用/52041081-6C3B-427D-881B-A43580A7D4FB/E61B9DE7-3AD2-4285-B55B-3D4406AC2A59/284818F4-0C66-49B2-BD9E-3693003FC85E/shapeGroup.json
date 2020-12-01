@@ -37,6 +37,7 @@
       "id": "11090FEC-A90F-46D8-B694-529675253668"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "overlay",
   "nameIsFixed": false,
   "resizingConstraint": 63,

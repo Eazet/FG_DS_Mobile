@@ -66,6 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
+  "maintainScrollPosition": false,
   "name": "选中状态，选择器优先展示父集",
   "nameIsFixed": false,
   "resizingConstraint": 47,

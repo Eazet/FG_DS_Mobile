@@ -37,6 +37,7 @@
       "id": "D2DE2638-25AC-4B5D-A258-5AEC4A80391B"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Cells/楼栋单元",
   "nameIsFixed": false,
   "resizingConstraint": 63,

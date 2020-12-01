@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "8F3BD9CE-823C-46CE-87FD-FC7B363BB2E1",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "2BBB08EC-B68E-4EB3-8310-516F7CB764B2"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/24/021.修改价格",
   "nameIsFixed": true,
   "overrideProperties": [

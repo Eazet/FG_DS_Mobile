@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "0A831BDE-1365-4E4F-8D1B-733C3BDC7A27",
   "exportOptions": {
@@ -60,6 +61,7 @@
       "id": "AAE7CC4E-0179-4EEA-BABA-420E2F824069"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Empty 空状态/页面-中-无按钮",
   "nameIsFixed": true,
   "overrideProperties": [

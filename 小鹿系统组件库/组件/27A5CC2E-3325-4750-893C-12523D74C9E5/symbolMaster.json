@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "27A5CC2E-3325-4750-893C-12523D74C9E5",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "2E9A2401-A312-4A5C-82E0-3AAD2195A35D"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Table表格/单元格/单价",
   "nameIsFixed": false,
   "overrideProperties": [

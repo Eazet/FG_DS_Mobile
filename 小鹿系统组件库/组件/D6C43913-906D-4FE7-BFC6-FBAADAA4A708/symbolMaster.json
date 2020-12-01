@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "D6C43913-906D-4FE7-BFC6-FBAADAA4A708",
   "exportOptions": {
@@ -60,6 +61,7 @@
       "id": "6DAA05C7-24C1-4F32-B6EC-9DB0AB09F2B3"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/40/地图标识-医疗-已选中",
   "nameIsFixed": true,
   "overrideProperties": [

@@ -9,6 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "04940C9E-883F-4588-8F47-1BFDDDA78282",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "9B4E4752-3502-4944-BA29-364CD28836A0"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/16/087.聚焦",
   "nameIsFixed": true,
   "overrideProperties": [

@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "AE04AE96-F02C-48D7-AB1B-95ACBA5F54DA",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "2F8F0DB3-763F-4F6A-BC11-6B90D536E598"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/40/001.拖拽上传",
   "nameIsFixed": true,
   "overrideProperties": [

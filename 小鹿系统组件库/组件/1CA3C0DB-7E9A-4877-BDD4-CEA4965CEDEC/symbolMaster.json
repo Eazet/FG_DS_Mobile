@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "1CA3C0DB-7E9A-4877-BDD4-CEA4965CEDEC",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "1F1581A5-D59C-422A-AD3D-64CCF7143280"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "03. Data Entry 数据录入/DatePicker 日期选择框/默认-未选择",
   "nameIsFixed": true,
   "overrideProperties": [

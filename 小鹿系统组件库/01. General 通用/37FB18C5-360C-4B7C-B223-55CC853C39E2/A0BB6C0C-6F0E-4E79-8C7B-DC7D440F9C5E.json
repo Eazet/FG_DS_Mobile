@@ -66,6 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "按钮样式及状态（以中按钮为例）备份",
   "nameIsFixed": false,
   "resizingConstraint": 47,

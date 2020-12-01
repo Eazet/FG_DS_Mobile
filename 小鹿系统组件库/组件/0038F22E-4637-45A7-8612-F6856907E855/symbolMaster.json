@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "0038F22E-4637-45A7-8612-F6856907E855",
   "exportOptions": {
@@ -60,6 +61,7 @@
       "id": "2C550A26-803B-4086-87F4-07CDD991695D"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/40/审批-离职",
   "nameIsFixed": true,
   "overrideProperties": [

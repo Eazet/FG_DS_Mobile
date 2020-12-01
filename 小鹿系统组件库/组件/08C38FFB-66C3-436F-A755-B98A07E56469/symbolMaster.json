@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "08C38FFB-66C3-436F-A755-B98A07E56469",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "44C3E9F6-339E-413D-BE44-6B85EDA56DBD"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/12/030.wifi",
   "nameIsFixed": true,
   "overrideProperties": [

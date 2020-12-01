@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "D2ED97A1-7405-4E98-934C-0103942D824A",
   "exportOptions": {
@@ -64,6 +65,7 @@
       "id": "B1691E98-90C2-43C1-A4EE-773884E7F990"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "03. Data Entry 数据录入/Select 选择器/从数据库选择/中-不可用",
   "nameIsFixed": true,
   "overrideProperties": [

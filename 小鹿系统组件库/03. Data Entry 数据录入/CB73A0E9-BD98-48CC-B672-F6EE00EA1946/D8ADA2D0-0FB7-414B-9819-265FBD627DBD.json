@@ -66,6 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
+  "maintainScrollPosition": false,
   "name": "勾选后光标仍然激活，出现清除按钮",
   "nameIsFixed": false,
   "resizingConstraint": 47,

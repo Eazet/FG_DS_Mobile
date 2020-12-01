@@ -68,6 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "除关闭外，标题栏右侧可能会出现其他按钮以",
   "nameIsFixed": false,
   "resizingConstraint": 47,

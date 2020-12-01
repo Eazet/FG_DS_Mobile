@@ -101,6 +101,7 @@
       "id": "BE265DD1-85E2-415C-8A07-B6960D833B8C"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "05. Feedback 反馈/Modal 对话框/基本",
   "nameIsFixed": false,
   "resizingConstraint": 63,

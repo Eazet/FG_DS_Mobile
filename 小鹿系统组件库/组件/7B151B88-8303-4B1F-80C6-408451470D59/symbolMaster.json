@@ -9,6 +9,7 @@
     "red": 0.2549019607843137
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "7B151B88-8303-4B1F-80C6-408451470D59",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "ADED3A0F-DE2B-4853-9A75-E0A28ACB520C"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "02. Navigation 导航/Scrollbar滚动条/暗色/Hover",
   "nameIsFixed": true,
   "overrideProperties": [

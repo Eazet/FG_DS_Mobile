@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "D9BF9EC7-702E-4502-BCD3-3A84C2F4B960",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "3FC7C158-CE3F-48D4-B7CA-EB9DDDC9229C"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Tag标签/图标-持平-小",
   "nameIsFixed": true,
   "overrideProperties": [

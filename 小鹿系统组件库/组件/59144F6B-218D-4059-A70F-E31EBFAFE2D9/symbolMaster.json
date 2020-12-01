@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "59144F6B-218D-4059-A70F-E31EBFAFE2D9",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "F9EA06E6-B7D9-4AA1-A2A0-A0C52BA92E28"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/16/110.转资料",
   "nameIsFixed": true,
   "overrideProperties": [

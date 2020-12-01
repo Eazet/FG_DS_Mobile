@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "309160CC-44F6-46DF-8CD2-A388A98B2888",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "A6AEBB5F-113A-4DC7-B07D-C9EFD39C814C"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Empty 空状态/模块-无按钮",
   "nameIsFixed": true,
   "overrideProperties": [

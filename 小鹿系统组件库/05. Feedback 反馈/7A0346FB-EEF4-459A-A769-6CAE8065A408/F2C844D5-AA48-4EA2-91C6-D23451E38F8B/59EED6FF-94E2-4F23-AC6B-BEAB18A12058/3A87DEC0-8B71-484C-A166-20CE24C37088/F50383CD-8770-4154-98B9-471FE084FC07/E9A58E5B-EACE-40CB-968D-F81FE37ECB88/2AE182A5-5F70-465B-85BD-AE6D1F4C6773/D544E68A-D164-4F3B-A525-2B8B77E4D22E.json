@@ -55,7 +55,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 13,
-    "width": 4,
+    "width": 5,
     "x": 12,
     "y": 8
   },
@@ -68,6 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "文案",
   "nameIsFixed": false,
   "resizingConstraint": 41,

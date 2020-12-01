@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "EA8B3BF0-29DD-4340-A265-D802AEAD99D7",
   "exportOptions": {
@@ -60,6 +61,7 @@
       "id": "C7AEA101-3020-4F13-A7CA-BBF678C7F782"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/40/049.新增意向",
   "nameIsFixed": true,
   "overrideProperties": [

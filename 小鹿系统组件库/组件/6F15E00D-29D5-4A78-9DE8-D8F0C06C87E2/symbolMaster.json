@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "6F15E00D-29D5-4A78-9DE8-D8F0C06C87E2",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "971F8D9B-AC30-4CB1-B78B-837D6F4ABB07"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/16/055.流程",
   "nameIsFixed": true,
   "overrideProperties": [

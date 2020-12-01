@@ -68,6 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "2.对话框内容由于展开操作、输入项变化导",
   "nameIsFixed": false,
   "resizingConstraint": 47,

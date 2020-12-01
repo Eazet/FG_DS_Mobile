@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "66397AA2-62D6-423E-B7D6-9F61D14D8364",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "29471455-44FD-4F24-809B-F4BE565D1C02"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "light-bulb_1f4a1",
   "nameIsFixed": false,
   "overrideProperties": [

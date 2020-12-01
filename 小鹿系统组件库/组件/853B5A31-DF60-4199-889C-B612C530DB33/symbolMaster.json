@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "853B5A31-DF60-4199-889C-B612C530DB33",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "E7F05EFF-4934-469A-A0A2-D32DEFF68381"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/24/005.房源",
   "nameIsFixed": true,
   "overrideProperties": [

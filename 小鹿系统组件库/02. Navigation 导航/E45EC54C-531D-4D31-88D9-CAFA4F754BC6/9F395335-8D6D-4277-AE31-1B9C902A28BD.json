@@ -64,6 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "Scrollbar 滚动条",
   "nameIsFixed": false,
   "resizingConstraint": 47,

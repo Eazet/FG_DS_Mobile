@@ -55,7 +55,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 12,
-    "width": 10,
+    "width": 14,
     "x": 67,
     "y": 0
   },
@@ -68,6 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "·",
   "nameIsFixed": false,
   "resizingConstraint": 47,

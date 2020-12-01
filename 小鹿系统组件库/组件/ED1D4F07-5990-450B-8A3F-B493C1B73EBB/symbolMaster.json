@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "ED1D4F07-5990-450B-8A3F-B493C1B73EBB",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "F5443D6E-B706-4F3B-BD79-E3FFD7AF7FD6"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "02. Navigation 导航/Pagination分页/Elements/图标",
   "nameIsFixed": true,
   "overrideProperties": [

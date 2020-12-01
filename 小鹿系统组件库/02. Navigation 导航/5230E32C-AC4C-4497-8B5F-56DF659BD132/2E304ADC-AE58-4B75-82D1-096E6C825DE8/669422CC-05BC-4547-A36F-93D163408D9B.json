@@ -66,6 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
+  "maintainScrollPosition": false,
   "name": "新增审批模板",
   "nameIsFixed": false,
   "resizingConstraint": 9,

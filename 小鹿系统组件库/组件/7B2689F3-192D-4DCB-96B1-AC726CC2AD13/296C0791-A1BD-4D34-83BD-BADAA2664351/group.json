@@ -41,6 +41,7 @@
       "id": "030E9CBE-970D-445D-BD08-97623DAD8F9B"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Table表格/房源/推荐",
   "nameIsFixed": true,
   "resizingConstraint": 63,

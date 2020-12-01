@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "E6AC9AA4-CD8F-46FA-96DF-7FEB588103CE",
   "exportOptions": {
@@ -60,6 +61,7 @@
       "id": "FAF94ACD-5430-4286-9B8E-8D95982F9626"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Tag标签/图标-上涨",
   "nameIsFixed": true,
   "overrideProperties": [

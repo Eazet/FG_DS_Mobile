@@ -41,6 +41,7 @@
       "id": "4AE0E67E-183E-4E71-A26B-E33444FC6D96"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Tooltip文字提示/左-单行备份",
   "nameIsFixed": false,
   "resizingConstraint": 63,

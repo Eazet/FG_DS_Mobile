@@ -154,6 +154,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1170
   },
+  "maintainScrollPosition": false,
   "name": "Tree",
   "nameIsFixed": true,
   "presetDictionary": {

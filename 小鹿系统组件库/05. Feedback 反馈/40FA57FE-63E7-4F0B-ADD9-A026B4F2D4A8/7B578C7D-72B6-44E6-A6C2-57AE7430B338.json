@@ -68,6 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "变高后对话框高度达到上限",
   "nameIsFixed": false,
   "resizingConstraint": 47,

@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "09C750A5-6847-4452-8B1C-92C0C24A1497",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "615C3E02-B9E7-431D-952E-4413E90A3918"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Table表格/单元格/访问量",
   "nameIsFixed": false,
   "overrideProperties": [

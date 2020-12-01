@@ -68,6 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "1.对话框宽度高度均不跟随屏幕尺寸的变化",
   "nameIsFixed": false,
   "resizingConstraint": 47,

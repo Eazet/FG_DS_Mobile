@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "20EA136C-33A9-45F6-A079-4723E4CB9E54",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "93977E9D-ACC3-4913-B79E-C9D3F0BC0973"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/16/017.时间-F",
   "nameIsFixed": true,
   "overrideProperties": [

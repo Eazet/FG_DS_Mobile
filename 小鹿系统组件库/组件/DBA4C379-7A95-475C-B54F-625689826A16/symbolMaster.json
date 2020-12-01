@@ -9,6 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "DBA4C379-7A95-475C-B54F-625689826A16",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "59B73123-B657-49F2-AE0D-BD9ADEB991EF"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/16/069.录音",
   "nameIsFixed": true,
   "overrideProperties": [

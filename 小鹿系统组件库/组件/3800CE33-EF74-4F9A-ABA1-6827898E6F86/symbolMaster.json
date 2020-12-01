@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "3800CE33-EF74-4F9A-ABA1-6827898E6F86",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "D21387AE-8197-4663-9FE0-E08AB1AA995F"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Table表格/单元格/标签/在售在租",
   "nameIsFixed": true,
   "overrideProperties": [

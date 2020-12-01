@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "1E5BF070-5004-4381-8F77-E49832210168",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "0373D748-FBF7-4EA4-B374-065C6CC2FD8A"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "06. Others 其他/框架/TabBar",
   "nameIsFixed": true,
   "overrideProperties": [

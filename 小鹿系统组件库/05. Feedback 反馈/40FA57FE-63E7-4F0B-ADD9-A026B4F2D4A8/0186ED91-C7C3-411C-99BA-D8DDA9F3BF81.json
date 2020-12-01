@@ -68,6 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "3.内容区域出现滚动条的时候顶栏和底栏会",
   "nameIsFixed": false,
   "resizingConstraint": 47,

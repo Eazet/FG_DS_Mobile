@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "E98EFE3D-F853-40D9-8236-D10A367CE589",
   "exportOptions": {
@@ -60,6 +61,7 @@
       "id": "AEA33C8A-1A51-4EB8-B3A7-D7A52A4CB980"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/40/地图标识-休闲-打印预览",
   "nameIsFixed": true,
   "overrideProperties": [

@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "510F8FC2-9AF5-48A9-9FE9-B2B8775CE1C8",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "DB5BB5B0-B9AA-41F9-981D-E7C260B82714"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/24/025.差旅",
   "nameIsFixed": true,
   "overrideProperties": [

@@ -37,6 +37,7 @@
       "id": "9C3D56E1-0C34-4D57-8CD3-5A3F15054672"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "box",
   "nameIsFixed": false,
   "resizingConstraint": 63,

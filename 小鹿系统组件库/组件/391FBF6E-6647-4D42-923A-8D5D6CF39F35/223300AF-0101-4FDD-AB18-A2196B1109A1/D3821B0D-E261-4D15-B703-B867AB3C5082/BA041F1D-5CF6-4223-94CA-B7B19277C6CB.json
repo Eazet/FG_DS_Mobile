@@ -68,6 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "将文件拖拽到这里上传",
   "nameIsFixed": false,
   "resizingConstraint": 47,

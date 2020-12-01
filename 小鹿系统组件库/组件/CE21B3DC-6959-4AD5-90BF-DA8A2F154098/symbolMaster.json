@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "CE21B3DC-6959-4AD5-90BF-DA8A2F154098",
   "exportOptions": {
@@ -56,6 +57,7 @@
       "id": "4D517A52-A483-4E2E-916A-791DC1F86813"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/24/009.户型",
   "nameIsFixed": true,
   "overrideProperties": [
