@@ -63,6 +63,16 @@
   "name": "01. General 通用/Icon图标/40/地图标识-医疗-未选中",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "654A982F-1CF0-426F-AD7C-F13280FE16F2_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0782BBF2-8571-4FCC-984F-99F11442680C_layerStyle"
+    }
   ],
   "presetDictionary": {
   },

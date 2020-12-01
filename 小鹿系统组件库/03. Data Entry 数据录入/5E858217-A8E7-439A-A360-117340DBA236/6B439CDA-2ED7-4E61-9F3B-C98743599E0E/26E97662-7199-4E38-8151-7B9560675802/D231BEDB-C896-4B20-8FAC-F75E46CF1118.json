@@ -35,6 +35,16 @@
       "_class": "overrideValue",
       "overrideName": "E0FA7C63-8014-43E1-AACF-A3276841B7CD_stringValue",
       "value": "选项一 / 选项A"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "018DEFB2-CEDF-405C-A31E-8A92F715CCB9_symbolID",
+      "value": "6C522FEB-4DDA-4058-9C21-EA7DCF7D56D0"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "018DEFB2-CEDF-405C-A31E-8A92F715CCB9/6327CE6D-2CC9-4B67-BA6E-3C075FCB98AE_layerStyle",
+      "value": "B9FBE60A-2B3D-4F9A-AF58-E32A4A37976E"
     }
   ],
   "resizingConstraint": 45,

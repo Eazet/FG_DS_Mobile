@@ -31,6 +31,11 @@
   "name": "ic_down",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "6327CE6D-2CC9-4B67-BA6E-3C075FCB98AE_layerStyle",
+      "value": "B9FBE60A-2B3D-4F9A-AF58-E32A4A37976E"
+    }
   ],
   "resizingConstraint": 45,
   "resizingType": 0,
@@ -83,6 +88,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "3C3E9F54-C337-4322-B1C0-E04C42833935",
+  "symbolID": "6C522FEB-4DDA-4058-9C21-EA7DCF7D56D0",
   "verticalSpacing": 0
 }

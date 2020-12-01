@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 110,
     "width": 580,
-    "x": 10171,
-    "y": -339
+    "x": -2165,
+    "y": 5053
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
@@ -76,7 +76,7 @@
       "id": "BA87C7B7-2236-4E89-A8F8-87A191B964B0"
     }
   ],
-  "name": "跟进-纯文字",
+  "name": "07. Business 业务/跟进/纯文字",
   "nameIsFixed": true,
   "overrideProperties": [
     {
