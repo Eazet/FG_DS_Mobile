@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "A2107473-B12A-4C3D-8A62-0D4931FADA91",
   "exportOptions": {
@@ -32,7 +31,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 2
+    "layoutAnchor": 2,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -67,7 +68,6 @@
       "id": "84C44CCA-5FE7-4A34-8611-DDB727CA9F84"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "01. General 通用/Buttons按钮/07.极简按钮/03.下拉按钮/默认",
   "nameIsFixed": true,
   "overrideProperties": [

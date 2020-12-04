@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "9A0809B4-1CCA-491C-BBB9-6E96C1284B0E",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "DD0A825B-2A57-4581-8A94-822471D497E8"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/16/091.考勤",
   "nameIsFixed": true,
   "overrideProperties": [

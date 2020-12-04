@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "85A87752-D72F-4D6B-B097-67C31342B73B",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "F8E9B2C8-C133-41F1-9FCF-E45E7F47B4DB"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "03. Data Entry 数据录入/Switch 开关/默认-开",
   "nameIsFixed": false,
   "overrideProperties": [

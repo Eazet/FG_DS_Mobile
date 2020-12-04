@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "FAE33170-0E57-4276-A497-39BA7F111E4C",
   "exportOptions": {
@@ -61,7 +60,6 @@
       "id": "C5E7C4B4-5A4D-4312-AE0C-24C5AE6349ED"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "02. Navigation 导航/Dropdown下拉菜单/分割线",
   "nameIsFixed": false,
   "overrideProperties": [

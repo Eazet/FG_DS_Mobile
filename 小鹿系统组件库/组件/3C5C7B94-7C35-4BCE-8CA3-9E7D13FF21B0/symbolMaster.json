@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "3C5C7B94-7C35-4BCE-8CA3-9E7D13FF21B0",
   "exportOptions": {
@@ -32,7 +31,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -63,7 +64,6 @@
       "id": "06153A7C-C97D-40C9-A849-7C5A508F52A4"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Tag标签/主要-绿",
   "nameIsFixed": true,
   "overrideProperties": [

@@ -18,7 +18,7 @@
     "height": 40,
     "width": 176,
     "x": 0,
-    "y": 434
+    "y": 474
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +28,6 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "maintainScrollPosition": false,
   "name": "02. Navigation 导航/Menu导航菜单/一级菜单-选中备份 8",
   "nameIsFixed": false,
   "overrideValues": [
@@ -45,7 +44,7 @@
     {
       "_class": "overrideValue",
       "overrideName": "9638ED05-0D28-4974-9C8B-2D83272F677F_stringValue",
-      "value": "成交"
+      "value": "交易"
     }
   ],
   "resizingConstraint": 63,

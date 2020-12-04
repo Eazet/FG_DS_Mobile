@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "F89E93AD-4DDA-4F32-9884-3025D69F254A",
   "exportOptions": {
@@ -65,7 +64,6 @@
       "id": "E1E6E405-A859-4DA5-9127-9822EB134028"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "03. Data Entry 数据录入/Selection 选项/图标类/文字+补充-当前选择",
   "nameIsFixed": true,
   "overrideProperties": [

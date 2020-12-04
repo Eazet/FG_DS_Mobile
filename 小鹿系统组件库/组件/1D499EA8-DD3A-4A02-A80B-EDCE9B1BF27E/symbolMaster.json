@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "1D499EA8-DD3A-4A02-A80B-EDCE9B1BF27E",
   "exportOptions": {
@@ -61,7 +60,6 @@
       "id": "43A16CD7-6C83-4A80-B6FC-7E635B59BB07"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/40/026.Loadding",
   "nameIsFixed": true,
   "overrideProperties": [

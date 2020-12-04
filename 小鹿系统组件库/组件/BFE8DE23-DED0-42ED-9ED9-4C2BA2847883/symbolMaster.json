@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "BFE8DE23-DED0-42ED-9ED9-4C2BA2847883",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "1DB1710C-22E2-4B11-96B1-8D2F79790E50"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "06. Others 其他/鼠标/缩放高度",
   "nameIsFixed": true,
   "overrideProperties": [

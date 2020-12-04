@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "B334EC0A-E462-459C-85C8-4A9117E80AC7",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "BB3D1C8E-B733-467E-AE09-998FE919C52B"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Table表格/单元格/Checkbox",
   "nameIsFixed": true,
   "overrideProperties": [

@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "08F8F9B8-F8F8-4047-9372-D684055A37A8",
   "exportOptions": {
@@ -61,7 +60,6 @@
       "id": "0BD33274-B056-4692-A76D-37AAAE41DFBB"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Tag标签/图标-非楼盘字典",
   "nameIsFixed": true,
   "overrideProperties": [

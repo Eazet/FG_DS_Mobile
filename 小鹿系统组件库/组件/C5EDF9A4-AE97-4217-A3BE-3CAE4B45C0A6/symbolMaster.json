@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "C5EDF9A4-AE97-4217-A3BE-3CAE4B45C0A6",
   "exportOptions": {
@@ -32,7 +31,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -59,7 +60,6 @@
       "id": "1CF3C473-613F-4B6D-81CC-C8CD991BBA0C"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Tag标签/图标-公众号",
   "nameIsFixed": true,
   "overrideProperties": [

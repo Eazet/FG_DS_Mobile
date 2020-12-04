@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "C59982E7-2272-4A57-B555-757557816363",
   "exportOptions": {
@@ -65,7 +64,6 @@
       "id": "2F549749-9AA7-4A77-9E8A-5B1B53E7FDA0"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "03. Data Entry 数据录入/Select 选择器/多选/激活-可输入",
   "nameIsFixed": true,
   "overrideProperties": [

@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "FAB16B31-E160-4ADE-87A5-819F0C26871B",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "455E286B-F60F-488B-B634-522629D68FF8"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/40/002.楼栋",
   "nameIsFixed": true,
   "overrideProperties": [

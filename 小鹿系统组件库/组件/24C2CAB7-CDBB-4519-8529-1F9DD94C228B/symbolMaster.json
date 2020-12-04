@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "24C2CAB7-CDBB-4519-8529-1F9DD94C228B",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "3641954E-49E2-4755-A170-EE1811AB1A2C"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "03. Data Entry 数据录入/Transfer 穿梭框/已选项-图标",
   "nameIsFixed": true,
   "overrideProperties": [

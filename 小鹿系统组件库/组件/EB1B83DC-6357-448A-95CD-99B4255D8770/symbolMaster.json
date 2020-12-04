@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "EB1B83DC-6357-448A-95CD-99B4255D8770",
   "exportOptions": {
@@ -32,7 +31,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 2
+    "layoutAnchor": 2,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -63,7 +64,6 @@
       "id": "604BDE4B-3B57-4F33-A107-1AE83E6F6052"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "01. General 通用/Link文字链/02.带箭头/详情/大",
   "nameIsFixed": true,
   "overrideProperties": [

@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "E990A2AB-E7AF-42CC-8A6F-5E1A9121A5E2",
   "exportOptions": {
@@ -61,7 +60,6 @@
       "id": "D983A444-95CD-40F5-993D-3C6F6835435A"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "03. Data Entry 数据录入/Input输入框/纯文字/小/未输入",
   "nameIsFixed": true,
   "overrideProperties": [

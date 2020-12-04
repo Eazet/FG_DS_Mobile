@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "15D2245F-713B-42E2-ADB8-815A01E96A90",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "B8368B17-7C0D-4BDA-A451-442D73F9BB9E"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "03. Data Entry 数据录入/Input输入框/搜索框/中-未输入备份",
   "nameIsFixed": true,
   "overrideProperties": [

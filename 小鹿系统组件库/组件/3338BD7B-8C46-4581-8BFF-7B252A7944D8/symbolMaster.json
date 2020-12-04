@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "3338BD7B-8C46-4581-8BFF-7B252A7944D8",
   "exportOptions": {
@@ -32,7 +31,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 1,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -75,7 +76,6 @@
       "id": "BC6D56FF-09B4-4FE0-943A-CFB169B4FD2E"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "05. Feedback 反馈/Guide 功能引导/强引导/右",
   "nameIsFixed": true,
   "overrideProperties": [

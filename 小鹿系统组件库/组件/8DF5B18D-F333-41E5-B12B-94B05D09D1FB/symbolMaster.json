@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "8DF5B18D-F333-41E5-B12B-94B05D09D1FB",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "E259FDB0-6EF7-4DF7-B32E-09D9ED33BCE2"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Table表格/单元格/放盘",
   "nameIsFixed": false,
   "overrideProperties": [

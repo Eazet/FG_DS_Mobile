@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "9179E95B-CED3-45D3-B0C5-1B6856E0EE01",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "D4194D33-8345-40B7-9B72-96953CF8EEFB"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Table表格/单元格/下架原因",
   "nameIsFixed": true,
   "overrideProperties": [

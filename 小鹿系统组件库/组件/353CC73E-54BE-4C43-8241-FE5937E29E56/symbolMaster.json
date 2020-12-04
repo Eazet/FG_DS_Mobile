@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "353CC73E-54BE-4C43-8241-FE5937E29E56",
   "exportOptions": {
@@ -61,7 +60,6 @@
       "id": "69AB5243-A8D2-4AB8-87B4-FC5FEF9F4547"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Tag标签/图标-重盘",
   "nameIsFixed": true,
   "overrideProperties": [

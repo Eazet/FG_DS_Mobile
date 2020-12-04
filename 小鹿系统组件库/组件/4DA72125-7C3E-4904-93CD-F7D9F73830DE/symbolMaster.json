@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "4DA72125-7C3E-4904-93CD-F7D9F73830DE",
   "exportOptions": {
@@ -61,7 +60,6 @@
       "id": "73922DBC-04EC-4A19-BE70-2EB95823BD66"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/40/热门房源",
   "nameIsFixed": true,
   "overrideProperties": [

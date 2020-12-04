@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "6DC9AA57-18DE-43BA-943B-84D7C177FCA3",
   "exportOptions": {
@@ -65,7 +64,6 @@
       "id": "83B59AB1-3029-4F18-9E08-DFB648E91AE9"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Empty 空状态/页面-小-有按钮",
   "nameIsFixed": true,
   "overrideProperties": [

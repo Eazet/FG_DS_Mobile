@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "15727F40-EE44-4634-8794-0EA8457EF96C",
   "exportOptions": {
@@ -61,7 +60,6 @@
       "id": "B737439E-9D51-41C3-BA93-C934BCD463F6"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Checkbox多选框/已选择",
   "nameIsFixed": true,
   "overrideProperties": [

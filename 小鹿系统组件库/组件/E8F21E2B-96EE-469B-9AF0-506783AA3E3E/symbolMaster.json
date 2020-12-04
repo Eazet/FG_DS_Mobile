@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "E8F21E2B-96EE-469B-9AF0-506783AA3E3E",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "23663C25-E2E3-4FBA-AA7B-DC29EB0CCBCA"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "03. Data Entry 数据录入/Input输入框/带单位/小/激活",
   "nameIsFixed": true,
   "overrideProperties": [

@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "E3BB9F4E-5E46-43AD-BDB7-2EE6C82EA134",
   "exportOptions": {
@@ -61,7 +60,6 @@
       "id": "8A478445-F5D1-49CA-9926-39D285336037"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/40/审批-延期",
   "nameIsFixed": true,
   "overrideProperties": [

@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "58265317-2672-41F9-9EB9-242752B20073",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "565CB22F-468D-4E70-8D83-0FE98FBC7A89"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Table表格/Element/表头单元带图标-右对齐",
   "nameIsFixed": true,
   "overrideProperties": [

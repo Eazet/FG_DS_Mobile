@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "DD24E7FF-23D0-42C2-9003-E4C22DE1DDAE",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "95204D8B-5BBB-4D1A-9206-6B1B4485D140"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Table表格/单元格/最新跟进-活",
   "nameIsFixed": true,
   "overrideProperties": [

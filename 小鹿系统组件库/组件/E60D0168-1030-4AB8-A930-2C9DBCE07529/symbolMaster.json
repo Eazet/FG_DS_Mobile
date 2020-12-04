@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "E60D0168-1030-4AB8-A930-2C9DBCE07529",
   "exportOptions": {
@@ -32,7 +31,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 1
+    "layoutAnchor": 1,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -63,7 +64,6 @@
       "id": "98B47D7B-1CA8-43F1-984E-7B01F1D90B05"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Tooltip文字提示/上-单行",
   "nameIsFixed": true,
   "overrideProperties": [

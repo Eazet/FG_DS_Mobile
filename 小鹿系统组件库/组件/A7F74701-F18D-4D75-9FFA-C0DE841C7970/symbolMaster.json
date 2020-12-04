@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "A7F74701-F18D-4D75-9FFA-C0DE841C7970",
   "exportOptions": {
@@ -61,7 +60,6 @@
       "id": "296914B3-9A4E-49C1-8586-162ED7F1F85A"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "06. Others 其他/区域标注",
   "nameIsFixed": true,
   "overrideProperties": [

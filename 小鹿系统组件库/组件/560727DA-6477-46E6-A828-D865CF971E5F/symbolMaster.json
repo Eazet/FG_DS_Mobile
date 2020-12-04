@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "560727DA-6477-46E6-A828-D865CF971E5F",
   "exportOptions": {
@@ -61,7 +60,6 @@
       "id": "B590E4BA-1A0C-45D5-B2A4-3A0EC405D7B0"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "03. Data Entry 数据录入/Radio 单选框/Icon/已选中",
   "nameIsFixed": true,
   "overrideProperties": [

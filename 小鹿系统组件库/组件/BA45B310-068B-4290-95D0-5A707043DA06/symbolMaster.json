@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "BA45B310-068B-4290-95D0-5A707043DA06",
   "exportOptions": {
@@ -65,7 +64,6 @@
       "id": "42D0EDE3-9787-49D1-8CF8-E58BA290E12E"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "03. Data Entry 数据录入/Editor 编辑器/图片-全展示",
   "nameIsFixed": true,
   "overrideProperties": [

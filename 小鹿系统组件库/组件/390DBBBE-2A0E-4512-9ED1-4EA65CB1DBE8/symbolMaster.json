@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "390DBBBE-2A0E-4512-9ED1-4EA65CB1DBE8",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "15C8A67F-646B-45F9-8053-54BD517A8028"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Table表格/单元格/标签/回收站",
   "nameIsFixed": true,
   "overrideProperties": [

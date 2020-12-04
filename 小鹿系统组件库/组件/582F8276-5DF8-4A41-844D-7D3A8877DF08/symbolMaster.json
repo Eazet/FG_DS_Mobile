@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "582F8276-5DF8-4A41-844D-7D3A8877DF08",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "5E4FE93B-764F-43AD-8DDC-2F50BBDFE5FA"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "03. Data Entry 数据录入/Input输入框/带图标/中/激活",
   "nameIsFixed": true,
   "overrideProperties": [

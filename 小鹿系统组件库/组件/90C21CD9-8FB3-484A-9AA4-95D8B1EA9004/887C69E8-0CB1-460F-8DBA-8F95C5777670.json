@@ -24,8 +24,8 @@
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 18,
-            "minimumLineHeight": 18,
+            "maximumLineHeight": 12,
+            "minimumLineHeight": 12,
             "tighteningFactorForTruncation": 0.05
           },
           "textStyleVerticalAlignmentKey": 0
@@ -53,12 +53,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 18,
+    "height": 12,
     "width": 36,
     "x": 0,
-    "y": 0
+    "y": 2
   },
-  "glyphBounds": "{{0, 3}, {36, 13}}",
+  "glyphBounds": "{{0, 0}, {36, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,8 +66,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
-  "maintainScrollPosition": false,
+  "lineSpacingBehaviour": 3,
   "name": "观海台",
   "nameIsFixed": false,
   "resizingConstraint": 45,
@@ -140,8 +139,8 @@
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 18,
-          "minimumLineHeight": 18,
+          "maximumLineHeight": 12,
+          "minimumLineHeight": 12,
           "tighteningFactorForTruncation": 0.05
         },
         "textStyleVerticalAlignmentKey": 0

@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "E671D779-C87B-4DFA-8A54-4B05E919E661",
   "exportOptions": {
@@ -65,7 +64,6 @@
       "id": "8FD0505B-EE0C-4379-A2F4-D2F0CC400BD2"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "03. Data Entry 数据录入/Editor 编辑器/图片-裁剪",
   "nameIsFixed": true,
   "overrideProperties": [

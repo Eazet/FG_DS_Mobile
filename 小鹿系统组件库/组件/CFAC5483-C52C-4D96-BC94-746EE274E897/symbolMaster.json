@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "CFAC5483-C52C-4D96-BC94-746EE274E897",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "5F468A7A-AA8C-4E77-BBFD-C66E1699B243"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "06. Others 其他/鼠标/移动",
   "nameIsFixed": true,
   "overrideProperties": [

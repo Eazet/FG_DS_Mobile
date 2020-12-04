@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "FACB00A6-BBC9-4BE5-8517-68F3DF520E51",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "87B10DAF-433A-4148-97C4-A5128BB610BF"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Table表格/Element/排序图标",
   "nameIsFixed": true,
   "overrideProperties": [

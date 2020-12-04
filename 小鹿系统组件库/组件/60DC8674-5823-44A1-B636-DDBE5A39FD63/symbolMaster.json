@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "60DC8674-5823-44A1-B636-DDBE5A39FD63",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "9F1905CA-AE09-4E7F-B83C-70D4605F0232"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "06. Others 其他/鼠标/单击备份",
   "nameIsFixed": true,
   "overrideProperties": [

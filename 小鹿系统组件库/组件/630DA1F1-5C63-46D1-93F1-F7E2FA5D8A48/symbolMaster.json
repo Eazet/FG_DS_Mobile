@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "630DA1F1-5C63-46D1-93F1-F7E2FA5D8A48",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "0E8B4347-D6E8-49E8-9E66-F9EF82C0E760"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Tag标签/图标-隐藏",
   "nameIsFixed": true,
   "overrideProperties": [

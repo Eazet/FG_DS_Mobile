@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "40036CFA-6E50-41C1-9F41-093C04B1F91A",
   "exportOptions": {
@@ -32,7 +31,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 1,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -75,7 +76,6 @@
       "id": "BA87C7B7-2236-4E89-A8F8-87A191B964B0"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "07. Business 业务/跟进/纯文字",
   "nameIsFixed": true,
   "overrideProperties": [

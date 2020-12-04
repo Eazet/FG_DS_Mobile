@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "5E38B19D-12C5-4A1F-831D-AECD2E17B007",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "2CBB6461-454D-49F7-AE31-421D2A7C9E90"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Table表格/Element/表头单元-居中对齐",
   "nameIsFixed": true,
   "overrideProperties": [

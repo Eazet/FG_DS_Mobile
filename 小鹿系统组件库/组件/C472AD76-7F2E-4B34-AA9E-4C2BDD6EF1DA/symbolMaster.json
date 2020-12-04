@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "C472AD76-7F2E-4B34-AA9E-4C2BDD6EF1DA",
   "exportOptions": {
@@ -61,7 +60,6 @@
       "id": "B1C1622A-70CA-44CE-A044-95B54C929F75"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/40/审批-请假",
   "nameIsFixed": true,
   "overrideProperties": [
