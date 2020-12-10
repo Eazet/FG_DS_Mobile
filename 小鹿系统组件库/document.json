@@ -257,6 +257,16 @@
   "fontReferences": [
     {
       "_class": "fontReference",
+      "do_objectID": "1A7282F8-0D22-47E0-A32A-F9B34D9AE47F",
+      "fontFamilyName": "Gotham",
+      "fontFileName": "Gotham-Thin.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Gotham-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "33E1EB67-8517-4203-BB59-36A509E9E41B",
       "fontFamilyName": "Microsoft YaHei",
       "fontFileName": "MSYHL.TTC",
@@ -279,12 +289,42 @@
     },
     {
       "_class": "fontReference",
+      "do_objectID": "61DB1B4E-0582-49CF-B74B-99FB459EA884",
+      "fontFamilyName": "Gotham",
+      "fontFileName": "Gotham-ThinItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Gotham-ThinItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "77F3D97C-2728-46F6-8AD2-04A33B1997A7",
+      "fontFamilyName": "Gotham",
+      "fontFileName": "Gotham-Bold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Gotham-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "85300DC3-FC73-4EC6-8EA3-935B72F9385B",
       "fontFamilyName": "FANGGEEK-Numbers",
       "fontFileName": "FANGGEEK-Numbers (10).ttf",
       "options": 2,
       "postscriptNames": [
         "FANGGEEK-Numbers-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "A7099853-53A0-4644-A4D8-C095F5E36D11",
+      "fontFamilyName": "Gotham",
+      "fontFileName": "Gotham-BoldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Gotham-BoldItalic"
       ]
     },
     {
