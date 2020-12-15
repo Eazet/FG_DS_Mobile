@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "B4219402-2C62-4C25-97D7-E4B5CE138339",
   "exportOptions": {
@@ -65,7 +64,6 @@
       "id": "0DBCBB1D-B4FA-4239-AC48-B80AA3E294A1"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "06. Others 其他/框架/Title bar备份",
   "nameIsFixed": true,
   "overrideProperties": [

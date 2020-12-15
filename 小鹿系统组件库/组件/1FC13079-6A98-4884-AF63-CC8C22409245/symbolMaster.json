@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "1FC13079-6A98-4884-AF63-CC8C22409245",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "FAC659CB-454C-4CA6-8298-9E78D8D06C3E"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Table表格/单元格/片区",
   "nameIsFixed": false,
   "overrideProperties": [

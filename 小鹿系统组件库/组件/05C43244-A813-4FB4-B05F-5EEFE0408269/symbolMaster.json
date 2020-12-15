@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "05C43244-A813-4FB4-B05F-5EEFE0408269",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "D7DE4747-E04B-4B89-8A76-3371E4E6D000"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "02. Navigation 导航 / Tree 树 / 搜索选项 / 部门",
   "nameIsFixed": true,
   "overrideProperties": [

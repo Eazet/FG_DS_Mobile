@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "F6692B47-7C20-4A69-B010-01EF7A003F56",
   "exportOptions": {
@@ -61,7 +60,6 @@
       "id": "D60C0488-5670-4175-8B9E-A7C201329AA3"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/40/审批-差旅",
   "nameIsFixed": true,
   "overrideProperties": [

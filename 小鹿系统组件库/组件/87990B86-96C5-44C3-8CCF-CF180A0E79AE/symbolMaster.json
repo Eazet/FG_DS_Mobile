@@ -9,7 +9,6 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "87990B86-96C5-44C3-8CCF-CF180A0E79AE",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "D24DF805-5E4D-4E97-8571-369460F297EE"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/16/090.格式刷",
   "nameIsFixed": true,
   "overrideProperties": [

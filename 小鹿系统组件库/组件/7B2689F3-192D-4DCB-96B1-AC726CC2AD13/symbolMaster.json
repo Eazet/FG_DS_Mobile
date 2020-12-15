@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "7B2689F3-192D-4DCB-96B1-AC726CC2AD13",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "296C0791-A1BD-4D34-83BD-BADAA2664351"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Table表格/房源/推荐",
   "nameIsFixed": false,
   "overrideProperties": [

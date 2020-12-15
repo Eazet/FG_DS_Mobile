@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "CFBCD988-E087-4891-8828-0D05ADE6BA74",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "7704ECEB-ED54-4A1A-8097-03BA60D41F70"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Table表格/单元格/租价",
   "nameIsFixed": false,
   "overrideProperties": [

@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 103,
+    "height": 100,
     "width": 70,
     "x": 101,
     "y": 1023
@@ -45,7 +45,6 @@
       "id": "EFCF3C91-5721-4D1D-AC62-2EF6FF860B0D"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "编组 10",
   "nameIsFixed": false,
   "resizingConstraint": 63,

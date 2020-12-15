@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "51322A93-3B06-40BB-997A-C3A498CA561A",
   "exportOptions": {
@@ -61,7 +60,6 @@
       "id": "6587B3AC-4119-43C5-86A2-6DA3FC92448C"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/40/审批-合作",
   "nameIsFixed": true,
   "overrideProperties": [

@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "C9A69BD9-C921-4522-8462-B74592BAC1CB",
   "exportOptions": {
@@ -61,7 +60,6 @@
       "id": "91B6513A-A526-4C65-8448-2B159797F108"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/40/审批-房源置换",
   "nameIsFixed": true,
   "overrideProperties": [

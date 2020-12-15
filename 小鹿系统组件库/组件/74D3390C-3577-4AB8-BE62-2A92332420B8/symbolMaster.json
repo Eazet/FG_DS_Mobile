@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "74D3390C-3577-4AB8-BE62-2A92332420B8",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "15B3F9BF-3D49-49B5-98FA-8DCA98E0007F"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Table表格/单元格/小区",
   "nameIsFixed": false,
   "overrideProperties": [

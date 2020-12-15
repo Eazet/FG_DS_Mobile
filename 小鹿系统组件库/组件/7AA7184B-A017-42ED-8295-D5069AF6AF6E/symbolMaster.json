@@ -9,7 +9,6 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "7AA7184B-A017-42ED-8295-D5069AF6AF6E",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "626CD8A8-AF92-48A4-9C6F-63FABF6B213C"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/16/089.清除",
   "nameIsFixed": true,
   "overrideProperties": [

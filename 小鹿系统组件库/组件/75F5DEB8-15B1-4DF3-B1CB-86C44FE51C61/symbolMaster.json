@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "75F5DEB8-15B1-4DF3-B1CB-86C44FE51C61",
   "exportOptions": {
@@ -61,7 +60,6 @@
       "id": "3100CEFA-B662-4732-890D-8C3DE72EBAAF"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Tag标签/图标-钥匙",
   "nameIsFixed": true,
   "overrideProperties": [

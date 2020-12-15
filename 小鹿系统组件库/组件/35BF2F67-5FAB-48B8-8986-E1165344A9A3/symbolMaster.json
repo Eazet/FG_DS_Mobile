@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "35BF2F67-5FAB-48B8-8986-E1165344A9A3",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "1BB2DE00-EC25-42D8-B73C-77D04D9D91C1"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/24/004.失败",
   "nameIsFixed": true,
   "overrideProperties": [

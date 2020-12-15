@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "E24789D0-DD72-4819-AF68-7AAD624CF77E",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "9F463559-3E28-4CB1-8E5F-32CE996853EE"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/12/025.拖拽指示器",
   "nameIsFixed": true,
   "overrideProperties": [

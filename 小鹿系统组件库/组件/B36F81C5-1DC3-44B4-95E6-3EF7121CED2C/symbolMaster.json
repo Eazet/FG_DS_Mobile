@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "B36F81C5-1DC3-44B4-95E6-3EF7121CED2C",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "FC115B50-4806-4463-BAD7-53B5E848986B"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Table表格/单元格/盘源人",
   "nameIsFixed": true,
   "overrideProperties": [

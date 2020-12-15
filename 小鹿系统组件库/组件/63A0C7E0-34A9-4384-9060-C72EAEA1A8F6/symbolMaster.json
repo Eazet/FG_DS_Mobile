@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "63A0C7E0-34A9-4384-9060-C72EAEA1A8F6",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "4B38451C-BC30-45B7-AF25-8116F6698DBB"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "06. Others 其他/鼠标/单击",
   "nameIsFixed": true,
   "overrideProperties": [

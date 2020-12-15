@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "0C4C1ED8-2212-41E3-8B24-E68ACBED6B85",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "8E08F0E2-5FAE-4B7A-93C0-9B28E6FA3DE7"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "03. Data Entry 数据录入/Input输入框/搜索框/大-正在输入-选择标签后输入",
   "nameIsFixed": true,
   "overrideProperties": [

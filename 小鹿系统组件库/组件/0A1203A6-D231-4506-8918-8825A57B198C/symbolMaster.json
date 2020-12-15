@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "0A1203A6-D231-4506-8918-8825A57B198C",
   "exportOptions": {
@@ -61,7 +60,6 @@
       "id": "03BDC439-BCBF-4D35-9F97-261F65E12FA0"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/40/审批-修改价格",
   "nameIsFixed": true,
   "overrideProperties": [

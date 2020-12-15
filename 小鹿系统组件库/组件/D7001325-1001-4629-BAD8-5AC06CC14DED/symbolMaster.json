@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "D7001325-1001-4629-BAD8-5AC06CC14DED",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "8DB4BD97-8958-431D-A8C7-B88046421E00"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "02. Navigation 导航/Pagination分页/Elements/数字备份",
   "nameIsFixed": true,
   "overrideProperties": [

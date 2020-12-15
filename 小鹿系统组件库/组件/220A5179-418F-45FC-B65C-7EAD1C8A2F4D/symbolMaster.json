@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "220A5179-418F-45FC-B65C-7EAD1C8A2F4D",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "B6F9F860-1B6A-4279-B4C8-E3597FC9270F"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "02. Navigation 导航/Scrollbar滚动条/亮色/Hover",
   "nameIsFixed": true,
   "overrideProperties": [

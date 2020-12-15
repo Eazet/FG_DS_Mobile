@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "63514E8C-286E-4A4F-A072-0F4522450C06",
   "exportOptions": {
@@ -61,7 +60,6 @@
       "id": "4F155A83-3B32-4BD6-A4E6-6F7E308FD014"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Table表格/表头/房源/资料房",
   "nameIsFixed": true,
   "overrideProperties": [

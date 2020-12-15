@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "C4B2BFEE-3EF2-40AB-B3FD-CDBBB1748F70",
   "exportOptions": {
@@ -61,7 +60,6 @@
       "id": "BCB27709-7039-47F7-9566-41EF5FC75F2D"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "02. Navigation 导航/Dropdown下拉菜单/菜单标题",
   "nameIsFixed": false,
   "overrideProperties": [

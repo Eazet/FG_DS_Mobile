@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "ECAC73EE-5F28-48B4-9816-B3CA217DA66A",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "3D2F2C2B-E641-4779-8B4C-837DB192A454"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "02. Navigation 导航/Dropdown下拉菜单/缩进文字列表-默认",
   "nameIsFixed": true,
   "overrideProperties": [

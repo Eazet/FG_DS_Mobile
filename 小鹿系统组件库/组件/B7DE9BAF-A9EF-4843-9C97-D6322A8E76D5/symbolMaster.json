@@ -9,7 +9,6 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "B7DE9BAF-A9EF-4843-9C97-D6322A8E76D5",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "A4AA5268-DCF4-4D98-AD21-99464AE39738"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/16/081.旋转照片",
   "nameIsFixed": true,
   "overrideProperties": [

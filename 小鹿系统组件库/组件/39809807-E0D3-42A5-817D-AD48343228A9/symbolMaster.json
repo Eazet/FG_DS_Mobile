@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "39809807-E0D3-42A5-817D-AD48343228A9",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "CEF74579-34CD-48D9-89AC-3084DBCAEAEF"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Table表格/单元格/面积",
   "nameIsFixed": false,
   "overrideProperties": [

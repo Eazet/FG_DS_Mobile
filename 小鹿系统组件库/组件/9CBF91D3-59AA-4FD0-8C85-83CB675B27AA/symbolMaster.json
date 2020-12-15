@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "9CBF91D3-59AA-4FD0-8C85-83CB675B27AA",
   "exportOptions": {
@@ -65,7 +64,6 @@
       "id": "A3BE4EEC-5F97-409C-8D58-75C6CBFF61A1"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "02. Navigation 导航/Bars 栏/带tab",
   "nameIsFixed": true,
   "overrideProperties": [

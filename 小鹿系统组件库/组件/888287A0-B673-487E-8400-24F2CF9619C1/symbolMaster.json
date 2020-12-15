@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "888287A0-B673-487E-8400-24F2CF9619C1",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "C5A4D611-0BE5-4C98-AFEA-BB083194BF53"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "06. Others 其他/组件库/指针",
   "nameIsFixed": true,
   "overrideProperties": [

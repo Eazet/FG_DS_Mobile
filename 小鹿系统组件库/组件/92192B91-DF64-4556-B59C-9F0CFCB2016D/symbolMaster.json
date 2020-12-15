@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "92192B91-DF64-4556-B59C-9F0CFCB2016D",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "D4AF9339-B99A-4E6E-A643-C29F74ED7D9E"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/24/024.审批",
   "nameIsFixed": true,
   "overrideProperties": [

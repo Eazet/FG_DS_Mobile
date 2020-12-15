@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "EE4D1FDC-E052-415C-8A7E-D8A3ED529BE8",
   "exportOptions": {
@@ -61,7 +60,6 @@
       "id": "AF0453DE-9F82-47CE-8772-1307921F2FC0"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Empty 空状态/表格",
   "nameIsFixed": false,
   "overrideProperties": [

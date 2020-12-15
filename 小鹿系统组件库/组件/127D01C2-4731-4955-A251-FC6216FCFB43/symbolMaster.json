@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "127D01C2-4731-4955-A251-FC6216FCFB43",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "B0F848A8-6580-498D-B499-785A259547CC"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Table表格/单元格/失败原因",
   "nameIsFixed": true,
   "overrideProperties": [

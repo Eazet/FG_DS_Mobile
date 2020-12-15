@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "BE6FDB2F-A9D6-4FDC-BB11-5134EA127A8E",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "D482A8B6-A977-4C84-8D4D-979866C15D4C"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/12/031.定位",
   "nameIsFixed": true,
   "overrideProperties": [

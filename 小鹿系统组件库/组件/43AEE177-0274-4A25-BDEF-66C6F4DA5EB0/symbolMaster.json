@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "43AEE177-0274-4A25-BDEF-66C6F4DA5EB0",
   "exportOptions": {
@@ -65,7 +64,6 @@
       "id": "DE22FB67-0BF9-46BE-8E3E-93690822BD4C"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "03. Data Entry 数据录入/Selection 选项/勾选类/级联",
   "nameIsFixed": true,
   "overrideProperties": [

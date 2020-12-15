@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "F8CB757A-55AE-4F15-881B-1B6874B00BE1",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "7A3A9DED-5FED-49A5-8B79-6AE2E4A63034"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Tag标签/图标-持平",
   "nameIsFixed": true,
   "overrideProperties": [

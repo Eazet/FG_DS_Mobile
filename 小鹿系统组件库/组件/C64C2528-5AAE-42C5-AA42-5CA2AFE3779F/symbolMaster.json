@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "C64C2528-5AAE-42C5-AA42-5CA2AFE3779F",
   "exportOptions": {
@@ -61,7 +60,6 @@
       "id": "FCC0FA61-F721-4DEF-9650-AB2EC609B5B1"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/40/审批-维修",
   "nameIsFixed": true,
   "overrideProperties": [

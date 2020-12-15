@@ -9,7 +9,6 @@
     "red": 0.2549019607843137
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "A4F6B51D-5F6A-4655-BB9D-12526EF9DABB",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "6F340A3F-42D0-4A85-B87D-91C13925B91B"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "02. Navigation 导航/Scrollbar滚动条/暗色/默认",
   "nameIsFixed": true,
   "overrideProperties": [

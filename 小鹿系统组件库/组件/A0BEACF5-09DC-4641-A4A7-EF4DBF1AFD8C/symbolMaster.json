@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "A0BEACF5-09DC-4641-A4A7-EF4DBF1AFD8C",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "2AF2C02C-A3C7-4BBF-B967-1BCD6E365304"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "01. General 通用/Icon图标/16/125.两端缩进",
   "nameIsFixed": true,
   "overrideProperties": [

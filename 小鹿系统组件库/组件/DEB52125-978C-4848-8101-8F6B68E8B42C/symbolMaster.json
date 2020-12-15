@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "DEB52125-978C-4848-8101-8F6B68E8B42C",
   "exportOptions": {
@@ -61,7 +60,6 @@
       "id": "28560D4A-0DD3-4E85-A990-9D154C04FCA8"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "02. Navigation 导航 / Tree 树 / 勾选 / 一级 / 子节点-不可用",
   "nameIsFixed": true,
   "overrideProperties": [

@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "113AF53F-352C-4C64-B731-9169BCF1DDAD",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "0C07C3DA-C34A-4458-AD66-D7627410FE9D"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "02. Navigation 导航/Tabs标签页/框架Tab/添加",
   "nameIsFixed": true,
   "overrideProperties": [

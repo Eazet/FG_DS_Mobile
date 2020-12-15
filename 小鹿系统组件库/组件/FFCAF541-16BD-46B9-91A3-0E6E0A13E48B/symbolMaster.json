@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "FFCAF541-16BD-46B9-91A3-0E6E0A13E48B",
   "exportOptions": {
@@ -57,7 +56,6 @@
       "id": "70538A54-6015-4DDC-9EDF-1C43BCB136D9"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "04. Data Display 数据展示/Table表格/单元格/日期",
   "nameIsFixed": false,
   "overrideProperties": [

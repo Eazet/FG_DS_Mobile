@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 0,
   "clippingMaskMode": 0,
   "do_objectID": "C36608B9-AB04-448A-AF5B-AF8530E58D82",
   "exportOptions": {
@@ -73,7 +72,6 @@
       "id": "2514A14F-D8C9-4A41-80AB-F9E3651655B7"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "03. Data Entry 数据录入/Input输入框/搜索框/大-已输入",
   "nameIsFixed": true,
   "overrideProperties": [
