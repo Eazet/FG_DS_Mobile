@@ -1,6 +1,6 @@
 {
   "_class": "shapeGroup",
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
   "do_objectID": "0A0B894E-D2A7-4432-B25C-23721E251E59",
   "exportOptions": {
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 8.344905247302755,
-    "width": 4.493053395452876,
-    "x": 9.02060415424836,
-    "y": 7.096513306209849
+    "height": 9.12167192533168,
+    "width": 4.911279134004022,
+    "x": 9.314197595420687,
+    "y": 7.078485540162271
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"

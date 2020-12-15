@@ -1,8 +1,8 @@
 {
   "_class": "shapeGroup",
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "A769EDDE-0759-411E-8E5D-8E7B837CF21A",
+  "do_objectID": "6A026681-D0FE-4ACF-A5FE-7BF4B4C56B13",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 8.344905247302755,
-    "width": 4.493053395452872,
-    "x": 16.76048086746647,
-    "y": 7.096513306209849
+    "height": 10.6172874628653,
+    "width": 33.05386097773246,
+    "x": -0.5453260330934717,
+    "y": -0.6785906967336832
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -26,18 +26,18 @@
   "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
-  "isFlippedHorizontal": true,
+  "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapePath",
-      "id": "095860A7-025A-44BA-A470-E373BAAD97CB"
+      "id": "3BA0473F-5B96-4828-A88C-B89BDA074597"
     }
   ],
-  "name": "直线 4",
+  "name": "直线 3",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -77,7 +77,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "ECC9523E-53E4-44BD-8BCD-71B46A2BBD5B",
+    "do_objectID": "3791ABF0-F5F0-4DE5-811A-8A11C5C3339D",
     "endMarkerType": 0,
     "fills": [
       {

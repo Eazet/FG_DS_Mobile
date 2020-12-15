@@ -1,9 +1,8 @@
 {
-  "_class": "shapePath",
-  "booleanOperation": -1,
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "2061773A-F7DA-42B0-98D8-93763AB9D064",
-  "edited": true,
+  "do_objectID": "A769EDDE-0759-411E-8E5D-8E7B837CF21A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,64 +15,30 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 7.869104635195456,
-    "width": 7.543198724565269,
-    "x": 0,
-    "y": 0
+    "height": 9.12167192533168,
+    "width": 4.911279134004019,
+    "x": 17.77452327057556,
+    "y": 7.078485540162271
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "isClosed": true,
   "isFixedToViewport": false,
-  "isFlippedHorizontal": false,
+  "isFlippedHorizontal": true,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "路径",
-  "nameIsFixed": false,
-  "pointRadiusBehaviour": 1,
-  "points": [
+  "layerListExpandedType": 1,
+  "layers": [
     {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0.70588826788011572, 0}",
-      "curveMode": 1,
-      "curveTo": "{0.70588826788011572, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0.70588826788011572, 0}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{1, 0.25662667592644545}",
-      "curveMode": 1,
-      "curveTo": "{1, 0.25662667592644545}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 0.25662667592644545}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0.29411173211988423, 1}",
-      "curveMode": 1,
-      "curveTo": "{0.29411173211988423, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0.29411173211988423, 1}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0, 0.7433733240735545}",
-      "curveMode": 1,
-      "curveTo": "{0, 0.7433733240735545}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 0.7433733240735545}"
+      "class": "shapePath",
+      "id": "095860A7-025A-44BA-A470-E373BAAD97CB"
     }
   ],
+  "name": "直线 4",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -112,7 +77,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "6A17F380-E161-4ED2-A448-47BDB0DE90DF",
+    "do_objectID": "ECC9523E-53E4-44BD-8BCD-71B46A2BBD5B",
     "endMarkerType": 0,
     "fills": [
       {
@@ -175,5 +140,6 @@
     ],
     "startMarkerType": 0,
     "windingRule": 0
-  }
+  },
+  "windingRule": 0
 }
