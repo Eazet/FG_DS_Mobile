@@ -59,6 +59,11 @@
   "name": "light-bulb_1f4a1",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "29471455-44FD-4F24-809B-F4BE565D1C02_image"
+    }
   ],
   "presetDictionary": {
   },

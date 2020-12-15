@@ -257,120 +257,19 @@
   "fontReferences": [
     {
       "_class": "fontReference",
-      "do_objectID": "10E934B5-8288-4D93-891E-A91E0DBBB8AB",
+      "do_objectID": "1A7282F8-0D22-47E0-A32A-F9B34D9AE47F",
       "fontFamilyName": "Gotham",
-      "fontFileName": "Gotham-BlackItalic.otf",
+      "fontFileName": "Gotham-Thin.otf",
       "options": 0,
       "postscriptNames": [
-        "Gotham-BlackItalic"
+        "Gotham-Thin"
       ]
     },
     {
       "_class": "fontReference",
-      "do_objectID": "14AA143E-951F-4F73-AADB-D53F523FC460",
-      "fontFamilyName": "Gotham",
-      "fontFileName": "Gotham-Ultra.otf",
-      "options": 0,
-      "postscriptNames": [
-        "Gotham-Ultra"
-      ]
-    },
-    {
-      "_class": "fontReference",
-      "do_objectID": "26E33EF5-2474-41B9-BDBC-1A8D9F50EECE",
-      "fontFamilyName": "Gotham",
-      "fontFileName": "Gotham-XLight.otf",
-      "options": 0,
-      "postscriptNames": [
-        "Gotham-ExtraLight"
-      ]
-    },
-    {
-      "_class": "fontReference",
-      "do_objectID": "30818346-C703-4A76-9D58-C19C06598A54",
-      "fontFamilyName": "Gotham",
-      "fontFileName": "Gotham-Book.otf",
-      "options": 0,
-      "postscriptNames": [
-        "Gotham-Book"
-      ]
-    },
-    {
-      "_class": "fontReference",
-      "do_objectID": "49B95229-C22D-4A4D-8765-5262DEC1473F",
-      "fontFamilyName": "Gotham",
-      "fontFileName": "Gotham-Medium.otf",
-      "options": 2,
-      "postscriptNames": [
-        "Gotham-Medium"
-      ]
-    },
-    {
-      "_class": "fontReference",
-      "do_objectID": "4EADAB73-BDD1-4FE3-94E4-16DCFF2553E4",
-      "fontFamilyName": "FANGGEEK-Numbers",
-      "fontFileName": "FANGGEEK-Numbers.ttf",
-      "options": 2,
-      "postscriptNames": [
-        "FANGGEEK-Numbers-Bold"
-      ]
-    },
-    {
-      "_class": "fontReference",
-      "do_objectID": "5195AF74-FCA7-4E40-BE5D-7FC3AB46B48E",
-      "fontFamilyName": "Gotham",
-      "fontFileName": "Gotham Bold.otf",
-      "options": 0,
-      "postscriptNames": [
-        "Gotham-Bold"
-      ]
-    },
-    {
-      "_class": "fontReference",
-      "do_objectID": "5F219A38-8F71-4BBE-9F43-C5D966664BC2",
-      "fontFamilyName": "Gotham",
-      "fontFileName": "Gotham-Light.otf",
-      "options": 0,
-      "postscriptNames": [
-        "Gotham-Light"
-      ]
-    },
-    {
-      "_class": "fontReference",
-      "do_objectID": "64F9BD68-ECFA-4453-B3ED-4C1AB769884C",
-      "fontFamilyName": "Gotham",
-      "fontFileName": "Gotham-Black.otf",
-      "options": 0,
-      "postscriptNames": [
-        "Gotham-Black"
-      ]
-    },
-    {
-      "_class": "fontReference",
-      "do_objectID": "656D3937-C025-4AAB-BA81-6A53E8EA62F6",
+      "do_objectID": "33E1EB67-8517-4203-BB59-36A509E9E41B",
       "fontFamilyName": "Microsoft YaHei",
-      "fontFileName": "msyh.ttc",
-      "options": 6,
-      "postscriptNames": [
-        "MicrosoftYaHei",
-        "MicrosoftYaHeiUI"
-      ]
-    },
-    {
-      "_class": "fontReference",
-      "do_objectID": "6A0A63A8-334D-4EE1-93CD-411C0EB09035",
-      "fontFamilyName": "Gotham",
-      "fontFileName": "Gotham-XLightIta.otf",
-      "options": 0,
-      "postscriptNames": [
-        "Gotham-ExtraLightItalic"
-      ]
-    },
-    {
-      "_class": "fontReference",
-      "do_objectID": "8E9E8471-A60F-449E-B97E-2FEFD3DC7C0A",
-      "fontFamilyName": "Microsoft YaHei",
-      "fontFileName": "msyhl.ttc",
+      "fontFileName": "MSYHL.TTC",
       "options": 0,
       "postscriptNames": [
         "MicrosoftYaHeiLight",
@@ -379,23 +278,64 @@
     },
     {
       "_class": "fontReference",
-      "do_objectID": "B94CC064-CD71-4BEC-A079-EE804800FDFF",
+      "do_objectID": "40A54ECC-7F40-4D90-BC54-BD888F9DE742",
       "fontFamilyName": "Microsoft YaHei",
-      "fontFileName": "msyhbd.ttc",
+      "fontFileName": "MSYH.TTC",
       "options": 6,
       "postscriptNames": [
-        "MicrosoftYaHei-Bold",
-        "MicrosoftYaHeiUI-Bold"
+        "MicrosoftYaHei",
+        "MicrosoftYaHeiUI"
       ]
     },
     {
       "_class": "fontReference",
-      "do_objectID": "DABFCA1A-92A7-43D4-AE92-CF99545D8888",
+      "do_objectID": "61DB1B4E-0582-49CF-B74B-99FB459EA884",
       "fontFamilyName": "Gotham",
-      "fontFileName": "Gotham-Thin.otf",
+      "fontFileName": "Gotham-ThinItalic.otf",
       "options": 0,
       "postscriptNames": [
-        "Gotham-Thin"
+        "Gotham-ThinItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "77F3D97C-2728-46F6-8AD2-04A33B1997A7",
+      "fontFamilyName": "Gotham",
+      "fontFileName": "Gotham-Bold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Gotham-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "85300DC3-FC73-4EC6-8EA3-935B72F9385B",
+      "fontFamilyName": "FANGGEEK-Numbers",
+      "fontFileName": "FANGGEEK-Numbers (10).ttf",
+      "options": 2,
+      "postscriptNames": [
+        "FANGGEEK-Numbers-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "A7099853-53A0-4644-A4D8-C095F5E36D11",
+      "fontFamilyName": "Gotham",
+      "fontFileName": "Gotham-BoldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Gotham-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "ED74BA24-DD8E-4885-8918-CDDC89DB0BFB",
+      "fontFamilyName": "Microsoft YaHei",
+      "fontFileName": "MSYHBD.TTC",
+      "options": 6,
+      "postscriptNames": [
+        "MicrosoftYaHei-Bold",
+        "MicrosoftYaHeiUI-Bold"
       ]
     }
   ],
@@ -57711,7 +57651,7 @@
       {
         "_class": "swatch",
         "do_objectID": "372D9AAC-5D1E-4BE5-9D58-458EFD72B547",
-        "name": "1。Blue-50",
+        "name": "1. Blue-50",
         "value": {
           "_class": "color",
           "alpha": 1,
@@ -57723,7 +57663,7 @@
       {
         "_class": "swatch",
         "do_objectID": "706100D4-3AAC-4BC7-B641-4DCA9049B207",
-        "name": "2。Blue-60",
+        "name": "2. Blue-60",
         "value": {
           "_class": "color",
           "alpha": 1,
@@ -57735,7 +57675,7 @@
       {
         "_class": "swatch",
         "do_objectID": "E5ADDD7B-682E-42CA-8885-70361BFD1133",
-        "name": "3。100",
+        "name": "3. 100",
         "value": {
           "_class": "color",
           "alpha": 1,
@@ -57747,7 +57687,7 @@
       {
         "_class": "swatch",
         "do_objectID": "32C2B2B4-D750-4D89-8C93-B8228DA32B1C",
-        "name": "4。90",
+        "name": "4. 90",
         "value": {
           "_class": "color",
           "alpha": 1,
@@ -57759,7 +57699,7 @@
       {
         "_class": "swatch",
         "do_objectID": "B9A80DB8-D954-42BE-9F84-C32446F8FCA4",
-        "name": "5。80",
+        "name": "5. 80",
         "value": {
           "_class": "color",
           "alpha": 1,
@@ -57771,7 +57711,7 @@
       {
         "_class": "swatch",
         "do_objectID": "AF33A825-EFD5-4BFB-BA8D-BED6192D015D",
-        "name": "6。60",
+        "name": "6. 60",
         "value": {
           "_class": "color",
           "alpha": 1,
@@ -57783,7 +57723,7 @@
       {
         "_class": "swatch",
         "do_objectID": "8CBEDFBF-EDD4-4727-BA2D-470419E1F26D",
-        "name": "7。40",
+        "name": "7. 40",
         "value": {
           "_class": "color",
           "alpha": 1,
@@ -57795,7 +57735,7 @@
       {
         "_class": "swatch",
         "do_objectID": "97D5081F-B100-4F4D-A021-2629F67235ED",
-        "name": "8。30",
+        "name": "8. 30",
         "value": {
           "_class": "color",
           "alpha": 1,
@@ -57807,7 +57747,7 @@
       {
         "_class": "swatch",
         "do_objectID": "A8833F89-CDAC-4AB6-A10F-51655074B92C",
-        "name": "9。20",
+        "name": "9. 20",
         "value": {
           "_class": "color",
           "alpha": 1,
@@ -57819,7 +57759,7 @@
       {
         "_class": "swatch",
         "do_objectID": "6ADBFE3D-8227-4913-99D9-954B957B3A65",
-        "name": "10。10",
+        "name": "10. 10",
         "value": {
           "_class": "color",
           "alpha": 1,
@@ -57831,7 +57771,7 @@
       {
         "_class": "swatch",
         "do_objectID": "E1F2FE08-2201-4010-BE4A-C27980F66C20",
-        "name": "11。Alert-yellow",
+        "name": "11. Alert-yellow",
         "value": {
           "_class": "color",
           "alpha": 1,
@@ -57843,7 +57783,7 @@
       {
         "_class": "swatch",
         "do_objectID": "EACC1247-5EB3-459B-9240-1F312B2EFC7A",
-        "name": "12。Alert-red",
+        "name": "12. Alert-red",
         "value": {
           "_class": "color",
           "alpha": 1,

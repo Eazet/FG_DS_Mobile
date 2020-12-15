@@ -18,7 +18,7 @@
     "height": 40,
     "width": 176,
     "x": 0,
-    "y": 434
+    "y": 474
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -44,7 +44,7 @@
     {
       "_class": "overrideValue",
       "overrideName": "9638ED05-0D28-4974-9C8B-2D83272F677F_stringValue",
-      "value": "成交"
+      "value": "交易"
     }
   ],
   "resizingConstraint": 63,

@@ -18,7 +18,7 @@
     "height": 40,
     "width": 176,
     "x": 0,
-    "y": 611
+    "y": 691
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -34,17 +34,17 @@
     {
       "_class": "overrideValue",
       "overrideName": "F9788FF4-0B05-4C80-9B95-DF3C6BDEFD4B_symbolID",
-      "value": "5BE57094-5991-44FD-942C-3D93CDB351C0"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "F9788FF4-0B05-4C80-9B95-DF3C6BDEFD4B/49CDD9F5-4B47-460D-866B-232E1FDC5AF6_layerStyle",
-      "value": "46F5897C-64B2-44B9-951B-0E4EA8441DC9"
+      "value": "7467EB9B-DEFD-4459-A789-CB7CB30A9686"
     },
     {
       "_class": "overrideValue",
       "overrideName": "9638ED05-0D28-4974-9C8B-2D83272F677F_stringValue",
-      "value": "企业管理"
+      "value": "企业数据"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F9788FF4-0B05-4C80-9B95-DF3C6BDEFD4B/09093577-28CC-4542-AA36-29DD9177F9D1_layerStyle",
+      "value": "46F5897C-64B2-44B9-951B-0E4EA8441DC9"
     }
   ],
   "resizingConstraint": 63,
