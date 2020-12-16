@@ -25,14 +25,14 @@
     "constrainProportions": false,
     "height": 72,
     "width": 686,
-    "x": 3951,
+    "x": 4425,
     "y": -490
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,16 +59,6 @@
   "name": "03. Data Entry 数据录入/搜索栏/输入中-多标签",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "63FF80FE-EC23-4574-A706-A5FE7245952D_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "15A7F66E-8AE0-4CD6-B19D-6E4FD1468B04_symbolID"
-    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
@@ -113,11 +103,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "EB3C79B0-03A7-419C-AE9E-57B1B94A3F31_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "0353922F-FB23-43D0-8611-030929BAE757_symbolID"
     }
   ],
   "presetDictionary": {
