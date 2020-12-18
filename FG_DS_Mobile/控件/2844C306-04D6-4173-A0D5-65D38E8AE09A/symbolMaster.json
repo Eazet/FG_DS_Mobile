@@ -10,7 +10,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CE66C4C9-CD35-49FF-8E3A-B6393DFC254E",
+  "do_objectID": "2844C306-04D6-4173-A0D5-65D38E8AE09A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,20 +23,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 32,
-    "x": 2922,
-    "y": -893
+    "height": 40,
+    "width": 112,
+    "x": 9893,
+    "y": -192
   },
   "groupLayout": {
-    "_class": "MSImmutableInferredGroupLayout",
-    "axis": 0,
-    "layoutAnchor": 0,
-    "maxSize": 0,
-    "minSize": 32
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -56,17 +52,17 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "B2A9FD76-FEFD-4A72-BC28-9838FCBB866C"
+      "class": "group",
+      "id": "775F0BA9-A618-48BF-9EC0-7DEA12627C0F"
     }
   ],
-  "name": "01. General 通用/Icon图标/32/057. 隐藏2",
+  "name": "04. Data Display 数据展示/Tag 标签/40/tabABC/-",
   "nameIsFixed": true,
   "overrideProperties": [
   ],
   "presetDictionary": {
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -105,7 +101,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "4DD1BDD1-D82D-4617-AA83-E155E4E95416",
+    "do_objectID": "0A3D56EE-599C-45A4-A0C0-DCDFD128333D",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -117,7 +113,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "511F8F10-A42B-4371-A114-59FC1866DFD1",
+  "symbolID": "7DEBFFCF-6A59-482F-861C-826EAE98469A",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
