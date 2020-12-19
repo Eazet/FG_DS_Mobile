@@ -10,7 +10,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C3A3E171-7D4E-4A1F-9D67-EDFBF530C6D2",
+  "do_objectID": "8A8933F8-1AC8-4AD0-9FB9-8EB48BAB8305",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,20 +23,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48,
-    "width": 180,
-    "x": 7017,
-    "y": 11.00000000000001
+    "height": 80,
+    "width": 327,
+    "x": 4918,
+    "y": 268
   },
   "groupLayout": {
-    "_class": "MSImmutableInferredGroupLayout",
-    "axis": 0,
-    "layoutAnchor": 0,
-    "maxSize": 0,
-    "minSize": 0
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -45,7 +41,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
+  "includeBackgroundColorInInstance": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -53,20 +49,30 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
-      "id": "2C73860A-B771-4FC1-A213-69E18F67AFA6"
+      "id": "059C52A7-9310-4C72-8DD0-59FFDEBE2193"
     }
   ],
-  "name": "03. Data Entry 数据录入/搜索栏/元素/标签",
-  "nameIsFixed": false,
+  "name": "03. Data Entry 数据录入/切换按钮/未选中",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "A177B7A5-79BC-4926-8096-53680F3DBB3C_symbolID"
+      "overrideName": "47B159C0-DBEE-4875-A24F-975FBEA49826_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0E0A1D74-750A-48A2-9095-6F54C2AE8BAE_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "47B159C0-DBEE-4875-A24F-975FBEA49826_stringValue"
     }
   ],
   "presetDictionary": {
@@ -110,7 +116,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "178CB398-ACFF-4FFF-80C5-E6353898DA99",
+    "do_objectID": "777C0F0F-78D3-4053-B4C9-BABD51D369CD",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -122,7 +128,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "CA38FE29-EFE8-4C33-913C-ABF3340FA310",
+  "symbolID": "1D6DDE41-662C-4A33-B9E5-7F3ECE9DA826",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

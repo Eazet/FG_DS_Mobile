@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 18,
     "width": 54,
-    "x": 6825,
-    "y": 11
+    "x": 7652,
+    "y": 2
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -56,8 +56,8 @@
       "id": "A045F363-32A6-45FA-9F65-B553AD0D845D"
     }
   ],
-  "name": "04. Data Display 数据展示/Tag 标签/新功能提示",
-  "nameIsFixed": false,
+  "name": "04. Data Display 数据展示/功能引导/文字",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",

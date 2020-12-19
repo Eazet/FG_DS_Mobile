@@ -10,7 +10,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C3A3E171-7D4E-4A1F-9D67-EDFBF530C6D2",
+  "do_objectID": "6419FCF5-DC9E-483B-A772-74F02C150FAD",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,17 +23,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48,
-    "width": 180,
-    "x": 7017,
-    "y": 11.00000000000001
+    "height": 80,
+    "width": 327,
+    "x": 4567,
+    "y": 268
   },
   "groupLayout": {
-    "_class": "MSImmutableInferredGroupLayout",
-    "axis": 0,
-    "layoutAnchor": 0,
-    "maxSize": 0,
-    "minSize": 0
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -45,7 +41,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
+  "includeBackgroundColorInInstance": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -57,16 +53,31 @@
   "layers": [
     {
       "class": "group",
-      "id": "2C73860A-B771-4FC1-A213-69E18F67AFA6"
+      "id": "8908E010-F3AD-424F-A704-5EB808ADD58E"
     }
   ],
-  "name": "03. Data Entry 数据录入/搜索栏/元素/标签",
+  "name": "03. Data Entry 数据录入/切换按钮/选中",
   "nameIsFixed": false,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "A177B7A5-79BC-4926-8096-53680F3DBB3C_symbolID"
+      "overrideName": "EA2F4E2A-AADC-45E4-9DC7-096202E14F5D_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "28C5B59B-65F1-4BF3-8C1E-727563E16305_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "EA2F4E2A-AADC-45E4-9DC7-096202E14F5D_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "399B7181-8477-4715-ACA6-C101418CCA32_layerStyle"
     }
   ],
   "presetDictionary": {
@@ -110,7 +121,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "178CB398-ACFF-4FFF-80C5-E6353898DA99",
+    "do_objectID": "0AFB1F12-9B4B-49B1-BF84-9585C5721049",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -122,7 +133,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "CA38FE29-EFE8-4C33-913C-ABF3340FA310",
+  "symbolID": "9CA0DE55-DE1A-4CFF-AD8B-4079720DEA51",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

@@ -1,16 +1,8 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C3A3E171-7D4E-4A1F-9D67-EDFBF530C6D2",
+  "do_objectID": "059C52A7-9310-4C72-8DD0-59FFDEBE2193",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,59 +15,38 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48,
-    "width": 180,
-    "x": 7017,
-    "y": 11.00000000000001
+    "height": 80,
+    "width": 327,
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
-    "_class": "MSImmutableInferredGroupLayout",
-    "axis": 0,
-    "layoutAnchor": 0,
-    "maxSize": 0,
-    "minSize": 0
+    "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
   "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "2C73860A-B771-4FC1-A213-69E18F67AFA6"
-    }
-  ],
-  "name": "03. Data Entry 数据录入/搜索栏/元素/标签",
-  "nameIsFixed": false,
-  "overrideProperties": [
+      "class": "rectangle",
+      "id": "0E108D86-3AEC-4306-B1E0-55BF51B4EF7A"
+    },
     {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "A177B7A5-79BC-4926-8096-53680F3DBB3C_symbolID"
+      "class": "text",
+      "id": "47B159C0-DBEE-4875-A24F-975FBEA49826"
     }
   ],
-  "presetDictionary": {
-  },
-  "resizesContent": false,
+  "name": "编组 5备份 12",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -110,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "178CB398-ACFF-4FFF-80C5-E6353898DA99",
+    "do_objectID": "66040284-3D79-4EA9-A595-166D1F6B7906",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -121,12 +92,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "CA38FE29-EFE8-4C33-913C-ABF3340FA310",
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }
