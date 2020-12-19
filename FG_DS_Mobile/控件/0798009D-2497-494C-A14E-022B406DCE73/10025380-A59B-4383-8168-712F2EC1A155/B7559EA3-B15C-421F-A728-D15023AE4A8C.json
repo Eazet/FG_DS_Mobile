@@ -80,7 +80,7 @@
   "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "F36475AE-D07C-4C88-AF97-EA7D0F5E4057",
+  "sharedStyleID": "1EE7C183-63A5-4C41-A7C8-B9FD637EC4C5",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -174,9 +174,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9725490196078431,
-          "green": 0.9568627450980391,
-          "red": 0.9490196078431372
+          "blue": 0.9764705882352941,
+          "green": 0.9647058823529412,
+          "red": 0.9568627450980391
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
