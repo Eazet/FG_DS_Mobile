@@ -59,6 +59,16 @@
     },
     {
       "_class": "fontReference",
+      "do_objectID": "0E2ED393-9B80-4D0D-AB01-ED9254DD4D65",
+      "fontFamilyName": "FZLanTingHeiS-EB-GB",
+      "fontFileName": "FZLTDHJW.TTF",
+      "options": 0,
+      "postscriptNames": [
+        "FZLTDHJW--GB1-0"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "1039072A-6575-4078-8ECD-E2E0E1F3AA03",
       "fontFamilyName": "DIN",
       "fontFileName": "DIN-BoldAlternate.otf",

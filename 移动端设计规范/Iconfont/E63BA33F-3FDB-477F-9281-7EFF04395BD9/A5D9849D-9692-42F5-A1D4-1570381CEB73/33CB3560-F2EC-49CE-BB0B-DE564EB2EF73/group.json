@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "75817564-4D84-4FF0-B86E-F3782A199387",
+  "do_objectID": "33CB3560-F2EC-49CE-BB0B-DE564EB2EF73",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,28 +14,38 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 24,
-    "width": 24,
-    "x": 1574,
-    "y": 3679
+    "constrainProportions": false,
+    "height": 32,
+    "width": 32,
+    "x": 64,
+    "y": 64
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "04. Data Display 数据展示/Checkbox 多选框/已选择备份 127",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "4C419DC0-2DE1-413D-8BEE-D6FFA05A7C91"
+    },
+    {
+      "class": "slice",
+      "id": "C16B49B5-5BB3-4878-971B-2CCE808D0209"
+    }
   ],
+  "name": "编组 3备份 12",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 0.6,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -44,7 +54,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 6,
+      "radius": 10,
       "saturation": 1,
       "type": 0
     },
@@ -71,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "A9660D7E-9D1C-494E-9659-07B2791342E4",
+    "do_objectID": "E7ECD7D1-DC9B-4C7F-99B0-E3FC47295670",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -82,7 +92,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "783A35B3-BB49-4461-815A-402E789C4559",
-  "verticalSpacing": 0
+  }
 }
