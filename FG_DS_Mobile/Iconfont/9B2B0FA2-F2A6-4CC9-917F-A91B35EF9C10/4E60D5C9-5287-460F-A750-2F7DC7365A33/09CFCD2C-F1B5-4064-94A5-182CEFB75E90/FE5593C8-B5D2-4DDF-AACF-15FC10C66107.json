@@ -1,0 +1,104 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+<<<<<<< HEAD
+<<<<<<< HEAD:FG_DS_Mobile/Iconfont/9B2B0FA2-F2A6-4CC9-917F-A91B35EF9C10/4E60D5C9-5287-460F-A750-2F7DC7365A33/09CFCD2C-F1B5-4064-94A5-182CEFB75E90/FE5593C8-B5D2-4DDF-AACF-15FC10C66107.json
+  "do_objectID": "FE5593C8-B5D2-4DDF-AACF-15FC10C66107",
+=======
+  "do_objectID": "90623DDB-6B7C-48E1-BCA1-59DF429382B5",
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/56A67319-AE9F-4EF1-B8C5-0E9B1BFA85C2/B5E3DD7B-0D2C-4051-A9E2-C0F42E44A137/90623DDB-6B7C-48E1-BCA1-59DF429382B5.json
+=======
+  "do_objectID": "FE5593C8-B5D2-4DDF-AACF-15FC10C66107",
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 48,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "01. General 通用/Icon图标/32/001.加号",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+<<<<<<< HEAD
+<<<<<<< HEAD:FG_DS_Mobile/Iconfont/9B2B0FA2-F2A6-4CC9-917F-A91B35EF9C10/4E60D5C9-5287-460F-A750-2F7DC7365A33/09CFCD2C-F1B5-4064-94A5-182CEFB75E90/FE5593C8-B5D2-4DDF-AACF-15FC10C66107.json
+    "do_objectID": "3506FE65-E324-430F-B776-ED429B379BB1",
+=======
+    "do_objectID": "8070F4F3-AA85-4FB6-834A-293A5B8B2D47",
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/56A67319-AE9F-4EF1-B8C5-0E9B1BFA85C2/B5E3DD7B-0D2C-4051-A9E2-C0F42E44A137/90623DDB-6B7C-48E1-BCA1-59DF429382B5.json
+=======
+    "do_objectID": "3506FE65-E324-430F-B776-ED429B379BB1",
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E179F471-1203-42F3-AEA0-57914813FC9F",
+  "verticalSpacing": 0
+}

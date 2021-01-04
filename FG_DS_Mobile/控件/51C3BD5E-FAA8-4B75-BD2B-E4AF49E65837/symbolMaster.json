@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 64,
     "width": 64,
-    "x": 216,
-    "y": -736
+    "x": -514.9999999999998,
+    "y": -711
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -67,11 +67,6 @@
   "name": "01. General 通用/Icon图标/64/001.地铁",
   "nameIsFixed": false,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "A2F99373-871E-4A32-AC5A-F60C64F2A655_layerStyle"
-    }
   ],
   "presetDictionary": {
   },

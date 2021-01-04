@@ -3,6 +3,7 @@
   "booleanOperation": -1,
   "clippingMaskMode": 0,
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD:FG_DS_Mobile/控件/B3546348-FB9F-437E-8EAF-5D27EE045309/E9A48966-4387-4D96-A75E-AFEA2FB5B27A/group.json
   "do_objectID": "E9A48966-4387-4D96-A75E-AFEA2FB5B27A",
 =======
@@ -11,6 +12,9 @@
 =======
   "do_objectID": "E9A48966-4387-4D96-A75E-AFEA2FB5B27A",
 >>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050
+=======
+  "do_objectID": "E9A48966-4387-4D96-A75E-AFEA2FB5B27A",
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -43,9 +47,12 @@
     {
       "class": "rectangle",
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD:FG_DS_Mobile/控件/B3546348-FB9F-437E-8EAF-5D27EE045309/E9A48966-4387-4D96-A75E-AFEA2FB5B27A/group.json
 =======
 >>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050
+=======
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
       "id": "5C7D33C0-B8BA-415A-8F9D-F808D4508744"
     },
     {
@@ -63,6 +70,7 @@
     {
       "class": "text",
       "id": "BCA9C507-B7A5-4D89-8FA1-E23B1E287CC1"
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
       "id": "771C3381-DEE6-4E6E-AE7B-49490B2ABD15"
@@ -85,6 +93,8 @@
 >>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050:FG_DS_Mobile/控件/597C43CC-6901-4914-94ED-1F0FE2016E06/0EEB8A30-44DC-45D4-B631-5FCE732AB63A/group.json
 =======
 >>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050
+=======
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
     }
   ],
   "name": "列表/单行列表/箭头备份",
@@ -128,6 +138,7 @@
       "opacity": 1
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD:FG_DS_Mobile/控件/B3546348-FB9F-437E-8EAF-5D27EE045309/E9A48966-4387-4D96-A75E-AFEA2FB5B27A/group.json
     "do_objectID": "B022E68C-0003-4D43-90CA-E265525E332E",
 =======
@@ -136,6 +147,9 @@
 =======
     "do_objectID": "B022E68C-0003-4D43-90CA-E265525E332E",
 >>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050
+=======
+    "do_objectID": "B022E68C-0003-4D43-90CA-E265525E332E",
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
     "endMarkerType": 0,
     "fills": [
     ],

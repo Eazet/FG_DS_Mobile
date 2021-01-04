@@ -34,16 +34,28 @@
         "location": 0
       }
     ],
+<<<<<<< HEAD
     "string": "左侧文字"
+=======
+    "string": "看房日记"
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
+<<<<<<< HEAD
 <<<<<<< HEAD:FG_DS_Mobile/控件/F8F35CF6-770E-452F-AD21-2DD109BA5949/990FD915-2BF0-4FA0-9119-4C6F28E0129F/B0B3847F-6447-49D8-8E2E-1FCE7FA11D6C.json
   "do_objectID": "B0B3847F-6447-49D8-8E2E-1FCE7FA11D6C",
 =======
   "do_objectID": "BC52D639-06DD-4323-80D8-616CA69F74AA",
 >>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050:FG_DS_Mobile/控件/56A67319-AE9F-4EF1-B8C5-0E9B1BFA85C2/B5E3DD7B-0D2C-4051-A9E2-C0F42E44A137/BC52D639-06DD-4323-80D8-616CA69F74AA.json
+=======
+<<<<<<< HEAD:FG_DS_Mobile/StyleGuide/6E893648-CED9-47D8-A740-15F00CB4790E/5885506E-E341-46DA-AC0E-4D7D5A6B7F3F.json
+  "do_objectID": "5885506E-E341-46DA-AC0E-4D7D5A6B7F3F",
+=======
+  "do_objectID": "BC52D639-06DD-4323-80D8-616CA69F74AA",
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/56A67319-AE9F-4EF1-B8C5-0E9B1BFA85C2/B5E3DD7B-0D2C-4051-A9E2-C0F42E44A137/BC52D639-06DD-4323-80D8-616CA69F74AA.json
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -59,10 +71,17 @@
     "constrainProportions": false,
     "height": 30,
     "width": 120,
+<<<<<<< HEAD
     "x": 32,
     "y": 117
   },
   "glyphBounds": "{{1, 1}, {118, 29}}",
+=======
+    "x": 122,
+    "y": 2027
+  },
+  "glyphBounds": "{{1, 1}, {119, 29}}",
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -71,12 +90,20 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
+<<<<<<< HEAD
   "name": "左侧文字",
+=======
+  "name": "看房日记备份 30",
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+<<<<<<< HEAD
   "sharedStyleID": "1705EE2D-69CD-40DF-BFF3-71D04DF4109D",
+=======
+  "sharedStyleID": "91FA3A96-F550-494B-884B-D4DC95DF3AE3",
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -112,11 +139,19 @@
       "blendMode": 0,
       "opacity": 1
     },
+<<<<<<< HEAD
 <<<<<<< HEAD:FG_DS_Mobile/控件/F8F35CF6-770E-452F-AD21-2DD109BA5949/990FD915-2BF0-4FA0-9119-4C6F28E0129F/B0B3847F-6447-49D8-8E2E-1FCE7FA11D6C.json
     "do_objectID": "171F15C0-72B0-4914-B3E2-5DB82B44AAB1",
 =======
     "do_objectID": "E05F4747-10B7-4F14-A30A-0641A3C26625",
 >>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050:FG_DS_Mobile/控件/56A67319-AE9F-4EF1-B8C5-0E9B1BFA85C2/B5E3DD7B-0D2C-4051-A9E2-C0F42E44A137/BC52D639-06DD-4323-80D8-616CA69F74AA.json
+=======
+<<<<<<< HEAD:FG_DS_Mobile/StyleGuide/6E893648-CED9-47D8-A740-15F00CB4790E/5885506E-E341-46DA-AC0E-4D7D5A6B7F3F.json
+    "do_objectID": "90FC331C-1505-4192-A208-A92C5C905B72",
+=======
+    "do_objectID": "E05F4747-10B7-4F14-A30A-0641A3C26625",
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/56A67319-AE9F-4EF1-B8C5-0E9B1BFA85C2/B5E3DD7B-0D2C-4051-A9E2-C0F42E44A137/BC52D639-06DD-4323-80D8-616CA69F74AA.json
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
     "endMarkerType": 0,
     "fills": [
     ],
@@ -157,5 +192,12 @@
     },
     "windingRule": 1
   },
+<<<<<<< HEAD
   "textBehaviour": 0
+=======
+  "textBehaviour": 0,
+  "userInfo": {
+    "datasupplier.key": "~/design/WEB/企业号后台/框架组件/Sketch资源/智能系统/看房日记.txt"
+  }
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
 }

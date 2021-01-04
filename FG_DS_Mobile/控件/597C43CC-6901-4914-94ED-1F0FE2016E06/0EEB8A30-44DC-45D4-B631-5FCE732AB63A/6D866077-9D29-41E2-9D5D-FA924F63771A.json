@@ -34,16 +34,28 @@
         "location": 0
       }
     ],
+<<<<<<< HEAD
     "string": "补充说明"
+=======
+    "string": "看房日记"
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
+<<<<<<< HEAD
 <<<<<<< HEAD:FG_DS_Mobile/控件/B3546348-FB9F-437E-8EAF-5D27EE045309/E9A48966-4387-4D96-A75E-AFEA2FB5B27A/D972282C-7F73-42DD-B751-293357AC90AF.json
   "do_objectID": "D972282C-7F73-42DD-B751-293357AC90AF",
 =======
   "do_objectID": "6D866077-9D29-41E2-9D5D-FA924F63771A",
 >>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050:FG_DS_Mobile/控件/597C43CC-6901-4914-94ED-1F0FE2016E06/0EEB8A30-44DC-45D4-B631-5FCE732AB63A/6D866077-9D29-41E2-9D5D-FA924F63771A.json
+=======
+<<<<<<< HEAD:FG_DS_Mobile/StyleGuide/6E893648-CED9-47D8-A740-15F00CB4790E/993AC5AB-50F2-43D4-81D9-5F79E7D0A5D8.json
+  "do_objectID": "993AC5AB-50F2-43D4-81D9-5F79E7D0A5D8",
+=======
+  "do_objectID": "6D866077-9D29-41E2-9D5D-FA924F63771A",
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/597C43CC-6901-4914-94ED-1F0FE2016E06/0EEB8A30-44DC-45D4-B631-5FCE732AB63A/6D866077-9D29-41E2-9D5D-FA924F63771A.json
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -59,10 +71,17 @@
     "constrainProportions": false,
     "height": 28,
     "width": 112,
+<<<<<<< HEAD
     "x": 574,
     "y": 30
   },
   "glyphBounds": "{{1, 0}, {109, 27}}",
+=======
+    "x": 817,
+    "y": 1382
+  },
+  "glyphBounds": "{{1, 0}, {111, 27}}",
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -70,6 +89,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+<<<<<<< HEAD
   "lineSpacingBehaviour": 2,
   "name": "补充说明",
   "nameIsFixed": false,
@@ -77,6 +97,19 @@
   "resizingType": 0,
   "rotation": 0,
   "sharedStyleID": "D2E7D68D-C1CB-4E62-A430-98344044590B",
+=======
+  "lineSpacingBehaviour": 3,
+  "name": "看房日记备份 33",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+<<<<<<< HEAD:FG_DS_Mobile/StyleGuide/6E893648-CED9-47D8-A740-15F00CB4790E/993AC5AB-50F2-43D4-81D9-5F79E7D0A5D8.json
+  "sharedStyleID": "DCEB8BF0-88AE-483B-92F3-559C2711F4B9",
+=======
+  "sharedStyleID": "D2E7D68D-C1CB-4E62-A430-98344044590B",
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/597C43CC-6901-4914-94ED-1F0FE2016E06/0EEB8A30-44DC-45D4-B631-5FCE732AB63A/6D866077-9D29-41E2-9D5D-FA924F63771A.json
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -112,11 +145,19 @@
       "blendMode": 0,
       "opacity": 1
     },
+<<<<<<< HEAD
 <<<<<<< HEAD:FG_DS_Mobile/控件/B3546348-FB9F-437E-8EAF-5D27EE045309/E9A48966-4387-4D96-A75E-AFEA2FB5B27A/D972282C-7F73-42DD-B751-293357AC90AF.json
     "do_objectID": "95312A97-64E7-4D24-8C3D-E75432E69368",
 =======
     "do_objectID": "F455EF62-03F6-4B25-B3DE-75E0E5390324",
 >>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050:FG_DS_Mobile/控件/597C43CC-6901-4914-94ED-1F0FE2016E06/0EEB8A30-44DC-45D4-B631-5FCE732AB63A/6D866077-9D29-41E2-9D5D-FA924F63771A.json
+=======
+<<<<<<< HEAD:FG_DS_Mobile/StyleGuide/6E893648-CED9-47D8-A740-15F00CB4790E/993AC5AB-50F2-43D4-81D9-5F79E7D0A5D8.json
+    "do_objectID": "F61F6344-5A1A-428E-AAD1-FB785B105077",
+=======
+    "do_objectID": "F455EF62-03F6-4B25-B3DE-75E0E5390324",
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/597C43CC-6901-4914-94ED-1F0FE2016E06/0EEB8A30-44DC-45D4-B631-5FCE732AB63A/6D866077-9D29-41E2-9D5D-FA924F63771A.json
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
     "endMarkerType": 0,
     "fills": [
     ],
@@ -159,10 +200,14 @@
   },
   "textBehaviour": 0,
   "userInfo": {
+<<<<<<< HEAD
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
         "isAutoWidth": 1
       }
     }
+=======
+    "datasupplier.key": "~/design/WEB/企业号后台/框架组件/Sketch资源/智能系统/看房日记.txt"
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   }
 }

@@ -18,7 +18,11 @@
     "height": 200,
     "width": 160,
     "x": 1616,
+<<<<<<< HEAD
     "y": 3880
+=======
+    "y": 4190
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"

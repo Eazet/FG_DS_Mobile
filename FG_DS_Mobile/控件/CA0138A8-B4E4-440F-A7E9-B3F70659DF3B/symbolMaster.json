@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 32,
     "width": 32,
-    "x": 2961,
-    "y": -893
+    "x": 1963,
+    "y": -873
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
@@ -36,7 +36,7 @@
     "minSize": 32
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,12 +57,17 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "E7D31BBB-C86B-4926-8E1D-CC9317CA528A"
+      "id": "3736AE92-4216-432B-B407-ECE51FDE95C0"
     }
   ],
   "name": "01. General 通用/Icon图标/32/058. 钥匙在手",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3736AE92-4216-432B-B407-ECE51FDE95C0_layerStyle"
+    }
   ],
   "presetDictionary": {
   },

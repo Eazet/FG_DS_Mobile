@@ -1,0 +1,286 @@
+{
+  "_class": "rectangle",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+<<<<<<< HEAD
+<<<<<<< HEAD:FG_DS_Mobile/控件/1028AC46-8DAC-4D61-A1F1-D374FDC8C660/F13A2754-B664-44C4-A6D6-3605B9F901AD.json
+  "do_objectID": "F13A2754-B664-44C4-A6D6-3605B9F901AD",
+=======
+  "do_objectID": "DBFEE4DA-CB7A-44B6-9854-059F4ADFAF7B",
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/037FD14A-EB86-4F95-B4EA-F816136F2965/DBFEE4DA-CB7A-44B6-9854-059F4ADFAF7B.json
+=======
+  "do_objectID": "F13A2754-B664-44C4-A6D6-3605B9F901AD",
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
+  "edited": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fixedRadius": 0,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+<<<<<<< HEAD
+<<<<<<< HEAD:FG_DS_Mobile/控件/1028AC46-8DAC-4D61-A1F1-D374FDC8C660/F13A2754-B664-44C4-A6D6-3605B9F901AD.json
+    "width": 92,
+=======
+    "width": 43,
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/037FD14A-EB86-4F95-B4EA-F816136F2965/DBFEE4DA-CB7A-44B6-9854-059F4ADFAF7B.json
+=======
+    "width": 92,
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "hasConvertedToNewRoundCorners": true,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Rectangle",
+  "nameIsFixed": false,
+  "needsConvertionToNewRoundCorners": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 2,
+      "curveFrom": "{0, 0}",
+      "curveMode": 1,
+      "curveTo": "{0, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 2,
+      "curveFrom": "{1, 0}",
+      "curveMode": 1,
+      "curveTo": "{1, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 2,
+      "curveFrom": "{1, 1}",
+      "curveMode": 1,
+      "curveTo": "{1, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 2,
+      "curveFrom": "{0, 1}",
+      "curveMode": 1,
+      "curveTo": "{0, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 1}"
+    }
+  ],
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "10C103E0-F2AE-463D-B1E7-157E50B3B70C",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.585858585858581,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+<<<<<<< HEAD
+<<<<<<< HEAD:FG_DS_Mobile/控件/1028AC46-8DAC-4D61-A1F1-D374FDC8C660/F13A2754-B664-44C4-A6D6-3605B9F901AD.json
+=======
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
+          "alpha": 0.4997626884833916,
+          "blue": 0,
+          "green": 0.2822222222222221,
+          "red": 0.996078431372549
+<<<<<<< HEAD
+=======
+          "alpha": 0.7987632484702797,
+          "blue": 0.3803921568627451,
+          "green": 0.3803921568627451,
+          "red": 0.9607843137254902
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/037FD14A-EB86-4F95-B4EA-F816136F2965/DBFEE4DA-CB7A-44B6-9854-059F4ADFAF7B.json
+=======
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
+        "isEnabled": true,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+<<<<<<< HEAD
+<<<<<<< HEAD:FG_DS_Mobile/控件/1028AC46-8DAC-4D61-A1F1-D374FDC8C660/F13A2754-B664-44C4-A6D6-3605B9F901AD.json
+    "do_objectID": "662169FD-2E78-4FEC-8008-608B4C25F5C8",
+=======
+    "do_objectID": "9A9B3D73-6B64-442E-BC7D-6FEEEF35C92C",
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/037FD14A-EB86-4F95-B4EA-F816136F2965/DBFEE4DA-CB7A-44B6-9854-059F4ADFAF7B.json
+=======
+    "do_objectID": "662169FD-2E78-4FEC-8008-608B4C25F5C8",
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+<<<<<<< HEAD
+<<<<<<< HEAD:FG_DS_Mobile/控件/1028AC46-8DAC-4D61-A1F1-D374FDC8C660/F13A2754-B664-44C4-A6D6-3605B9F901AD.json
+          "blue": 0.9176470588235294,
+          "green": 0.9568627450980393,
+=======
+          "blue": 0.9450980392156862,
+          "green": 0.9411764705882353,
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/037FD14A-EB86-4F95-B4EA-F816136F2965/DBFEE4DA-CB7A-44B6-9854-059F4ADFAF7B.json
+=======
+          "blue": 0.9176470588235294,
+          "green": 0.9568627450980393,
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
+          "red": 1
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

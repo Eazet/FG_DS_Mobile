@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 48,
     "width": 48,
-    "x": 2194,
-    "y": -825
+    "x": 1593,
+    "y": -805
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -62,7 +62,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "EA7158BA-BD9F-4F87-9ED8-70BF3908464D_layerStyle"
+      "overrideName": "906CCC99-A137-4A57-AC1E-319D7E7D114E_layerStyle"
     }
   ],
   "presetDictionary": {

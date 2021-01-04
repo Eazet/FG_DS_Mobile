@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 40,
     "width": 40,
-    "x": 3155,
-    "y": 1021
+    "x": 2743,
+    "y": 11
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -59,11 +59,6 @@
   "name": "04. Data Display 数据展示/Checkbox 多选框/不可用",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "8667BA59-5908-4D51-993E-E0693BB4ECBC_layerStyle"
-    }
   ],
   "presetDictionary": {
   },

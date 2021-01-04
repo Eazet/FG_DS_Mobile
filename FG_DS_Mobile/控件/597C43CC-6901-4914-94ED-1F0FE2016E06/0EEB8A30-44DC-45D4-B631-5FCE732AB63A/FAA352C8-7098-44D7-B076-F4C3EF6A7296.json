@@ -34,6 +34,7 @@
         "location": 0
       }
     ],
+<<<<<<< HEAD
     "string": "标题文字"
   },
   "automaticallyDrawOnUnderlyingPath": false,
@@ -44,6 +45,18 @@
 =======
   "do_objectID": "FAA352C8-7098-44D7-B076-F4C3EF6A7296",
 >>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050:FG_DS_Mobile/控件/597C43CC-6901-4914-94ED-1F0FE2016E06/0EEB8A30-44DC-45D4-B631-5FCE732AB63A/FAA352C8-7098-44D7-B076-F4C3EF6A7296.json
+=======
+    "string": "看房日记"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+<<<<<<< HEAD:FG_DS_Mobile/StyleGuide/6E893648-CED9-47D8-A740-15F00CB4790E/F815ED30-AA8F-4165-9C46-D83651DA2C14.json
+  "do_objectID": "F815ED30-AA8F-4165-9C46-D83651DA2C14",
+=======
+  "do_objectID": "FAA352C8-7098-44D7-B076-F4C3EF6A7296",
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/597C43CC-6901-4914-94ED-1F0FE2016E06/0EEB8A30-44DC-45D4-B631-5FCE732AB63A/FAA352C8-7098-44D7-B076-F4C3EF6A7296.json
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -59,8 +72,13 @@
     "constrainProportions": false,
     "height": 32,
     "width": 128,
+<<<<<<< HEAD
     "x": 32,
     "y": 28
+=======
+    "x": 122,
+    "y": 3222
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   },
   "glyphBounds": "{{1, 1}, {126, 31}}",
   "hasClippingMask": false,
@@ -71,10 +89,17 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
+<<<<<<< HEAD
   "name": "标题文字",
   "nameIsFixed": false,
   "resizingConstraint": 41,
   "resizingType": 3,
+=======
+  "name": "看房日记备份 78",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   "rotation": 0,
   "sharedStyleID": "2B265B68-B33F-43EB-B4EA-137D614213B1",
   "shouldBreakMaskChain": false,
@@ -112,11 +137,19 @@
       "blendMode": 0,
       "opacity": 1
     },
+<<<<<<< HEAD
 <<<<<<< HEAD:FG_DS_Mobile/控件/B3546348-FB9F-437E-8EAF-5D27EE045309/E9A48966-4387-4D96-A75E-AFEA2FB5B27A/BCA9C507-B7A5-4D89-8FA1-E23B1E287CC1.json
     "do_objectID": "AC3080F5-D854-49F4-89D3-8AA9C95D5254",
 =======
     "do_objectID": "5D193A5D-250D-40C3-A994-D82AA1E1543E",
 >>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050:FG_DS_Mobile/控件/597C43CC-6901-4914-94ED-1F0FE2016E06/0EEB8A30-44DC-45D4-B631-5FCE732AB63A/FAA352C8-7098-44D7-B076-F4C3EF6A7296.json
+=======
+<<<<<<< HEAD:FG_DS_Mobile/StyleGuide/6E893648-CED9-47D8-A740-15F00CB4790E/F815ED30-AA8F-4165-9C46-D83651DA2C14.json
+    "do_objectID": "F4B07E0C-8B19-42EB-AEE9-A8D793A7876A",
+=======
+    "do_objectID": "5D193A5D-250D-40C3-A994-D82AA1E1543E",
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/597C43CC-6901-4914-94ED-1F0FE2016E06/0EEB8A30-44DC-45D4-B631-5FCE732AB63A/FAA352C8-7098-44D7-B076-F4C3EF6A7296.json
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
     "endMarkerType": 0,
     "fills": [
     ],
@@ -159,10 +192,14 @@
   },
   "textBehaviour": 0,
   "userInfo": {
+<<<<<<< HEAD
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
         "isAutoWidth": 1
       }
     }
+=======
+    "datasupplier.key": "~/design/WEB/企业号后台/框架组件/Sketch资源/智能系统/看房日记.txt"
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   }
 }

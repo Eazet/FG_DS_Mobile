@@ -1,0 +1,136 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D66607BE-AFD7-4745-BDD9-23697B282836",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 88,
+    "width": 312,
+    "x": 426,
+    "y": 432
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "AF62A411-6C77-4924-B787-019AB4DE1153"
+    },
+    {
+      "class": "text",
+      "id": "382BE1FE-2EF3-4ADD-B516-6EFDDEC7C94A"
+    },
+    {
+      "class": "group",
+      "id": "5805B7B0-94AE-4704-AF65-709D56AA5F8A"
+    }
+  ],
+  "name": "05. Feedback 反馈/Toast弱提示/简单备份",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "63BF7C90-61BF-41A9-BCFB-DA823CB74DB3",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.bohemiancoding.sketchtool.detach": {
+      "symbolInstance": {
+        "do_objectID": "5A6AC00F-3CC5-49C0-B3DD-EA40ED7D9CF0",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 88,
+          "width": 312,
+          "x": 574,
+          "y": 432
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "77A99983-D1A4-45C3-9B6E-347D9B1C8B2C",
+        "symbolID": "2A6E5BB0-ADF6-4964-92B3-EE2135F4BC0E"
+      }
+    },
+    "com.sketch.detach": {
+      "symbolInstance": {
+        "do_objectID": "5A6AC00F-3CC5-49C0-B3DD-EA40ED7D9CF0",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 88,
+          "width": 312,
+          "x": 574,
+          "y": 432
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "77A99983-D1A4-45C3-9B6E-347D9B1C8B2C",
+        "symbolID": "2A6E5BB0-ADF6-4964-92B3-EE2135F4BC0E"
+      }
+    }
+  }
+}

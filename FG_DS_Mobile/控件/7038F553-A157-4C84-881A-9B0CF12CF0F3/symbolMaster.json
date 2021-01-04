@@ -10,11 +10,19 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
+<<<<<<< HEAD
 <<<<<<< HEAD:FG_DS_Mobile/控件/00589343-9FBF-4F64-A6B5-11769291461C/symbolMaster.json
   "do_objectID": "00589343-9FBF-4F64-A6B5-11769291461C",
 =======
   "do_objectID": "7038F553-A157-4C84-881A-9B0CF12CF0F3",
 >>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050:FG_DS_Mobile/控件/7038F553-A157-4C84-881A-9B0CF12CF0F3/symbolMaster.json
+=======
+<<<<<<< HEAD:FG_DS_Mobile/控件/11B19788-BB5B-442D-B33B-EFCAE74B02D6/symbolMaster.json
+  "do_objectID": "11B19788-BB5B-442D-B33B-EFCAE74B02D6",
+=======
+  "do_objectID": "7038F553-A157-4C84-881A-9B0CF12CF0F3",
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/7038F553-A157-4C84-881A-9B0CF12CF0F3/symbolMaster.json
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -27,16 +35,33 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD:FG_DS_Mobile/控件/11B19788-BB5B-442D-B33B-EFCAE74B02D6/symbolMaster.json
+    "height": 32,
+    "width": 32,
+    "x": 5916,
+    "y": 3551
+=======
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
     "height": 48,
     "width": 48,
     "x": 3633,
     "y": -805
+<<<<<<< HEAD
+=======
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/7038F553-A157-4C84-881A-9B0CF12CF0F3/symbolMaster.json
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
+<<<<<<< HEAD
   "hasClickThrough": false,
+=======
+  "hasClickThrough": true,
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,17 +86,29 @@
     },
     {
       "class": "shapeGroup",
+<<<<<<< HEAD
 <<<<<<< HEAD:FG_DS_Mobile/控件/00589343-9FBF-4F64-A6B5-11769291461C/symbolMaster.json
       "id": "361C9F9B-A776-4DDA-8CFB-14B42D924581"
     }
   ],
   "name": "01. General 通用/Icon图标/48/055.下拉",
 =======
+<<<<<<< HEAD:FG_DS_Mobile/控件/11B19788-BB5B-442D-B33B-EFCAE74B02D6/symbolMaster.json
+      "id": "8C435512-DA94-4900-B41A-0CA89420D33C"
+    }
+  ],
+  "name": "01. General 通用/Icon图标/32/051.拖拽",
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
+=======
       "id": "A18DA786-674A-42D7-AB4A-CA8242DA85EA"
     }
   ],
   "name": "01. General 通用/Icon图标/48/055.VR",
+<<<<<<< HEAD
 >>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050:FG_DS_Mobile/控件/7038F553-A157-4C84-881A-9B0CF12CF0F3/symbolMaster.json
+=======
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/7038F553-A157-4C84-881A-9B0CF12CF0F3/symbolMaster.json
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   "nameIsFixed": true,
   "overrideProperties": [
   ],
@@ -116,11 +153,19 @@
       "blendMode": 0,
       "opacity": 1
     },
+<<<<<<< HEAD
 <<<<<<< HEAD:FG_DS_Mobile/控件/00589343-9FBF-4F64-A6B5-11769291461C/symbolMaster.json
     "do_objectID": "DAABBBC0-7536-4EE2-BBC8-E8D7EEEBD33F",
 =======
     "do_objectID": "0216A6BE-CDDC-4CD7-BD57-E43D1B74AB0B",
 >>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050:FG_DS_Mobile/控件/7038F553-A157-4C84-881A-9B0CF12CF0F3/symbolMaster.json
+=======
+<<<<<<< HEAD:FG_DS_Mobile/控件/11B19788-BB5B-442D-B33B-EFCAE74B02D6/symbolMaster.json
+    "do_objectID": "DEA60345-8E90-4545-82C1-2CB2E5FAC376",
+=======
+    "do_objectID": "0216A6BE-CDDC-4CD7-BD57-E43D1B74AB0B",
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/7038F553-A157-4C84-881A-9B0CF12CF0F3/symbolMaster.json
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
     "endMarkerType": 0,
     "fills": [
     ],
@@ -132,11 +177,19 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+<<<<<<< HEAD
 <<<<<<< HEAD:FG_DS_Mobile/控件/00589343-9FBF-4F64-A6B5-11769291461C/symbolMaster.json
   "symbolID": "C34CBB3E-0158-44E3-BCB5-41BE898C9705",
 =======
   "symbolID": "47179592-3F8F-497F-806C-540F2B17F007",
 >>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050:FG_DS_Mobile/控件/7038F553-A157-4C84-881A-9B0CF12CF0F3/symbolMaster.json
+=======
+<<<<<<< HEAD:FG_DS_Mobile/控件/11B19788-BB5B-442D-B33B-EFCAE74B02D6/symbolMaster.json
+  "symbolID": "D94B0903-FDFE-40E3-B151-719F268CD84F",
+=======
+  "symbolID": "47179592-3F8F-497F-806C-540F2B17F007",
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/7038F553-A157-4C84-881A-9B0CF12CF0F3/symbolMaster.json
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

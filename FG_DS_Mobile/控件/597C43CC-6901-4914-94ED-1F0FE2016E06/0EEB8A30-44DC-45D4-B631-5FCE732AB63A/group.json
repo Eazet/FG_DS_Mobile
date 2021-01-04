@@ -2,11 +2,19 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
+<<<<<<< HEAD
 <<<<<<< HEAD:FG_DS_Mobile/控件/B3546348-FB9F-437E-8EAF-5D27EE045309/E9A48966-4387-4D96-A75E-AFEA2FB5B27A/group.json
   "do_objectID": "E9A48966-4387-4D96-A75E-AFEA2FB5B27A",
 =======
   "do_objectID": "0EEB8A30-44DC-45D4-B631-5FCE732AB63A",
 >>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050:FG_DS_Mobile/控件/597C43CC-6901-4914-94ED-1F0FE2016E06/0EEB8A30-44DC-45D4-B631-5FCE732AB63A/group.json
+=======
+<<<<<<< HEAD:FG_DS_Mobile/03. Data Entry 数据录入/E9D72D3A-DC5F-462A-8323-C78471C9388F/2930067A-351D-4300-9135-35B913AF4994/10FAAEDD-EFDA-480E-BEFA-4F8FAA46F098/group.json
+  "do_objectID": "10FAAEDD-EFDA-480E-BEFA-4F8FAA46F098",
+=======
+  "do_objectID": "0EEB8A30-44DC-45D4-B631-5FCE732AB63A",
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/597C43CC-6901-4914-94ED-1F0FE2016E06/0EEB8A30-44DC-45D4-B631-5FCE732AB63A/group.json
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -19,8 +27,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+<<<<<<< HEAD
     "height": 88,
     "width": 750,
+=======
+    "height": 72,
+    "width": 602,
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
     "x": 0,
     "y": 0
   },
@@ -38,6 +51,7 @@
   "layers": [
     {
       "class": "rectangle",
+<<<<<<< HEAD
 <<<<<<< HEAD:FG_DS_Mobile/控件/B3546348-FB9F-437E-8EAF-5D27EE045309/E9A48966-4387-4D96-A75E-AFEA2FB5B27A/group.json
       "id": "5C7D33C0-B8BA-415A-8F9D-F808D4508744"
     },
@@ -57,6 +71,26 @@
       "class": "text",
       "id": "BCA9C507-B7A5-4D89-8FA1-E23B1E287CC1"
 =======
+<<<<<<< HEAD:FG_DS_Mobile/03. Data Entry 数据录入/E9D72D3A-DC5F-462A-8323-C78471C9388F/2930067A-351D-4300-9135-35B913AF4994/10FAAEDD-EFDA-480E-BEFA-4F8FAA46F098/group.json
+      "id": "BDDE0258-F3EC-4D74-AE51-B9AABA927DE0"
+    },
+    {
+      "class": "group",
+      "id": "49320302-4242-4DEC-8B4D-735C60780B3B"
+    },
+    {
+      "class": "group",
+      "id": "4CC3DE7B-3848-4D03-BE27-906751325787"
+    },
+    {
+      "class": "group",
+      "id": "E222BE80-4E7B-4887-88AC-8CB7D57B1E91"
+    },
+    {
+      "class": "group",
+      "id": "93EAF3F8-986C-4197-A6A3-A113423212F7"
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
+=======
       "id": "771C3381-DEE6-4E6E-AE7B-49490B2ABD15"
     },
     {
@@ -74,11 +108,19 @@
     {
       "class": "text",
       "id": "FAA352C8-7098-44D7-B076-F4C3EF6A7296"
+<<<<<<< HEAD
 >>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050:FG_DS_Mobile/控件/597C43CC-6901-4914-94ED-1F0FE2016E06/0EEB8A30-44DC-45D4-B631-5FCE732AB63A/group.json
     }
   ],
   "name": "列表/单行列表/箭头备份",
   "nameIsFixed": true,
+=======
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/597C43CC-6901-4914-94ED-1F0FE2016E06/0EEB8A30-44DC-45D4-B631-5FCE732AB63A/group.json
+    }
+  ],
+  "name": "编组 4",
+  "nameIsFixed": false,
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -90,7 +132,11 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
+<<<<<<< HEAD
       "radius": 20,
+=======
+      "radius": 10,
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
       "saturation": 1,
       "type": 0
     },
@@ -117,11 +163,19 @@
       "blendMode": 0,
       "opacity": 1
     },
+<<<<<<< HEAD
 <<<<<<< HEAD:FG_DS_Mobile/控件/B3546348-FB9F-437E-8EAF-5D27EE045309/E9A48966-4387-4D96-A75E-AFEA2FB5B27A/group.json
     "do_objectID": "B022E68C-0003-4D43-90CA-E265525E332E",
 =======
     "do_objectID": "8F460D2E-D44A-4B2D-8460-3F985070B8ED",
 >>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050:FG_DS_Mobile/控件/597C43CC-6901-4914-94ED-1F0FE2016E06/0EEB8A30-44DC-45D4-B631-5FCE732AB63A/group.json
+=======
+<<<<<<< HEAD:FG_DS_Mobile/03. Data Entry 数据录入/E9D72D3A-DC5F-462A-8323-C78471C9388F/2930067A-351D-4300-9135-35B913AF4994/10FAAEDD-EFDA-480E-BEFA-4F8FAA46F098/group.json
+    "do_objectID": "8A59F099-A3E4-4EDC-8082-D39C13CED7AD",
+=======
+    "do_objectID": "8F460D2E-D44A-4B2D-8460-3F985070B8ED",
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/597C43CC-6901-4914-94ED-1F0FE2016E06/0EEB8A30-44DC-45D4-B631-5FCE732AB63A/group.json
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
     "endMarkerType": 0,
     "fills": [
     ],

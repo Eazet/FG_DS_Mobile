@@ -3,6 +3,7 @@
   "booleanOperation": -1,
   "clippingMaskMode": 0,
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD:FG_DS_Mobile/控件/2A919E3F-4D8B-43D0-8AA7-26CF90A644B0/E6AEE306-6362-4FF4-A78C-7917EAB659E2/6E4864A2-A3B7-4F53-8E4E-D0C9CE061F7A.json
   "do_objectID": "6E4864A2-A3B7-4F53-8E4E-D0C9CE061F7A",
 =======
@@ -11,6 +12,13 @@
 =======
   "do_objectID": "6E4864A2-A3B7-4F53-8E4E-D0C9CE061F7A",
 >>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050
+=======
+<<<<<<< HEAD:FG_DS_Mobile/03. Data Entry 数据录入/C7E4038C-F137-4F59-B063-793712F190B2/459E6DF1-0FAF-413A-94BB-4274F59362DB/DF407E20-E1B3-41E3-9320-56A2A7585D31.json
+  "do_objectID": "DF407E20-E1B3-41E3-9320-56A2A7585D31",
+=======
+  "do_objectID": "6E4864A2-A3B7-4F53-8E4E-D0C9CE061F7A",
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/2A919E3F-4D8B-43D0-8AA7-26CF90A644B0/E6AEE306-6362-4FF4-A78C-7917EAB659E2/6E4864A2-A3B7-4F53-8E4E-D0C9CE061F7A.json
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,7 +34,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 88,
+<<<<<<< HEAD
     "width": 750,
+=======
+    "width": 150,
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
     "x": 0,
     "y": 0
   },
@@ -125,6 +137,7 @@
       "opacity": 1
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD:FG_DS_Mobile/控件/2A919E3F-4D8B-43D0-8AA7-26CF90A644B0/E6AEE306-6362-4FF4-A78C-7917EAB659E2/6E4864A2-A3B7-4F53-8E4E-D0C9CE061F7A.json
     "do_objectID": "DEFE47AF-079A-48BF-BEB4-A255AC9BCE2E",
 =======
@@ -133,6 +146,13 @@
 =======
     "do_objectID": "DEFE47AF-079A-48BF-BEB4-A255AC9BCE2E",
 >>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050
+=======
+<<<<<<< HEAD:FG_DS_Mobile/03. Data Entry 数据录入/C7E4038C-F137-4F59-B063-793712F190B2/459E6DF1-0FAF-413A-94BB-4274F59362DB/DF407E20-E1B3-41E3-9320-56A2A7585D31.json
+    "do_objectID": "DC9661CF-50BF-4F12-B277-A50D9D2F2CB5",
+=======
+    "do_objectID": "DEFE47AF-079A-48BF-BEB4-A255AC9BCE2E",
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/2A919E3F-4D8B-43D0-8AA7-26CF90A644B0/E6AEE306-6362-4FF4-A78C-7917EAB659E2/6E4864A2-A3B7-4F53-8E4E-D0C9CE061F7A.json
+>>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
     "endMarkerType": 0,
     "fills": [
       {
