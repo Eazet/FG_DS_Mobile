@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 32,
     "width": 72,
-    "x": 412,
-    "y": 698
+    "x": -297,
+    "y": 820
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
@@ -76,11 +76,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "2515C4FD-D1FD-4DD7-9549-61DEBE59BD90_fillColor"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "4EDD4AFA-B7A3-441C-A8FF-292D619D26B6_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",

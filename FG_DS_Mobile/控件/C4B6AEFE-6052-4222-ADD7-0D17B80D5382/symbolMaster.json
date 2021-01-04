@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 32,
     "width": 32,
-    "x": 862,
-    "y": -893
+    "x": 31,
+    "y": -873
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -59,6 +59,11 @@
   "name": "01. General 通用/Icon图标/32/014.隐藏",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4518E5D0-B03C-479B-9113-7F9956BA0EFC_layerStyle"
+    }
   ],
   "presetDictionary": {
   },

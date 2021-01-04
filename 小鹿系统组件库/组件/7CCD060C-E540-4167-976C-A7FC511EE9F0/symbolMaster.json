@@ -60,8 +60,8 @@
       "id": "6DF9B903-EBF3-4E24-8F1D-5D4476079FC9"
     }
   ],
-  "name": "05. Feedback 反馈/Modal 对话框/底栏",
-  "nameIsFixed": false,
+  "name": "05. Feedback 反馈/Modal 对话框/底栏-2按钮",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",

@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 32,
     "width": 72,
-    "x": 412,
-    "y": 866
+    "x": -297,
+    "y": 991
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
@@ -67,11 +67,6 @@
   "name": "01. General 通用/Buttons按钮/D.极简按钮/04.详情按钮/04.次按钮-不可用-小",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "835933AA-E72A-477A-A1D3-7853D24BA4D7_layerStyle"
-    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
