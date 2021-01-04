@@ -1,8 +1,8 @@
 {
   "_class": "shapeGroup",
-  "booleanOperation": 0,
+  "booleanOperation": 1,
   "clippingMaskMode": 0,
-  "do_objectID": "BCB88782-0088-4317-8925-E971469DF478",
+  "do_objectID": "82A5D26F-FC82-49AD-9061-26FD8AFE934C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,11 +14,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 8.11877270397697,
-    "width": 2.77413076208177,
-    "x": 1.485510446802436,
-    "y": 2.257299094090286
+    "constrainProportions": true,
+    "height": 9.214115173095689,
+    "width": 9.182675366423005,
+    "x": 3.499132051882626,
+    "y": 3.349999999966818
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,26 +30,26 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "8596EBEA-BF1C-4F0E-AB14-A1BF6545F7AF"
+      "class": "oval",
+      "id": "F9938263-7DF8-40E9-B14A-C587D7847173"
     },
     {
-      "class": "rectangle",
-      "id": "95868B60-9863-44A6-A3FF-1A1D2D43C644"
+      "class": "shapeGroup",
+      "id": "23E44928-6DA4-49B8-88F2-73A3700B1FD3"
     },
     {
-      "class": "rectangle",
-      "id": "E77DA688-71B6-4764-B58C-FBAC93ECC8AD"
+      "class": "oval",
+      "id": "9B25DD10-F8F6-4DBD-959D-C6C2F363ADA2"
     }
   ],
   "name": "形状结合",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 315,
+  "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -135,7 +135,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "1CA73242-1E73-42AC-AA79-317B821B16E1",
+    "do_objectID": "5478965B-4C81-4DE1-AF26-3EF16322BBEE",
     "endMarkerType": 0,
     "fills": [
       {
@@ -143,9 +143,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

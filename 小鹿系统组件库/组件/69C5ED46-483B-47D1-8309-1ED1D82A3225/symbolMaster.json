@@ -10,7 +10,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4E9F7492-3B4E-44F2-80D6-E51E3E62A071",
+  "do_objectID": "69C5ED46-483B-47D1-8309-1ED1D82A3225",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 10031,
-    "y": -339
+    "x": -3677,
+    "y": 2334
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -52,13 +52,18 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "2D515AE5-A489-4B23-837F-1F16F4EF5373"
+      "class": "group",
+      "id": "3A12AFF2-934A-4AA8-A699-1173CFB37AC6"
     }
   ],
-  "name": "01. General 通用/Icon图标/16/141.钥匙",
+  "name": "01. General 通用/Icon图标/16/143.钥匙",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5F9C45C4-3D8B-425D-8B80-E8C9478C5C54_symbolID"
+    }
   ],
   "presetDictionary": {
   },
@@ -101,7 +106,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "D9FF8282-7BCB-4A80-9922-B7538F92935D",
+    "do_objectID": "607E60B5-FED7-4238-867F-ECA61FD9A18C",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -113,7 +118,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "B3AE6B87-C0C9-4D3B-8258-A1B79E272293",
+  "symbolID": "C30CA8B5-A0F6-410B-8ECB-54C5C7FC9671",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
