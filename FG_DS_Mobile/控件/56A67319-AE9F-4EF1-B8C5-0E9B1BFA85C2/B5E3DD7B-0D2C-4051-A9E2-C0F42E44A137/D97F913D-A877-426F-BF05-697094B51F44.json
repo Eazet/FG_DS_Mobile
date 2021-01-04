@@ -1,0 +1,96 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+<<<<<<< HEAD:FG_DS_Mobile/控件/F8F35CF6-770E-452F-AD21-2DD109BA5949/990FD915-2BF0-4FA0-9119-4C6F28E0129F/66447EA5-9518-4AD7-8778-110D0CC3BACA.json
+  "do_objectID": "66447EA5-9518-4AD7-8778-110D0CC3BACA",
+=======
+  "do_objectID": "D97F913D-A877-426F-BF05-697094B51F44",
+>>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050:FG_DS_Mobile/控件/56A67319-AE9F-4EF1-B8C5-0E9B1BFA85C2/B5E3DD7B-0D2C-4051-A9E2-C0F42E44A137/D97F913D-A877-426F-BF05-697094B51F44.json
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 48,
+    "x": 670,
+    "y": 108
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "右侧图标1",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+<<<<<<< HEAD:FG_DS_Mobile/控件/F8F35CF6-770E-452F-AD21-2DD109BA5949/990FD915-2BF0-4FA0-9119-4C6F28E0129F/66447EA5-9518-4AD7-8778-110D0CC3BACA.json
+    "do_objectID": "910123C6-164C-4561-947A-DA91E8D6AD63",
+=======
+    "do_objectID": "35614253-53B6-474E-A635-B640D50D931B",
+>>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050:FG_DS_Mobile/控件/56A67319-AE9F-4EF1-B8C5-0E9B1BFA85C2/B5E3DD7B-0D2C-4051-A9E2-C0F42E44A137/D97F913D-A877-426F-BF05-697094B51F44.json
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B1388E0B-E883-4045-9DAF-97ADECB3D4A6",
+  "verticalSpacing": 0
+}

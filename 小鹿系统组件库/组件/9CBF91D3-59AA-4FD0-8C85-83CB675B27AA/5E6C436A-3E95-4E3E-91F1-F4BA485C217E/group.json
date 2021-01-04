@@ -16,7 +16,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 32,
-    "width": 258,
+    "width": 322,
     "x": 40,
     "y": 48
   },
@@ -51,6 +51,10 @@
     {
       "class": "symbolInstance",
       "id": "79E4D88B-C16B-41F7-B9D5-B81D907D1212"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "76D4B043-5068-43F6-B011-053C54CD8589"
     }
   ],
   "name": "Group",

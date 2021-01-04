@@ -1,0 +1,169 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.9568627450980393,
+            "green": 0.4823529411764707,
+            "red": 0.1450980392156863
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "PingFangSC-Regular",
+              "size": 30
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 4,
+        "location": 0
+      }
+    ],
+    "string": "左侧文字"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+<<<<<<< HEAD
+<<<<<<< HEAD:FG_DS_Mobile/控件/F8F35CF6-770E-452F-AD21-2DD109BA5949/990FD915-2BF0-4FA0-9119-4C6F28E0129F/B0B3847F-6447-49D8-8E2E-1FCE7FA11D6C.json
+  "do_objectID": "B0B3847F-6447-49D8-8E2E-1FCE7FA11D6C",
+=======
+  "do_objectID": "BC52D639-06DD-4323-80D8-616CA69F74AA",
+>>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050:FG_DS_Mobile/控件/56A67319-AE9F-4EF1-B8C5-0E9B1BFA85C2/B5E3DD7B-0D2C-4051-A9E2-C0F42E44A137/BC52D639-06DD-4323-80D8-616CA69F74AA.json
+=======
+  "do_objectID": "B0B3847F-6447-49D8-8E2E-1FCE7FA11D6C",
+>>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 120,
+    "x": 32,
+    "y": 117
+  },
+  "glyphBounds": "{{1, 1}, {118, 29}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 3,
+  "name": "左侧文字",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "1705EE2D-69CD-40DF-BFF3-71D04DF4109D",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+<<<<<<< HEAD
+<<<<<<< HEAD:FG_DS_Mobile/控件/F8F35CF6-770E-452F-AD21-2DD109BA5949/990FD915-2BF0-4FA0-9119-4C6F28E0129F/B0B3847F-6447-49D8-8E2E-1FCE7FA11D6C.json
+    "do_objectID": "171F15C0-72B0-4914-B3E2-5DB82B44AAB1",
+=======
+    "do_objectID": "E05F4747-10B7-4F14-A30A-0641A3C26625",
+>>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050:FG_DS_Mobile/控件/56A67319-AE9F-4EF1-B8C5-0E9B1BFA85C2/B5E3DD7B-0D2C-4051-A9E2-C0F42E44A137/BC52D639-06DD-4323-80D8-616CA69F74AA.json
+=======
+    "do_objectID": "171F15C0-72B0-4914-B3E2-5DB82B44AAB1",
+>>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9568627450980393,
+          "green": 0.4823529411764707,
+          "red": 0.1450980392156863
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "PingFangSC-Regular",
+            "size": 30
+          }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 30,
+          "minimumLineHeight": 30
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 0
+}

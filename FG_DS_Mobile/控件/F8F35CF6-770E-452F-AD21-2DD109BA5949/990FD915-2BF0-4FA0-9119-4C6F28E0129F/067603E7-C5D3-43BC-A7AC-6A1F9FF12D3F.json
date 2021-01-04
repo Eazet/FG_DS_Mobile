@@ -1,0 +1,104 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+<<<<<<< HEAD
+<<<<<<< HEAD:FG_DS_Mobile/控件/F8F35CF6-770E-452F-AD21-2DD109BA5949/990FD915-2BF0-4FA0-9119-4C6F28E0129F/067603E7-C5D3-43BC-A7AC-6A1F9FF12D3F.json
+  "do_objectID": "067603E7-C5D3-43BC-A7AC-6A1F9FF12D3F",
+=======
+  "do_objectID": "90623DDB-6B7C-48E1-BCA1-59DF429382B5",
+>>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050:FG_DS_Mobile/控件/56A67319-AE9F-4EF1-B8C5-0E9B1BFA85C2/B5E3DD7B-0D2C-4051-A9E2-C0F42E44A137/90623DDB-6B7C-48E1-BCA1-59DF429382B5.json
+=======
+  "do_objectID": "067603E7-C5D3-43BC-A7AC-6A1F9FF12D3F",
+>>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 48,
+    "x": 32,
+    "y": 108
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "左侧图标1",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 59,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+<<<<<<< HEAD
+<<<<<<< HEAD:FG_DS_Mobile/控件/F8F35CF6-770E-452F-AD21-2DD109BA5949/990FD915-2BF0-4FA0-9119-4C6F28E0129F/067603E7-C5D3-43BC-A7AC-6A1F9FF12D3F.json
+    "do_objectID": "10CE1C45-46C2-4EF8-9ECB-8553B8F9CB12",
+=======
+    "do_objectID": "8070F4F3-AA85-4FB6-834A-293A5B8B2D47",
+>>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050:FG_DS_Mobile/控件/56A67319-AE9F-4EF1-B8C5-0E9B1BFA85C2/B5E3DD7B-0D2C-4051-A9E2-C0F42E44A137/90623DDB-6B7C-48E1-BCA1-59DF429382B5.json
+=======
+    "do_objectID": "10CE1C45-46C2-4EF8-9ECB-8553B8F9CB12",
+>>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E179F471-1203-42F3-AEA0-57914813FC9F",
+  "verticalSpacing": 0
+}

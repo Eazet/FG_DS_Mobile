@@ -1,0 +1,236 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+<<<<<<< HEAD
+<<<<<<< HEAD:FG_DS_Mobile/控件/11B19788-BB5B-442D-B33B-EFCAE74B02D6/8C435512-DA94-4900-B41A-0CA89420D33C/shapeGroup.json
+  "do_objectID": "8C435512-DA94-4900-B41A-0CA89420D33C",
+=======
+  "do_objectID": "4B21F4BE-1525-41C5-BDA0-3F832760D763",
+>>>>>>> 39ebfa3074ad7c4e1b74cbaab541ca5a13000036:FG_DS_Mobile/控件/5CCD2FFA-2CCB-4714-8655-572160271B52/4B21F4BE-1525-41C5-BDA0-3F832760D763/shapeGroup.json
+=======
+  "do_objectID": "8C435512-DA94-4900-B41A-0CA89420D33C",
+>>>>>>> 39ebfa3074ad7c4e1b74cbaab541ca5a13000036
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+<<<<<<< HEAD
+<<<<<<< HEAD:FG_DS_Mobile/控件/11B19788-BB5B-442D-B33B-EFCAE74B02D6/8C435512-DA94-4900-B41A-0CA89420D33C/shapeGroup.json
+=======
+>>>>>>> 39ebfa3074ad7c4e1b74cbaab541ca5a13000036
+    "constrainProportions": false,
+    "height": 19,
+    "width": 26,
+    "x": 3,
+    "y": 6.5
+<<<<<<< HEAD
+=======
+    "constrainProportions": true,
+    "height": 16.20015746549389,
+    "width": 32,
+    "x": 0,
+    "y": 8.499986727846721
+>>>>>>> 39ebfa3074ad7c4e1b74cbaab541ca5a13000036:FG_DS_Mobile/控件/5CCD2FFA-2CCB-4714-8655-572160271B52/4B21F4BE-1525-41C5-BDA0-3F832760D763/shapeGroup.json
+=======
+>>>>>>> 39ebfa3074ad7c4e1b74cbaab541ca5a13000036
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+<<<<<<< HEAD
+<<<<<<< HEAD:FG_DS_Mobile/控件/11B19788-BB5B-442D-B33B-EFCAE74B02D6/8C435512-DA94-4900-B41A-0CA89420D33C/shapeGroup.json
+=======
+>>>>>>> 39ebfa3074ad7c4e1b74cbaab541ca5a13000036
+      "class": "rectangle",
+      "id": "046BA14C-45C0-47FD-B7AB-CD3E32F23D4D"
+    },
+    {
+      "class": "rectangle",
+      "id": "0F55E0CC-4DC7-44F8-AD9B-21E531969D7A"
+    },
+    {
+      "class": "rectangle",
+      "id": "D2ED2FB9-DBD6-404E-B9C3-AD7730302D51"
+    }
+  ],
+  "name": "Combined Shape",
+<<<<<<< HEAD
+=======
+      "class": "shapeGroup",
+      "id": "CB5BBA8A-8531-4C2A-B924-489417200453"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B376C3CF-EBD4-4BA2-BA1D-CCE338E00241"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DA8E9451-EFFB-4CCC-8340-8F3A4D38864B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E2B939A3-2FCD-480A-AF42-5E4684A5B88D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C7668568-4A11-46D0-8DFD-96299FB31E95"
+    }
+  ],
+  "name": "形状结合",
+>>>>>>> 39ebfa3074ad7c4e1b74cbaab541ca5a13000036:FG_DS_Mobile/控件/5CCD2FFA-2CCB-4714-8655-572160271B52/4B21F4BE-1525-41C5-BDA0-3F832760D763/shapeGroup.json
+=======
+>>>>>>> 39ebfa3074ad7c4e1b74cbaab541ca5a13000036
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+<<<<<<< HEAD
+<<<<<<< HEAD:FG_DS_Mobile/控件/11B19788-BB5B-442D-B33B-EFCAE74B02D6/8C435512-DA94-4900-B41A-0CA89420D33C/shapeGroup.json
+  "sharedStyleID": "56BD95D4-D173-4D1E-AFD9-2EA2AAC1D258",
+=======
+>>>>>>> 39ebfa3074ad7c4e1b74cbaab541ca5a13000036:FG_DS_Mobile/控件/5CCD2FFA-2CCB-4714-8655-572160271B52/4B21F4BE-1525-41C5-BDA0-3F832760D763/shapeGroup.json
+=======
+  "sharedStyleID": "56BD95D4-D173-4D1E-AFD9-2EA2AAC1D258",
+>>>>>>> 39ebfa3074ad7c4e1b74cbaab541ca5a13000036
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+<<<<<<< HEAD
+      "isEnabled": false,
+=======
+      "isEnabled": true,
+>>>>>>> 39ebfa3074ad7c4e1b74cbaab541ca5a13000036
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+<<<<<<< HEAD
+<<<<<<< HEAD:FG_DS_Mobile/控件/11B19788-BB5B-442D-B33B-EFCAE74B02D6/8C435512-DA94-4900-B41A-0CA89420D33C/shapeGroup.json
+    "do_objectID": "0EA729B2-C17C-4FD1-8509-83E067936ED8",
+=======
+    "do_objectID": "612717FE-C159-41A1-AFD4-42650AA432B3",
+>>>>>>> 39ebfa3074ad7c4e1b74cbaab541ca5a13000036:FG_DS_Mobile/控件/5CCD2FFA-2CCB-4714-8655-572160271B52/4B21F4BE-1525-41C5-BDA0-3F832760D763/shapeGroup.json
+=======
+    "do_objectID": "0EA729B2-C17C-4FD1-8509-83E067936ED8",
+>>>>>>> 39ebfa3074ad7c4e1b74cbaab541ca5a13000036
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1647058823529412,
+          "green": 0.1529411764705882,
+<<<<<<< HEAD
+          "red": 0.1294117647058823,
+          "swatchID": "C1D1609A-5D27-4448-813C-5748C8F10282"
+=======
+          "red": 0.1294117647058823
+>>>>>>> 39ebfa3074ad7c4e1b74cbaab541ca5a13000036
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+<<<<<<< HEAD
+    "windingRule": 0
+  },
+  "windingRule": 0
+=======
+    "windingRule": 1
+  },
+  "windingRule": 1
+>>>>>>> 39ebfa3074ad7c4e1b74cbaab541ca5a13000036
+}

@@ -57,6 +57,10 @@
     },
     {
       "class": "symbolInstance",
+      "id": "E7A1F10B-A024-42DE-A7A4-18DD3D223306"
+    },
+    {
+      "class": "symbolInstance",
       "id": "52532AA1-FFB6-4C3E-8EA1-CC4BC7263106"
     },
     {
@@ -618,6 +622,10 @@
     {
       "class": "symbolInstance",
       "id": "20014F5A-6ADC-42C8-9BF9-8ABC522F7BC3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4C1B3640-1F78-4FE5-85C3-F9D705DFC3C3"
     },
     {
       "class": "symbolInstance",
@@ -1781,6 +1789,10 @@
     },
     {
       "class": "artboard",
+      "id": "2451175A-150C-4B37-A410-800E85F78F2F"
+    },
+    {
+      "class": "artboard",
       "id": "18C48527-FF48-46A9-BDFE-3213B82A62F6"
     },
     {
@@ -2753,6 +2765,10 @@
     },
     {
       "class": "group",
+      "id": "6C78C7B8-B5A8-4968-9A01-079B3BC11509"
+    },
+    {
+      "class": "group",
       "id": "A6D4C726-B0BB-4A8F-AA94-232683846419"
     },
     {
@@ -2866,6 +2882,18 @@
     {
       "class": "artboard",
       "id": "EF2596B3-22DA-40FA-89B1-F9383F2E09DB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A4C865E5-3C41-4840-92C6-AEB4C47F5A9E"
+    },
+    {
+      "class": "artboard",
+      "id": "79A1A2A0-A4B8-4C24-997A-7221F7E74EC8"
+    },
+    {
+      "class": "group",
+      "id": "FF80571B-9084-4EB4-9F56-0F4A24EE4753"
     }
   ],
   "name": "iconfont",
