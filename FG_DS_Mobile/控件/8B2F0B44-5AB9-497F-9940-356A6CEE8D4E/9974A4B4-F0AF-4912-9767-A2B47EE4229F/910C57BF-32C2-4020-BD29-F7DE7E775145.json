@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5E6C436A-3E95-4E3E-91F1-F4BA485C217E",
+  "do_objectID": "910C57BF-32C2-4020-BD29-F7DE7E775145",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,52 +16,57 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 32,
-    "width": 322,
-    "x": 40,
-    "y": 48
+    "width": 96,
+    "x": 622,
+    "y": 24
   },
-  "groupLayout": {
-    "_class": "MSImmutableInferredGroupLayout",
-    "axis": 0,
-    "layoutAnchor": 0,
-    "maxSize": 0,
-    "minSize": 0
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "01. General 通用/Buttons按钮/D.32/01.操作按钮/03.详情按钮",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "symbolInstance",
-      "id": "1E09D036-CAA4-4FC7-87B1-41A6259CB331"
+      "_class": "overrideValue",
+      "overrideName": "21AE0295-F940-46DD-BCCB-C4657538B1BB_symbolID",
+      "value": "C9F57788-9EF5-4515-BFFC-63380779B16B"
     },
     {
-      "class": "symbolInstance",
-      "id": "05F3E395-0D9B-41D0-8421-070E2A89DC9A"
+      "_class": "overrideValue",
+      "overrideName": "21AE0295-F940-46DD-BCCB-C4657538B1BB/5B0C9781-79EA-4608-9564-04758118B5E0_layerStyle",
+      "value": "73336F41-67A3-4B12-9A52-E11FFF9946B5"
     },
     {
-      "class": "symbolInstance",
-      "id": "B1B216E5-67C3-4F25-A17E-92D38E762997"
+      "_class": "overrideValue",
+      "overrideName": "EB65D228-E2F3-4FF7-8E06-8BF58BF6670B_stringValue",
+      "value": "排序"
     },
     {
-      "class": "symbolInstance",
-      "id": "79E4D88B-C16B-41F7-B9D5-B81D907D1212"
+      "_class": "overrideValue",
+      "overrideName": "EB65D228-E2F3-4FF7-8E06-8BF58BF6670B_textStyle",
+      "value": "C057E262-B860-4924-B266-EB6ADE415158"
     },
     {
-      "class": "symbolInstance",
-      "id": "76D4B043-5068-43F6-B011-053C54CD8589"
+      "_class": "overrideValue",
+      "overrideName": "21AE0295-F940-46DD-BCCB-C4657538B1BB_fillColor",
+      "value": {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5215686274509804,
+        "green": 0.4941176470588236,
+        "red": 0.4627450980392157
+      }
     }
   ],
-  "name": "Group",
-  "nameIsFixed": false,
-  "resizingConstraint": 41,
+  "resizingConstraint": 44,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -97,7 +102,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "EB2AFF0F-EAA5-4C07-A6C1-B4E3E7561E6D",
+    "do_objectID": "465248FF-28D2-45F2-905E-FDDD02EB141A",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -108,5 +113,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "6C4475A1-C324-4938-83CC-09279188521B",
+  "verticalSpacing": 0
 }

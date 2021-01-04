@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5E6C436A-3E95-4E3E-91F1-F4BA485C217E",
+  "do_objectID": "9974A4B4-F0AF-4912-9767-A2B47EE4229F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,17 +15,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 322,
-    "x": 40,
-    "y": 48
+    "height": 80,
+    "width": 750,
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
-    "_class": "MSImmutableInferredGroupLayout",
-    "axis": 0,
-    "layoutAnchor": 0,
-    "maxSize": 0,
-    "minSize": 0
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -37,29 +33,21 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "1E09D036-CAA4-4FC7-87B1-41A6259CB331"
+      "class": "rectangle",
+      "id": "68BD3A9A-7812-465D-A09C-30E7EFB54F2F"
+    },
+    {
+      "class": "rectangle",
+      "id": "A88BF02A-6060-4A6B-A057-CA1478E6463E"
     },
     {
       "class": "symbolInstance",
-      "id": "05F3E395-0D9B-41D0-8421-070E2A89DC9A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B1B216E5-67C3-4F25-A17E-92D38E762997"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "79E4D88B-C16B-41F7-B9D5-B81D907D1212"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "76D4B043-5068-43F6-B011-053C54CD8589"
+      "id": "910C57BF-32C2-4020-BD29-F7DE7E775145"
     }
   ],
-  "name": "Group",
+  "name": "编组 3",
   "nameIsFixed": false,
-  "resizingConstraint": 41,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -70,7 +58,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 20,
       "saturation": 1,
       "type": 0
     },
@@ -97,7 +85,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "EB2AFF0F-EAA5-4C07-A6C1-B4E3E7561E6D",
+    "do_objectID": "85055151-78E9-43F8-A07C-3D1CB3B0CA50",
     "endMarkerType": 0,
     "fills": [
     ],
