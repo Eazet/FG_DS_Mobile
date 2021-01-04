@@ -2882,6 +2882,18 @@
     {
       "class": "artboard",
       "id": "EF2596B3-22DA-40FA-89B1-F9383F2E09DB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A4C865E5-3C41-4840-92C6-AEB4C47F5A9E"
+    },
+    {
+      "class": "artboard",
+      "id": "79A1A2A0-A4B8-4C24-997A-7221F7E74EC8"
+    },
+    {
+      "class": "group",
+      "id": "FF80571B-9084-4EB4-9F56-0F4A24EE4753"
     }
   ],
   "name": "iconfont",
