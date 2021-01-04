@@ -1,8 +1,8 @@
 {
   "_class": "shapeGroup",
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "E7D31BBB-C86B-4926-8E1D-CC9317CA528A",
+  "do_objectID": "88B4C41D-FFD0-4305-8D4C-9DBC95774ABA",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 28,
-    "width": 28,
-    "x": 2,
-    "y": 2
+    "height": 16.23754540840303,
+    "width": 5.399692170800922,
+    "x": 2.894758477074561,
+    "y": 7.468623235904364
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -33,16 +33,24 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "oval",
-      "id": "E11F6713-70B9-4446-8DDF-652172CBF542"
+      "class": "rectangle",
+      "id": "C9563767-884C-43B4-BEBE-84C66D3FE1D6"
     },
     {
-      "class": "shapeGroup",
-      "id": "4805BBDD-881A-4AB3-A534-743F6610C41B"
+      "class": "rectangle",
+      "id": "7639A818-721C-4F6C-8B21-FFA8214860C0"
     },
     {
-      "class": "shapeGroup",
-      "id": "4984DCF9-C31F-4370-9F10-6D48231D3415"
+      "class": "rectangle",
+      "id": "CC0A7B7B-645F-4C68-831D-EFBCA47568A1"
+    },
+    {
+      "class": "rectangle",
+      "id": "2DBBC787-6A39-4CF7-9DCF-7107D608C895"
+    },
+    {
+      "class": "rectangle",
+      "id": "EDD1E700-7A05-48EC-A0BA-1EB53849B4C6"
     }
   ],
   "name": "形状结合",
@@ -58,7 +66,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 17.5,
+      "radius": 10,
       "saturation": 1,
       "type": 0
     },
@@ -119,7 +127,7 @@
         },
         "isEnabled": false,
         "position": 1,
-        "thickness": 1.75
+        "thickness": 1
       }
     ],
     "colorControls": {
@@ -135,7 +143,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "B247E2B1-9062-4528-8BEC-339D1DB65220",
+    "do_objectID": "F4858110-8550-492D-9682-A1790BCD0650",
     "endMarkerType": 0,
     "fills": [
       {
@@ -143,10 +151,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1647058823529412,
-          "green": 0.1529411764705882,
-          "red": 0.1294117647058823,
-          "swatchID": "C1D1609A-5D27-4448-813C-5748C8F10282"
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
