@@ -2,15 +2,7 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-<<<<<<< HEAD
-<<<<<<< HEAD:FG_DS_Mobile/控件/1028AC46-8DAC-4D61-A1F1-D374FDC8C660/F13A2754-B664-44C4-A6D6-3605B9F901AD.json
   "do_objectID": "F13A2754-B664-44C4-A6D6-3605B9F901AD",
-=======
-  "do_objectID": "DBFEE4DA-CB7A-44B6-9854-059F4ADFAF7B",
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/037FD14A-EB86-4F95-B4EA-F816136F2965/DBFEE4DA-CB7A-44B6-9854-059F4ADFAF7B.json
-=======
-  "do_objectID": "F13A2754-B664-44C4-A6D6-3605B9F901AD",
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,15 +18,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 32,
-<<<<<<< HEAD
-<<<<<<< HEAD:FG_DS_Mobile/控件/1028AC46-8DAC-4D61-A1F1-D374FDC8C660/F13A2754-B664-44C4-A6D6-3605B9F901AD.json
     "width": 92,
-=======
-    "width": 43,
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/037FD14A-EB86-4F95-B4EA-F816136F2965/DBFEE4DA-CB7A-44B6-9854-059F4ADFAF7B.json
-=======
-    "width": 92,
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
     "x": 0,
     "y": 0
   },
@@ -122,23 +106,10 @@
         "_class": "border",
         "color": {
           "_class": "color",
-<<<<<<< HEAD
-<<<<<<< HEAD:FG_DS_Mobile/控件/1028AC46-8DAC-4D61-A1F1-D374FDC8C660/F13A2754-B664-44C4-A6D6-3605B9F901AD.json
-=======
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
           "alpha": 0.4997626884833916,
           "blue": 0,
           "green": 0.2822222222222221,
           "red": 0.996078431372549
-<<<<<<< HEAD
-=======
-          "alpha": 0.7987632484702797,
-          "blue": 0.3803921568627451,
-          "green": 0.3803921568627451,
-          "red": 0.9607843137254902
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/037FD14A-EB86-4F95-B4EA-F816136F2965/DBFEE4DA-CB7A-44B6-9854-059F4ADFAF7B.json
-=======
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -195,15 +166,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-<<<<<<< HEAD
-<<<<<<< HEAD:FG_DS_Mobile/控件/1028AC46-8DAC-4D61-A1F1-D374FDC8C660/F13A2754-B664-44C4-A6D6-3605B9F901AD.json
     "do_objectID": "662169FD-2E78-4FEC-8008-608B4C25F5C8",
-=======
-    "do_objectID": "9A9B3D73-6B64-442E-BC7D-6FEEEF35C92C",
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/037FD14A-EB86-4F95-B4EA-F816136F2965/DBFEE4DA-CB7A-44B6-9854-059F4ADFAF7B.json
-=======
-    "do_objectID": "662169FD-2E78-4FEC-8008-608B4C25F5C8",
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
     "endMarkerType": 0,
     "fills": [
       {
@@ -211,18 +174,8 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-<<<<<<< HEAD
-<<<<<<< HEAD:FG_DS_Mobile/控件/1028AC46-8DAC-4D61-A1F1-D374FDC8C660/F13A2754-B664-44C4-A6D6-3605B9F901AD.json
           "blue": 0.9176470588235294,
           "green": 0.9568627450980393,
-=======
-          "blue": 0.9450980392156862,
-          "green": 0.9411764705882353,
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/037FD14A-EB86-4F95-B4EA-F816136F2965/DBFEE4DA-CB7A-44B6-9854-059F4ADFAF7B.json
-=======
-          "blue": 0.9176470588235294,
-          "green": 0.9568627450980393,
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
           "red": 1
         },
         "contextSettings": {

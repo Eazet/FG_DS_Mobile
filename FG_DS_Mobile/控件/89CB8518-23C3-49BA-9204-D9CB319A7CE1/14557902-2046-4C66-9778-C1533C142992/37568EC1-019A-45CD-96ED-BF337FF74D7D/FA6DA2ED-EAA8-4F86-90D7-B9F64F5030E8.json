@@ -2,11 +2,7 @@
   "_class": "shapePath",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-<<<<<<< HEAD:FG_DS_Mobile/控件/89CB8518-23C3-49BA-9204-D9CB319A7CE1/14557902-2046-4C66-9778-C1533C142992/37568EC1-019A-45CD-96ED-BF337FF74D7D/FA6DA2ED-EAA8-4F86-90D7-B9F64F5030E8.json
   "do_objectID": "FA6DA2ED-EAA8-4F86-90D7-B9F64F5030E8",
-=======
-  "do_objectID": "F1EAD851-FD33-4A18-8D95-8199C7879060",
->>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050:FG_DS_Mobile/控件/5CCD2FFA-2CCB-4714-8655-572160271B52/4B21F4BE-1525-41C5-BDA0-3F832760D763/CB5BBA8A-8531-4C2A-B924-489417200453/F1EAD851-FD33-4A18-8D95-8199C7879060.json
   "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
@@ -20,17 +16,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-<<<<<<< HEAD:FG_DS_Mobile/控件/89CB8518-23C3-49BA-9204-D9CB319A7CE1/14557902-2046-4C66-9778-C1533C142992/37568EC1-019A-45CD-96ED-BF337FF74D7D/FA6DA2ED-EAA8-4F86-90D7-B9F64F5030E8.json
     "height": 20.46695187063847,
     "width": 24.39362154455775,
     "x": 2.303009245688675,
     "y": 2.266701181525035
-=======
-    "height": 10.6172874628653,
-    "width": 33.05386097773246,
-    "x": 0,
-    "y": 0
->>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050:FG_DS_Mobile/控件/5CCD2FFA-2CCB-4714-8655-572160271B52/4B21F4BE-1525-41C5-BDA0-3F832760D763/CB5BBA8A-8531-4C2A-B924-489417200453/F1EAD851-FD33-4A18-8D95-8199C7879060.json
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -46,7 +35,6 @@
   "points": [
     {
       "_class": "curvePoint",
-<<<<<<< HEAD:FG_DS_Mobile/控件/89CB8518-23C3-49BA-9204-D9CB319A7CE1/14557902-2046-4C66-9778-C1533C142992/37568EC1-019A-45CD-96ED-BF337FF74D7D/FA6DA2ED-EAA8-4F86-90D7-B9F64F5030E8.json
       "cornerRadius": 0,
       "curveFrom": "{0.51852658115153005, 0.007488700091070207}",
       "curveMode": 3,
@@ -54,87 +42,40 @@
       "hasCurveFrom": true,
       "hasCurveTo": true,
       "point": "{0.51443696624745561, 0.0046462525347272339}"
-=======
-      "cornerRadius": 100,
-      "curveFrom": "{0.92833817135504781, 0}",
-      "curveMode": 1,
-      "curveTo": "{0.92833817135504781, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0.92833817135504781, 0}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 100,
-      "curveFrom": "{1, 0.21359113867735283}",
-      "curveMode": 1,
-      "curveTo": "{1, 0.21359113867735283}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 0.21359113867735283}"
->>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050:FG_DS_Mobile/控件/5CCD2FFA-2CCB-4714-8655-572160271B52/4B21F4BE-1525-41C5-BDA0-3F832760D763/CB5BBA8A-8531-4C2A-B924-489417200453/F1EAD851-FD33-4A18-8D95-8199C7879060.json
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-<<<<<<< HEAD:FG_DS_Mobile/控件/89CB8518-23C3-49BA-9204-D9CB319A7CE1/14557902-2046-4C66-9778-C1533C142992/37568EC1-019A-45CD-96ED-BF337FF74D7D/FA6DA2ED-EAA8-4F86-90D7-B9F64F5030E8.json
       "curveFrom": "{0.52436390230490482, 0.016289363906589978}",
       "curveMode": 4,
       "curveTo": "{0.5219404268061939, 0.011492733655260854}",
       "hasCurveFrom": false,
       "hasCurveTo": true,
       "point": "{0.52436390230490482, 0.016289363906589978}"
-=======
-      "curveFrom": "{0.82808563105622834, 0.77261979755912713}",
-      "curveMode": 4,
-      "curveTo": "{0.96569601172483432, 0.32514035168138167}",
-      "hasCurveFrom": true,
-      "hasCurveTo": false,
-      "point": "{0.96569601172483432, 0.32514035168138167}"
->>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050:FG_DS_Mobile/控件/5CCD2FFA-2CCB-4714-8655-572160271B52/4B21F4BE-1525-41C5-BDA0-3F832760D763/CB5BBA8A-8531-4C2A-B924-489417200453/F1EAD851-FD33-4A18-8D95-8199C7879060.json
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-<<<<<<< HEAD:FG_DS_Mobile/控件/89CB8518-23C3-49BA-9204-D9CB319A7CE1/14557902-2046-4C66-9778-C1533C142992/37568EC1-019A-45CD-96ED-BF337FF74D7D/FA6DA2ED-EAA8-4F86-90D7-B9F64F5030E8.json
       "curveFrom": "{1.0040131361457754, 0.96562845410648923}",
       "curveMode": 4,
       "curveTo": "{0.99603859738639444, 0.9498449589261212}",
       "hasCurveFrom": true,
       "hasCurveTo": false,
       "point": "{0.99603859738639444, 0.9498449589261212}"
-=======
-      "curveFrom": "{0.32231436740169134, 1}",
-      "curveMode": 2,
-      "curveTo": "{0.67009107643032462, 1}",
-      "hasCurveFrom": true,
-      "hasCurveTo": true,
-      "point": "{0.49403901743433298, 1}"
->>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050:FG_DS_Mobile/控件/5CCD2FFA-2CCB-4714-8655-572160271B52/4B21F4BE-1525-41C5-BDA0-3F832760D763/CB5BBA8A-8531-4C2A-B924-489417200453/F1EAD851-FD33-4A18-8D95-8199C7879060.json
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-<<<<<<< HEAD:FG_DS_Mobile/控件/89CB8518-23C3-49BA-9204-D9CB319A7CE1/14557902-2046-4C66-9778-C1533C142992/37568EC1-019A-45CD-96ED-BF337FF74D7D/FA6DA2ED-EAA8-4F86-90D7-B9F64F5030E8.json
       "curveFrom": "{0.98174064435929542, 0.99839697310241937}",
       "curveMode": 3,
       "curveTo": "{0.99956869548540084, 0.98600575741429464}",
       "hasCurveFrom": true,
       "hasCurveTo": true,
       "point": "{0.98611166132894523, 0.99535893974340162}"
-=======
-      "curveFrom": "{0.043736666609862807, 0.3575501340025859}",
-      "curveMode": 4,
-      "curveTo": "{0.1713574383191811, 0.78354784669969291}",
-      "hasCurveFrom": false,
-      "hasCurveTo": true,
-      "point": "{0.043736666609862807, 0.3575501340025859}"
->>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050:FG_DS_Mobile/控件/5CCD2FFA-2CCB-4714-8655-572160271B52/4B21F4BE-1525-41C5-BDA0-3F832760D763/CB5BBA8A-8531-4C2A-B924-489417200453/F1EAD851-FD33-4A18-8D95-8199C7879060.json
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-<<<<<<< HEAD:FG_DS_Mobile/控件/89CB8518-23C3-49BA-9204-D9CB319A7CE1/14557902-2046-4C66-9778-C1533C142992/37568EC1-019A-45CD-96ED-BF337FF74D7D/FA6DA2ED-EAA8-4F86-90D7-B9F64F5030E8.json
       "curveFrom": "{0.97167248160901953, 1}",
       "curveMode": 4,
       "curveTo": "{0.97675333710829992, 1}",
@@ -151,101 +92,36 @@
       "hasCurveFrom": true,
       "hasCurveTo": false,
       "point": "{0.028323091446040078, 1}"
-=======
-      "curveFrom": "{0.033155676234067608, 0.32156541347816681}",
-      "curveMode": 1,
-      "curveTo": "{0.033155676234067608, 0.32156541347816681}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0.033155676234067608, 0.32156541347816681}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 100,
-      "curveFrom": "{0, 0.20670018000786369}",
-      "curveMode": 1,
-      "curveTo": "{0, 0.20670018000786369}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 0.20670018000786369}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 100,
-      "curveFrom": "{0.073792117905071911, 0.00025891773694063807}",
-      "curveMode": 1,
-      "curveTo": "{0.073792117905071911, 0.00025891773694063807}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0.073792117905071911, 0.00025891773694063807}"
->>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050:FG_DS_Mobile/控件/5CCD2FFA-2CCB-4714-8655-572160271B52/4B21F4BE-1525-41C5-BDA0-3F832760D763/CB5BBA8A-8531-4C2A-B924-489417200453/F1EAD851-FD33-4A18-8D95-8199C7879060.json
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-<<<<<<< HEAD:FG_DS_Mobile/控件/89CB8518-23C3-49BA-9204-D9CB319A7CE1/14557902-2046-4C66-9778-C1533C142992/37568EC1-019A-45CD-96ED-BF337FF74D7D/FA6DA2ED-EAA8-4F86-90D7-B9F64F5030E8.json
       "curveFrom": "{0, 0.96082115646828359}",
       "curveMode": 3,
       "curveTo": "{0, 0.98512707563196344}",
       "hasCurveFrom": true,
       "hasCurveTo": true,
       "point": "{0, 0.96678039364883017}"
-=======
-      "curveFrom": "{0.21851344990633492, 0.50163459383844788}",
-      "curveMode": 4,
-      "curveTo": "{0.10694779413913952, 0.11512415120724376}",
-      "hasCurveFrom": true,
-      "hasCurveTo": false,
-      "point": "{0.10694779413913952, 0.11512415120724376}"
->>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050:FG_DS_Mobile/控件/5CCD2FFA-2CCB-4714-8655-572160271B52/4B21F4BE-1525-41C5-BDA0-3F832760D763/CB5BBA8A-8531-4C2A-B924-489417200453/F1EAD851-FD33-4A18-8D95-8199C7879060.json
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-<<<<<<< HEAD:FG_DS_Mobile/控件/89CB8518-23C3-49BA-9204-D9CB319A7CE1/14557902-2046-4C66-9778-C1533C142992/37568EC1-019A-45CD-96ED-BF337FF74D7D/FA6DA2ED-EAA8-4F86-90D7-B9F64F5030E8.json
       "curveFrom": "{0.0039569756686652696, 0.94984495892612131}",
       "curveMode": 4,
       "curveTo": "{0.001366743390354508, 0.95497164021946357}",
       "hasCurveFrom": false,
       "hasCurveTo": true,
       "point": "{0.0039569756686652696, 0.94984495892612131}"
-=======
-      "curveFrom": "{0.6374255590741893, 0.69114067569723436}",
-      "curveMode": 2,
-      "curveTo": "{0.34661436657245326, 0.69114067569723436}",
-      "hasCurveFrom": true,
-      "hasCurveTo": true,
-      "point": "{0.49403901743433298, 0.69114067569723436}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.883128200153383, 0.14635121065260889}",
-      "curveMode": 4,
-      "curveTo": "{0.76641478698544896, 0.51175715694065438}",
-      "hasCurveFrom": false,
-      "hasCurveTo": true,
-      "point": "{0.883128200153383, 0.14635121065260889}"
->>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050:FG_DS_Mobile/控件/5CCD2FFA-2CCB-4714-8655-572160271B52/4B21F4BE-1525-41C5-BDA0-3F832760D763/CB5BBA8A-8531-4C2A-B924-489417200453/F1EAD851-FD33-4A18-8D95-8199C7879060.json
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-<<<<<<< HEAD:FG_DS_Mobile/控件/89CB8518-23C3-49BA-9204-D9CB319A7CE1/14557902-2046-4C66-9778-C1533C142992/37568EC1-019A-45CD-96ED-BF337FF74D7D/FA6DA2ED-EAA8-4F86-90D7-B9F64F5030E8.json
       "curveFrom": "{0.48360620950953609, 0.00050586872622148131}",
       "curveMode": 4,
       "curveTo": "{0.475631670750155, 0.016289363906589624}",
       "hasCurveFrom": true,
       "hasCurveTo": false,
       "point": "{0.475631670750155, 0.016289363906589624}"
-=======
-      "curveFrom": "{0.89403418307988203, 0.11154921300402885}",
-      "curveMode": 1,
-      "curveTo": "{0.89403418307988203, 0.11154921300402885}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0.89403418307988203, 0.11154921300402885}"
->>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050:FG_DS_Mobile/控件/5CCD2FFA-2CCB-4714-8655-572160271B52/4B21F4BE-1525-41C5-BDA0-3F832760D763/CB5BBA8A-8531-4C2A-B924-489417200453/F1EAD851-FD33-4A18-8D95-8199C7879060.json
     }
   ],
   "resizingConstraint": 63,
@@ -286,11 +162,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-<<<<<<< HEAD:FG_DS_Mobile/控件/89CB8518-23C3-49BA-9204-D9CB319A7CE1/14557902-2046-4C66-9778-C1533C142992/37568EC1-019A-45CD-96ED-BF337FF74D7D/FA6DA2ED-EAA8-4F86-90D7-B9F64F5030E8.json
     "do_objectID": "80FF2A63-C2DE-4FF3-9C72-A8DC1DBBB668",
-=======
-    "do_objectID": "B9CC7FF2-B0A6-49BE-98E4-79A309DCAEF2",
->>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050:FG_DS_Mobile/控件/5CCD2FFA-2CCB-4714-8655-572160271B52/4B21F4BE-1525-41C5-BDA0-3F832760D763/CB5BBA8A-8531-4C2A-B924-489417200453/F1EAD851-FD33-4A18-8D95-8199C7879060.json
     "endMarkerType": 0,
     "fills": [
       {
@@ -298,15 +170,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-<<<<<<< HEAD:FG_DS_Mobile/控件/89CB8518-23C3-49BA-9204-D9CB319A7CE1/14557902-2046-4C66-9778-C1533C142992/37568EC1-019A-45CD-96ED-BF337FF74D7D/FA6DA2ED-EAA8-4F86-90D7-B9F64F5030E8.json
           "blue": 0.1647058823529412,
           "green": 0.1529411764705882,
           "red": 0.1294117647058824
-=======
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
->>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050:FG_DS_Mobile/控件/5CCD2FFA-2CCB-4714-8655-572160271B52/4B21F4BE-1525-41C5-BDA0-3F832760D763/CB5BBA8A-8531-4C2A-B924-489417200453/F1EAD851-FD33-4A18-8D95-8199C7879060.json
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

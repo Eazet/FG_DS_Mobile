@@ -3306,8 +3306,6 @@
                       "red": 1
                     },
                     "position": 0
-<<<<<<< HEAD
-<<<<<<< HEAD
                   },
                   {
                     "_class": "gradientStop",
@@ -3419,10 +3417,6 @@
                       "red": 1
                     },
                     "position": 0
-=======
->>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050
-=======
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
                   },
                   {
                     "_class": "gradientStop",
@@ -3454,183 +3448,6 @@
           "windingRule": 1
         }
       },
-<<<<<<< HEAD
-<<<<<<< HEAD
-      "remoteStyleID": "4BB58B5B-D29C-42CC-9CC7-EC66BE7B3232[73336F41-67A3-4B12-9A52-E11FFF9946B5]",
-      "sourceLibraryName": "FG_Mobile_Design_Guideline(1)",
-=======
-      "remoteStyleID": "93B8CA34-F988-4EF9-9433-A8A1CA3D244B[708C24FC-F6C3-4873-B745-20E85AA8631C]",
-      "sourceLibraryName": "FG_DS_Mobile",
->>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050
-=======
-      "remoteStyleID": "93B8CA34-F988-4EF9-9433-A8A1CA3D244B[708C24FC-F6C3-4873-B745-20E85AA8631C]",
-      "sourceLibraryName": "FG_DS_Mobile",
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
-      "symbolPrivate": true
-    },
-    {
-      "_class": "MSImmutableForeignLayerStyle",
-<<<<<<< HEAD
-<<<<<<< HEAD
-      "do_objectID": "633FB01E-B83B-4FF0-B490-B4F416EC34E4",
-      "libraryID": "A072E488-6E15-46CC-BFDF-F0AEB00D4538",
-      "localSharedStyle": {
-        "_class": "sharedStyle",
-        "do_objectID": "9A1E8184-649C-453D-8FAF-26F441D7B2FA",
-        "name": "01.背景/纯白",
-=======
-=======
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
-      "do_objectID": "CCE00E1A-E874-4B0E-90D9-C64164BBB9DB",
-      "libraryID": "A072E488-6E15-46CC-BFDF-F0AEB00D4538",
-      "localSharedStyle": {
-        "_class": "sharedStyle",
-        "do_objectID": "15032835-8E22-4897-AB13-D3F360CEBE6D",
-        "name": "02.冷灰/40",
-<<<<<<< HEAD
->>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050
-=======
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
-        "value": {
-          "_class": "style",
-          "blur": {
-            "_class": "blur",
-            "center": "{0.5, 0.5}",
-            "isEnabled": false,
-            "motionAngle": 0,
-<<<<<<< HEAD
-<<<<<<< HEAD
-            "radius": 8.585858585858581,
-=======
-            "radius": 10,
->>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050
-=======
-            "radius": 10,
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
-            "saturation": 1,
-            "type": 0
-          },
-          "borderOptions": {
-            "_class": "borderOptions",
-            "dashPattern": [
-            ],
-            "isEnabled": true,
-            "lineCapStyle": 0,
-            "lineJoinStyle": 0
-          },
-          "borders": [
-          ],
-          "colorControls": {
-            "_class": "colorControls",
-            "brightness": 0,
-            "contrast": 1,
-            "hue": 0,
-<<<<<<< HEAD
-<<<<<<< HEAD
-            "isEnabled": false,
-=======
-            "isEnabled": true,
->>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050
-=======
-            "isEnabled": true,
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
-            "saturation": 1
-          },
-          "contextSettings": {
-            "_class": "graphicsContextSettings",
-            "blendMode": 0,
-            "opacity": 1
-          },
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "do_objectID": "F3252D78-0723-4671-9B0A-3DB154F09436",
-=======
-          "do_objectID": "C2419785-82A2-4086-90CA-A856FCC33E8C",
->>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050
-=======
-          "do_objectID": "C2419785-82A2-4086-90CA-A856FCC33E8C",
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
-          "endMarkerType": 0,
-          "fills": [
-            {
-              "_class": "fill",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "blue": 1,
-                "green": 1,
-                "red": 1
-=======
-                "blue": 0.7028702445652174,
-                "green": 0.6697959673366769,
-                "red": 0.6367216901081364
->>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050
-=======
-                "blue": 0.7028702445652174,
-                "green": 0.6697959673366769,
-                "red": 0.6367216901081364
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
-              },
-              "contextSettings": {
-                "_class": "graphicsContextSettings",
-                "blendMode": 0,
-                "opacity": 1
-              },
-              "fillType": 0,
-              "gradient": {
-                "_class": "gradient",
-                "elipseLength": 0,
-                "from": "{0.5, 0}",
-                "gradientType": 0,
-                "stops": [
-                  {
-                    "_class": "gradientStop",
-                    "color": {
-                      "_class": "color",
-                      "alpha": 1,
-                      "blue": 1,
-                      "green": 1,
-                      "red": 1
-                    },
-                    "position": 0
-                  },
-                  {
-                    "_class": "gradientStop",
-                    "color": {
-                      "_class": "color",
-                      "alpha": 1,
-                      "blue": 0,
-                      "green": 0,
-                      "red": 0
-                    },
-                    "position": 1
-                  }
-                ],
-                "to": "{0.5, 1}"
-              },
-              "isEnabled": true,
-              "noiseIndex": 0,
-              "noiseIntensity": 0,
-              "patternFillType": 1,
-              "patternTileScale": 1
-            }
-          ],
-          "innerShadows": [
-          ],
-          "miterLimit": 10,
-          "shadows": [
-          ],
-          "startMarkerType": 0,
-          "windingRule": 1
-        }
-      },
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
       "remoteStyleID": "4BB58B5B-D29C-42CC-9CC7-EC66BE7B3232[73336F41-67A3-4B12-9A52-E11FFF9946B5]",
       "sourceLibraryName": "FG_Mobile_Design_Guideline(1)",
       "symbolPrivate": true
@@ -3742,10 +3559,6 @@
           "windingRule": 1
         }
       },
-<<<<<<< HEAD
->>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050
-=======
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
       "remoteStyleID": "8A0A0BBB-B50F-430C-B3F0-DF28A9D780BC[A7201FE2-F96B-409A-A8D8-BA87EAED09CB]",
       "sourceLibraryName": "FG_DS_Mobile",
       "symbolPrivate": true
@@ -23672,8 +23485,8 @@
     ]
   },
   "meta": {
-    "appVersion": "69",
-    "build": 107357,
+    "appVersion": "70.1",
+    "build": 108880,
     "version": 134
   },
   "pages": [

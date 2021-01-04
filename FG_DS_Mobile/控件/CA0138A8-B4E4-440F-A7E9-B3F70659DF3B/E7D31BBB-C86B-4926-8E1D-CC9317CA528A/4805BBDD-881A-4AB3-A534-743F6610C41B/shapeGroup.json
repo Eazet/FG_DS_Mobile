@@ -1,8 +1,8 @@
 {
   "_class": "shapeGroup",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "88B4C41D-FFD0-4305-8D4C-9DBC95774ABA",
+  "do_objectID": "4805BBDD-881A-4AB3-A534-743F6610C41B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,11 +14,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 16.23754540840303,
-    "width": 5.399692170800922,
-    "x": 2.894758477074561,
-    "y": 7.468623235904364
+    "constrainProportions": true,
+    "height": 15,
+    "width": 15,
+    "x": 7,
+    "y": 6.5
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,34 +30,23 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "C9563767-884C-43B4-BEBE-84C66D3FE1D6"
+      "class": "shapePath",
+      "id": "CEC9C10B-80C4-4197-8C05-46EF27FC61CE"
     },
     {
-      "class": "rectangle",
-      "id": "7639A818-721C-4F6C-8B21-FFA8214860C0"
-    },
-    {
-      "class": "rectangle",
-      "id": "CC0A7B7B-645F-4C68-831D-EFBCA47568A1"
-    },
-    {
-      "class": "rectangle",
-      "id": "2DBBC787-6A39-4CF7-9DCF-7107D608C895"
-    },
-    {
-      "class": "rectangle",
-      "id": "EDD1E700-7A05-48EC-A0BA-1EB53849B4C6"
+      "class": "shapePath",
+      "id": "394DF800-BFAF-455A-9969-797C2DE67314"
     }
   ],
-  "name": "形状结合",
+  "name": "图标",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "8A2C072A-F9C5-4255-85E1-4D3972396DAA",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -79,63 +68,13 @@
       "lineJoinStyle": 0
     },
     "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "fillType": 0,
-        "gradient": {
-          "_class": "gradient",
-          "elipseLength": 0,
-          "from": "{0.5, 0}",
-          "gradientType": 0,
-          "stops": [
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 1,
-                "green": 1,
-                "red": 1
-              },
-              "position": 0
-            },
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0,
-                "green": 0,
-                "red": 0
-              },
-              "position": 1
-            }
-          ],
-          "to": "{0.5, 1}"
-        },
-        "isEnabled": false,
-        "position": 1,
-        "thickness": 1
-      }
     ],
     "colorControls": {
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": false,
+      "isEnabled": true,
       "saturation": 1
     },
     "contextSettings": {
@@ -143,7 +82,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "F4858110-8550-492D-9682-A1790BCD0650",
+    "do_objectID": "9C537605-7B2D-4DB3-A087-97A855AC882E",
     "endMarkerType": 0,
     "fills": [
       {
@@ -151,9 +90,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.1647058823529412,
+          "green": 0.1529411764705882,
+          "red": 0.1294117647058823
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

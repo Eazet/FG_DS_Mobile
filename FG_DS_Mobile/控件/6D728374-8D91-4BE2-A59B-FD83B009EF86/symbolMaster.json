@@ -26,15 +26,7 @@
     "height": 88,
     "width": 91,
     "x": -514,
-<<<<<<< HEAD
-<<<<<<< HEAD
     "y": 4094
-=======
-    "y": 4310
->>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050
-=======
-    "y": 4310
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
@@ -44,7 +36,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",

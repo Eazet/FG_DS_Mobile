@@ -10,15 +10,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-<<<<<<< HEAD
   "do_objectID": "AFB5CAA9-0146-4895-96CE-9D03E4C7AB18",
-=======
-<<<<<<< HEAD:小鹿系统组件库/组件/4E9F7492-3B4E-44F2-80D6-E51E3E62A071/symbolMaster.json
-  "do_objectID": "4E9F7492-3B4E-44F2-80D6-E51E3E62A071",
-=======
-  "do_objectID": "AFB5CAA9-0146-4895-96CE-9D03E4C7AB18",
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/AFB5CAA9-0146-4895-96CE-9D03E4C7AB18/symbolMaster.json
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -31,23 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD:小鹿系统组件库/组件/4E9F7492-3B4E-44F2-80D6-E51E3E62A071/symbolMaster.json
-    "height": 16,
-    "width": 16,
-    "x": 10031,
-    "y": -339
-=======
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
     "height": 48,
     "width": 152,
     "x": 3021,
     "y": 5318
-<<<<<<< HEAD
-=======
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/AFB5CAA9-0146-4895-96CE-9D03E4C7AB18/symbolMaster.json
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -73,18 +52,6 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD:小鹿系统组件库/组件/4E9F7492-3B4E-44F2-80D6-E51E3E62A071/symbolMaster.json
-      "class": "shapeGroup",
-      "id": "2D515AE5-A489-4B23-837F-1F16F4EF5373"
-    }
-  ],
-  "name": "01. General 通用/Icon图标/16/141.钥匙",
-  "nameIsFixed": true,
-  "overrideProperties": [
-=======
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
       "class": "group",
       "id": "4E47E994-70E3-4DDF-A0DD-8784A23359E7"
     }
@@ -97,10 +64,6 @@
       "canOverride": true,
       "overrideName": "2E6A3115-9FF4-48E5-9708-35CA870B5D29_stringValue"
     }
-<<<<<<< HEAD
-=======
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/AFB5CAA9-0146-4895-96CE-9D03E4C7AB18/symbolMaster.json
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   ],
   "presetDictionary": {
   },
@@ -116,15 +79,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-<<<<<<< HEAD
       "radius": 20,
-=======
-<<<<<<< HEAD:小鹿系统组件库/组件/4E9F7492-3B4E-44F2-80D6-E51E3E62A071/symbolMaster.json
-      "radius": 6.666666666666666,
-=======
-      "radius": 20,
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/AFB5CAA9-0146-4895-96CE-9D03E4C7AB18/symbolMaster.json
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
       "saturation": 1,
       "type": 0
     },
@@ -151,15 +106,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-<<<<<<< HEAD
     "do_objectID": "6C214C71-2A71-4093-AC45-54A012AD18B6",
-=======
-<<<<<<< HEAD:小鹿系统组件库/组件/4E9F7492-3B4E-44F2-80D6-E51E3E62A071/symbolMaster.json
-    "do_objectID": "D9FF8282-7BCB-4A80-9922-B7538F92935D",
-=======
-    "do_objectID": "6C214C71-2A71-4093-AC45-54A012AD18B6",
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/AFB5CAA9-0146-4895-96CE-9D03E4C7AB18/symbolMaster.json
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
     "endMarkerType": 0,
     "fills": [
     ],
@@ -171,15 +118,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-<<<<<<< HEAD
   "symbolID": "6641A0C3-0FFB-491B-A802-BB881AD2CB60",
-=======
-<<<<<<< HEAD:小鹿系统组件库/组件/4E9F7492-3B4E-44F2-80D6-E51E3E62A071/symbolMaster.json
-  "symbolID": "B3AE6B87-C0C9-4D3B-8258-A1B79E272293",
-=======
-  "symbolID": "6641A0C3-0FFB-491B-A802-BB881AD2CB60",
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/AFB5CAA9-0146-4895-96CE-9D03E4C7AB18/symbolMaster.json
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

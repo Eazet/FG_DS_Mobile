@@ -1,9 +1,8 @@
 {
-  "_class": "rectangle",
-  "booleanOperation": 1,
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1A8BE657-18C3-4334-AE7D-5727F1E8E9C8",
-  "edited": true,
+  "do_objectID": "E7D31BBB-C86B-4926-8E1D-CC9317CA528A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,83 +12,44 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 8.11877270397697,
-    "width": 2.774130762081768,
-    "x": 9.094947017729282e-13,
-    "y": 0
+    "height": 28,
+    "width": 28,
+    "x": 2,
+    "y": 2
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "hasConvertedToNewRoundCorners": true,
-  "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "矩形",
-  "nameIsFixed": false,
-  "needsConvertionToNewRoundCorners": false,
-  "pointRadiusBehaviour": 1,
-  "points": [
+  "layerListExpandedType": 2,
+  "layers": [
     {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0.40524944053821355, 0}",
-      "curveMode": 1,
-      "curveTo": "{0.071916107204880314, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0.10787416080732047, 0}"
+      "class": "oval",
+      "id": "E11F6713-70B9-4446-8DDF-652172CBF542"
     },
     {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{1.0271399412752429, 0}",
-      "curveMode": 1,
-      "curveTo": "{0.70262472026910672, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0.99999999999999989, 0}"
+      "class": "shapeGroup",
+      "id": "4805BBDD-881A-4AB3-A534-743F6610C41B"
     },
     {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0.96133716177015271, 0.88885546174974728}",
-      "curveMode": 1,
-      "curveTo": "{0.96133716177015271, 0.57055942273101623}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0.96133716177015271, 0.84706905914867991}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0.50332020479120343, 0.95821359740173373}",
-      "curveMode": 1,
-      "curveTo": "{0.50332020479120343, 1.0000000000027283}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0.50332020479120343, 1.0000000000027283}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{-6.3450881202570539e-12, 0.55301927283843244}",
-      "curveMode": 1,
-      "curveTo": "{-6.3450881202570539e-12, 0.8713153118571636}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{-6.3450881202570539e-12, 0.82952890925616873}"
+      "class": "shapeGroup",
+      "id": "4984DCF9-C31F-4370-9F10-6D48231D3415"
     }
   ],
+  "name": "形状结合",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 360,
+  "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -98,7 +58,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 17.5,
       "saturation": 1,
       "type": 0
     },
@@ -159,7 +119,7 @@
         },
         "isEnabled": false,
         "position": 1,
-        "thickness": 1
+        "thickness": 1.75
       }
     ],
     "colorControls": {
@@ -173,9 +133,9 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 0.5358602834302325
+      "opacity": 1
     },
-    "do_objectID": "CFFFB1F4-F67F-4442-B059-6675C82B364F",
+    "do_objectID": "B247E2B1-9062-4528-8BEC-339D1DB65220",
     "endMarkerType": 0,
     "fills": [
       {
@@ -183,9 +143,10 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 0.1647058823529412,
+          "green": 0.1529411764705882,
+          "red": 0.1294117647058823,
+          "swatchID": "C1D1609A-5D27-4448-813C-5748C8F10282"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -238,5 +199,6 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "windingRule": 1
 }

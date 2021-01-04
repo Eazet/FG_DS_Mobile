@@ -2,15 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-<<<<<<< HEAD
-<<<<<<< HEAD:FG_DS_Mobile/06. Others 其他/7164CEFD-8677-4112-9897-8DD395E31E1B/1BB7545B-B38B-44D4-B2F7-44ED41471330.json
   "do_objectID": "1BB7545B-B38B-44D4-B2F7-44ED41471330",
-=======
-  "do_objectID": "D6686961-CFC9-4084-B813-89B95FC59186",
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/56A67319-AE9F-4EF1-B8C5-0E9B1BFA85C2/B5E3DD7B-0D2C-4051-A9E2-C0F42E44A137/D6686961-CFC9-4084-B813-89B95FC59186.json
-=======
-  "do_objectID": "1BB7545B-B38B-44D4-B2F7-44ED41471330",
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -79,15 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-<<<<<<< HEAD
-<<<<<<< HEAD:FG_DS_Mobile/06. Others 其他/7164CEFD-8677-4112-9897-8DD395E31E1B/1BB7545B-B38B-44D4-B2F7-44ED41471330.json
     "do_objectID": "39946221-5571-4ACC-BDA0-83C99402D857",
-=======
-    "do_objectID": "2DEF7FC2-E2AC-46A7-9949-A188B0CCEEF9",
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/56A67319-AE9F-4EF1-B8C5-0E9B1BFA85C2/B5E3DD7B-0D2C-4051-A9E2-C0F42E44A137/D6686961-CFC9-4084-B813-89B95FC59186.json
-=======
-    "do_objectID": "39946221-5571-4ACC-BDA0-83C99402D857",
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
     "endMarkerType": 0,
     "fills": [
     ],

@@ -39,15 +39,7 @@
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-<<<<<<< HEAD
-<<<<<<< HEAD:FG_DS_Mobile/StyleGuide/6E893648-CED9-47D8-A740-15F00CB4790E/90D7FF5D-2AAB-4CA0-9E66-A5D3DAC9ABF7.json
   "do_objectID": "90D7FF5D-2AAB-4CA0-9E66-A5D3DAC9ABF7",
-=======
-  "do_objectID": "A07E7148-44A3-4A3F-A20D-0B0DD353B2F4",
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/56A67319-AE9F-4EF1-B8C5-0E9B1BFA85C2/B5E3DD7B-0D2C-4051-A9E2-C0F42E44A137/C888F701-87E2-41B1-88BC-D9B8F506A6BD/A07E7148-44A3-4A3F-A20D-0B0DD353B2F4.json
-=======
-  "do_objectID": "90D7FF5D-2AAB-4CA0-9E66-A5D3DAC9ABF7",
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -116,15 +108,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-<<<<<<< HEAD
-<<<<<<< HEAD:FG_DS_Mobile/StyleGuide/6E893648-CED9-47D8-A740-15F00CB4790E/90D7FF5D-2AAB-4CA0-9E66-A5D3DAC9ABF7.json
     "do_objectID": "576B962A-B6BF-4C49-A410-2764B9CBAD54",
-=======
-    "do_objectID": "29BABFDB-5B14-4252-940E-02EF4AF12940",
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/56A67319-AE9F-4EF1-B8C5-0E9B1BFA85C2/B5E3DD7B-0D2C-4051-A9E2-C0F42E44A137/C888F701-87E2-41B1-88BC-D9B8F506A6BD/A07E7148-44A3-4A3F-A20D-0B0DD353B2F4.json
-=======
-    "do_objectID": "576B962A-B6BF-4C49-A410-2764B9CBAD54",
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
     "endMarkerType": 0,
     "fills": [
     ],

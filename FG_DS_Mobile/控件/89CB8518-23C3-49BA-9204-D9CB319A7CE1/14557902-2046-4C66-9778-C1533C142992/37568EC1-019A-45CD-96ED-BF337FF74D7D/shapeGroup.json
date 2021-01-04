@@ -2,11 +2,7 @@
   "_class": "shapeGroup",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-<<<<<<< HEAD:FG_DS_Mobile/控件/89CB8518-23C3-49BA-9204-D9CB319A7CE1/14557902-2046-4C66-9778-C1533C142992/37568EC1-019A-45CD-96ED-BF337FF74D7D/shapeGroup.json
   "do_objectID": "37568EC1-019A-45CD-96ED-BF337FF74D7D",
-=======
-  "do_objectID": "9FB51CD8-562E-434D-8D8B-76D5B7FA352D",
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/CDF4AAF6-C446-4CB7-91DF-BB30692DBF00/9FB51CD8-562E-434D-8D8B-76D5B7FA352D/shapeGroup.json
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -19,17 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-<<<<<<< HEAD:FG_DS_Mobile/控件/89CB8518-23C3-49BA-9204-D9CB319A7CE1/14557902-2046-4C66-9778-C1533C142992/37568EC1-019A-45CD-96ED-BF337FF74D7D/shapeGroup.json
     "height": 25,
     "width": 29,
     "x": 0,
     "y": 0
-=======
-    "height": 14,
-    "width": 20,
-    "x": 2,
-    "y": 5
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/CDF4AAF6-C446-4CB7-91DF-BB30692DBF00/9FB51CD8-562E-434D-8D8B-76D5B7FA352D/shapeGroup.json
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -41,19 +30,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapePath",
-<<<<<<< HEAD:FG_DS_Mobile/控件/89CB8518-23C3-49BA-9204-D9CB319A7CE1/14557902-2046-4C66-9778-C1533C142992/37568EC1-019A-45CD-96ED-BF337FF74D7D/shapeGroup.json
       "id": "ECE168A1-65FC-4D84-8AF1-D77AD4469709"
     },
     {
       "class": "shapePath",
       "id": "FA6DA2ED-EAA8-4F86-90D7-B9F64F5030E8"
-=======
-      "id": "48FAF030-41F7-47FC-A27E-977D15E73D4A"
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/CDF4AAF6-C446-4CB7-91DF-BB30692DBF00/9FB51CD8-562E-434D-8D8B-76D5B7FA352D/shapeGroup.json
     }
   ],
   "name": "三角形",
@@ -96,11 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-<<<<<<< HEAD:FG_DS_Mobile/控件/89CB8518-23C3-49BA-9204-D9CB319A7CE1/14557902-2046-4C66-9778-C1533C142992/37568EC1-019A-45CD-96ED-BF337FF74D7D/shapeGroup.json
     "do_objectID": "C898C4BB-361A-445A-A499-8FC961D0C52E",
-=======
-    "do_objectID": "7022DDE6-F658-4FFE-B08C-A8DABC37E739",
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/CDF4AAF6-C446-4CB7-91DF-BB30692DBF00/9FB51CD8-562E-434D-8D8B-76D5B7FA352D/shapeGroup.json
     "endMarkerType": 0,
     "fills": [
       {
@@ -164,17 +145,5 @@
     "startMarkerType": 0,
     "windingRule": 0
   },
-<<<<<<< HEAD:FG_DS_Mobile/控件/89CB8518-23C3-49BA-9204-D9CB319A7CE1/14557902-2046-4C66-9778-C1533C142992/37568EC1-019A-45CD-96ED-BF337FF74D7D/shapeGroup.json
   "windingRule": 0
-=======
-  "userInfo": {
-    "com.sketch.detach": {
-      "sharedStyle": {
-        "sharedStyleId": "0128063F-45AB-497A-B3A8-B00FA521F9FF",
-        "sharedStyleName": "00.纯白"
-      }
-    }
-  },
-  "windingRule": 1
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/CDF4AAF6-C446-4CB7-91DF-BB30692DBF00/9FB51CD8-562E-434D-8D8B-76D5B7FA352D/shapeGroup.json
 }

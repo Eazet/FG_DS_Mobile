@@ -9,21 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-<<<<<<< HEAD
-<<<<<<< HEAD:FG_DS_Mobile/控件/BABD3B3C-4C6F-4091-B2C5-D52280EA4428/C94C4E29-6E3D-48AF-AB5B-F3BC2C412CBE.json
             "blue": 0.3450980392156863,
             "green": 0.3254901960784314,
             "red": 0.3019607843137255
-=======
-            "blue": 0.3803921568627451,
-            "green": 0.3803921568627451,
-            "red": 0.9607843137254902
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/037FD14A-EB86-4F95-B4EA-F816136F2965/35A81938-69E4-4062-97B3-30F051F0A80B.json
-=======
-            "blue": 0.3450980392156863,
-            "green": 0.3254901960784314,
-            "red": 0.3019607843137255
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -44,28 +32,12 @@
         "location": 0
       }
     ],
-<<<<<<< HEAD
-<<<<<<< HEAD:FG_DS_Mobile/控件/BABD3B3C-4C6F-4091-B2C5-D52280EA4428/C94C4E29-6E3D-48AF-AB5B-F3BC2C412CBE.json
     "string": "业主急售"
-=======
-    "string": "7天"
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/037FD14A-EB86-4F95-B4EA-F816136F2965/35A81938-69E4-4062-97B3-30F051F0A80B.json
-=======
-    "string": "业主急售"
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-<<<<<<< HEAD
-<<<<<<< HEAD:FG_DS_Mobile/控件/BABD3B3C-4C6F-4091-B2C5-D52280EA4428/C94C4E29-6E3D-48AF-AB5B-F3BC2C412CBE.json
   "do_objectID": "C94C4E29-6E3D-48AF-AB5B-F3BC2C412CBE",
-=======
-  "do_objectID": "35A81938-69E4-4062-97B3-30F051F0A80B",
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/037FD14A-EB86-4F95-B4EA-F816136F2965/35A81938-69E4-4062-97B3-30F051F0A80B.json
-=======
-  "do_objectID": "C94C4E29-6E3D-48AF-AB5B-F3BC2C412CBE",
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -80,31 +52,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 20,
-<<<<<<< HEAD
-<<<<<<< HEAD:FG_DS_Mobile/控件/BABD3B3C-4C6F-4091-B2C5-D52280EA4428/C94C4E29-6E3D-48AF-AB5B-F3BC2C412CBE.json
     "width": 80,
-<<<<<<< HEAD
     "x": 8,
-=======
-    "x": 6,
->>>>>>> b94a42e1bfcb3f6324aab62cbc8aff550c138050
     "y": 6
   },
   "glyphBounds": "{{1, 0}, {78, 20}}",
-=======
-    "width": 31,
-    "x": 6,
-    "y": 6
-  },
-  "glyphBounds": "{{0, 1}, {31, 19}}",
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/037FD14A-EB86-4F95-B4EA-F816136F2965/35A81938-69E4-4062-97B3-30F051F0A80B.json
-=======
-    "width": 80,
-    "x": 6,
-    "y": 6
-  },
-  "glyphBounds": "{{1, 0}, {78, 20}}",
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -153,15 +105,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-<<<<<<< HEAD
-<<<<<<< HEAD:FG_DS_Mobile/控件/BABD3B3C-4C6F-4091-B2C5-D52280EA4428/C94C4E29-6E3D-48AF-AB5B-F3BC2C412CBE.json
     "do_objectID": "43C3573D-220E-4E0A-A3B5-642EE37F206D",
-=======
-    "do_objectID": "3982F3B0-9527-4DE3-A15F-9D547BC7447B",
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/037FD14A-EB86-4F95-B4EA-F816136F2965/35A81938-69E4-4062-97B3-30F051F0A80B.json
-=======
-    "do_objectID": "43C3573D-220E-4E0A-A3B5-642EE37F206D",
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
     "endMarkerType": 0,
     "fills": [
     ],
@@ -177,21 +121,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-<<<<<<< HEAD
-<<<<<<< HEAD:FG_DS_Mobile/控件/BABD3B3C-4C6F-4091-B2C5-D52280EA4428/C94C4E29-6E3D-48AF-AB5B-F3BC2C412CBE.json
           "blue": 0.3450980392156863,
           "green": 0.3254901960784314,
           "red": 0.3019607843137255
-=======
-          "blue": 0.3803921568627451,
-          "green": 0.3803921568627451,
-          "red": 0.9607843137254902
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350:FG_DS_Mobile/控件/037FD14A-EB86-4F95-B4EA-F816136F2965/35A81938-69E4-4062-97B3-30F051F0A80B.json
-=======
-          "blue": 0.3450980392156863,
-          "green": 0.3254901960784314,
-          "red": 0.3019607843137255
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

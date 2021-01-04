@@ -34,11 +34,7 @@
         "location": 0
       }
     ],
-<<<<<<< HEAD
     "string": "B-58-S"
-=======
-    "string": "B-58-F"
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -58,19 +54,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 26,
-<<<<<<< HEAD
     "width": 91,
     "x": 38,
     "y": 150
   },
   "glyphBounds": "{{1, 4}, {89, 19}}",
-=======
-    "width": 89,
-    "x": 38,
-    "y": 150
-  },
-  "glyphBounds": "{{1, 4}, {87, 19}}",
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -79,11 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-<<<<<<< HEAD
   "name": "B-58-S",
-=======
-  "name": "B-58-F",
->>>>>>> 0c643d4a028ca4b678eada76d9a4e34f4c20b350
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
