@@ -25,14 +25,14 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 10031,
-    "y": -339
+    "x": -3677,
+    "y": 2334
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -56,7 +56,7 @@
       "id": "2D515AE5-A489-4B23-837F-1F16F4EF5373"
     }
   ],
-  "name": "01. General 通用/Icon图标/16/141.钥匙",
+  "name": "01. General 通用/Icon图标/16/143.钥匙",
   "nameIsFixed": true,
   "overrideProperties": [
   ],

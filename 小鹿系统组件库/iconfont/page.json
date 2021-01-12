@@ -61,6 +61,10 @@
     },
     {
       "class": "symbolInstance",
+      "id": "64A7AAA6-C25B-47A1-9680-89E9C6C6ABC6"
+    },
+    {
+      "class": "symbolInstance",
       "id": "52532AA1-FFB6-4C3E-8EA1-CC4BC7263106"
     },
     {
@@ -1793,6 +1797,10 @@
     },
     {
       "class": "artboard",
+      "id": "0171B6FD-6C39-4C7C-9A4A-2E9A1DABCBDB"
+    },
+    {
+      "class": "artboard",
       "id": "18C48527-FF48-46A9-BDFE-3213B82A62F6"
     },
     {
@@ -2894,6 +2902,10 @@
     {
       "class": "group",
       "id": "FF80571B-9084-4EB4-9F56-0F4A24EE4753"
+    },
+    {
+      "class": "group",
+      "id": "D4906FFC-E501-486B-B9D6-04FE5E823585"
     }
   ],
   "name": "iconfont",
