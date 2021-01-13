@@ -10,7 +10,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "319DE08D-52E9-45FE-A010-318BD72EAEA4",
+  "do_objectID": "D2352BCB-FAA4-4E53-B719-0C928BB26E03",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,16 +23,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 16,
-    "x": -3649,
-    "y": 2334
+    "height": 24,
+    "width": 24,
+    "x": -3573,
+    "y": 2638
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -52,13 +52,27 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "4EE2B14B-9EAD-4B81-AB34-9C4026E319BF"
+    },
+    {
       "class": "shapeGroup",
-      "id": "5E7AEEBD-6B79-4CA3-A934-19D1C7A01609"
+      "id": "4C6795A9-0A50-4411-A2D2-03F5AEDED90E"
     }
   ],
-  "name": "01. General 通用/Icon图标/16/144.门店",
+  "name": "01. General 通用/Icon图标/24/054.通知-合作人",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4C6795A9-0A50-4411-A2D2-03F5AEDED90E_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4EE2B14B-9EAD-4B81-AB34-9C4026E319BF_layerStyle"
+    }
   ],
   "presetDictionary": {
   },
@@ -74,7 +88,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 6.666666666666666,
+      "radius": 15,
       "saturation": 1,
       "type": 0
     },
@@ -101,7 +115,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "B2F0C885-0A78-4FD5-9E5B-C7A6CD1C7F1F",
+    "do_objectID": "7B98E8AB-02B2-416C-A892-5DE560C6878C",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -113,7 +127,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "F8105AD0-E945-422F-8EB9-E4D90BA18F30",
+  "symbolID": "895F1772-C6DD-4034-AFAF-51707E0696CC",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

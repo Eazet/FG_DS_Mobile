@@ -25,14 +25,14 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": -3397,
-    "y": 2602
+    "x": -3617,
+    "y": 2638
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,6 +59,11 @@
   "name": "01. General 通用/Icon图标/24/053.聚焦",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F9FF2D90-C80A-4338-83BA-3DB47E1D3754_layerStyle"
+    }
   ],
   "presetDictionary": {
   },
