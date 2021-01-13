@@ -192,7 +192,7 @@
       "do_objectID": "4CE71446-03D5-4957-8492-0FCC76F69713",
       "fontFamilyName": "SF Pro Text",
       "fontFileName": "SF-Pro-Text-Regular.otf",
-      "options": 6,
+      "options": 0,
       "postscriptNames": [
         "SFProText-Regular"
       ]
@@ -23485,8 +23485,8 @@
     ]
   },
   "meta": {
-    "appVersion": "70.1",
-    "build": 108880,
+    "appVersion": "69",
+    "build": 107357,
     "version": 134
   },
   "pages": [
