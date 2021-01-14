@@ -1653,6 +1653,14 @@
     },
     {
       "class": "symbolMaster",
+      "id": "4ADF6A33-F09A-4096-9E98-62B5CFE71084"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "5E79D1FE-E7E0-4DBB-947D-A2ECFDA59E69"
+    },
+    {
+      "class": "symbolMaster",
       "id": "10A69B5F-ED11-4A39-B38C-BBFB0E07864A"
     },
     {
@@ -1822,6 +1830,10 @@
     {
       "class": "symbolMaster",
       "id": "11B19788-BB5B-442D-B33B-EFCAE74B02D6"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "8B821AE8-4479-4517-A00A-8C1804D4FF29"
     }
   ],
   "name": "控件",

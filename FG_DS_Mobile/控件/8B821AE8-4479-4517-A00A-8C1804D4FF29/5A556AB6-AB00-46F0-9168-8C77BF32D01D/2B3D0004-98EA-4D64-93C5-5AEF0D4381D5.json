@@ -1,8 +1,9 @@
 {
-  "_class": "shapeGroup",
+  "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B2A9FD76-FEFD-4A72-BC28-9838FCBB866C",
+  "do_objectID": "2B3D0004-98EA-4D64-93C5-5AEF0D4381D5",
+  "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,49 +13,70 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fixedRadius": 1,
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 16.20015746549389,
+    "height": 32,
     "width": 32,
     "x": 0,
-    "y": 8.499986727846721
+    "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "hasConvertedToNewRoundCorners": true,
+  "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "矩形",
+  "nameIsFixed": false,
+  "needsConvertionToNewRoundCorners": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
     {
-      "class": "shapeGroup",
-      "id": "6A026681-D0FE-4ACF-A5FE-7BF4B4C56B13"
+      "_class": "curvePoint",
+      "cornerRadius": 1,
+      "curveFrom": "{0, 0}",
+      "curveMode": 1,
+      "curveTo": "{0, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0}"
     },
     {
-      "class": "shapeGroup",
-      "id": "0A0B894E-D2A7-4432-B25C-23721E251E59"
+      "_class": "curvePoint",
+      "cornerRadius": 1,
+      "curveFrom": "{1, 0}",
+      "curveMode": 1,
+      "curveTo": "{1, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 0}"
     },
     {
-      "class": "shapeGroup",
-      "id": "928AA543-4022-4878-9EED-33C54767E82D"
+      "_class": "curvePoint",
+      "cornerRadius": 1,
+      "curveFrom": "{1, 1}",
+      "curveMode": 1,
+      "curveTo": "{1, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 1}"
     },
     {
-      "class": "shapeGroup",
-      "id": "A769EDDE-0759-411E-8E5D-8E7B837CF21A"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "971D57B7-5559-4955-9E4D-8D3863F4C89E"
+      "_class": "curvePoint",
+      "cornerRadius": 1,
+      "curveFrom": "{0, 1}",
+      "curveMode": 1,
+      "curveTo": "{0, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 1}"
     }
   ],
-  "name": "形状结合",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -79,6 +101,56 @@
       "lineJoinStyle": 0
     },
     "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
     ],
     "colorControls": {
       "_class": "colorControls",
@@ -91,9 +163,9 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 1
+      "opacity": 0
     },
-    "do_objectID": "B096105A-306A-4425-863C-C397F4206DCD",
+    "do_objectID": "D9A47760-4617-4172-A159-03BF356B2860",
     "endMarkerType": 0,
     "fills": [
       {
@@ -101,10 +173,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1647058823529412,
-          "green": 0.1529411764705882,
-          "red": 0.1294117647058823,
-          "swatchID": "C1D1609A-5D27-4448-813C-5748C8F10282"
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -156,7 +227,6 @@
     "shadows": [
     ],
     "startMarkerType": 0,
-    "windingRule": 0
-  },
-  "windingRule": 0
+    "windingRule": 1
+  }
 }

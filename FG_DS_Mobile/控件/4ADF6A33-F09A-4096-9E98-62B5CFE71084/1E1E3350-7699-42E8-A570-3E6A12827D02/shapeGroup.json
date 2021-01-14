@@ -2,7 +2,7 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "652A9032-5A2C-44EF-BFAC-25C14A9C1888",
+  "do_objectID": "1E1E3350-7699-42E8-A570-3E6A12827D02",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 26,
-    "width": 23.26828314293943,
-    "x": 4.365858428530741,
-    "y": 3.000000000000348
+    "height": 10.5,
+    "width": 14.69623655912228,
+    "x": 8.499999999999684,
+    "y": 10.75
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -34,19 +34,19 @@
   "layers": [
     {
       "class": "shapePath",
-      "id": "5A0DAB34-1E30-4BDE-B777-DEEA5215760A"
+      "id": "ABE9F51A-3568-4F9B-8D0D-BA1B49D55F0E"
     },
     {
       "class": "shapePath",
-      "id": "EF748712-8D78-40D3-969E-6039829FDFD0"
+      "id": "A8C43D8C-80D0-45D6-BC0C-ADCD2F53EDA9"
     }
   ],
-  "name": "形状",
+  "name": "“",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 270,
-  "sharedStyleID": "72AD9A78-8B69-4E9A-AEF8-70F8D799C19E",
+  "rotation": 0,
+  "sharedStyleID": "37B9B7B7-DC92-447D-8055-3FBB6B3E0268",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -82,7 +82,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "5311A64D-84C9-40B6-9170-C6923CDE6127",
+    "do_objectID": "9353779D-E6DD-458E-B031-359F6664102A",
     "endMarkerType": 0,
     "fills": [
       {
