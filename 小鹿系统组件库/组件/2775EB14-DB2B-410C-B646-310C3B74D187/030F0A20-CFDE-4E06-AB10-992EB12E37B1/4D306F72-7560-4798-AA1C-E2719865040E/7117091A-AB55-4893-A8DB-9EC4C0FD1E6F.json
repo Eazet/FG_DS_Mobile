@@ -2,7 +2,7 @@
   "_class": "shapePath",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0006AF32-085F-465E-9720-03CFC7513BF2",
+  "do_objectID": "7117091A-AB55-4893-A8DB-9EC4C0FD1E6F",
   "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
@@ -16,8 +16,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 9.878000000000316,
-    "width": 7,
+    "height": 10,
+    "width": 10,
     "x": 1.5,
     "y": 1.5
   },
@@ -29,59 +29,129 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "路径",
+  "name": "Path",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.99999999999999989, 0}",
+      "curveFrom": "{0.84999999999996612, 0}",
       "curveMode": 1,
-      "curveTo": "{0.99999999999999989, 0}",
+      "curveTo": "{0.84999999999996612, 0}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0.99999999999999989, 0}"
+      "point": "{0.84999999999996612, 0}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0, 0}",
-      "curveMode": 1,
-      "curveTo": "{0, 0}",
-      "hasCurveFrom": false,
+      "curveFrom": "{0.072030388259159375, 0}",
+      "curveMode": 4,
+      "curveTo": "{0.14999999999997729, 0}",
+      "hasCurveFrom": true,
       "hasCurveTo": false,
-      "point": "{0, 0}"
+      "point": "{0.14999999999997729, 0}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0, 0.99999999999999989}",
-      "curveMode": 1,
-      "curveTo": "{0, 0.99999999999999989}",
+      "curveFrom": "{0.0006866578060567009, 0.13555399894552525}",
+      "curveMode": 4,
+      "curveTo": "{0.0079551321827285651, 0.059488808326955314}",
       "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 0.99999999999999989}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 1,
-      "curveFrom": "{0.5, 0.71664942296010281}",
-      "curveMode": 1,
-      "curveTo": "{0.5, 0.71664942296010281}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0.5, 0.71664942296010281}"
+      "hasCurveTo": true,
+      "point": "{0.0006866578060567009, 0.13555399894552525}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.99999999999999989, 0.99999999999999989}",
+      "curveFrom": "{0, 0.14999999999997729}",
       "curveMode": 1,
-      "curveTo": "{0.99999999999999989, 0.99999999999999989}",
+      "curveTo": "{0, 0.14999999999997729}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0.99999999999999989, 0.99999999999999989}"
+      "point": "{0, 0.14999999999997729}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{5.6843418860808015e-14, 0.927969611740869}",
+      "curveMode": 4,
+      "curveTo": "{5.6843418860808015e-14, 0.85000000000005116}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{5.6843418860808015e-14, 0.85000000000005116}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.13555399894545417, 0.9993133421939433}",
+      "curveMode": 4,
+      "curveTo": "{0.059488808326884163, 0.99204486781727175}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{0.13555399894545417, 0.9993133421939433}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.15000000000003411, 1}",
+      "curveMode": 1,
+      "curveTo": "{0.15000000000003411, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.15000000000003411, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.92796961174078363, 1}",
+      "curveMode": 4,
+      "curveTo": "{0.84999999999996589, 1}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{0.84999999999996589, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.9993133421939433, 0.86444600105451741}",
+      "curveMode": 4,
+      "curveTo": "{0.99204486781727141, 0.9405111916730875}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{0.9993133421939433, 0.86444600105451741}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1.0000000000000568, 0.85000000000005116}",
+      "curveMode": 1,
+      "curveTo": "{1.0000000000000568, 0.85000000000005116}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1.0000000000000568, 0.85000000000005116}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1.0000000000000002, 0.072030388259159431}",
+      "curveMode": 4,
+      "curveTo": "{1.0000000000000002, 0.14999999999997729}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{1.0000000000000002, 0.14999999999997729}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.86444600105443237, 0.00068665780606949069}",
+      "curveMode": 4,
+      "curveTo": "{0.94051119167300234, 0.0079551321827413951}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{0.86444600105443237, 0.00068665780606949069}"
     }
   ],
   "resizingConstraint": 63,
@@ -122,7 +192,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "0742CE3C-D5D2-4DED-A778-B7E8089204A9",
+    "do_objectID": "B27ACB80-5CED-4AA5-99BD-92E6F2DF7218",
     "endMarkerType": 0,
     "fills": [
       {
@@ -130,9 +200,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
+          "blue": 0.4666666666666667,
+          "green": 0.4392156862745098,
+          "red": 0.4117647058823529
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
