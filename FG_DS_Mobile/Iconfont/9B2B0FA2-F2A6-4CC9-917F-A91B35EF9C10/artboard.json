@@ -495,6 +495,10 @@
     },
     {
       "class": "group",
+      "id": "A7D68401-B50B-4C0A-A790-1FAB3EB8A43C"
+    },
+    {
+      "class": "group",
       "id": "4F15EC6F-D7C6-4463-878D-3200B78FA4B5"
     },
     {
@@ -1236,6 +1240,10 @@
     {
       "class": "symbolInstance",
       "id": "D45E1650-C3C5-4A9F-BC42-D8C5DC01BAC3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9B5CBC14-852E-4505-B049-0B481986EE6D"
     },
     {
       "class": "symbolInstance",
