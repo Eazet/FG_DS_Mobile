@@ -1573,6 +1573,10 @@
     },
     {
       "class": "symbolMaster",
+      "id": "D6DBF839-1BF6-445B-B433-BF683B44205C"
+    },
+    {
+      "class": "symbolMaster",
       "id": "0B65619A-CCEC-4A3D-9467-FC1AABC03DEE"
     },
     {
@@ -1850,6 +1854,10 @@
     {
       "class": "symbolMaster",
       "id": "D5637BF0-B0C6-439E-B8B3-8EED85142E18"
+    },
+    {
+      "class": "shapePath",
+      "id": "E9BD7A45-A89B-49D4-9AB4-AADC309E283A"
     }
   ],
   "name": "控件",

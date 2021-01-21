@@ -646,12 +646,20 @@
       "id": "3C372DB3-5E46-467D-B3B1-D80D7DDDEC7E"
     },
     {
+      "class": "group",
+      "id": "E19977F9-3E0D-4417-8B5D-C16C57887BAC"
+    },
+    {
       "class": "symbolInstance",
       "id": "0B05BD2B-663D-4F2F-BAB8-B74F08E0D8AB"
     },
     {
       "class": "symbolInstance",
       "id": "E70815F4-7F1C-4501-86F7-1A45BC7FDE12"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "99502638-A7A0-46B5-B251-22E9A254FA41"
     },
     {
       "class": "group",

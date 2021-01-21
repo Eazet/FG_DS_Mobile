@@ -1,8 +1,8 @@
 {
   "_class": "shapeGroup",
-  "booleanOperation": -1,
+  "booleanOperation": 1,
   "clippingMaskMode": 0,
-  "do_objectID": "026CB6D0-6A65-449B-9230-360CFB72D574",
+  "do_objectID": "6B7F79FF-7874-4280-BC3C-159F181A039F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 41.84405663189604,
-    "width": 39.91858428704199,
-    "x": 4.081415712958005,
-    "y": 3.155943368104161
+    "height": 33.9999420917899,
+    "width": 32.75862068965548,
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -33,20 +33,19 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "C4DED340-3263-49D3-A10C-AF1C55435964"
+      "class": "shapePath",
+      "id": "2620F560-92AC-43B8-89BE-B991A095120E"
     },
     {
-      "class": "shapeGroup",
-      "id": "FE304E81-1603-4D08-BC79-169AF1F359D7"
+      "class": "shapePath",
+      "id": "B4B80F64-0E0E-436E-809F-8EFE0E80105C"
     }
   ],
-  "name": "形状结合",
+  "name": "形状",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "72AD9A78-8B69-4E9A-AEF8-70F8D799C19E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -82,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "6634627F-0842-4613-B98C-4BAFE3A5DF8F",
+    "do_objectID": "B803CF20-CB9F-4741-A01D-E9D7D150740F",
     "endMarkerType": 0,
     "fills": [
       {

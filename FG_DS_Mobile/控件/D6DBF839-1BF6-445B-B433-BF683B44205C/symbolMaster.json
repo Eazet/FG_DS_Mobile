@@ -10,7 +10,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "042F22D4-9FAB-4723-AA2D-452A0BA9601F",
+  "do_objectID": "D6DBF839-1BF6-445B-B433-BF683B44205C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,16 +23,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 64,
-    "width": 64,
-    "x": 2173,
-    "y": -713
+    "height": 48,
+    "width": 48,
+    "x": 3835,
+    "y": -805
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -41,7 +41,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -53,16 +53,16 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "B954CD52-8FE6-41D5-8264-1257848C31F0"
+      "id": "74DB9DB0-16C8-4D4C-B465-0B3BB256954C"
     }
   ],
-  "name": "01. General 通用/Icon图标/64/034.钥匙",
+  "name": "01. General 通用/Icon图标/48/057.录客-F",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "B954CD52-8FE6-41D5-8264-1257848C31F0_layerStyle"
+      "overrideName": "74DB9DB0-16C8-4D4C-B465-0B3BB256954C_layerStyle"
     }
   ],
   "presetDictionary": {
@@ -106,7 +106,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "43FECA80-644A-41A9-A926-0DBA3C2AABBB",
+    "do_objectID": "E09877B5-5B16-42E3-8D7A-549FED65A422",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -118,7 +118,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A0A5649C-3810-48CA-A927-DD738A3C6D5D",
+  "symbolID": "5930B0F2-B2E4-4FAB-90A7-63614F83002E",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
