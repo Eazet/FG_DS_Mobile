@@ -192,7 +192,7 @@
       "do_objectID": "4CE71446-03D5-4957-8492-0FCC76F69713",
       "fontFamilyName": "SF Pro Text",
       "fontFileName": "SF-Pro-Text-Regular.otf",
-      "options": 6,
+      "options": 0,
       "postscriptNames": [
         "SFProText-Regular"
       ]
@@ -5870,6 +5870,117 @@
         }
       },
       "remoteStyleID": "44DC0E47-52C3-45D7-AF13-8EFD92FB6483[72AD9A78-8B69-4E9A-AEF8-70F8D799C19E]",
+      "sourceLibraryName": "FG_DS_Mobile",
+      "symbolPrivate": true
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "do_objectID": "757E8E9D-E196-45C5-99DF-2C6D271BD8B4",
+      "libraryID": "A072E488-6E15-46CC-BFDF-F0AEB00D4538",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "80ECC698-A082-4208-863B-E4A62A75F4B5",
+        "name": "02.冷灰/60",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": true,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "do_objectID": "20422F9C-9A54-44AD-B490-937ACD28A1F3",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.5209748641304348,
+                "green": 0.4927471197296175,
+                "red": 0.4645193753288002
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "8D81597A-C8A8-446C-AE45-81B7D631BC51[0FDB2ACB-C807-4109-B6CC-DC22AD46CF3F]",
       "sourceLibraryName": "FG_DS_Mobile",
       "symbolPrivate": true
     }
@@ -25025,8 +25136,8 @@
     ]
   },
   "meta": {
-    "appVersion": "70.1",
-    "build": 108880,
+    "appVersion": "69",
+    "build": 107357,
     "version": 134
   },
   "pages": [
