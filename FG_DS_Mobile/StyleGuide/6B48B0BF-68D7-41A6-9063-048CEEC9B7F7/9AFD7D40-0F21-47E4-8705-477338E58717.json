@@ -34,12 +34,12 @@
         "location": 0
       }
     ],
-    "string": "链接色"
+    "string": "品牌色"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0F1114B9-D069-409A-AD77-5DB896A5B2DA",
+  "do_objectID": "9AFD7D40-0F21-47E4-8705-477338E58717",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -56,9 +56,9 @@
     "height": 48,
     "width": 144,
     "x": 122,
-    "y": 1515
+    "y": 448
   },
-  "glyphBounds": "{{1, 1}, {141, 46}}",
+  "glyphBounds": "{{3, 1}, {139, 46}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "链接色",
+  "name": "品牌色",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -107,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "33E334A9-75A2-4E87-B0BD-EBD9BF9DC775",
+    "do_objectID": "E1FCFFA0-CD12-4F6B-BD0F-43A4F938D070",
     "endMarkerType": 0,
     "fills": [
     ],

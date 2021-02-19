@@ -2,7 +2,7 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "58B1652C-C73C-462D-B49F-9000272204A1",
+  "do_objectID": "023FE254-76E7-4C02-B5E5-6F735045D1C1",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -19,8 +19,8 @@
     "constrainProportions": true,
     "height": 140,
     "width": 140,
-    "x": 122,
-    "y": 1603
+    "x": 284,
+    "y": 536
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -31,7 +31,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "矩形备份",
+  "name": "矩形备份 29",
   "nameIsFixed": false,
   "needsConvertionToNewRoundCorners": false,
   "pointRadiusBehaviour": 2,
@@ -80,7 +80,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "5B516676-A562-45EC-8E87-50444A90D3CF",
+  "sharedStyleID": "07AB4BB6-23BC-43C0-83DA-279CC71AB674",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -166,7 +166,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "5374E68D-A018-4528-BD5D-852FA0A2CDDA",
+    "do_objectID": "89F397C3-E668-49EE-9CE8-9CD780B57043",
     "endMarkerType": 0,
     "fills": [
       {
@@ -174,9 +174,10 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.6588235294117647,
-          "green": 0.4862745098039216,
-          "red": 0.407843137254902
+          "blue": 0.9803921568627451,
+          "green": 0.6352941176470588,
+          "red": 0.392156862745098,
+          "swatchID": "A6B557C9-6A45-4766-93C4-EF5923BD5EFB"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -229,5 +230,13 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.sketch.detach": {
+      "sharedStyle": {
+        "sharedStyleId": "7247319B-4F2A-4370-BEFF-3612777D5190",
+        "sharedStyleName": "color/cool gray/90"
+      }
+    }
   }
 }

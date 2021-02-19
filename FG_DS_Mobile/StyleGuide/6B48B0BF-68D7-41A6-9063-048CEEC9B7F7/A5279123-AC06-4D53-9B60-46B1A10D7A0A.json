@@ -19,8 +19,8 @@
     "constrainProportions": true,
     "height": 140,
     "width": 140,
-    "x": 284,
-    "y": 1603
+    "x": 122,
+    "y": 1784
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -176,7 +176,8 @@
           "alpha": 1,
           "blue": 0.5843137254901961,
           "green": 0.4196078431372549,
-          "red": 0.3411764705882352
+          "red": 0.3411764705882352,
+          "swatchID": "5B9B07B8-2DC9-4FD3-8B62-3B4A96186554"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

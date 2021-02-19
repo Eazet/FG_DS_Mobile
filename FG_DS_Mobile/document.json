@@ -192,7 +192,7 @@
       "do_objectID": "4CE71446-03D5-4957-8492-0FCC76F69713",
       "fontFamilyName": "SF Pro Text",
       "fontFileName": "SF-Pro-Text-Regular.otf",
-      "options": 0,
+      "options": 6,
       "postscriptNames": [
         "SFProText-Regular"
       ]
@@ -5270,167 +5270,6 @@
     },
     {
       "_class": "MSImmutableForeignLayerStyle",
-      "do_objectID": "E545C362-85E5-4F38-BA80-2FA797F0B58F",
-      "libraryID": "A072E488-6E15-46CC-BFDF-F0AEB00D4538",
-      "localSharedStyle": {
-        "_class": "sharedStyle",
-        "do_objectID": "5B516676-A562-45EC-8E87-50444A90D3CF",
-        "name": "03.标椎彩色/链接色",
-        "value": {
-          "_class": "style",
-          "blur": {
-            "_class": "blur",
-            "center": "{0.5, 0.5}",
-            "isEnabled": false,
-            "motionAngle": 0,
-            "radius": 10,
-            "saturation": 1,
-            "type": 0
-          },
-          "borderOptions": {
-            "_class": "borderOptions",
-            "dashPattern": [
-            ],
-            "isEnabled": true,
-            "lineCapStyle": 0,
-            "lineJoinStyle": 0
-          },
-          "borders": [
-            {
-              "_class": "border",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.592,
-                "green": 0.592,
-                "red": 0.592
-              },
-              "contextSettings": {
-                "_class": "graphicsContextSettings",
-                "blendMode": 0,
-                "opacity": 1
-              },
-              "fillType": 0,
-              "gradient": {
-                "_class": "gradient",
-                "elipseLength": 0,
-                "from": "{0.5, 0}",
-                "gradientType": 0,
-                "stops": [
-                  {
-                    "_class": "gradientStop",
-                    "color": {
-                      "_class": "color",
-                      "alpha": 1,
-                      "blue": 1,
-                      "green": 1,
-                      "red": 1
-                    },
-                    "position": 0
-                  },
-                  {
-                    "_class": "gradientStop",
-                    "color": {
-                      "_class": "color",
-                      "alpha": 1,
-                      "blue": 0,
-                      "green": 0,
-                      "red": 0
-                    },
-                    "position": 1
-                  }
-                ],
-                "to": "{0.5, 1}"
-              },
-              "isEnabled": false,
-              "position": 1,
-              "thickness": 1
-            }
-          ],
-          "colorControls": {
-            "_class": "colorControls",
-            "brightness": 0,
-            "contrast": 1,
-            "hue": 0,
-            "isEnabled": false,
-            "saturation": 1
-          },
-          "contextSettings": {
-            "_class": "graphicsContextSettings",
-            "blendMode": 0,
-            "opacity": 1
-          },
-          "do_objectID": "5B318926-00CB-4FC2-A172-852DBFCEC80D",
-          "endMarkerType": 0,
-          "fills": [
-            {
-              "_class": "fill",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.6588235294117647,
-                "green": 0.4862745098039216,
-                "red": 0.407843137254902
-              },
-              "contextSettings": {
-                "_class": "graphicsContextSettings",
-                "blendMode": 0,
-                "opacity": 1
-              },
-              "fillType": 0,
-              "gradient": {
-                "_class": "gradient",
-                "elipseLength": 0,
-                "from": "{0.5, 0}",
-                "gradientType": 0,
-                "stops": [
-                  {
-                    "_class": "gradientStop",
-                    "color": {
-                      "_class": "color",
-                      "alpha": 1,
-                      "blue": 1,
-                      "green": 1,
-                      "red": 1
-                    },
-                    "position": 0
-                  },
-                  {
-                    "_class": "gradientStop",
-                    "color": {
-                      "_class": "color",
-                      "alpha": 1,
-                      "blue": 0,
-                      "green": 0,
-                      "red": 0
-                    },
-                    "position": 1
-                  }
-                ],
-                "to": "{0.5, 1}"
-              },
-              "isEnabled": true,
-              "noiseIndex": 0,
-              "noiseIntensity": 0,
-              "patternFillType": 1,
-              "patternTileScale": 1
-            }
-          ],
-          "innerShadows": [
-          ],
-          "miterLimit": 10,
-          "shadows": [
-          ],
-          "startMarkerType": 0,
-          "windingRule": 1
-        }
-      },
-      "remoteStyleID": "7FDCF168-13AA-4D79-8BB0-4C8A36FAA2F7",
-      "sourceLibraryName": "FG_DS_Mobile",
-      "symbolPrivate": false
-    },
-    {
-      "_class": "MSImmutableForeignLayerStyle",
       "do_objectID": "A2A45614-EEB0-4CDF-83E7-FE76C004E82F",
       "libraryID": "2CD617A4-7CE7-4293-81FE-7CF03F1389CA",
       "localSharedStyle": {
@@ -5993,7 +5832,7 @@
       "localSwatch": {
         "_class": "swatch",
         "do_objectID": "C1D1609A-5D27-4448-813C-5748C8F10282",
-        "name": "4. 90",
+        "name": "4。90",
         "value": {
           "_class": "color",
           "alpha": 1,
@@ -25136,8 +24975,8 @@
     ]
   },
   "meta": {
-    "appVersion": "69",
-    "build": 107357,
+    "appVersion": "70.5",
+    "build": 109233,
     "version": 134
   },
   "pages": [
@@ -25157,6 +24996,366 @@
     "_class": "swatchContainer",
     "do_objectID": "9942C5A6-6C0E-46CC-BFDF-FBACB02C3259",
     "objects": [
+      {
+        "_class": "swatch",
+        "do_objectID": "5B0D3446-4947-4081-8994-53AA59A1B8EF",
+        "name": "品牌色/00.默认",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9568627450980391,
+          "green": 0.4823529411764706,
+          "red": 0.1450980392156863
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "A6B557C9-6A45-4766-93C4-EF5923BD5EFB",
+        "name": "品牌色/01.减弱",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9803921568627451,
+          "green": 0.6352941176470588,
+          "red": 0.392156862745098
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "8EAD37EC-874D-4D9E-B7ED-AAF524723F20",
+        "name": "品牌色/02.不可用",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.984313725490196,
+          "green": 0.792156862745098,
+          "red": 0.6588235294117647
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "C1183E6F-167E-4737-A842-0350658D43D1",
+        "name": "品牌色/03.底色",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9921568627450981,
+          "green": 0.9450980392156862,
+          "red": 0.9137254901960784
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "3369B3D7-655F-42F7-8376-335310DB3825",
+        "name": "冷灰/90",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1647058823529412,
+          "green": 0.1529411764705882,
+          "red": 0.1294117647058823
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "F17D69A9-0BC2-4AC7-B50C-2F1D8B152C3F",
+        "name": "冷灰/70",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3450980392156863,
+          "green": 0.3254901960784314,
+          "red": 0.3019607843137255
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "E3316270-8E45-4EED-BE64-74EB3F6CA205",
+        "name": "冷灰/60",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5209748641304348,
+          "green": 0.4927471197296175,
+          "red": 0.4645193753288002
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "BF96EE52-6D89-4BB9-9772-9734568E38FF",
+        "name": "冷灰/40",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7028702445652174,
+          "green": 0.6697959673366769,
+          "red": 0.6367216901081364
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "6F6B0EE3-D149-4738-AE1A-4E96FA053369",
+        "name": "冷灰/30",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8349184782608695,
+          "green": 0.811802309264813,
+          "red": 0.7886861402687565
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "07BA870E-7A15-431E-A600-CF5BFBB31545",
+        "name": "冷灰/20",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.95,
+          "green": 0.9310000000000002,
+          "red": 0.9215
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "56F70AF0-DF2E-4FEF-8C67-32A28771C6A0",
+        "name": "冷灰/10",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9764705882352941,
+          "green": 0.9647058823529412,
+          "red": 0.9568627450980391
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "CD4CA90E-21FB-4387-86B5-3CC2BC8D6984",
+        "name": "指示色/下跌",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4592012321646935,
+          "green": 0.6926800271739131,
+          "red": 0.2415932777704136
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "FD11F601-FFBC-4A1F-89FC-3BE8D1C3356C",
+        "name": "指示色/上涨",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3279438324891539,
+          "green": 0.3279438324891539,
+          "red": 0.8925215126811594
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "502027C6-0B30-470B-9CB1-466DDD74D5AA",
+        "name": "标准彩色/红",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3803921568627451,
+          "green": 0.3803921568627451,
+          "red": 0.9607843137254902
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "CC658C75-4BA6-4CC0-8DD5-246C3725236D",
+        "name": "标准彩色/橙",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1812863848495078,
+          "green": 0.6343740710222125,
+          "red": 0.9950747282608695
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "5007BF75-6B54-45BA-888C-46C673F3F89A",
+        "name": "标准彩色/黄",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1406881478701687,
+          "green": 0.7560363248558186,
+          "red": 0.984573143115942
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "DCCACF1F-E290-4330-8682-8B8A5D47E5B6",
+        "name": "标准彩色/绿",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3764705882352941,
+          "green": 0.7568627450980392,
+          "red": 0.02745098039215688
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "62F6F3E6-1E06-4341-A607-0B6FC19B080A",
+        "name": "标准彩色/青",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7493772644927537,
+          "green": 0.6988950893812679,
+          "red": 0.1116783457621537
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "E76B685B-8D67-4264-9A05-5E368386055C",
+        "name": "标准彩色/天蓝",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9568627450980391,
+          "green": 0.7019607843137254,
+          "red": 0.1607843137254902
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "C825B910-7F15-4D9D-8655-38FAD1930BC3",
+        "name": "标准彩色/蓝",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9568627450980391,
+          "green": 0.4823529411764706,
+          "red": 0.1450980392156863
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "47D1A560-5FF2-4E06-893A-29F88D6754DA",
+        "name": "标准彩色/紫",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9395946557971014,
+          "green": 0.4612571859241754,
+          "red": 0.4805955670269926
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "5B9B07B8-2DC9-4FD3-8B62-3B4A96186554",
+        "name": "标准彩色/链接色",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5843137254901961,
+          "green": 0.4196078431372549,
+          "red": 0.3411764705882352
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "E5609757-B12C-4D98-8358-846A674CED08",
+        "name": "图表/01",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9726279438405797,
+          "green": 0.5770683224107976,
+          "red": 0.3145287506653673
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "F29177F1-B216-497B-81E3-0F822DE26D9D",
+        "name": "图表/02",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1328416993568288,
+          "green": 0.7655523981869007,
+          "red": 0.9688066123188406
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "2354872F-9379-4FAD-9A9E-6EE8C2B8FB66",
+        "name": "图表/03",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.308951615798427,
+          "green": 0.4798520003212337,
+          "red": 0.9852807971014492
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "2947B495-8CD9-4CA8-ABB0-848946F85BB3",
+        "name": "图表/04",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9254901960784314,
+          "green": 0.7843137254901958,
+          "red": 0.4274509803921569
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "35C7603B-722F-406F-B32C-09D639D816D0",
+        "name": "图表/05",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.792156862745098,
+          "green": 0.4352941176470588,
+          "red": 0.5764705882352943
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "A6E4383D-8330-44B2-AE7C-393D818C5D79",
+        "name": "图表/06",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3019607843137255,
+          "green": 0.615686274509804,
+          "red": 0.996078431372549
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "849400E9-B363-4690-97FA-FC58A3F28459",
+        "name": "图表/07",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6,
+          "green": 0.6039215686274509,
+          "red": 0.1529411764705882
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "6E636C19-F41F-42B0-8D3E-5CEB43D55E59",
+        "name": "图表/08",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7647058823529413,
+          "green": 0.6,
+          "red": 1
+        }
+      }
     ]
   }
 }

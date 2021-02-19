@@ -36,7 +36,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "596513DA-2922-4B77-A88E-7AB4F40FED68",
+    "do_objectID": "C3C62216-6CF3-45AE-9F1E-6676729212EC",
     "endMarkerType": 0,
     "fills": [
       {
@@ -46,7 +46,8 @@
           "alpha": 1,
           "blue": 0.95,
           "green": 0.9310000000000002,
-          "red": 0.9215
+          "red": 0.9215,
+          "swatchID": "07BA870E-7A15-431E-A600-CF5BFBB31545"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

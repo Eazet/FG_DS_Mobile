@@ -55,7 +55,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 7.937184792626498,
+      "radius": 10,
       "saturation": 1,
       "type": 0
     },
@@ -92,7 +92,8 @@
           "alpha": 1,
           "blue": 0.1647058823529412,
           "green": 0.1529411764705882,
-          "red": 0.1294117647058823
+          "red": 0.1294117647058823,
+          "swatchID": "3369B3D7-655F-42F7-8376-335310DB3825"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

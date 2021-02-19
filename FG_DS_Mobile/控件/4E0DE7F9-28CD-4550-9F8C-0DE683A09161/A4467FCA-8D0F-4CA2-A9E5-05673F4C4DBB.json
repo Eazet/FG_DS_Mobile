@@ -164,7 +164,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 0.2000000029802322
+      "opacity": 1
     },
     "do_objectID": "F6239791-28D7-426E-9151-4A56B5BB1D73",
     "endMarkerType": 0,
@@ -176,7 +176,8 @@
           "alpha": 1,
           "blue": 0.9568627450980391,
           "green": 0.4823529411764706,
-          "red": 0.1450980392156863
+          "red": 0.1450980392156863,
+          "swatchID": "C825B910-7F15-4D9D-8655-38FAD1930BC3"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
