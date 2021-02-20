@@ -2,7 +2,7 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "EE16291A-13E4-4373-AD5A-60ECDD504429",
+  "do_objectID": "C8E35C50-E984-4C3B-9B92-06298B2F94C1",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 10.03033008589,
-    "width": 12.06066017177982,
-    "x": 1.969669914110089,
-    "y": 2.969669914109772
+    "height": 22,
+    "width": 22,
+    "x": 1,
+    "y": 1
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,22 +30,27 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "8900C5FE-885F-4D3C-A542-542F8D49AC76"
+      "class": "shapeGroup",
+      "id": "D3CADE91-49E1-48B1-941A-1A1A2C4A14ED"
     },
     {
-      "class": "shapePath",
-      "id": "EB77F50F-FF65-4544-8EDA-30AD9D6464F6"
+      "class": "shapeGroup",
+      "id": "80AE0679-461A-45E9-BF8B-5BF29E997155"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "30DF26FD-61BF-4B35-B980-5E084AAD8F21"
     }
   ],
-  "name": "形状",
+  "name": "形状结合",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "72AD9A78-8B69-4E9A-AEF8-70F8D799C19E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -73,7 +78,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": false,
+      "isEnabled": true,
       "saturation": 1
     },
     "contextSettings": {
@@ -81,7 +86,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "150980D1-E00F-417D-9E5E-C0D2A31EF30F",
+    "do_objectID": "A03D4705-47FC-4332-8974-D6FF81DF720A",
     "endMarkerType": 0,
     "fills": [
       {
@@ -89,9 +94,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4666666666666667,
-          "green": 0.4392156862745098,
-          "red": 0.4117647058823529
+          "blue": 0.1647058823529412,
+          "green": 0.1529411764705882,
+          "red": 0.1294117647058823
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -143,7 +148,7 @@
     "shadows": [
     ],
     "startMarkerType": 0,
-    "windingRule": 0
+    "windingRule": 1
   },
-  "windingRule": 0
+  "windingRule": 1
 }
