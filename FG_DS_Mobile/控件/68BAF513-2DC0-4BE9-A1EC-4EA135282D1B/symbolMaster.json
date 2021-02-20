@@ -4,13 +4,13 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0,
-    "green": 0,
-    "red": 0
+    "blue": 1,
+    "green": 1,
+    "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A7441FBD-BBEF-45A2-8510-2C8CCD91710E",
+  "do_objectID": "68BAF513-2DC0-4BE9-A1EC-4EA135282D1B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,16 +23,20 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 80,
-    "width": 80,
-    "x": 485,
-    "y": -601
+    "height": 32,
+    "width": 32,
+    "x": 2341,
+    "y": -873
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableInferredGroupLayout",
+    "axis": 0,
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 32
   },
-  "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -40,7 +44,7 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInExport": true,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
@@ -52,11 +56,11 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "95408D14-C79A-4A98-A0C8-328A31497130"
+      "class": "shapeGroup",
+      "id": "67D97374-3414-4C65-BA4B-6619B35E805E"
     }
   ],
-  "name": "01. General 通用/Icon图标/80/11.Loadding",
+  "name": "01. General 通用/Icon图标/32/067. 成功",
   "nameIsFixed": true,
   "overrideProperties": [
   ],
@@ -101,7 +105,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "B8B34591-5490-4E4E-952B-9C8227E3C92A",
+    "do_objectID": "45E4D70C-FE79-4F88-8681-18B728270869",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -113,7 +117,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "20B74D29-A715-4F68-BF42-AEFB9FF752F5",
+  "symbolID": "4036E815-0C10-499C-BF01-5E9AF53D5419",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

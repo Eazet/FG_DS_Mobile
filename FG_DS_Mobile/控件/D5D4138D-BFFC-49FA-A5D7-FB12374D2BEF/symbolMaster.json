@@ -10,7 +10,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A7441FBD-BBEF-45A2-8510-2C8CCD91710E",
+  "do_objectID": "D5D4138D-BFFC-49FA-A5D7-FB12374D2BEF",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -25,13 +25,13 @@
     "constrainProportions": false,
     "height": 80,
     "width": 80,
-    "x": 485,
+    "x": 577,
     "y": -601
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": true,
+  "hasBackgroundColor": false,
   "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -52,11 +52,11 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "95408D14-C79A-4A98-A0C8-328A31497130"
+      "class": "shapeGroup",
+      "id": "DFE95CE0-D412-442D-BAC7-63E25D399ED9"
     }
   ],
-  "name": "01. General 通用/Icon图标/80/11.Loadding",
+  "name": "01. General 通用/Icon图标/80/12.临时房单",
   "nameIsFixed": true,
   "overrideProperties": [
   ],
@@ -101,7 +101,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "B8B34591-5490-4E4E-952B-9C8227E3C92A",
+    "do_objectID": "2694DC3B-96FD-42F7-9E32-5A4DE1613C52",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -113,7 +113,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "20B74D29-A715-4F68-BF42-AEFB9FF752F5",
+  "symbolID": "4605AF4E-77A5-4738-92E0-74F2A272C021",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
