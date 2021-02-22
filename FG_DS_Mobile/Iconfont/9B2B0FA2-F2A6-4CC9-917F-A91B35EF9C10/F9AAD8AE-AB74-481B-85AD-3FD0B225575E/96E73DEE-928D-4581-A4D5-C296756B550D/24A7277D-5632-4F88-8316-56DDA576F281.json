@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5FDAB193-C0BE-4220-ACC9-E8749CF87267",
+  "do_objectID": "24A7277D-5632-4F88-8316-56DDA576F281",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,41 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 200,
-    "width": 160,
-    "x": 1450,
-    "y": 5633
+    "height": 64,
+    "width": 64,
+    "x": 0,
+    "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "rectangle",
-      "id": "9958FC8E-0A3D-4131-A6DD-75297B20BC60"
-    },
-    {
-      "class": "group",
-      "id": "507DEB52-5EE2-4BCB-8E8F-AAE2866985B8"
-    },
-    {
-      "class": "text",
-      "id": "E8B14AD8-3403-467E-B6ED-DC06943E7E94"
-    }
-  ],
-  "name": "编组 5备份 19",
+  "layerListExpandedType": 0,
+  "name": "01. General 通用/Icon图标/32/001.加号",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 41,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -85,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "490D8191-93BD-49DD-BDAA-B5582DF9131B",
+    "do_objectID": "2F18DFFC-206B-453F-8659-C56F87D32EED",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -96,5 +82,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "FBB430C9-14F4-4ACA-9F7E-DEBC0A12F81C",
+  "verticalSpacing": 0
 }
