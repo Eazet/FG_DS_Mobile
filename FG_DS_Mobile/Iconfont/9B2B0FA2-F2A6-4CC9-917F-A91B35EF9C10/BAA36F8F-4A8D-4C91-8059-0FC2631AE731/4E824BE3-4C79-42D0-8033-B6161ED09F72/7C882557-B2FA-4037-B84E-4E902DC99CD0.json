@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9F1014A7-F566-45E3-9DC2-EFD87214DE6A",
+  "do_objectID": "7C882557-B2FA-4037-B84E-4E902DC99CD0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -71,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "DEA514B4-5C77-4591-B682-51480CE36742",
+    "do_objectID": "1C0737AC-95B5-40CC-A6CB-BEF94D4F1D26",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -83,6 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "507DB7A2-9DDB-49AF-91FB-F25D1A008896",
+  "symbolID": "4605AF4E-77A5-4738-92E0-74F2A272C021",
   "verticalSpacing": 0
 }

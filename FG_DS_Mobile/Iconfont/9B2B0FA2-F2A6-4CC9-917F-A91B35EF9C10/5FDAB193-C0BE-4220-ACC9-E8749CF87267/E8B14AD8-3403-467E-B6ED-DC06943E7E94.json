@@ -34,7 +34,7 @@
         "location": 0
       }
     ],
-    "string": "E-009-F"
+    "string": "E-001-F"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 26,
-    "width": 102,
+    "width": 98,
     "x": 31,
     "y": 150
   },
-  "glyphBounds": "{{1, 4}, {101, 19}}",
+  "glyphBounds": "{{1, 4}, {96, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "E-009-F",
+  "name": "E-001-F",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

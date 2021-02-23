@@ -1195,7 +1195,7 @@
             "blendMode": 0,
             "opacity": 1
           },
-          "do_objectID": "1E4F3EEB-2A89-4533-A144-A7A59D4FDDAB",
+          "do_objectID": "1705C2ED-AFAA-4EC6-8665-B0B3EEEEEBEC",
           "endMarkerType": 0,
           "fills": [
             {
@@ -1205,7 +1205,8 @@
                 "alpha": 1,
                 "blue": 0.9568627450980391,
                 "green": 0.4823529411764706,
-                "red": 0.1450980392156863
+                "red": 0.1450980392156863,
+                "swatchID": "D913BFEA-7AC7-4467-90CD-F63EFFD6310A"
               },
               "contextSettings": {
                 "_class": "graphicsContextSettings",
@@ -5832,7 +5833,7 @@
       "localSwatch": {
         "_class": "swatch",
         "do_objectID": "C1D1609A-5D27-4448-813C-5748C8F10282",
-        "name": "4。90",
+        "name": "4. 90",
         "value": {
           "_class": "color",
           "alpha": 1,
@@ -5843,6 +5844,26 @@
       },
       "remoteSwatchID": "32C2B2B4-D750-4D89-8C93-B8228DA32B1C",
       "sourceLibraryName": "小鹿系统组件库",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "012666AA-5A86-4AC4-A454-14EEEDFF8FCD",
+      "libraryID": "A072E488-6E15-46CC-BFDF-F0AEB00D4538",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "D913BFEA-7AC7-4467-90CD-F63EFFD6310A",
+        "name": "标准彩色/蓝",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9568627450980391,
+          "green": 0.4823529411764706,
+          "red": 0.1450980392156863
+        }
+      },
+      "remoteSwatchID": "C825B910-7F15-4D9D-8655-38FAD1930BC3",
+      "sourceLibraryName": "FG_DS_Mobile",
       "symbolPrivate": false
     }
   ],

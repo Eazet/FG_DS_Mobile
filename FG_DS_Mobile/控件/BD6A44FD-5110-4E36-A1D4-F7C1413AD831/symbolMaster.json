@@ -25,14 +25,14 @@
     "constrainProportions": false,
     "height": 80,
     "width": 80,
-    "x": 385,
+    "x": 85,
     "y": -601
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -56,7 +56,7 @@
       "id": "B82FF8A9-6227-436D-8C1D-97C1E1E801A1"
     }
   ],
-  "name": "01. General 通用/Icon图标/80/010.出错",
+  "name": "01. General 通用/Icon图标/80/007.出错",
   "nameIsFixed": true,
   "overrideProperties": [
     {

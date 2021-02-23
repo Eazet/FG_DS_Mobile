@@ -6,6 +6,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -35,14 +44,10 @@
     {
       "class": "symbolInstance",
       "id": "05C9445E-49DE-47CC-B43B-D2B45C537FE8"
-    },
-    {
-      "class": "slice",
-      "id": "0671C115-7445-4408-901C-EE532277EFDE"
     }
   ],
-  "name": "编组 3",
-  "nameIsFixed": false,
+  "name": "E-004-F",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

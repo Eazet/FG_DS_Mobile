@@ -1,11 +1,20 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D4A2B53C-C9E0-463B-BB1B-73EF27A139D4",
+  "do_objectID": "4E824BE3-4C79-42D0-8033-B6161ED09F72",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -17,25 +26,31 @@
     "constrainProportions": false,
     "height": 80,
     "width": 80,
-    "x": 0,
-    "y": 0
+    "x": 40,
+    "y": 40
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "01. General 通用/Icon图标/32/001.加号",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "7C882557-B2FA-4037-B84E-4E902DC99CD0"
+    }
   ],
-  "resizingConstraint": 41,
+  "name": "E-003-S",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -71,7 +86,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "F2E30626-1B9F-4CE4-891B-A04286863F79",
+    "do_objectID": "55620BFA-0C92-49F1-9A49-3BBFD69587A5",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -82,7 +97,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "99F029EF-2F0F-4F8D-845C-F2B3BE358837",
-  "verticalSpacing": 0
+  }
 }
