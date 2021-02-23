@@ -1,8 +1,16 @@
 {
-  "_class": "symbolInstance",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "26E1A63E-67DA-4189-9CCE-6CA97FAD7FEE",
+  "do_objectID": "89923E6E-6808-4C3E-8A77-15A62675BC4C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,31 +25,53 @@
     "constrainProportions": false,
     "height": 48,
     "width": 48,
-    "x": 16,
-    "y": 16
+    "x": 4041,
+    "y": -805
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "01. General 通用/Icon图标/32/048.房单",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "36D35143-F07F-4DB5-BC05-4511FF114B96_layerStyle",
-      "value": "A7201FE2-F96B-409A-A8D8-BA87EAED09CB"
+      "class": "group",
+      "id": "0E00E68A-EF9B-4B40-BF10-B0F92DE5D217"
     }
   ],
+  "name": "01. General 通用/Icon图标/48/059.微店",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0E00E68A-EF9B-4B40-BF10-B0F92DE5D217_fillColor"
+    }
+  ],
+  "presetDictionary": {
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -76,7 +106,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "78D47A18-A6E5-48FA-A98F-CA15388209B9",
+    "do_objectID": "193BA532-C597-459E-B889-8EFD951E22A0",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -88,6 +118,11 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "157E7C8B-8789-4029-AB59-DB4E49487CC1",
-  "verticalSpacing": 0
+  "symbolID": "44460873-7EC8-4EC3-ADD3-95BDC58C7500",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
 }
