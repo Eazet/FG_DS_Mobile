@@ -1909,7 +1909,15 @@
     },
     {
       "class": "symbolMaster",
+      "id": "B276960D-80DB-46B4-B32C-FA155A33A340"
+    },
+    {
+      "class": "symbolMaster",
       "id": "D6A91C02-FBBF-4386-90D4-4097938569C4"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "D12563A3-27F5-47ED-906E-59D170492296"
     }
   ],
   "name": "控件",
