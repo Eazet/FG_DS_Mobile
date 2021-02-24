@@ -1,6 +1,5 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
+  "_class": "artboard",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -10,10 +9,19 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "EEC81FBD-0F39-4287-AD69-4CE337A03E73",
+  "do_objectID": "75251B2C-1A52-4CDB-AA6C-1809D9EF27E4",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -25,14 +33,14 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": -3529,
-    "y": 2638
+    "x": 3548,
+    "y": 3383
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -41,7 +49,6 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -49,22 +56,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "680A1289-E946-4642-86D7-D626A4363FC6"
+      "class": "symbolInstance",
+      "id": "332AEFB1-01C6-4877-AB6D-9A115E755DCF"
     }
   ],
-  "name": "01. General 通用/Icon图标/24/053.聚焦",
+  "name": "C-046-L",
   "nameIsFixed": true,
-  "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "F9FF2D90-C80A-4338-83BA-3DB47E1D3754_layerStyle"
-    }
-  ],
   "presetDictionary": {
   },
   "resizesContent": false,
@@ -79,7 +79,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 15,
+      "radius": 10,
       "saturation": 1,
       "type": 0
     },
@@ -106,7 +106,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "71A1D465-2A19-40DD-9042-FB5855A92A00",
+    "do_objectID": "68101AD9-EDBC-4DF7-B74F-D0FAD57A415F",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -118,7 +118,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "36F3FB62-D643-4143-9A15-0A9CD90CD81E",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

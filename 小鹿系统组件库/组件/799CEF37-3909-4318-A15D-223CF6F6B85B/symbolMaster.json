@@ -10,7 +10,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "EEC81FBD-0F39-4287-AD69-4CE337A03E73",
+  "do_objectID": "799CEF37-3909-4318-A15D-223CF6F6B85B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -25,14 +25,14 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": -3529,
+    "x": -3485,
     "y": 2638
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -52,17 +52,17 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "680A1289-E946-4642-86D7-D626A4363FC6"
+      "class": "rectangle",
+      "id": "9422B0E8-AE5F-48F4-BC19-E22A82EEAE42"
     }
   ],
-  "name": "01. General 通用/Icon图标/24/053.聚焦",
+  "name": "01. General 通用/Icon图标/24/054.最小化",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "F9FF2D90-C80A-4338-83BA-3DB47E1D3754_layerStyle"
+      "overrideName": "9422B0E8-AE5F-48F4-BC19-E22A82EEAE42_layerStyle"
     }
   ],
   "presetDictionary": {
@@ -106,7 +106,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "71A1D465-2A19-40DD-9042-FB5855A92A00",
+    "do_objectID": "B631AE2E-9737-4790-9550-E706EAF8F40A",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -118,7 +118,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "36F3FB62-D643-4143-9A15-0A9CD90CD81E",
+  "symbolID": "13FA4B36-108A-4742-B786-1BA04C4F3396",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
