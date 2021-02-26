@@ -1053,6 +1053,10 @@
     },
     {
       "class": "symbolMaster",
+      "id": "E25015F1-62FB-4F23-A5AF-F8D2E2F2924C"
+    },
+    {
+      "class": "symbolMaster",
       "id": "DF35DCF1-668A-4B6E-B498-503969C1ED14"
     },
     {
@@ -1581,6 +1585,30 @@
     },
     {
       "class": "symbolMaster",
+      "id": "89923E6E-6808-4C3E-8A77-15A62675BC4C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "FF4ADF78-43A7-4773-AA5C-D21A6542CE5D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "DD35BCCA-CA1F-4F09-975D-76AA24672DA8"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "82FCDCF8-5BEC-46B1-A62A-DBD6D9BC9A04"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "BE1FC977-BDD9-4BF8-8C19-9F61F2F7451C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "07425AF4-67D5-4978-9C26-0BF98EC604AE"
+    },
+    {
+      "class": "symbolMaster",
       "id": "0B65619A-CCEC-4A3D-9467-FC1AABC03DEE"
     },
     {
@@ -1881,7 +1909,15 @@
     },
     {
       "class": "symbolMaster",
+      "id": "B276960D-80DB-46B4-B32C-FA155A33A340"
+    },
+    {
+      "class": "symbolMaster",
       "id": "D6A91C02-FBBF-4386-90D4-4097938569C4"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "D12563A3-27F5-47ED-906E-59D170492296"
     }
   ],
   "name": "控件",

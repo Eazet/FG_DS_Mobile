@@ -54,20 +54,19 @@
     {
       "class": "group",
       "id": "C41B4364-3635-4830-A7F8-9385F80D9A2A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8D5E6D62-82AE-4DFE-A6A2-C11F48ACB430"
     }
   ],
-  "name": "01. General 通用/Icon图标/80/002.名片",
+  "name": "01. General 通用/Icon图标/80/002.微店二维码",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "E80B218E-3C04-4DD2-9099-93DE3CF6FF67_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "26E1A63E-67DA-4189-9CCE-6CA97FAD7FEE_symbolID"
     }
   ],
   "presetDictionary": {
