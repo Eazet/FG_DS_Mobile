@@ -10,7 +10,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B276960D-80DB-46B4-B32C-FA155A33A340",
+  "do_objectID": "AD34E9FC-8D92-4657-8469-A9DF4D68B448",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -25,14 +25,14 @@
     "constrainProportions": false,
     "height": 64,
     "width": 64,
-    "x": 2425,
+    "x": 2509,
     "y": -713
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -53,14 +53,14 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "2C30B3C3-EF97-4156-860B-531908233C18"
+      "id": "DEACC591-E5F9-4774-9C76-7014DD037C0B"
     },
     {
       "class": "shapeGroup",
-      "id": "1AC94003-A40D-430D-8B95-8767650EAB8B"
+      "id": "31A0DF85-4A4F-44D3-841A-D422A7AA2D30"
     }
   ],
-  "name": "01. General 通用/Icon图标/64/037.扫一扫",
+  "name": "01. General 通用/Icon图标/64/038.保存图片",
   "nameIsFixed": true,
   "overrideProperties": [
   ],
@@ -105,7 +105,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "3FCF1A2C-BEDE-4F97-ABC4-1CAEB8CD9816",
+    "do_objectID": "B8343FE3-962B-487E-872D-34752B4754AB",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -117,7 +117,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "9D60F410-F80F-4C12-8603-F4F4B94BFFAF",
+  "symbolID": "30C45A12-D3FE-4170-BD2D-C7629FBD09C3",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

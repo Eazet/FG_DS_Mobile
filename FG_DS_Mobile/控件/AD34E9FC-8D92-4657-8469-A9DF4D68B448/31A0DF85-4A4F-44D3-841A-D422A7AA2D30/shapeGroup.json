@@ -2,7 +2,7 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CF76C205-C6AA-4651-BA29-F27F2E10B6F8",
+  "do_objectID": "31A0DF85-4A4F-44D3-841A-D422A7AA2D30",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 52,
-    "width": 46,
-    "x": 9,
-    "y": 5
+    "height": 44,
+    "width": 52,
+    "x": 6,
+    "y": 10
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -33,28 +33,23 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "DA86E0B8-1F66-4170-A69D-22570034717C"
+      "class": "shapeGroup",
+      "id": "94D10817-360A-48B8-A76D-9BB51C1D1938"
     },
     {
-      "class": "shapePath",
-      "id": "A61FF5C8-22B9-41D4-995C-0E4FEC3A5598"
+      "class": "shapeGroup",
+      "id": "0E6622FD-6959-46AE-80E5-268216D90930"
     },
     {
-      "class": "shapePath",
-      "id": "4AB9A433-2AA9-4E0B-A438-EC11BD2A579A"
-    },
-    {
-      "class": "shapePath",
-      "id": "51DEAEE1-0B67-43C0-9ECB-4292548D1301"
+      "class": "shapeGroup",
+      "id": "766D7F51-0A25-43DD-AB62-EFE523EEE9F2"
     }
   ],
-  "name": "形状",
+  "name": "形状结合",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "8A2C072A-F9C5-4255-85E1-4D3972396DAA",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -63,7 +58,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 20,
       "saturation": 1,
       "type": 0
     },
@@ -82,7 +77,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": true,
+      "isEnabled": false,
       "saturation": 1
     },
     "contextSettings": {
@@ -90,7 +85,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "C0E3FF23-F197-4D2D-8F48-125D1BC4704C",
+    "do_objectID": "5FF7BC62-6D29-4A6D-86E6-C1A9ED3C935C",
     "endMarkerType": 0,
     "fills": [
       {
@@ -100,7 +95,7 @@
           "alpha": 1,
           "blue": 0.1647058823529412,
           "green": 0.1529411764705882,
-          "red": 0.1294117647058823
+          "red": 0.1294117647058824
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -152,7 +147,7 @@
     "shadows": [
     ],
     "startMarkerType": 0,
-    "windingRule": 1
+    "windingRule": 0
   },
-  "windingRule": 1
+  "windingRule": 0
 }

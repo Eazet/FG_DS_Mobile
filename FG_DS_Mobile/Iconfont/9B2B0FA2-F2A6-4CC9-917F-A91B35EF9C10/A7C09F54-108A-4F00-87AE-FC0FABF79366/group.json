@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "BAA36F8F-4A8D-4C91-8059-0FC2631AE731",
+  "do_objectID": "A7C09F54-108A-4F00-87AE-FC0FABF79366",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 200,
     "width": 160,
-    "x": 454,
-    "y": 6169
+    "x": 620,
+    "y": 5691
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -34,19 +34,23 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "95E79C3C-8F68-436C-BCE8-815D8C36B83E"
+      "id": "7B675035-DCD9-481D-B974-622E689A30DB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CC8F61C8-F549-4283-8DB5-68AC1FE49B89"
     },
     {
       "class": "group",
-      "id": "4E824BE3-4C79-42D0-8033-B6161ED09F72"
+      "id": "65261EBD-D590-4333-BB56-D1A2C1368743"
     },
     {
       "class": "text",
-      "id": "B878C640-18B4-448B-9F8B-E2BF058FC268"
+      "id": "5B13A8A4-B214-4CA4-A540-0C6EDFD7E75A"
     }
   ],
-  "name": "E-003-S",
-  "nameIsFixed": true,
+  "name": "编组 11备份 11 copy 4备份 25",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -85,7 +89,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "B0CF6BC0-14BE-4428-8C32-40986DD43FE5",
+    "do_objectID": "038EAE0C-B758-42AF-A9C3-AA3DA9240E45",
     "endMarkerType": 0,
     "fills": [
     ],
