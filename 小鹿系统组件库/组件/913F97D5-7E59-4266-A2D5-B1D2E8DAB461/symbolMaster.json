@@ -25,7 +25,7 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": -3677,
+    "x": -3593,
     "y": 2334
   },
   "groupLayout": {
@@ -52,11 +52,11 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "8BB7EB94-2665-4503-B6FE-991B955F5177"
+      "class": "shapeGroup",
+      "id": "463D876E-C474-43A2-BA31-2899DC5E0181"
     }
   ],
-  "name": "01. General 通用/Icon图标/16/143.展开",
+  "name": "01. General 通用/Icon图标/16/146.展开",
   "nameIsFixed": true,
   "overrideProperties": [
   ],

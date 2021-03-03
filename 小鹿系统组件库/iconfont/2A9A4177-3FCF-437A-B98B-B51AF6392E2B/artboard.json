@@ -33,14 +33,14 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 3388,
+    "x": 3468,
     "y": 3500
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -63,7 +63,7 @@
       "id": "AF97388B-E185-45B1-A2C7-3C43E2E547BA"
     }
   ],
-  "name": "C-054-L",
+  "name": "C-055-L",
   "nameIsFixed": true,
   "presetDictionary": {
   },
