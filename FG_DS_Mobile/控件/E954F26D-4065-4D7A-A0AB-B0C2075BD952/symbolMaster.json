@@ -1,8 +1,16 @@
 {
-  "_class": "group",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A7C09F54-108A-4F00-87AE-FC0FABF79366",
+  "do_objectID": "E954F26D-4065-4D7A-A0AB-B0C2075BD952",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,46 +23,55 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 200,
-    "width": 160,
-    "x": 288,
-    "y": 5691
+    "height": 40,
+    "width": 40,
+    "x": 2743,
+    "y": 451
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": false,
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "7B675035-DCD9-481D-B974-622E689A30DB"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CC8F61C8-F549-4283-8DB5-68AC1FE49B89"
-    },
-    {
       "class": "group",
-      "id": "65261EBD-D590-4333-BB56-D1A2C1368743"
-    },
-    {
-      "class": "text",
-      "id": "5B13A8A4-B214-4CA4-A540-0C6EDFD7E75A"
+      "id": "10B08930-8BBA-4C94-BCEE-11A48BC8E6F6"
     }
   ],
-  "name": "编组 11备份 11 copy 4备份 25",
-  "nameIsFixed": false,
+  "name": "04. Data Display 数据展示/Checkbox 多选框/已选择",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7EC75D6F-7E21-4CDC-B586-9E0EA94F0799_layerStyle"
+    }
+  ],
+  "presetDictionary": {
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -62,7 +79,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 20,
       "saturation": 1,
       "type": 0
     },
@@ -89,7 +106,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "038EAE0C-B758-42AF-A9C3-AA3DA9240E45",
+    "do_objectID": "615BCD50-0FFB-4C28-A6D1-9D0A164E884B",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -100,5 +117,12 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "symbolID": "812FBDBB-5F8E-4A0E-8A95-D3AB6EAEC3C8",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
   }
 }

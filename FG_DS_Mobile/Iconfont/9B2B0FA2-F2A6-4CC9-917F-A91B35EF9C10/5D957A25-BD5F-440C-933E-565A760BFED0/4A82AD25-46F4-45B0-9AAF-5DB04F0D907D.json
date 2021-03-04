@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "883C8BF1-5440-4A54-86A5-9A2A4173D0D1",
+  "do_objectID": "4A82AD25-46F4-45B0-9AAF-5DB04F0D907D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,8 +17,8 @@
     "constrainProportions": true,
     "height": 24,
     "width": 24,
-    "x": 744,
-    "y": 5703
+    "x": 124,
+    "y": 12
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "04. Data Display 数据展示/Checkbox 多选框/已选择备份 134",
+  "name": "04. Data Display 数据展示/Checkbox 多选框/已选择备份 64",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -71,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "61540B19-E252-4B28-AE65-5ECC4369F763",
+    "do_objectID": "DF476364-1D31-4018-B9AF-615712559F2E",
     "endMarkerType": 0,
     "fills": [
     ],

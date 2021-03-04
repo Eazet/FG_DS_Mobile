@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "883C8BF1-5440-4A54-86A5-9A2A4173D0D1",
+  "do_objectID": "5D957A25-BD5F-440C-933E-565A760BFED0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,28 +14,46 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 24,
-    "width": 24,
-    "x": 744,
-    "y": 5703
+    "constrainProportions": false,
+    "height": 200,
+    "width": 160,
+    "x": 288,
+    "y": 953
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "04. Data Display 数据展示/Checkbox 多选框/已选择备份 134",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "45E29361-F5A5-4AB2-9A33-657ECBC5F887"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4A82AD25-46F4-45B0-9AAF-5DB04F0D907D"
+    },
+    {
+      "class": "group",
+      "id": "CAB198DF-799C-4C43-84ED-C038C594B9B4"
+    },
+    {
+      "class": "text",
+      "id": "BD83675A-88DD-4BD5-8B3C-70896CB378F2"
+    }
   ],
+  "name": "编组 5备份 27",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 0.6,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -44,7 +62,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 6,
+      "radius": 10,
       "saturation": 1,
       "type": 0
     },
@@ -71,7 +89,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "61540B19-E252-4B28-AE65-5ECC4369F763",
+    "do_objectID": "37B9FC2C-B949-4E46-8A4F-DA6EFB891D32",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -82,7 +100,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "E93BADF4-B3D7-4B86-8007-04823BBF25A5",
-  "verticalSpacing": 0
+  }
 }

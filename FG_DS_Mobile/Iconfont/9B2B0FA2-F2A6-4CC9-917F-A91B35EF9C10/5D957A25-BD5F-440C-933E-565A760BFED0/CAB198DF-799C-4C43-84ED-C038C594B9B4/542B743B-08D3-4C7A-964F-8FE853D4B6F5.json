@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "do_objectID": "3ECFDE22-5E1B-494D-9C33-5F3E1F36CB74",
+  "do_objectID": "542B743B-08D3-4C7A-964F-8FE853D4B6F5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -18,7 +18,7 @@
         "fileFormat": "svg",
         "name": "",
         "namingScheme": 0,
-        "scale": 20,
+        "scale": 32,
         "visibleScaleType": 0
       }
     ],
@@ -30,8 +30,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 64,
-    "width": 64,
+    "height": 24,
+    "width": 24,
     "x": 0,
     "y": 0
   },
@@ -42,7 +42,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "D-039-F",
+  "name": "A-021-F",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

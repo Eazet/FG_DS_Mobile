@@ -34,12 +34,12 @@
         "location": 0
       }
     ],
-    "string": "D-040-F"
+    "string": "A-021-F"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CB1C5F39-4840-4899-8FFB-6A3491E0A2B4",
+  "do_objectID": "BD83675A-88DD-4BD5-8B3C-70896CB378F2",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -54,11 +54,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 26,
-    "width": 104,
+    "width": 98,
     "x": 31,
     "y": 150
   },
-  "glyphBounds": "{{1, 4}, {102, 19}}",
+  "glyphBounds": "{{0, 4}, {98, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "D-040-F",
+  "name": "A-021-F",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -107,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "4A600F80-6B83-4BE6-B5C3-34A49B383E1A",
+    "do_objectID": "0204A724-1E84-4F4E-8351-3546BF557179",
     "endMarkerType": 0,
     "fills": [
     ],

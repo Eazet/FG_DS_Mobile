@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "883C8BF1-5440-4A54-86A5-9A2A4173D0D1",
+  "do_objectID": "9F038CE3-C1C2-4661-84CE-4E9304F1A894",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,8 +17,8 @@
     "constrainProportions": true,
     "height": 24,
     "width": 24,
-    "x": 744,
-    "y": 5703
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,14 +28,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "04. Data Display 数据展示/Checkbox 多选框/已选择备份 134",
+  "name": "01. General 通用/Icon图标/32/001.加号",
   "nameIsFixed": false,
   "overrideValues": [
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 41,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 0.6,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -44,7 +44,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 6,
+      "radius": 10,
       "saturation": 1,
       "type": 0
     },
@@ -71,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "61540B19-E252-4B28-AE65-5ECC4369F763",
+    "do_objectID": "232393FA-7B37-4BD9-B05C-3B04A720C5DF",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -83,6 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "E93BADF4-B3D7-4B86-8007-04823BBF25A5",
+  "symbolID": "9465B84B-77E7-41C1-8F33-7494C5CF3ABC",
   "verticalSpacing": 0
 }
