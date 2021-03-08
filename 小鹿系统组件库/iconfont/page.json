@@ -2061,6 +2061,10 @@
     },
     {
       "class": "artboard",
+      "id": "9C7880EB-5398-49B9-ADFA-7FBE8A6E8181"
+    },
+    {
+      "class": "artboard",
       "id": "2A9A4177-3FCF-437A-B98B-B51AF6392E2B"
     },
     {
@@ -2849,6 +2853,10 @@
     },
     {
       "class": "symbolInstance",
+      "id": "58A78C4B-053E-4009-82F5-6D9997FF23BC"
+    },
+    {
+      "class": "symbolInstance",
       "id": "F438A6D7-59F7-4B1B-AB15-1237560E9DC9"
     },
     {
@@ -2896,12 +2904,72 @@
       "id": "A4C865E5-3C41-4840-92C6-AEB4C47F5A9E"
     },
     {
+      "class": "symbolInstance",
+      "id": "1CA2A333-E178-4961-AF62-DE69749DB77A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "173EC9D8-FA67-4EAD-8D06-D7A786943C68"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "31EAE5F0-8651-4B57-9912-BA52B3C0C700"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4491BF5B-0DB2-4DB3-9372-42995F6620DE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9DCAEFB1-B0A3-4BDF-96D6-044E0F6C5E03"
+    },
+    {
       "class": "artboard",
       "id": "79A1A2A0-A4B8-4C24-997A-7221F7E74EC8"
     },
     {
+      "class": "artboard",
+      "id": "57EDFFFC-338C-405E-BE84-53929EA2303A"
+    },
+    {
+      "class": "artboard",
+      "id": "14C38EC8-2A98-42EF-87E6-006D91FA0A3F"
+    },
+    {
+      "class": "artboard",
+      "id": "9442E359-84AB-4DE1-8B2B-91AD70223738"
+    },
+    {
+      "class": "artboard",
+      "id": "5929D97A-CC19-4283-91EA-C990B72FB40C"
+    },
+    {
+      "class": "artboard",
+      "id": "64821052-DBF4-483C-9449-5FBA8C6528A1"
+    },
+    {
       "class": "group",
       "id": "FF80571B-9084-4EB4-9F56-0F4A24EE4753"
+    },
+    {
+      "class": "group",
+      "id": "3BE67238-52CC-42D7-A6D8-18D32AE75D89"
+    },
+    {
+      "class": "group",
+      "id": "BE31705B-CB41-4534-A03E-853C22C78D41"
+    },
+    {
+      "class": "group",
+      "id": "60352B4D-2A27-4C30-BD24-8FAA6965106A"
+    },
+    {
+      "class": "group",
+      "id": "3F1D8794-E99D-46E8-B865-C2BE580507AF"
+    },
+    {
+      "class": "group",
+      "id": "738618A5-1EE7-4F86-ADCE-425256E31844"
     }
   ],
   "name": "iconfont",
