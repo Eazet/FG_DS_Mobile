@@ -1,16 +1,8 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 0,
-    "green": 0,
-    "red": 0
-  },
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3546BD9B-5DC4-4E03-9295-A2B2A3BED6E1",
+  "do_objectID": "484707AD-0417-4A0B-9BF8-996819591168",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -25,44 +17,36 @@
     "constrainProportions": false,
     "height": 48,
     "width": 48,
-    "x": 4585,
-    "y": -805
+    "x": 56,
+    "y": 56
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": false,
-  "includeBackgroundColorInInstance": false,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "5E882AA0-EB17-473D-A97F-DB1D3CA34F3A"
+    },
+    {
+      "class": "slice",
+      "id": "3D99C05A-633A-4EA6-9AA3-7046B543658F"
+    }
   ],
-  "name": "01. General 通用/Icon图标/48/067. 速度",
-  "nameIsFixed": true,
-  "overrideProperties": [
-  ],
-  "presetDictionary": {
-  },
-  "resizesContent": false,
+  "name": "编组 3",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -97,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "51BBD564-B773-459C-B934-EFF87CF135A9",
+    "do_objectID": "2531B8AF-BF07-4C13-9C63-C4CDD31973AA",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -108,12 +92,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "85795D9C-655C-498D-975D-841209C5FDC2",
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }

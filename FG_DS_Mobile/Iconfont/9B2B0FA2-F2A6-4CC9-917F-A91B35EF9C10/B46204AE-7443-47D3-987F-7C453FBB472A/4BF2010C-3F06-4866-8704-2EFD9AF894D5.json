@@ -1,16 +1,8 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 0,
-    "green": 0,
-    "red": 0
-  },
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "464F07F1-9B9D-49A8-A050-50BEEBFB10AC",
+  "do_objectID": "4BF2010C-3F06-4866-8704-2EFD9AF894D5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,52 +14,29 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 48,
-    "width": 48,
-    "x": 4517,
-    "y": -805
+    "constrainProportions": true,
+    "height": 24,
+    "width": 24,
+    "x": 124,
+    "y": 12
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasBackgroundColor": true,
-  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": false,
-  "includeBackgroundColorInInstance": false,
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "04. Data Display 数据展示/Checkbox 多选框/已选择备份 131",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "01. General 通用/Icon图标/48/066. 调转镜头",
-  "nameIsFixed": true,
-  "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "C5104E80-A258-492A-9B79-B885DEE38617_layerStyle"
-    }
-  ],
-  "presetDictionary": {
-  },
-  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "scale": 0.6,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -75,7 +44,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 6,
       "saturation": 1,
       "type": 0
     },
@@ -102,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "001C5CFB-DA12-40F1-8188-2F08293750C2",
+    "do_objectID": "5FF2AFCC-561B-4577-87D6-55E016E2AB46",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -114,11 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4576D5AC-EE7E-4427-96DB-CE3156E5E192",
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  }
+  "symbolID": "E93BADF4-B3D7-4B86-8007-04823BBF25A5",
+  "verticalSpacing": 0
 }
