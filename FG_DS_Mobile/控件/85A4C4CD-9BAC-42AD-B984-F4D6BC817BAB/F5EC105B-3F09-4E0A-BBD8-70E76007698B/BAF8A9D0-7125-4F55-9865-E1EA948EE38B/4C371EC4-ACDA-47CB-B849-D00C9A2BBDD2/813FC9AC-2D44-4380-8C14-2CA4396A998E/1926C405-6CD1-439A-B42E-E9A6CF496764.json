@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FB93B827-D63E-4CB5-BB5E-81E71AD62F9E",
+  "do_objectID": "1926C405-6CD1-439A-B42E-E9A6CF496764",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,35 +17,25 @@
     "constrainProportions": false,
     "height": 32,
     "width": 32,
-    "x": 64,
-    "y": 64
+    "x": 0,
+    "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "group",
-      "id": "45B7D858-F8B5-4030-9249-1F8B1A8009E6"
-    },
-    {
-      "class": "slice",
-      "id": "8AEB7AC5-299A-4A22-A0FB-94C40D9D3B5F"
-    }
-  ],
-  "name": "编组 3备份 12",
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "name": "01. General 通用/Icon图标/32/026.提示",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -81,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "5B3916F3-17DC-4AFD-B4F1-4E6673D40387",
+    "do_objectID": "786EFE4B-4FF6-4151-B521-0256055B3C81",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -92,5 +82,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "3477669A-7DA7-4293-8FAB-C8E3A70E675C",
+  "verticalSpacing": 0
 }

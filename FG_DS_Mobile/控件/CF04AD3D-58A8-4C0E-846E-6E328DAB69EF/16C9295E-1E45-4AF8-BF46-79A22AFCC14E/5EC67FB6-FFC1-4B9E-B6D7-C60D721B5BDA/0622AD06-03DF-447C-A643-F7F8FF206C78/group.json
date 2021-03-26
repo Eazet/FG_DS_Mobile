@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FB93B827-D63E-4CB5-BB5E-81E71AD62F9E",
+  "do_objectID": "0622AD06-03DF-447C-A643-F7F8FF206C78",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -18,7 +18,7 @@
     "height": 32,
     "width": 32,
     "x": 64,
-    "y": 64
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,20 +30,16 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
-      "id": "45B7D858-F8B5-4030-9249-1F8B1A8009E6"
-    },
-    {
-      "class": "slice",
-      "id": "8AEB7AC5-299A-4A22-A0FB-94C40D9D3B5F"
+      "id": "FDE441BB-7387-40E3-AE88-F34CF4D316CA"
     }
   ],
-  "name": "编组 3备份 12",
+  "name": "帮助图标",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -81,7 +77,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "5B3916F3-17DC-4AFD-B4F1-4E6673D40387",
+    "do_objectID": "B3721130-5471-4C2C-BCD4-A83A22189146",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -92,5 +88,41 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.bohemiancoding.sketchtool.detach": {
+      "symbolInstance": {
+        "do_objectID": "D58283E9-8D6D-4AE0-8D94-BABC6987646A",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 32,
+          "width": 32,
+          "x": 64,
+          "y": 0
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "EC979944-21B6-4A9A-8122-E182EF40DA6C",
+        "symbolID": "02169B6F-85C2-4C4B-B1AD-C0BA7A98FB48"
+      }
+    },
+    "com.sketch.detach": {
+      "symbolInstance": {
+        "do_objectID": "D58283E9-8D6D-4AE0-8D94-BABC6987646A",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 32,
+          "width": 32,
+          "x": 64,
+          "y": 0
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "EC979944-21B6-4A9A-8122-E182EF40DA6C",
+        "symbolID": "02169B6F-85C2-4C4B-B1AD-C0BA7A98FB48"
+      }
+    }
   }
 }

@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FB93B827-D63E-4CB5-BB5E-81E71AD62F9E",
+  "do_objectID": "5889C4B5-FD54-489C-AECB-0B0C5294F7B6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 32,
     "width": 32,
-    "x": 64,
-    "y": 64
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,18 +30,18 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "45B7D858-F8B5-4030-9249-1F8B1A8009E6"
+      "class": "rectangle",
+      "id": "0B6B0A0C-563D-47EE-82F9-C4424DF36D1D"
     },
     {
-      "class": "slice",
-      "id": "8AEB7AC5-299A-4A22-A0FB-94C40D9D3B5F"
+      "class": "symbolInstance",
+      "id": "34A72FB6-6EF2-4AB5-9988-9FECD3C77AA8"
     }
   ],
-  "name": "编组 3备份 12",
+  "name": "编组 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -81,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "5B3916F3-17DC-4AFD-B4F1-4E6673D40387",
+    "do_objectID": "090927FC-71BD-4A46-A7AA-F8D7E522A3C3",
     "endMarkerType": 0,
     "fills": [
     ],

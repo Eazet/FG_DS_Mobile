@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FB93B827-D63E-4CB5-BB5E-81E71AD62F9E",
+  "do_objectID": "C963EA54-F2FA-4D35-B4B0-99F9A35750CC",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
+    "height": 17,
     "width": 32,
-    "x": 64,
-    "y": 64
+    "x": 0,
+    "y": 8
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,20 +30,16 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "45B7D858-F8B5-4030-9249-1F8B1A8009E6"
-    },
-    {
-      "class": "slice",
-      "id": "8AEB7AC5-299A-4A22-A0FB-94C40D9D3B5F"
+      "class": "shapeGroup",
+      "id": "80C7B0F1-161C-4222-90AE-439BA6F0F996"
     }
   ],
-  "name": "编组 3备份 12",
+  "name": "01. General 通用/Icon图标/32/001.加号",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 41,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -81,7 +77,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "5B3916F3-17DC-4AFD-B4F1-4E6673D40387",
+    "do_objectID": "23E2A066-2C11-4471-B1B1-2B9DA358751B",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -92,5 +88,41 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.bohemiancoding.sketchtool.detach": {
+      "symbolInstance": {
+        "do_objectID": "0BB26C80-AF40-4445-87A6-582DFD349362",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 32,
+          "width": 32,
+          "x": 0,
+          "y": 0
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "5CCD2FFA-2CCB-4714-8655-572160271B52",
+        "symbolID": "0662DAA5-8BA2-4597-A654-F98C6BB744C4"
+      }
+    },
+    "com.sketch.detach": {
+      "symbolInstance": {
+        "do_objectID": "0BB26C80-AF40-4445-87A6-582DFD349362",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 32,
+          "width": 32,
+          "x": 0,
+          "y": 0
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "5CCD2FFA-2CCB-4714-8655-572160271B52",
+        "symbolID": "0662DAA5-8BA2-4597-A654-F98C6BB744C4"
+      }
+    }
   }
 }
