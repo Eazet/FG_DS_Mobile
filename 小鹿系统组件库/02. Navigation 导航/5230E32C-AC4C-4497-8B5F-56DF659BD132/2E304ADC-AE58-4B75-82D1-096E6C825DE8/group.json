@@ -49,8 +49,8 @@
       "id": "A1F5C48E-9F8D-42B7-91C1-1CF9DF784EB3"
     }
   ],
-  "name": "面包屑",
-  "nameIsFixed": false,
+  "name": "Breadcrumb 面包屑/进入编辑页",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
