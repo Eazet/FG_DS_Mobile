@@ -1925,19 +1925,7 @@
     },
     {
       "class": "symbolMaster",
-<<<<<<< Updated upstream
       "id": "E954F26D-4065-4D7A-A0AB-B0C2075BD952"
-=======
-      "id": "D12563A3-27F5-47ED-906E-59D170492296"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "E954F26D-4065-4D7A-A0AB-B0C2075BD952"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "E4A38A14-1423-41FC-8B4F-7273D48CA453"
->>>>>>> Stashed changes
     }
   ],
   "name": "控件",
