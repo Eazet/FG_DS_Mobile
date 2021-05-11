@@ -31,7 +31,6 @@
     "guides": [
     ]
   },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -1597,6 +1596,14 @@
     },
     {
       "class": "symbolMaster",
+      "id": "E7FB9730-E369-463D-9E91-A4EBB061222D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "3823C8AC-48E7-48D1-8FB7-ABCC6503D376"
+    },
+    {
+      "class": "symbolMaster",
       "id": "82FCDCF8-5BEC-46B1-A62A-DBD6D9BC9A04"
     },
     {
@@ -1918,6 +1925,22 @@
     {
       "class": "symbolMaster",
       "id": "AD34E9FC-8D92-4657-8469-A9DF4D68B448"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "0A8449D1-00F9-4EAA-829E-17807680AB03"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "1C3A0F4C-BD47-4ABB-B3E4-5E3EA1E84927"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "C311D288-425F-4A1F-8C3C-D835894E801F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "3FF56D89-57E0-431D-A0A4-3A7FC9237179"
     },
     {
       "class": "symbolMaster",

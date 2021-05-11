@@ -40,7 +40,6 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -527,6 +526,22 @@
     },
     {
       "class": "group",
+      "id": "BA95935E-1FE4-4109-896A-D1EBD24054A7"
+    },
+    {
+      "class": "group",
+      "id": "B263A208-7297-49B2-AB01-D36681BD26D1"
+    },
+    {
+      "class": "group",
+      "id": "F81D0EA1-7FDE-4637-A155-AD8FF789B144"
+    },
+    {
+      "class": "group",
+      "id": "4F35D152-9CDB-4D97-BEAB-24D9F455A507"
+    },
+    {
+      "class": "group",
       "id": "07202C28-68E7-4EBE-B142-EED043B8DF44"
     },
     {
@@ -732,6 +747,22 @@
     {
       "class": "group",
       "id": "BA06CBB1-0164-4E5E-8DE2-E435028455CE"
+    },
+    {
+      "class": "group",
+      "id": "69065F5B-C9FD-4C62-9C94-917E4CA392D1"
+    },
+    {
+      "class": "group",
+      "id": "575AD495-7F62-463F-B0BA-0A60D6695485"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "64429E64-BC06-4587-A564-8B0EECBA8C12"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "860A82A5-001B-4A7B-9431-79A663E0E7C6"
     },
     {
       "class": "symbolInstance",
@@ -1364,6 +1395,18 @@
     {
       "class": "symbolInstance",
       "id": "883C8BF1-5440-4A54-86A5-9A2A4173D0D1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5389F29B-5871-450D-A1CC-2D678BE187DC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "81FDAEF9-F35A-4514-8107-B051AE084072"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4EDB7DD2-D84D-4728-AF8F-DD2904C429C1"
     },
     {
       "class": "symbolInstance",
