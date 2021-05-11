@@ -5845,46 +5845,6 @@
       "remoteSwatchID": "32C2B2B4-D750-4D89-8C93-B8228DA32B1C",
       "sourceLibraryName": "小鹿系统组件库",
       "symbolPrivate": false
-    },
-    {
-      "_class": "MSImmutableForeignSwatch",
-      "do_objectID": "012666AA-5A86-4AC4-A454-14EEEDFF8FCD",
-      "libraryID": "A072E488-6E15-46CC-BFDF-F0AEB00D4538",
-      "localSwatch": {
-        "_class": "swatch",
-        "do_objectID": "D913BFEA-7AC7-4467-90CD-F63EFFD6310A",
-        "name": "标准彩色/蓝",
-        "value": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.9568627450980391,
-          "green": 0.4823529411764706,
-          "red": 0.1450980392156863
-        }
-      },
-      "remoteSwatchID": "C825B910-7F15-4D9D-8655-38FAD1930BC3",
-      "sourceLibraryName": "FG_DS_Mobile",
-      "symbolPrivate": false
-    },
-    {
-      "_class": "MSImmutableForeignSwatch",
-      "do_objectID": "23A1EAF6-1E9D-4578-8B82-850AA4086576",
-      "libraryID": "7D1BE774-3427-4365-B9C5-6264C8FE8506",
-      "localSwatch": {
-        "_class": "swatch",
-        "do_objectID": "781D5039-927A-44EE-97A6-46DACFC2E075",
-        "name": "6. 60",
-        "value": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.4666666666666667,
-          "green": 0.4392156862745098,
-          "red": 0.4117647058823529
-        }
-      },
-      "remoteSwatchID": "AF33A825-EFD5-4BFB-BA8D-BED6192D015D",
-      "sourceLibraryName": "小鹿系统组件库",
-      "symbolPrivate": false
     }
   ],
   "foreignSymbols": [
@@ -5892,6 +5852,7 @@
       "_class": "MSImmutableForeignSymbol",
       "do_objectID": "8CCFE584-26FE-4B70-ABB6-95C17971F908",
       "libraryID": "CD0B5436-6538-4AE3-B7FC-75D36572F2C0",
+      "missingLibraryFontAcknowledged": false,
       "originalMaster": {
         "_class": "symbolMaster",
         "allowsOverrides": true,
@@ -6513,6 +6474,7 @@
       "_class": "MSImmutableForeignSymbol",
       "do_objectID": "712E8403-2F1A-4DED-9C77-34C87D62C363",
       "libraryID": "CD0B5436-6538-4AE3-B7FC-75D36572F2C0",
+      "missingLibraryFontAcknowledged": false,
       "originalMaster": {
         "_class": "symbolMaster",
         "allowsOverrides": true,
@@ -7994,6 +7956,7 @@
       "_class": "MSImmutableForeignSymbol",
       "do_objectID": "AFDFDE87-AA0B-42E3-9E4F-F1D489FBAEDE",
       "libraryID": "A072E488-6E15-46CC-BFDF-F0AEB00D4538",
+      "missingLibraryFontAcknowledged": false,
       "originalMaster": {
         "_class": "symbolMaster",
         "allowsOverrides": true,
@@ -10583,6 +10546,7 @@
       "_class": "MSImmutableForeignSymbol",
       "do_objectID": "6AE0FED5-DE40-4DFA-883D-E9AC8E5735CA",
       "libraryID": "A072E488-6E15-46CC-BFDF-F0AEB00D4538",
+      "missingLibraryFontAcknowledged": false,
       "originalMaster": {
         "_class": "symbolMaster",
         "allowsOverrides": true,
@@ -11978,6 +11942,7 @@
       "_class": "MSImmutableForeignSymbol",
       "do_objectID": "579B0F32-8E87-4626-A077-95FD0F57BB97",
       "libraryID": "A072E488-6E15-46CC-BFDF-F0AEB00D4538",
+      "missingLibraryFontAcknowledged": false,
       "originalMaster": {
         "_class": "symbolMaster",
         "allowsOverrides": true,
@@ -14229,6 +14194,7 @@
       "_class": "MSImmutableForeignSymbol",
       "do_objectID": "F4987340-AA44-4D68-AA79-E878D8D59FE1",
       "libraryID": "A072E488-6E15-46CC-BFDF-F0AEB00D4538",
+      "missingLibraryFontAcknowledged": false,
       "originalMaster": {
         "_class": "symbolMaster",
         "allowsOverrides": true,
@@ -16658,6 +16624,7 @@
       "_class": "MSImmutableForeignSymbol",
       "do_objectID": "F1EA15D9-4949-4175-816E-FB4AFE67AA7E",
       "libraryID": "A072E488-6E15-46CC-BFDF-F0AEB00D4538",
+      "missingLibraryFontAcknowledged": false,
       "originalMaster": {
         "_class": "symbolMaster",
         "allowsOverrides": true,
@@ -23187,6 +23154,7 @@
       "_class": "MSImmutableForeignSymbol",
       "do_objectID": "0F14FC6F-F05D-467D-BD9F-A2CF256767DC",
       "libraryID": "7D1BE774-3427-4365-B9C5-6264C8FE8506",
+      "missingLibraryFontAcknowledged": false,
       "originalMaster": {
         "_class": "symbolMaster",
         "allowsOverrides": true,
@@ -24610,6 +24578,7 @@
       "_class": "MSImmutableForeignSymbol",
       "do_objectID": "C938C4C4-36BD-4C7A-B2C6-2C152919B359",
       "libraryID": "7D1BE774-3427-4365-B9C5-6264C8FE8506",
+      "missingLibraryFontAcknowledged": false,
       "originalMaster": {
         "_class": "symbolMaster",
         "allowsOverrides": true,
@@ -27125,6 +27094,7 @@
           "windingRule": 1
         }
       },
+      "missingLibraryFontAcknowledged": false,
       "remoteStyleID": "084BCF94-2170-48B2-955A-90F6537F861D[D83A5511-1D62-481B-B344-64EF65126109]",
       "sourceLibraryName": "FG_DS_Mobile",
       "symbolPrivate": true
@@ -27213,6 +27183,7 @@
           "windingRule": 1
         }
       },
+      "missingLibraryFontAcknowledged": false,
       "remoteStyleID": "084BCF94-2170-48B2-955A-90F6537F861D[91FA3A96-F550-494B-884B-D4DC95DF3AE3]",
       "sourceLibraryName": "FG_DS_Mobile",
       "symbolPrivate": true
@@ -27301,6 +27272,7 @@
           "windingRule": 1
         }
       },
+      "missingLibraryFontAcknowledged": false,
       "remoteStyleID": "084BCF94-2170-48B2-955A-90F6537F861D[9EFACA27-D6E8-47AB-AC5E-AF8C5E896EB3]",
       "sourceLibraryName": "FG_DS_Mobile",
       "symbolPrivate": true
@@ -27389,6 +27361,7 @@
           "windingRule": 1
         }
       },
+      "missingLibraryFontAcknowledged": false,
       "remoteStyleID": "8A0A0BBB-B50F-430C-B3F0-DF28A9D780BC[254F6324-2C09-4B81-BE48-15D0BBDB72B6]",
       "sourceLibraryName": "FG_DS_Mobile",
       "symbolPrivate": true
@@ -27477,6 +27450,7 @@
           "windingRule": 1
         }
       },
+      "missingLibraryFontAcknowledged": false,
       "remoteStyleID": "1A73CABA-17D6-4ECD-B3C7-1B49C9E5F317[254F6324-2C09-4B81-BE48-15D0BBDB72B6]",
       "sourceLibraryName": "FG_DS_Mobile",
       "symbolPrivate": true
@@ -27565,6 +27539,7 @@
           "windingRule": 1
         }
       },
+      "missingLibraryFontAcknowledged": false,
       "remoteStyleID": "8A0A0BBB-B50F-430C-B3F0-DF28A9D780BC[DCEB8BF0-88AE-483B-92F3-559C2711F4B9]",
       "sourceLibraryName": "FG_Mobile_Design_Guideline_0813",
       "symbolPrivate": true
@@ -27653,6 +27628,7 @@
           "windingRule": 1
         }
       },
+      "missingLibraryFontAcknowledged": false,
       "remoteStyleID": "1A73CABA-17D6-4ECD-B3C7-1B49C9E5F317[DCEB8BF0-88AE-483B-92F3-559C2711F4B9]",
       "sourceLibraryName": "FG_Mobile_Design_Guideline_0813",
       "symbolPrivate": true
@@ -27665,9 +27641,9 @@
     ]
   },
   "meta": {
-    "appVersion": "70.6",
-    "build": 109241,
-    "version": 134
+    "appVersion": "71.2",
+    "build": 115329,
+    "version": 136
   },
   "pages": [
     "COVER",
